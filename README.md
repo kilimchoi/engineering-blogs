@@ -54,6 +54,7 @@
 * Spotify-https://labs.spotify.com/
 * Square-https://corner.squareup.com/
 * Strava-http://engineering.strava.com/
+* Takipi-http://blog.takipi.com/
 * Tumblr-http://engineering.tumblr.com/
 * Twitter-https://blog.twitter.com/engineering
 * Twilio-https://www.twilio.com/engineering/
