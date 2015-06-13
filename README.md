@@ -61,6 +61,7 @@
 * Real Python-https://realpython.com/blog
 * Rdio-https://algorithms.rdio.com/
 * Rightscale-http://eng.rightscale.com/
+* RisingStack-http://blog.risingstack.com/
 * Salesforce-https://developer.salesforce.com/blogs/engineering/
 * Shopify-http://www.shopify.com/technology
 * Simple-https://www.simple.com/engineering
