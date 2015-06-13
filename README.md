@@ -1,5 +1,6 @@
 # engineering-blogs
 * Airbnb-http://nerds.airbnb.com/
+* AirPair-https://www.airpair.com/posts
 * Artsy-http://artsy.github.io/
 * Asana-https://eng.asana.com/
 * Bandcamp-http://bandcamptech.wordpress.com/
