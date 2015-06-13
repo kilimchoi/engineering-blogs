@@ -1,4 +1,4 @@
-# engineering-blogs
+# Software Engineering Blogs
 * Adzerk http://adzerk.com/tech/
 * AdRoll http://tech.adroll.com/blog/
 * Airbnb-http://nerds.airbnb.com/
@@ -10,8 +10,11 @@
 * BenefitFocus-http://engineering.benefitfocus.com/
 * Bitly-http://word.bitly.com/
 * Bittorrent-http://engineering.bittorrent.com/
+* Boxever-http://www.boxever.com/tech-blog
+* Buzzfeed-http://www.buzzfeed.com/techblog
 * Cerner-http://engineering.cerner.com/
 * Chartbeat-http://engineering.chartbeat.com/
+* Clever-http://engineering.clever.com/
 * Cloudera-http://blog.cloudera.com/blog/
 * Cloudflare-http://blog.cloudflare.com/
 * Docker-http://blog.docker.com/category/engineering/
@@ -26,6 +29,7 @@
 * Foursquare-http://engineering.foursquare.com/
 * Galois-https://galois.com/blog/
 * Github-http://githubengineering.com/
+* Gilt-http://tech.gilt.com
 * Gnip-https://engineering.gnip.com/
 * GoSquared-https://engineering.gosquared.com/
 * Grouper-http://eng.joingrouper.com/
@@ -33,6 +37,7 @@
 * Harry's-http://engineering.harrys.com/
 * Heroku-http://engineering.heroku.com/
 * Honeybadger-http://blog.honeybadger.io/
+* Hoteltonight-http://engineering.hoteltonight.com/
 * Indeed-http://engineering.indeed.com/blog/
 * Instagram-http://instagram-engineering.tumblr.com/
 * Intent-http://engineering.intenthq.com/
@@ -46,9 +51,11 @@
 * Oyster-http://tech.oyster.com/
 * Paypal-https://www.paypal-engineering.com/
 * Pinterest-http://engineering.pinterest.com/
+* Polyvore-http://engblog.polyvore.com/
 * Prezi-https://medium.com/prezi-engineering
 * Quora-http://engineering.quora.com/
 * Real Python-https://realpython.com/blog
+* Rdio-https://algorithms.rdio.com/
 * Rightscale-http://eng.rightscale.com/
 * Salesforce-https://developer.salesforce.com/blogs/engineering/
 * Shopify-http://www.shopify.com/technology
