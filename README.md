@@ -6,6 +6,7 @@
 * Artsy-http://artsy.github.io/
 * Asana-https://eng.asana.com/
 * Bandcamp-http://bandcamptech.wordpress.com/
+* Base-https://lab.getbase.com/category/engineering/
 * BenefitFocus-http://engineering.benefitfocus.com/
 * Bitly-http://word.bitly.com/
 * Bittorrent-http://engineering.bittorrent.com/
