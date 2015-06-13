@@ -68,6 +68,7 @@
 * Square-https://corner.squareup.com/
 * Strava-http://engineering.strava.com/
 * Takipi-http://blog.takipi.com/
+* Toptal-http://www.toptal.com/blog
 * Tumblr-http://engineering.tumblr.com/
 * Twitter-https://blog.twitter.com/engineering
 * Twilio-https://www.twilio.com/engineering/
