@@ -30,6 +30,7 @@
 * FastMail-http://blog.fastmail.com/
 * Flickr-http://code.flickr.net/
 * Fiftythree-http://making.fiftythree.com/
+* Finn.no-http://tech.finn.no/
 * Flipboard-http://engineering.flipboard.com/
 * Foursquare-http://engineering.foursquare.com/
 * Galois-https://galois.com/blog/
