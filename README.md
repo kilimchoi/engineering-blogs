@@ -67,7 +67,7 @@
 * Wealthfront-http://eng.wealthfront.com/
 * Webengage-http://engineering.webengage.com/
 * Yahoo-http://yahooeng.tumblr.com/
-* Yammer-http://engineeringblog.yelp.com/
+* Yammer-https://eng.yammer.com/blog/
 * Yelp-http://engineeringblog.yelp.com/
 * Zenpayroll-http://engineering.zenpayroll.com/
 * Zillow-https://engineering.zillow.com/
