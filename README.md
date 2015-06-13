@@ -53,6 +53,7 @@
 * Medallia-http://engineering.medallia.com/blog/
 * Medium-http://medium.com/medium-eng
 * Monetate-http://engineering.monetate.com/
+* Monsanto-http://engineering.monsanto.com/
 * Netflix-http://techblog.netflix.com/
 * Oyster-http://tech.oyster.com/
 * Paypal-https://www.paypal-engineering.com/
