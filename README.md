@@ -27,6 +27,7 @@
 * Etsy-https://codeascraft.com/
 * Eventbrite-https://engineering.eventbrite.com/
 * Facebook-https://code.facebook.com/posts/
+* FastMail-http://blog.fastmail.com/
 * Flickr-http://code.flickr.net/
 * Fiftythree-http://making.fiftythree.com/
 * Finn.no-http://tech.finn.no/
