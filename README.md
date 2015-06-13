@@ -49,6 +49,7 @@
 * Instagram-http://instagram-engineering.tumblr.com/
 * Intent-http://engineering.intenthq.com/
 * Jane Street-https://blogs.janestreet.com/
+* Khan Academy-http://engineering.khanacademy.org
 * Linkedin-https://engineering.linkedin.com/blog
 * Livechat-http://developers.livechatinc.com/blog/
 * Medallia-http://engineering.medallia.com/blog/
