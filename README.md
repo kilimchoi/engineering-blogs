@@ -1,4 +1,6 @@
 # engineering-blogs
+* Adzerk http://adzerk.com/tech/
+* AdRoll http://tech.adroll.com/blog/
 * Airbnb-http://nerds.airbnb.com/
 * AirPair-https://www.airpair.com/posts
 * Artsy-http://artsy.github.io/
