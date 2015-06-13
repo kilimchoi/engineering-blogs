@@ -79,6 +79,7 @@
 * Twitter-https://blog.twitter.com/engineering
 * Twilio-https://www.twilio.com/engineering/
 * Thumbtack-https://www.thumbtack.com/engineering/
+* Vimeo-http://makingvimeo.com/
 * Wayfair-http://engineering.wayfair.com/
 * Wealthfront-http://eng.wealthfront.com/
 * Webengage-http://engineering.webengage.com/
