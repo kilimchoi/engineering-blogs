@@ -14,6 +14,7 @@
 * Chartbeat-http://engineering.chartbeat.com/
 * Cloudera-http://blog.cloudera.com/blog/
 * Cloudflare-http://blog.cloudflare.com/
+* Code School-https://www.codeschool.com/blog/category/development/
 * Docker-http://blog.docker.com/category/engineering/
 * Dropbox-https://blogs.dropbox.com/tech/
 * Ebay-http://www.ebaytechblog.com/
@@ -41,7 +42,6 @@
 * Livechat-http://developers.livechatinc.com/blog/
 * Medallia-http://engineering.medallia.com/blog/
 * Monetate-http://engineering.monetate.com/
-* Monsanto-http://engineering.monsanto.com/
 * Netflix-http://techblog.netflix.com/
 * Oyster-http://tech.oyster.com/
 * Paypal-https://www.paypal-engineering.com/
