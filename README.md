@@ -58,6 +58,7 @@
 * Netflix-http://techblog.netflix.com/
 * Oyster-http://tech.oyster.com/
 * Paypal-https://www.paypal-engineering.com/
+* Periscope-https://www.periscope.io/blog/
 * Pinterest-http://engineering.pinterest.com/
 * Polyvore-http://engblog.polyvore.com/
 * Prezi-https://medium.com/prezi-engineering
