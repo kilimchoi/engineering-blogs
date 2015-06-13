@@ -11,6 +11,7 @@
 * Bitly-http://word.bitly.com/
 * Bittorrent-http://engineering.bittorrent.com/
 * Boxever-http://www.boxever.com/tech-blog
+* Brendan Gregg-http://www.brendangregg.com/blog/
 * Buzzfeed-http://www.buzzfeed.com/techblog
 * Cerner-http://engineering.cerner.com/
 * Chartbeat-http://engineering.chartbeat.com/
