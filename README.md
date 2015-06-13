@@ -13,7 +13,6 @@
 * Bittorrent-http://engineering.bittorrent.com/
 * Booking.com-http://blog.booking.com/
 * Boxever-http://www.boxever.com/tech-blog
-* Brendan Gregg-http://www.brendangregg.com/blog/
 * Buzzfeed-http://www.buzzfeed.com/techblog
 * Cerner-http://engineering.cerner.com/
 * Chartbeat-http://engineering.chartbeat.com/
@@ -61,7 +60,6 @@
 * Polyvore-http://engblog.polyvore.com/
 * Prezi-https://medium.com/prezi-engineering
 * Quora-http://engineering.quora.com/
-* Real Python-https://realpython.com/blog
 * Rdio-https://algorithms.rdio.com/
 * Rightscale-http://eng.rightscale.com/
 * RisingStack-http://blog.risingstack.com/
@@ -74,10 +72,7 @@
 * Spotify-https://labs.spotify.com/
 * Square-https://corner.squareup.com/
 * Strava-http://engineering.strava.com/
-* Swift Offical Dev Blog-https://developer.apple.com/swift/blog/
-* Swizec Teller-http://swizec.com/blog/
 * Takipi-http://blog.takipi.com/
-* Toptal-http://www.toptal.com/blog
 * Tumblr-http://engineering.tumblr.com/
 * Twitter-https://blog.twitter.com/engineering
 * Twilio-https://www.twilio.com/engineering/
@@ -93,6 +88,7 @@
 
 **Individuals/Group Contributors**
 * A List Apart-http://alistapart.com/
+* Brendan Gregg-http://www.brendangregg.com/blog/
 * Code Better-http://codebetter.com/
 * Codrops-http://tympanus.net/codrops/
 * Daily JS-http://dailyjs.com/
@@ -106,8 +102,11 @@
 * Mike Ash-https://www.mikeash.com/pyblog/
 * NSHipster-http://nshipster.com/
 * Paul Graham-http://www.paulgraham.com/articles.html
+* Real Python-https://realpython.com/blog
 * Scott Hanselman-http://www.hanselman.com/blog/
 * Steve Yegge-http://steve-yegge.blogspot.com/
+* Swift Offical Dev Blog-https://developer.apple.com/swift/blog/
+* Swizec Teller-http://swizec.com/blog/
 * Virtuous Code-http://devblog.avdi.org/
 * Yegor Bugayenko-http://www.yegor256.com/
 
