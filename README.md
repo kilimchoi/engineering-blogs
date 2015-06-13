@@ -44,6 +44,7 @@
 * Pinterest-http://engineering.pinterest.com/
 * Prezi-https://medium.com/prezi-engineering
 * Quora-http://engineering.quora.com/
+* Real Python-https://realpython.com/blog
 * Rightscale-http://eng.rightscale.com/
 * Salesforce-https://developer.salesforce.com/blogs/engineering/
 * Shopify-http://www.shopify.com/technology
