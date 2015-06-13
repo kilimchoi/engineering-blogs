@@ -1,5 +1,5 @@
 # Software Engineering Blogs
-**From companies and individuals**
+**Companies**
 * Adzerk http://adzerk.com/tech/
 * AdRoll http://tech.adroll.com/blog/
 * Airbnb-http://nerds.airbnb.com/
@@ -90,3 +90,28 @@
 * Yelp-http://engineeringblog.yelp.com/
 * Zenpayroll-http://engineering.zenpayroll.com/
 * Zillow-https://engineering.zillow.com/
+
+**Individuals/Group Contributors**
+* A List Apart-http://alistapart.com/
+* Code Better-http://codebetter.com/
+* Codrops-http://tympanus.net/codrops/
+* Daily JS-http://dailyjs.com/
+* David Walsh-http://davidwalsh.name/
+* Jeff Atwood-http://blog.codinghorror.com/
+* Joel Spolsky-http://www.joelonsoftware.com/
+* Justin Weiss-http://www.justinweiss.com/blog/
+* Marco Pivetta-http://ocramius.github.io/
+* Matt Cutts-https://www.mattcutts.com/blog/
+* Michaël Gallego-http://www.michaelgallego.fr/
+* Mike Ash-https://www.mikeash.com/pyblog/
+* NSHipster-http://nshipster.com/
+* Paul Graham-http://www.paulgraham.com/articles.html
+* Scott Hanselman-http://www.hanselman.com/blog/
+* Steve Yegge-http://steve-yegge.blogspot.com/
+* Virtuous Code-http://devblog.avdi.org/
+* Yegor Bugayenko-http://www.yegor256.com/
+
+**Aggregators**
+* Complete IT Professional-http://www.completeitprofessional.com/top-100-blogs-for-software-developers
+* NOOP.NL-http://noop.nl/2009/09/top-200-blogs-for-developers-q3-2009.html
+* Toptal-http://www.toptal.com/it/toptal-s-selection-of-top-developer-blogs
