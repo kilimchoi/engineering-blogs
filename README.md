@@ -51,6 +51,7 @@
 * Jane Street-https://blogs.janestreet.com/
 * Linkedin-https://engineering.linkedin.com/blog
 * Livechat-http://developers.livechatinc.com/blog/
+* Lostmy.name-http://making.lostmy.name/blog/
 * Medallia-http://engineering.medallia.com/blog/
 * Monetate-http://engineering.monetate.com/
 * Netflix-http://techblog.netflix.com/
