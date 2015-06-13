@@ -65,6 +65,7 @@
 * Prezi-https://medium.com/prezi-engineering
 * Quora-http://engineering.quora.com/
 * Rdio-https://algorithms.rdio.com/
+* Rent the Runway:http://dresscode.renttherunway.com
 * Rightscale-http://eng.rightscale.com/
 * RisingStack-http://blog.risingstack.com/
 * Salesforce-https://developer.salesforce.com/blogs/engineering/
