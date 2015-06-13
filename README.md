@@ -70,6 +70,7 @@
 * Square-https://corner.squareup.com/
 * Strava-http://engineering.strava.com/
 * Swift Offical Dev Blog-https://developer.apple.com/swift/blog/
+* Swizec Teller-http://swizec.com/blog/
 * Takipi-http://blog.takipi.com/
 * Toptal-http://www.toptal.com/blog
 * Tumblr-http://engineering.tumblr.com/
