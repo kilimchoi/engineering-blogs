@@ -29,6 +29,7 @@
 * Flipboard-http://engineering.flipboard.com/
 * Foursquare-http://engineering.foursquare.com/
 * Galois-https://galois.com/blog/
+* GameChanger-http://tech.gc.com/
 * Github-http://githubengineering.com/
 * Gilt-http://tech.gilt.com
 * Gnip-https://engineering.gnip.com/
