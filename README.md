@@ -72,6 +72,7 @@
 * Spotify-https://labs.spotify.com/
 * Square-https://corner.squareup.com/
 * Strava-http://engineering.strava.com/
+* Strymon-http://www.strymon.net/white-papers/
 * Swift Offical Dev Blog-https://developer.apple.com/swift/blog/
 * Swizec Teller-http://swizec.com/blog/
 * Takipi-http://blog.takipi.com/
