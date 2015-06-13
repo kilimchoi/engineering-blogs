@@ -21,6 +21,7 @@
 * Fiftythree-http://making.fiftythree.com/
 * Flipboard-http://engineering.flipboard.com/
 * Foursquare-http://engineering.foursquare.com/
+* Galois-https://galois.com/blog/
 * Github-http://githubengineering.com/
 * Gnip-https://engineering.gnip.com/
 * GoSquared-https://engineering.gosquared.com/
@@ -32,6 +33,7 @@
 * Indeed-http://engineering.indeed.com/blog/
 * Instagram-http://instagram-engineering.tumblr.com/
 * Intent-http://engineering.intenthq.com/
+* Jane Street-https://blogs.janestreet.com/
 * Linkedin-https://engineering.linkedin.com/blog
 * Livechat-http://developers.livechatinc.com/blog/
 * Medallia-http://engineering.medallia.com/blog/
