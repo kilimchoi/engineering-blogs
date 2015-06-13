@@ -33,6 +33,7 @@
 * Harry's-http://engineering.harrys.com/
 * Heroku-http://engineering.heroku.com/
 * Honeybadger-http://blog.honeybadger.io/
+* Hubspot-http://product.hubspot.com/blog
 * Indeed-http://engineering.indeed.com/blog/
 * Instagram-http://instagram-engineering.tumblr.com/
 * Intent-http://engineering.intenthq.com/
