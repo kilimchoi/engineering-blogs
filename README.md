@@ -41,6 +41,7 @@
 * Livechat-http://developers.livechatinc.com/blog/
 * Medallia-http://engineering.medallia.com/blog/
 * Monetate-http://engineering.monetate.com/
+* Monsanto-http://engineering.monsanto.com/
 * Netflix-http://techblog.netflix.com/
 * Oyster-http://tech.oyster.com/
 * Paypal-https://www.paypal-engineering.com/
