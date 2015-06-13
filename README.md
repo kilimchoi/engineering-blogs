@@ -1,8 +1,8 @@
 # engineering-blogs
 
-Airbnb-http://nerds.airbnb.com/
+*Airbnb-http://nerds.airbnb.com/
 
-Artsy-http://artsy.github.io/
+*Artsy-http://artsy.github.io/
 
 Asana-https://eng.asana.com/
 
