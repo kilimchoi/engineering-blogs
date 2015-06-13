@@ -52,6 +52,7 @@
 * Linkedin-https://engineering.linkedin.com/blog
 * Livechat-http://developers.livechatinc.com/blog/
 * Medallia-http://engineering.medallia.com/blog/
+* Medium-http://medium.com/medium-eng
 * Monetate-http://engineering.monetate.com/
 * Netflix-http://techblog.netflix.com/
 * Oyster-http://tech.oyster.com/
