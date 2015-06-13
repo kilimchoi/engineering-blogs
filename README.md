@@ -1,4 +1,5 @@
 # Software Engineering Blogs
+**From companies and individuals**
 * Adzerk http://adzerk.com/tech/
 * AdRoll http://tech.adroll.com/blog/
 * Airbnb-http://nerds.airbnb.com/
