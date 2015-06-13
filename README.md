@@ -35,6 +35,7 @@
 * Github-http://githubengineering.com/
 * Gilt-http://tech.gilt.com
 * Gnip-https://engineering.gnip.com/
+* GoCardless-https://gocardless.com/blog/tagged/engineering/
 * GoSquared-https://engineering.gosquared.com/
 * Grouper-http://eng.joingrouper.com/
 * Groupon-https://engineering.groupon.com/
