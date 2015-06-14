@@ -90,6 +90,7 @@
 * Soundcloud https://developers.soundcloud.com/blog/
 * Spotify https://labs.spotify.com/
 * Square https://corner.squareup.com/
+* Stormpath https://stormpath.com/blog
 * Strava http://engineering.strava.com/
 * Takipi http://blog.takipi.com/
 * Tumblr http://engineering.tumblr.com/
