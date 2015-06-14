@@ -12,6 +12,7 @@
 * BenefitFocus http://engineering.benefitfocus.com/
 * Bitly http://word.bitly.com/
 * Bittorrent http://engineering.bittorrent.com/
+* Blossom https://www.blossom.co/categories/engineering
 * Booking.com http://blog.booking.com/
 * Boxever http://www.boxever.com/tech-blog
 * Buzzfeed http://www.buzzfeed.com/techblog
