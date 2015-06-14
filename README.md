@@ -127,6 +127,7 @@
 * Codrops http://tympanus.net/codrops/
 * Daily JS http://dailyjs.com/
 * David Walsh http://davidwalsh.name/
+* High Scalability http://highscalability.com/blog/
 * Jeff Atwood http://blog.codinghorror.com/
 * Joel Spolsky http://www.joelonsoftware.com/
 * Jonathan DEKHTIAR http://rss.jonathandekhtiar.eu/
