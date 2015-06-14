@@ -101,6 +101,7 @@
 * Twilio https://www.twilio.com/engineering/
 * Thumbtack https://www.thumbtack.com/engineering/
 * Vimeo http://makingvimeo.com/
+* Vine http://engineering.vine.co/
 * Warby Parker http://www.theoculists.com/
 * Wattpad http://engineering.wattpad.com/
 * Wayfair http://engineering.wayfair.com/
