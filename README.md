@@ -156,6 +156,7 @@
 * Stephen Colebourne http://blog.joda.org/
 * Swift Offical Dev Blog https://developer.apple.com/swift/blog/
 * Swizec Teller http://swizec.com/blog/
+* The Daily WTF http://thedailywtf.com/
 * Vanilla Java http://vanillajava.blogspot.com/
 * Virtuous Code http://devblog.avdi.org/
 * Yegor Bugayenko http://www.yegor256.com/
