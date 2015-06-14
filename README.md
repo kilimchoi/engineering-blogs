@@ -122,6 +122,7 @@
 **Individuals/Group Contributors**
 
 * A List Apart http://alistapart.com/
+* Antirez (Redis fame) http://antirez.com/latest/0
 * Bad Concurrency http://bad-concurrency.blogspot.com/
 * Brendan Gregg http://www.brendangregg.com/blog/
 * Code Better http://codebetter.com/
