@@ -92,6 +92,7 @@
 * Yammer-https://eng.yammer.com/blog/
 * Yelp-http://engineeringblog.yelp.com/
 * Zenpayroll-http://engineering.zenpayroll.com/
+* Zesty-http://engineering.zesty.com/
 * Zillow-https://engineering.zillow.com/
 
 **Individuals/Group Contributors**
