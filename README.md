@@ -53,6 +53,7 @@
 * Grammarly http://tech.grammarly.com
 * Grouper http://eng.joingrouper.com/
 * Groupon https://engineering.groupon.com/
+* Guardian http://www.theguardian.com/info/developer-blog
 * HackerEarth http://engineering.hackerearth.com/
 * Harry's http://engineering.harrys.com/
 * Heroku http://engineering.heroku.com/
