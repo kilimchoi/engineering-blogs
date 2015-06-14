@@ -105,6 +105,7 @@
 * Yahoo http://yahooeng.tumblr.com/
 * Yammer https://eng.yammer.com/blog/
 * Yelp http://engineeringblog.yelp.com/
+* YouTube https://www.youtube.com/engblog
 * Zenpayroll http://engineering.zenpayroll.com/
 * Zesty http://engineering.zesty.com/
 * Zillow https://engineering.zillow.com/
