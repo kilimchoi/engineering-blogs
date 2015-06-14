@@ -147,6 +147,7 @@
 * Pamela Fox http://www.pamelafox.org/blogposts
 * Paul Graham http://www.paulgraham.com/articles.html
 * Peter Norvig http://norvig.com/
+* Practicing Ruby http://practicingruby.com
 * Radim Řehůřek http://radimrehurek.com/blog/
 * Real Python https://realpython.com/blog
 * Robert C. Martin http://blog.cleancoder.com/
