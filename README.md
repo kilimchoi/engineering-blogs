@@ -117,8 +117,8 @@
 * Virtuous Code-http://devblog.avdi.org/
 * Yegor Bugayenko-http://www.yegor256.com/
 
-**Engineering RSS Reading Feeds**
-*Jonathan DEKHTIAR-http://rss.jonathandekhtiar.eu/
+**RSS Reading Feeds**
+* Jonathan DEKHTIAR-http://rss.jonathandekhtiar.eu/
 
 **Aggregators**
 * Complete IT Professional-http://www.completeitprofessional.com/top-100-blogs-for-software-developers
