@@ -59,6 +59,7 @@
 * Khan Academy http://engineering.khanacademy.org
 * Kickstarter https://www.kickstarter.com/backing-and-hacking
 * Linkedin https://engineering.linkedin.com/blog
+* Liquid https://blog.onliquid.com/
 * Livechat http://developers.livechatinc.com/blog/
 * Medallia http://engineering.medallia.com/blog/
 * Medium http://medium.com/medium-eng
