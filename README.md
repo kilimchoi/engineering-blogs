@@ -94,6 +94,7 @@
 * Stormpath https://stormpath.com/blog
 * Strava http://engineering.strava.com/
 * Takipi http://blog.takipi.com/
+* Thoughtbot https://robots.thoughtbot.com/
 * Trello https://trello.engineering/
 * Tumblr http://engineering.tumblr.com/
 * Twitter https://blog.twitter.com/engineering
