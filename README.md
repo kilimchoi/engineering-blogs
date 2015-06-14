@@ -141,6 +141,7 @@
 * Virtuous Code http://devblog.avdi.org/
 * Yegor Bugayenko http://www.yegor256.com/
 * Gleb Bahmutov http://glebbahmutov.com/blog/
+* Zach Holman http://zachholman.com/
 
 **Aggregators**
 * Complete IT Professional http://www.completeitprofessional.com/top-100-blogs-for-software-developers
