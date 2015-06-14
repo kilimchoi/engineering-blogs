@@ -1,5 +1,7 @@
 # Software Engineering Blogs
+
 **Companies**
+
 * Adzerk http://adzerk.com/tech/
 * AdRoll http://tech.adroll.com/blog/
 * Airbnb http://nerds.airbnb.com/
@@ -114,6 +116,7 @@
 * Zillow https://engineering.zillow.com/
 
 **Individuals/Group Contributors**
+
 * A List Apart http://alistapart.com/
 * Brendan Gregg http://www.brendangregg.com/blog/
 * Code Better http://codebetter.com/
@@ -131,6 +134,7 @@
 * Mike Ash https://www.mikeash.com/pyblog/
 * NSHipster http://nshipster.com/
 * Paul Graham http://www.paulgraham.com/articles.html
+* Peter Norvig (Google) http://norvig.com/
 * Radim Řehůřek http://radimrehurek.com/blog/
 * Real Python https://realpython.com/blog
 * Scott Hanselman http://www.hanselman.com/blog/
