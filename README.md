@@ -76,6 +76,7 @@
 * Optimizely https://medium.com/nerds-optimizely
 * Oyster http://tech.oyster.com/
 * Paypal https://www.paypal-engineering.com/
+* Peertransfer http://engineering.peertransfer.com
 * Periscope https://www.periscope.io/blog/
 * Pinterest http://engineering.pinterest.com/
 * Polyvore http://engblog.polyvore.com/
