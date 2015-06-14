@@ -21,6 +21,7 @@
 * Cloudera http://blog.cloudera.com/blog/
 * Cloudflare http://blog.cloudflare.com/
 * Code School https://www.codeschool.com/blog/category/development/
+* CodeName One http://www.codenameone.com/blog.html
 * Codeship http://blog.codeship.com/
 * Collective Idea http://collectiveidea.com/blog/
 * DataFox http://eng.datafox.co/
@@ -118,12 +119,15 @@
 * Zillow https://engineering.zillow.com/
 
 **Individuals/Group Contributors**
+* Antirez (Redis fame) http://antirez.com/latest/0
 * A List Apart http://alistapart.com/
+* Bad Concurrency http://bad-concurrency.blogspot.com/
 * Brendan Gregg http://www.brendangregg.com/blog/
 * Code Better http://codebetter.com/
 * Codrops http://tympanus.net/codrops/
 * Daily JS http://dailyjs.com/
 * David Walsh http://davidwalsh.name/
+* High Scalability http://highscalability.com/blog/
 * Ian Miell http://zwischenzugs.wordpress.com/
 * Jeff Atwood http://blog.codinghorror.com/
 * Joel Spolsky http://www.joelonsoftware.com/
@@ -136,13 +140,16 @@
 * Mike Ash https://www.mikeash.com/pyblog/
 * NSHipster http://nshipster.com/
 * Paul Graham http://www.paulgraham.com/articles.html
+* Peter Norvig http://norvig.com/
 * Radim Řehůřek http://radimrehurek.com/blog/
 * Real Python https://realpython.com/blog
 * Redbubble http://artplustech.com/
 * Scott Hanselman http://www.hanselman.com/blog/
 * Steve Yegge http://steve-yegge.blogspot.com/
+* Stephen Colebourne http://blog.joda.org/
 * Swift Offical Dev Blog https://developer.apple.com/swift/blog/
 * Swizec Teller http://swizec.com/blog/
+* Vanilla Java http://vanillajava.blogspot.com/
 * Virtuous Code http://devblog.avdi.org/
 * Yegor Bugayenko http://www.yegor256.com/
 * Gleb Bahmutov http://glebbahmutov.com/blog/
