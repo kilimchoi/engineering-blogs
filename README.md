@@ -15,6 +15,7 @@
 * Booking.com http://blog.booking.com/
 * Boxever http://www.boxever.com/tech-blog
 * Buzzfeed http://www.buzzfeed.com/techblog
+* Canva https://engineering.canva.com
 * Cerner http://engineering.cerner.com/
 * Chartbeat http://engineering.chartbeat.com/
 * Clever http://engineering.clever.com/
