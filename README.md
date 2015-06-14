@@ -119,6 +119,7 @@
 * Brendan Gregg http://www.brendangregg.com/blog/
 * Code Better http://codebetter.com/
 * Codrops http://tympanus.net/codrops/
+* Collective Idea Blog http://collectiveidea.com/blog/
 * Daily JS http://dailyjs.com/
 * David Walsh http://davidwalsh.name/
 * Jeff Atwood http://blog.codinghorror.com/
