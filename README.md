@@ -102,6 +102,7 @@
 * Thumbtack https://www.thumbtack.com/engineering/
 * Vimeo http://makingvimeo.com/
 * Vine http://engineering.vine.co/
+* Vinted http://engineering.vinted.com/
 * Warby Parker http://www.theoculists.com/
 * Wattpad http://engineering.wattpad.com/
 * Wayfair http://engineering.wayfair.com/
