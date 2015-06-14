@@ -106,6 +106,7 @@
 * David Walsh-http://davidwalsh.name/
 * Jeff Atwood-http://blog.codinghorror.com/
 * Joel Spolsky-http://www.joelonsoftware.com/
+* Jonathan DEKHTIAR-http://rss.jonathandekhtiar.eu/
 * Justin Weiss-http://www.justinweiss.com/blog/
 * Marco Pivetta-http://ocramius.github.io/
 * Matt Cutts-https://www.mattcutts.com/blog/
@@ -120,9 +121,6 @@
 * Swizec Teller-http://swizec.com/blog/
 * Virtuous Code-http://devblog.avdi.org/
 * Yegor Bugayenko-http://www.yegor256.com/
-
-**RSS Reading Feeds**
-* Jonathan DEKHTIAR-http://rss.jonathandekhtiar.eu/
 
 **Aggregators**
 * Complete IT Professional-http://www.completeitprofessional.com/top-100-blogs-for-software-developers
