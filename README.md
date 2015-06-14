@@ -62,7 +62,7 @@
 * Instagram http://instagram-engineering.tumblr.com/
 * Intent http://engineering.intenthq.com/
 * Jane Street https://blogs.janestreet.com/
-* JUST EAT http://tech.just-eat.com/
+* Just Eat http://tech.just-eat.com/
 * Khan Academy http://engineering.khanacademy.org
 * Kickstarter https://www.kickstarter.com/backing-and-hacking
 * Linkedin https://engineering.linkedin.com/blog
