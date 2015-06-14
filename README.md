@@ -29,6 +29,7 @@
 * Facebook-https://code.facebook.com/posts/
 * Flickr-http://code.flickr.net/
 * Fiftythree-http://making.fiftythree.com/
+* Finn.no-http://tech.finn.no/
 * Flipboard-http://engineering.flipboard.com/
 * Foursquare-http://engineering.foursquare.com/
 * Galois-https://galois.com/blog/
@@ -64,6 +65,7 @@
 * Prezi-https://medium.com/prezi-engineering
 * Quora-http://engineering.quora.com/
 * Rdio-https://algorithms.rdio.com/
+* Rent the Runway:http://dresscode.renttherunway.com
 * Rightscale-http://eng.rightscale.com/
 * RisingStack-http://blog.risingstack.com/
 * Salesforce-https://developer.salesforce.com/blogs/engineering/
@@ -80,6 +82,7 @@
 * Twitter-https://blog.twitter.com/engineering
 * Twilio-https://www.twilio.com/engineering/
 * Thumbtack-https://www.thumbtack.com/engineering/
+* Vimeo-http://makingvimeo.com/
 * Wayfair-http://engineering.wayfair.com/
 * Wealthfront-http://eng.wealthfront.com/
 * Webengage-http://engineering.webengage.com/
