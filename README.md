@@ -4,7 +4,6 @@
 * AdRoll http://tech.adroll.com/blog/
 * Airbnb http://nerds.airbnb.com/
 * AirPair https://www.airpair.com/posts
-* Aphyr https://aphyr.com/
 * Artsy http://artsy.github.io/
 * Asana https://eng.asana.com/
 * Azavea http://www.azavea.com/blogs/labs/
@@ -145,6 +144,7 @@
 * Jon Skeet http://codeblog.jonskeet.uk/
 * Jonathan Dekhtiar http://rss.jonathandekhtiar.eu/
 * Justin Weiss http://www.justinweiss.com/blog/
+* Kyle Kingsbury https://aphyr.com/
 * Marco Pivetta http://ocramius.github.io/
 * Martin Fowler http://martinfowler.com/
 * Matt Cutts https://www.mattcutts.com/blog/
