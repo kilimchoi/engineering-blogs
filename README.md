@@ -94,6 +94,7 @@
 * Quora http://engineering.quora.com/
 * Raizlabs http://www.raizlabs.com/dev/
 * Rdio https://algorithms.rdio.com/
+* Red Hat https://developerblog.redhat.com
 * Rent the Runway http://dresscode.renttherunway.com/blog/
 * Rightscale http://eng.rightscale.com/
 * RisingStack http://blog.risingstack.com/
