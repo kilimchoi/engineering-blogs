@@ -60,6 +60,7 @@
 * Instagram http://instagram-engineering.tumblr.com/
 * Intent http://engineering.intenthq.com/
 * Jane Street https://blogs.janestreet.com/
+* Jimdo http://dev.jimdo.com
 * Khan Academy http://engineering.khanacademy.org
 * Kickstarter https://www.kickstarter.com/backing-and-hacking
 * Linkedin https://engineering.linkedin.com/blog
