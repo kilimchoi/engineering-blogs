@@ -159,6 +159,7 @@
 * Matt Cutts https://www.mattcutts.com/blog/
 * Michaël Gallego http://www.michaelgallego.fr/
 * Mike Ash https://www.mikeash.com/pyblog/
+* Nicolas Liochon http://blog.thislongrun.com/
 * NSHipster http://nshipster.com/
 * Pamela Fox http://www.pamelafox.org/blogposts
 * Paul Graham http://www.paulgraham.com/articles.html
