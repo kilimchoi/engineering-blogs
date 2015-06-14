@@ -107,6 +107,7 @@
 * Wayfair http://engineering.wayfair.com/
 * Wealthfront http://eng.wealthfront.com/
 * Webengage http://engineering.webengage.com/
+* Wix http://engineering.wix.com/
 * Yahoo http://yahooeng.tumblr.com/
 * Yammer https://eng.yammer.com/blog/
 * Yelp http://engineeringblog.yelp.com/
