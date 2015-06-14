@@ -29,6 +29,7 @@
 * Eventbrite-https://engineering.eventbrite.com/
 * Facebook-https://code.facebook.com/posts/
 * Facebook AI Research-https://research.facebook.com/blog/ai/
+* Faithlife https://ops.faithlife.com
 * Flickr-http://code.flickr.net/
 * Fiftythree-http://making.fiftythree.com/
 * Finn.no-http://tech.finn.no/
