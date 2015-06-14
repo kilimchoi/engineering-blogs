@@ -120,6 +120,7 @@
 * Jonathan DEKHTIAR http://rss.jonathandekhtiar.eu/
 * Justin Weiss http://www.justinweiss.com/blog/
 * Marco Pivetta http://ocramius.github.io/
+* Martin Fowler http://martinfowler.com/
 * Matt Cutts https://www.mattcutts.com/blog/
 * Michaël Gallego http://www.michaelgallego.fr/
 * Mike Ash https://www.mikeash.com/pyblog/
