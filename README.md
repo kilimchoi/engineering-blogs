@@ -74,8 +74,8 @@
 * Mixpanel http://code.mixpanel.com
 * Monetate http://engineering.monetate.com/
 * Monsanto http://engineering.monsanto.com/
-* Mozilla Release Engineering http://planet.mozilla.org/releng/
 * Mozilla Automation Team http://planet.mozilla.org/ateam/
+* Mozilla Release Engineering http://planet.mozilla.org/releng/
 * Netflix http://techblog.netflix.com/
 * New York Times http://open.blogs.nytimes.com
 * Nextdoor https://engblog.nextdoor.com/
@@ -132,8 +132,8 @@
 * Zillow https://engineering.zillow.com/
 
 **Individuals/Group Contributors**
-* Antirez (Redis fame) http://antirez.com/latest/0
 * A List Apart http://alistapart.com/
+* Antirez http://antirez.com/latest/0
 * Bad Concurrency http://bad-concurrency.blogspot.com/
 * Brendan Gregg http://www.brendangregg.com/blog/
 * Code Better http://codebetter.com/
@@ -163,9 +163,9 @@
 * Practicing Ruby http://practicingruby.com
 * Radim Řehůřek http://radimrehurek.com/blog/
 * Real Python https://realpython.com/blog
+* Redbubble http://artplustech.com/
 * Reginald Braithwaite http://raganwald.com/#essays
 * Robert C. Martin http://blog.cleancoder.com/
-* Redbubble http://artplustech.com/
 * Scott Hanselman http://www.hanselman.com/blog/
 * Stephen Colebourne http://blog.joda.org/
 * Steve Yegge http://steve-yegge.blogspot.com/
