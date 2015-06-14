@@ -122,6 +122,7 @@
 * David Walsh http://davidwalsh.name/
 * Jeff Atwood http://blog.codinghorror.com/
 * Joel Spolsky http://www.joelonsoftware.com/
+* John Resig http://ejohn.org/
 * Jonathan DEKHTIAR http://rss.jonathandekhtiar.eu/
 * Justin Weiss http://www.justinweiss.com/blog/
 * Marco Pivetta http://ocramius.github.io/
@@ -130,9 +131,11 @@
 * Michaël Gallego http://www.michaelgallego.fr/
 * Mike Ash https://www.mikeash.com/pyblog/
 * NSHipster http://nshipster.com/
+* Pamela Fox http://www.pamelafox.org/blogposts
 * Paul Graham http://www.paulgraham.com/articles.html
 * Radim Řehůřek http://radimrehurek.com/blog/
 * Real Python https://realpython.com/blog
+* Robert C. Martin http://blog.cleancoder.com/
 * Scott Hanselman http://www.hanselman.com/blog/
 * Steve Yegge http://steve-yegge.blogspot.com/
 * Swift Offical Dev Blog https://developer.apple.com/swift/blog/
