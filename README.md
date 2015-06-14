@@ -60,6 +60,7 @@
 * Indeed http://engineering.indeed.com/blog/
 * Instagram http://instagram-engineering.tumblr.com/
 * Intent http://engineering.intenthq.com/
+* Intent Media http://intentmedia.com/blog/
 * Jane Street https://blogs.janestreet.com/
 * Just Eat http://tech.just-eat.com/
 * Khan Academy http://engineering.khanacademy.org
