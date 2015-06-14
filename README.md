@@ -36,6 +36,7 @@
 * Finn.no http://tech.finn.no/
 * Flipboard http://engineering.flipboard.com/
 * Foursquare http://engineering.foursquare.com/
+* Funding Circle https://engineering.fundingcircle.com/
 * Galois https://galois.com/blog/
 * GameChanger http://tech.gc.com/
 * Github http://githubengineering.com/
