@@ -59,6 +59,7 @@
 * Livechat http://developers.livechatinc.com/blog/
 * Medallia http://engineering.medallia.com/blog/
 * Medium http://medium.com/medium-eng
+* Mixpanel http://code.mixpanel.com
 * Monetate http://engineering.monetate.com/
 * Monsanto http://engineering.monsanto.com/
 * Netflix http://techblog.netflix.com/
