@@ -135,6 +135,7 @@
 * Steve Yegge http://steve-yegge.blogspot.com/
 * Swift Offical Dev Blog https://developer.apple.com/swift/blog/
 * Swizec Teller http://swizec.com/blog/
+* Talking Code http://blog.talkingcode.com/
 * Virtuous Code http://devblog.avdi.org/
 * Yegor Bugayenko http://www.yegor256.com/
 * Gleb Bahmutov http://glebbahmutov.com/blog/
