@@ -1,9 +1,12 @@
 # Software Engineering Blogs
+
 **Companies**
+
 * Adzerk http://adzerk.com/tech/
 * AdRoll http://tech.adroll.com/blog/
 * Airbnb http://nerds.airbnb.com/
 * AirPair https://www.airpair.com/posts
+* Amazon AWS http://aws.amazon.com/blogs/aws/
 * Aphyr https://aphyr.com/
 * Artsy http://artsy.github.io/
 * Asana https://eng.asana.com/
@@ -21,6 +24,7 @@
 * Cloudera http://blog.cloudera.com/blog/
 * Cloudflare http://blog.cloudflare.com/
 * Code School https://www.codeschool.com/blog/category/development/
+* CodeName One http://www.codenameone.com/blog.html
 * Codeship http://blog.codeship.com/
 * Collective Idea http://collectiveidea.com/blog/
 * DataFox http://eng.datafox.co/
@@ -83,6 +87,7 @@
 * Rent the Runway http://dresscode.renttherunway.com/blog/?category=Java
 * Rightscale http://eng.rightscale.com/
 * RisingStack http://blog.risingstack.com/
+* RoboVM http://robovm.com/blog/
 * Salesforce https://developer.salesforce.com/blogs/engineering/
 * Sharethrough https://engineering.sharethrough.com/blog
 * Shopify http://www.shopify.com/technology
@@ -95,6 +100,7 @@
 * Stormpath https://stormpath.com/blog
 * Strava http://engineering.strava.com/
 * Takipi http://blog.takipi.com/
+* Terracotta http://blog.terracotta.org/
 * Trello https://trello.engineering/
 * Tumblr http://engineering.tumblr.com/
 * Twitter https://blog.twitter.com/engineering
@@ -118,12 +124,16 @@
 * Zillow https://engineering.zillow.com/
 
 **Individuals/Group Contributors**
+
 * A List Apart http://alistapart.com/
+* Antirez (Redis fame) http://antirez.com/latest/0
+* Bad Concurrency http://bad-concurrency.blogspot.com/
 * Brendan Gregg http://www.brendangregg.com/blog/
 * Code Better http://codebetter.com/
 * Codrops http://tympanus.net/codrops/
 * Daily JS http://dailyjs.com/
 * David Walsh http://davidwalsh.name/
+* High Scalability http://highscalability.com/blog/
 * Jeff Atwood http://blog.codinghorror.com/
 * Joel Spolsky http://www.joelonsoftware.com/
 * Jonathan DEKHTIAR http://rss.jonathandekhtiar.eu/
@@ -135,12 +145,15 @@
 * Mike Ash https://www.mikeash.com/pyblog/
 * NSHipster http://nshipster.com/
 * Paul Graham http://www.paulgraham.com/articles.html
+* Peter Norvig (Google) http://norvig.com/
 * Radim Řehůřek http://radimrehurek.com/blog/
 * Real Python https://realpython.com/blog
 * Scott Hanselman http://www.hanselman.com/blog/
 * Steve Yegge http://steve-yegge.blogspot.com/
+* Stephen Colebourne http://blog.joda.org/
 * Swift Offical Dev Blog https://developer.apple.com/swift/blog/
 * Swizec Teller http://swizec.com/blog/
+* Vanilla Java http://vanillajava.blogspot.com/
 * Virtuous Code http://devblog.avdi.org/
 * Yegor Bugayenko http://www.yegor256.com/
 * Gleb Bahmutov http://glebbahmutov.com/blog/
