@@ -12,6 +12,7 @@
 * Bigcommerce http://bigeng.io/
 * Bitly http://word.bitly.com/
 * Bittorrent http://engineering.bittorrent.com/
+* BloomReach http://engineering.bloomreach.com/
 * Booking.com http://blog.booking.com/
 * Boxever http://www.boxever.com/tech-blog
 * Buzzfeed http://www.buzzfeed.com/techblog
