@@ -1,7 +1,7 @@
 # Software Engineering Blogs
 **Companies**
-* Adzerk http://adzerk.com/tech/
 * AdRoll http://tech.adroll.com/blog/
+* Adzerk http://adzerk.com/tech/
 * Airbnb http://nerds.airbnb.com/
 * AirPair https://www.airpair.com/posts
 * Artsy http://artsy.github.io/
@@ -37,9 +37,9 @@
 * EverythingMe http://geeks.everything.me/
 * Facebook https://code.facebook.com/posts/
 * Facebook AI Research https://research.facebook.com/blog/ai/
-* Flickr http://code.flickr.net/
 * Fiftythree http://making.fiftythree.com/
 * Finn.no http://tech.finn.no/
+* Flickr http://code.flickr.net/
 * Flipboard http://engineering.flipboard.com/
 * Foursquare http://engineering.foursquare.com/
 * Funding Circle https://engineering.fundingcircle.com/
@@ -109,13 +109,13 @@
 * Strava http://engineering.strava.com/
 * Takipi http://blog.takipi.com/
 * Thoughtbot https://robots.thoughtbot.com/
+* Thumbtack https://www.thumbtack.com/engineering/
 * Tilt http://engineering.tilt.com/
 * Trello https://trello.engineering/
 * Trivago http://tech.trivago.com/
 * Tumblr http://engineering.tumblr.com/
-* Twitter https://blog.twitter.com/engineering
 * Twilio https://www.twilio.com/engineering/
-* Thumbtack https://www.thumbtack.com/engineering/
+* Twitter https://blog.twitter.com/engineering
 * Vimeo http://makingvimeo.com/
 * Vine http://engineering.vine.co/
 * Vinted http://engineering.vinted.com/
