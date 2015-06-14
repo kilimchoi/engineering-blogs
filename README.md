@@ -122,6 +122,7 @@
 * David Walsh http://davidwalsh.name/
 * Jeff Atwood http://blog.codinghorror.com/
 * Joel Spolsky http://www.joelonsoftware.com/
+* Jon Skeet http://codeblog.jonskeet.uk/
 * Jonathan DEKHTIAR http://rss.jonathandekhtiar.eu/
 * Justin Weiss http://www.justinweiss.com/blog/
 * Marco Pivetta http://ocramius.github.io/
