@@ -120,6 +120,7 @@
 * Codrops http://tympanus.net/codrops/
 * Daily JS http://dailyjs.com/
 * David Walsh http://davidwalsh.name/
+* Ian Miell http://zwischenzugs.wordpress.com/
 * Jeff Atwood http://blog.codinghorror.com/
 * Joel Spolsky http://www.joelonsoftware.com/
 * Jonathan DEKHTIAR http://rss.jonathandekhtiar.eu/
