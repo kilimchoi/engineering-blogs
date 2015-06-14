@@ -83,6 +83,7 @@
 * New York Times http://open.blogs.nytimes.com
 * Nextdoor https://engblog.nextdoor.com/
 * Okta http://developer.okta.com/blog/
+* OpenTable http://tech.opentable.com/
 * Optimizely https://medium.com/nerds-optimizely
 * Oyster http://tech.oyster.com/
 * Paypal https://www.paypal-engineering.com/
