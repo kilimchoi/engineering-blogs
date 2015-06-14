@@ -72,6 +72,8 @@
 * Mixpanel http://code.mixpanel.com
 * Monetate http://engineering.monetate.com/
 * Monsanto http://engineering.monsanto.com/
+* Mozilla Release Engineering http://planet.mozilla.org/releng/
+* Mozilla Automation Team http://planet.mozilla.org/ateam/
 * Netflix http://techblog.netflix.com/
 * New York Times http://open.blogs.nytimes.com
 * Nextdoor https://engblog.nextdoor.com/
