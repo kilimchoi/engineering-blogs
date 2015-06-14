@@ -18,6 +18,7 @@
 * Buzzfeed http://www.buzzfeed.com/techblog
 * Cerner http://engineering.cerner.com/
 * Chartbeat http://engineering.chartbeat.com/
+* CircleCI http://blog.circleci.com/
 * Clever http://engineering.clever.com/
 * Cloudera http://blog.cloudera.com/blog/
 * Cloudflare http://blog.cloudflare.com/
