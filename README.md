@@ -41,6 +41,7 @@
 * Gilt http://tech.gilt.com
 * Gnip https://engineering.gnip.com/
 * GoCardless https://gocardless.com/blog/tagged/engineering/
+* Good Eggs http://bites.goodeggs.com/
 * GoSquared https://engineering.gosquared.com/
 * Grammarly http://tech.grammarly.com
 * Grouper http://eng.joingrouper.com/
