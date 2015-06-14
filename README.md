@@ -58,6 +58,7 @@
 * Monetate-http://engineering.monetate.com/
 * Monsanto-http://engineering.monsanto.com/
 * Netflix-http://techblog.netflix.com/
+* Okta-http://developer.okta.com/blog/
 * Oyster-http://tech.oyster.com/
 * Paypal-https://www.paypal-engineering.com/
 * Periscope-https://www.periscope.io/blog/
