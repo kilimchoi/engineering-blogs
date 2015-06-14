@@ -23,6 +23,7 @@
 * Cloudera http://blog.cloudera.com/blog/
 * Cloudflare http://blog.cloudflare.com/
 * Code School https://www.codeschool.com/blog/category/development/
+* CodeName One http://www.codenameone.com/blog.html
 * Codeship http://blog.codeship.com/
 * DataFox http://eng.datafox.co/
 * DeferPanic https://deferpanic.com/blog/
