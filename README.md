@@ -59,6 +59,7 @@
 * Monetate-http://engineering.monetate.com/
 * Monsanto-http://engineering.monsanto.com/
 * Netflix-http://techblog.netflix.com/
+* New York Times-http://open.blogs.nytimes.com
 * Okta-http://developer.okta.com/blog/
 * Oyster-http://tech.oyster.com/
 * Paypal-https://www.paypal-engineering.com/
