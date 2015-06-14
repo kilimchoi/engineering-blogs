@@ -45,7 +45,7 @@
 * Galois https://galois.com/blog/
 * GameChanger http://tech.gc.com/
 * GitHub http://githubengineering.com/
-* GitHub https://github.com/blog/category/engineering
+* GitHub Old https://github.com/blog/category/engineering
 * Gilt http://tech.gilt.com
 * Gnip https://engineering.gnip.com/
 * GoCardless https://gocardless.com/blog/tagged/engineering/
