@@ -121,6 +121,7 @@
 **Individuals/Group Contributors**
 
 * A List Apart http://alistapart.com/
+* Bad Concurrency http://bad-concurrency.blogspot.com/
 * Brendan Gregg http://www.brendangregg.com/blog/
 * Code Better http://codebetter.com/
 * Codrops http://tympanus.net/codrops/
