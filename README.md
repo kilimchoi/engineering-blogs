@@ -134,6 +134,7 @@
 * Swizec Teller http://swizec.com/blog/
 * Virtuous Code http://devblog.avdi.org/
 * Yegor Bugayenko http://www.yegor256.com/
+* Gleb Bahmutov "Better world by better software" http://glebbahmutov.com/blog/
 
 **Aggregators**
 * Complete IT Professional http://www.completeitprofessional.com/top-100-blogs-for-software-developers
