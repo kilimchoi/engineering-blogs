@@ -127,6 +127,7 @@
 * Mike Ash https://www.mikeash.com/pyblog/
 * NSHipster http://nshipster.com/
 * Paul Graham http://www.paulgraham.com/articles.html
+* Radim Řehůřek http://radimrehurek.com/blog/
 * Real Python https://realpython.com/blog
 * Scott Hanselman http://www.hanselman.com/blog/
 * Steve Yegge http://steve-yegge.blogspot.com/
