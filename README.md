@@ -131,6 +131,7 @@
 * Mike Ash https://www.mikeash.com/pyblog/
 * NSHipster http://nshipster.com/
 * Paul Graham http://www.paulgraham.com/articles.html
+* Practicing Ruby http://practicingruby.com
 * Radim Řehůřek http://radimrehurek.com/blog/
 * Real Python https://realpython.com/blog
 * Scott Hanselman http://www.hanselman.com/blog/
