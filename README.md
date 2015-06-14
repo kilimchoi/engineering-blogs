@@ -22,6 +22,7 @@
 * Cloudflare http://blog.cloudflare.com/
 * Code School https://www.codeschool.com/blog/category/development/
 * Codeship http://blog.codeship.com/
+* Collective Idea http://collectiveidea.com/blog/
 * DataFox http://eng.datafox.co/
 * DeferPanic https://deferpanic.com/blog/
 * Docker http://blog.docker.com/category/engineering/
