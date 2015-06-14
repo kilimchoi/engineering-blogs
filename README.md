@@ -73,6 +73,7 @@
 * Livechat http://developers.livechatinc.com/blog/
 * Medallia http://engineering.medallia.com/blog/
 * Medium http://medium.com/medium-eng
+* MemSQL http://blog.memsql.com/content/engineering/
 * Mixpanel http://code.mixpanel.com
 * Monetate http://engineering.monetate.com/
 * Monsanto http://engineering.monsanto.com/
