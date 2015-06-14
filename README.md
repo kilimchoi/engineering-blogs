@@ -86,7 +86,7 @@
 * Quora http://engineering.quora.com/
 * Raizlabs http://www.raizlabs.com/dev/
 * Rdio https://algorithms.rdio.com/
-* Rent the Runway http://dresscode.renttherunway.com/blog/?category=Java
+* Rent the Runway http://dresscode.renttherunway.com/blog/
 * Rightscale http://eng.rightscale.com/
 * RisingStack http://blog.risingstack.com/
 * Salesforce https://developer.salesforce.com/blogs/engineering/
@@ -136,6 +136,7 @@
 * Codrops http://tympanus.net/codrops/
 * Daily JS http://dailyjs.com/
 * David Walsh http://davidwalsh.name/
+* Gleb Bahmutov http://glebbahmutov.com/blog/
 * High Scalability http://highscalability.com/blog/
 * Ian Miell http://zwischenzugs.wordpress.com/
 * Jeff Atwood http://blog.codinghorror.com/
@@ -156,20 +157,19 @@
 * Peteris Krumins http://www.catonmat.net/blog/
 * Practicing Ruby http://practicingruby.com
 * Radim Řehůřek http://radimrehurek.com/blog/
-* Reginald Braithwaite http://raganwald.com/#essays
 * Real Python https://realpython.com/blog
+* Reginald Braithwaite http://raganwald.com/#essays
 * Robert C. Martin http://blog.cleancoder.com/
 * Redbubble http://artplustech.com/
 * Scott Hanselman http://www.hanselman.com/blog/
-* Steve Yegge http://steve-yegge.blogspot.com/
 * Stephen Colebourne http://blog.joda.org/
+* Steve Yegge http://steve-yegge.blogspot.com/
 * Swift Offical Dev Blog https://developer.apple.com/swift/blog/
 * Swizec Teller http://swizec.com/blog/
 * The Daily WTF http://thedailywtf.com/
 * Vanilla Java http://vanillajava.blogspot.com/
 * Virtuous Code http://devblog.avdi.org/
 * Yegor Bugayenko http://www.yegor256.com/
-* Gleb Bahmutov http://glebbahmutov.com/blog/
 * Zach Holman http://zachholman.com/
 
 **Aggregators**
