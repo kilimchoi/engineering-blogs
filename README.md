@@ -84,6 +84,7 @@
 * Rent the Runway http://dresscode.renttherunway.com/blog/?category=Java
 * Rightscale http://eng.rightscale.com/
 * RisingStack http://blog.risingstack.com/
+* RoboVM http://robovm.com/blog/
 * Salesforce https://developer.salesforce.com/blogs/engineering/
 * Sharethrough https://engineering.sharethrough.com/blog
 * Shopify http://www.shopify.com/technology
