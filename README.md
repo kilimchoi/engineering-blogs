@@ -27,6 +27,7 @@
 * Etsy-https://codeascraft.com/
 * Eventbrite-https://engineering.eventbrite.com/
 * Facebook-https://code.facebook.com/posts/
+* Facebook AI Research-https://research.facebook.com/blog/ai/
 * Flickr-http://code.flickr.net/
 * Fiftythree-http://making.fiftythree.com/
 * Finn.no-http://tech.finn.no/
@@ -118,6 +119,9 @@
 * Swizec Teller-http://swizec.com/blog/
 * Virtuous Code-http://devblog.avdi.org/
 * Yegor Bugayenko-http://www.yegor256.com/
+
+**RSS Reading Feeds**
+* Jonathan DEKHTIAR-http://rss.jonathandekhtiar.eu/
 
 **Aggregators**
 * Complete IT Professional-http://www.completeitprofessional.com/top-100-blogs-for-software-developers
