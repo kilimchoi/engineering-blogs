@@ -86,6 +86,7 @@
 * Salesforce https://developer.salesforce.com/blogs/engineering/
 * Sharethrough https://engineering.sharethrough.com/blog
 * Shopify http://www.shopify.com/technology
+* Sift Science http://blog.siftscience.com
 * Simple https://www.simple.com/engineering
 * Slideshare http://engineering.slideshare.net/
 * Songkick http://devblog.songkick.com/
