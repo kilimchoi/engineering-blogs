@@ -144,6 +144,7 @@
 * Real Python https://realpython.com/blog
 * Scott Hanselman http://www.hanselman.com/blog/
 * Steve Yegge http://steve-yegge.blogspot.com/
+* Stephen Colebourne http://blog.joda.org/
 * Swift Offical Dev Blog https://developer.apple.com/swift/blog/
 * Swizec Teller http://swizec.com/blog/
 * Virtuous Code http://devblog.avdi.org/
