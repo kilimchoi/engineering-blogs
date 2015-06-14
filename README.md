@@ -22,6 +22,7 @@
 * Cloudera http://blog.cloudera.com/blog/
 * Cloudflare http://blog.cloudflare.com/
 * Code School https://www.codeschool.com/blog/category/development/
+* Codeship http://blog.codeship.com/
 * DeferPanic https://deferpanic.com/blog/
 * Docker http://blog.docker.com/category/engineering/
 * Dropbox https://blogs.dropbox.com/tech/
