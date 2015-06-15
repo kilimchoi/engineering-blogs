@@ -110,6 +110,7 @@
 * Slideshare http://engineering.slideshare.net/
 * Songkick http://devblog.songkick.com/
 * Soundcloud https://developers.soundcloud.com/blog/
+* Spindle Devhouse https://wearespindle.com/articles/
 * Spotify https://labs.spotify.com/
 * Square https://corner.squareup.com/
 * Stormpath https://stormpath.com/blog
