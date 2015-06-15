@@ -17,6 +17,7 @@
 * BloomReach http://engineering.bloomreach.com/
 * Booking.com http://blog.booking.com/
 * Boxever http://www.boxever.com/tech-blog
+* Brandwatch http://engineering.brandwatch.com/
 * Buzzfeed http://www.buzzfeed.com/techblog
 * Canva https://engineering.canva.com
 * Cerner http://engineering.cerner.com/
