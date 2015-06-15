@@ -101,6 +101,7 @@
 * Rightscale http://eng.rightscale.com/
 * RisingStack http://blog.risingstack.com/
 * Salesforce https://developer.salesforce.com/blogs/engineering/
+* Schibsted Tech Polska http://www.schibsted.pl/blog/
 * Shape Security http://engineering.shapesecurity.com/
 * Sharethrough https://engineering.sharethrough.com/blog
 * Shopify http://www.shopify.com/technology
