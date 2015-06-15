@@ -173,6 +173,7 @@
 * NSHipster http://nshipster.com/
 * Pamela Fox http://www.pamelafox.org/blogposts
 * Paul Graham http://www.paulgraham.com/articles.html
+* Paul Irish http://www.paulirish.com/
 * Peter Norvig http://norvig.com/
 * Peteris Krumins http://www.catonmat.net/blog/
 * Practicing Ruby http://practicingruby.com
