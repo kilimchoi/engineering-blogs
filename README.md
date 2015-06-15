@@ -180,6 +180,7 @@
 * Paul Irish http://www.paulirish.com/
 * Peter Norvig http://norvig.com/
 * Peteris Krumins http://www.catonmat.net/blog/
+* Philip Walton http://philipwalton.com/
 * Practicing Ruby http://practicingruby.com
 * Radim Řehůřek http://radimrehurek.com/blog/
 * Real Python https://realpython.com/blog
