@@ -122,6 +122,7 @@
 * Square https://corner.squareup.com/
 * Stormpath https://stormpath.com/blog
 * Strava http://engineering.strava.com/
+* Stripe https://stripe.com/blog
 * Takipi http://blog.takipi.com/
 * Thoughtbot https://robots.thoughtbot.com/
 * ThoughtWorks http://www.thoughtworks.com/insights
