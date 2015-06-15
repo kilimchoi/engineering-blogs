@@ -30,6 +30,7 @@
 * CodeName One http://www.codenameone.com/blog.html
 * Codeship http://blog.codeship.com/
 * Collective Idea http://collectiveidea.com/blog/
+* Coolblue http://devblog.coolblue.nl/
 * DataFox http://eng.datafox.co/
 * DeferPanic https://deferpanic.com/blog/
 * Docker http://blog.docker.com/category/engineering/
