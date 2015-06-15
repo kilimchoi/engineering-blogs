@@ -96,8 +96,8 @@
 * Periscope https://www.periscope.io/blog/
 * Pinterest http://engineering.pinterest.com/
 * Polyvore http://engblog.polyvore.com/
-* Prolific Interactive http://blog.prolificinteractive.com/category/development/
 * Prezi https://medium.com/prezi-engineering
+* Prolific Interactive http://blog.prolificinteractive.com/category/development/
 * Quora http://engineering.quora.com/
 * Raizlabs http://www.raizlabs.com/dev/
 * Rdio https://algorithms.rdio.com/
