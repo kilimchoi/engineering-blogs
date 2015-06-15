@@ -94,6 +94,7 @@
 * Quora http://engineering.quora.com/
 * Raizlabs http://www.raizlabs.com/dev/
 * Rdio https://algorithms.rdio.com/
+* Redbubble http://artplustech.com/
 * Red Hat https://developerblog.redhat.com
 * Rent the Runway http://dresscode.renttherunway.com/blog/
 * Rightscale http://eng.rightscale.com/
@@ -169,7 +170,6 @@
 * Practicing Ruby http://practicingruby.com
 * Radim Řehůřek http://radimrehurek.com/blog/
 * Real Python https://realpython.com/blog
-* Redbubble http://artplustech.com/
 * Reginald Braithwaite http://raganwald.com/#essays
 * Robert C. Martin http://blog.cleancoder.com/
 * Scott Hanselman http://www.hanselman.com/blog/
