@@ -178,6 +178,7 @@
 * Peteris Krumins http://www.catonmat.net/blog/
 * Practicing Ruby http://practicingruby.com
 * Radim Řehůřek http://radimrehurek.com/blog/
+* Raymond Chen http://blogs.msdn.com/b/oldnewthing/
 * Real Python https://realpython.com/blog
 * Reginald Braithwaite http://raganwald.com/#essays
 * Robert C. Martin http://blog.cleancoder.com/
