@@ -162,6 +162,7 @@
 * Carlos Becker http://carlosbecker.com
 * Code Better http://codebetter.com/
 * Codrops http://tympanus.net/codrops/
+* Dan North http://dannorth.net/blog/
 * Daily JS http://dailyjs.com/
 * Dave Beazley http://www.dabeaz.com/blog.html
 * David Walsh http://davidwalsh.name/
