@@ -146,6 +146,7 @@
 * A List Apart http://alistapart.com/
 * Antirez http://antirez.com/latest/0
 * Bad Concurrency http://bad-concurrency.blogspot.com/
+* Bill the Lizard http://www.billthelizard.com/
 * Blundell's Android Tutorials http://blog.blundell-apps.com/
 * Brendan Gregg http://www.brendangregg.com/blog/
 * Code Better http://codebetter.com/
