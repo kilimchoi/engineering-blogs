@@ -154,6 +154,7 @@
 * Codrops http://tympanus.net/codrops/
 * Daily JS http://dailyjs.com/
 * David Walsh http://davidwalsh.name/
+* Deborah Digges http://deborah-digges.github.io/
 * Gleb Bahmutov http://glebbahmutov.com/blog/
 * High Scalability http://highscalability.com/blog/
 * Holly Schinsky http://devgirl.org/
