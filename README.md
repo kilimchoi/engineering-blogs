@@ -154,6 +154,7 @@
 * Code Better http://codebetter.com/
 * Codrops http://tympanus.net/codrops/
 * Daily JS http://dailyjs.com/
+* Dave Beazley http://www.dabeaz.com/blog.html
 * David Walsh http://davidwalsh.name/
 * Deborah Digges http://deborah-digges.github.io/
 * Gleb Bahmutov http://glebbahmutov.com/blog/
