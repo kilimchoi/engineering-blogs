@@ -160,6 +160,7 @@
 * Dave Beazley http://www.dabeaz.com/blog.html
 * David Walsh http://davidwalsh.name/
 * Deborah Digges http://deborah-digges.github.io/
+* Dereuromark http://www.dereuromark.de/
 * Gleb Bahmutov http://glebbahmutov.com/blog/
 * High Scalability http://highscalability.com/blog/
 * Holly Schinsky http://devgirl.org/
