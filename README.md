@@ -156,6 +156,7 @@
 * David Walsh http://davidwalsh.name/
 * Gleb Bahmutov http://glebbahmutov.com/blog/
 * High Scalability http://highscalability.com/blog/
+* Holly Schinsky http://devgirl.org/
 * Ian Miell http://zwischenzugs.wordpress.com/
 * Jake Wharton http://jakewharton.com/blog
 * Jeff Atwood http://blog.codinghorror.com/
