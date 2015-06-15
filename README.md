@@ -153,6 +153,7 @@
 * Codrops http://tympanus.net/codrops/
 * Daily JS http://dailyjs.com/
 * David Walsh http://davidwalsh.name/
+* Dereuromark http://www.dereuromark.de/
 * Gleb Bahmutov http://glebbahmutov.com/blog/
 * High Scalability http://highscalability.com/blog/
 * Ian Miell http://zwischenzugs.wordpress.com/
