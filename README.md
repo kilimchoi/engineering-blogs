@@ -95,6 +95,7 @@
 * Quora http://engineering.quora.com/
 * Raizlabs http://www.raizlabs.com/dev/
 * Rdio https://algorithms.rdio.com/
+* Red Badger http://red-badger.com/blog/
 * Redbubble http://artplustech.com/
 * Red Hat https://developerblog.redhat.com
 * Rent the Runway http://dresscode.renttherunway.com/blog/
