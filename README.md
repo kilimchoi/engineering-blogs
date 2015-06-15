@@ -103,6 +103,7 @@
 * Shape Security http://engineering.shapesecurity.com/
 * Sharethrough https://engineering.sharethrough.com/blog
 * Shopify http://www.shopify.com/technology
+* Sift Science http://blog.siftscience.com/?category=Engineering
 * Simple https://www.simple.com/engineering
 * Slideshare http://engineering.slideshare.net/
 * Songkick http://devblog.songkick.com/
