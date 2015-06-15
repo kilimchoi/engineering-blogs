@@ -135,6 +135,7 @@
 * Yahoo http://yahooeng.tumblr.com/
 * Yammer https://eng.yammer.com/blog/
 * Yelp http://engineeringblog.yelp.com/
+* Zendesk https://developer.zendesk.com/blog
 * Zenpayroll http://engineering.zenpayroll.com/
 * Zesty http://engineering.zesty.com/
 * Zillow https://engineering.zillow.com/
