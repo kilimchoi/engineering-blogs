@@ -149,6 +149,7 @@
 * Bill the Lizard http://www.billthelizard.com/
 * Blundell's Android Tutorials http://blog.blundell-apps.com/
 * Brendan Gregg http://www.brendangregg.com/blog/
+* Carlos Becker http://carlosbecker.com
 * Code Better http://codebetter.com/
 * Codrops http://tympanus.net/codrops/
 * Daily JS http://dailyjs.com/
