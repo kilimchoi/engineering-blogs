@@ -206,6 +206,7 @@
 * The Daily WTF http://thedailywtf.com/
 * Vanilla Java http://vanillajava.blogspot.com/
 * Virtuous Code http://devblog.avdi.org/
+* Winston Chen http://www.winstonchen.co/
 * Yegor Bugayenko http://www.yegor256.com/
 * Zach Holman http://zachholman.com/
 
