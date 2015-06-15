@@ -11,6 +11,7 @@
 * Bandcamp http://bandcamptech.wordpress.com/
 * BenefitFocus http://engineering.benefitfocus.com/
 * Bigcommerce http://bigeng.io/
+* Bill the Lizard http://www.billthelizard.com/
 * Bitly http://word.bitly.com/
 * Bittorrent http://engineering.bittorrent.com/
 * BlaBlaCar http://blablatech.com/blog/
