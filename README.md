@@ -166,6 +166,7 @@
 * Daily JS http://dailyjs.com/
 * Dave Beazley http://www.dabeaz.com/blog.html
 * David Walsh http://davidwalsh.name/
+* Dan North http://dannorth.net/blog/
 * Deborah Digges http://deborah-digges.github.io/
 * Dereuromark http://www.dereuromark.de/
 * Gleb Bahmutov http://glebbahmutov.com/blog/
