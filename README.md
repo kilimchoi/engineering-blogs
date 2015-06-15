@@ -15,7 +15,6 @@
 * Bittorrent http://engineering.bittorrent.com/
 * BlaBlaCar http://blablatech.com/blog/
 * BloomReach http://engineering.bloomreach.com/
-* Blundell's Tutorials http://blog.blundell-apps.com/
 * Booking.com http://blog.booking.com/
 * Boxever http://www.boxever.com/tech-blog
 * Buzzfeed http://www.buzzfeed.com/techblog
@@ -146,6 +145,7 @@
 * A List Apart http://alistapart.com/
 * Antirez http://antirez.com/latest/0
 * Bad Concurrency http://bad-concurrency.blogspot.com/
+* Blundell's Android Tutorials http://blog.blundell-apps.com/
 * Brendan Gregg http://www.brendangregg.com/blog/
 * Code Better http://codebetter.com/
 * Codrops http://tympanus.net/codrops/
