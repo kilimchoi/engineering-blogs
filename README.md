@@ -144,6 +144,7 @@
 
 **Individuals/Group Contributors**
 * A List Apart http://alistapart.com/
+* Anders Aarvik http://aarvik.dk/
 * Antirez http://antirez.com/latest/0
 * Bad Concurrency http://bad-concurrency.blogspot.com/
 * Bill the Lizard http://www.billthelizard.com/
@@ -191,7 +192,6 @@
 * Virtuous Code http://devblog.avdi.org/
 * Yegor Bugayenko http://www.yegor256.com/
 * Zach Holman http://zachholman.com/
-* Anders Aarvik http://aarvik.dk/
 
 **Aggregators**
 * Complete IT Professional http://www.completeitprofessional.com/top-100-blogs-for-software-developers
