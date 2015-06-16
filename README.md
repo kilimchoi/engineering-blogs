@@ -226,6 +226,7 @@
 * Marco Pivetta http://ocramius.github.io/
 * Martin Fowler http://martinfowler.com/
 * Matt Cutts https://www.mattcutts.com/blog/
+* Michael Becker http://beckerfuffle.com/
 * Michaël Gallego http://www.michaelgallego.fr/
 * Mike Ash https://www.mikeash.com/pyblog/
 * Nicolas Liochon http://blog.thislongrun.com/
