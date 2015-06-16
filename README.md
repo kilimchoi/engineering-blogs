@@ -230,6 +230,7 @@
 * Peteris Krumins http://www.catonmat.net/blog/
 * Philip Walton http://philipwalton.com/
 * Practicing Ruby http://practicingruby.com
+* Radek Pazdera http://radek.io
 * Radim Řehůřek http://radimrehurek.com/blog/
 * Raymond Chen http://blogs.msdn.com/b/oldnewthing/
 * Real Python https://realpython.com/blog
