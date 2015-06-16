@@ -199,6 +199,7 @@
     <outline type="rss" text="Nicolas Liochon" title="Nicolas Liochon" xmlUrl="http://blog.thislongrun.com/feeds/posts/default" htmlUrl="http://blog.thislongrun.com/"/>
     <outline type="rss" text="NSHipster" title="NSHipster" xmlUrl="http://nshipster.com/feed.xml" htmlUrl="http://nshipster.com/"/>
     <outline type="rss" text="Ole Begemann" title="Ole Begemann" xmlUrl="http://oleb.net/blog/atom.xml" htmlUrl="http://oleb.net/blog/"/>
+    <outline type="rss" text="Oona Räisänen" title="Oona Räisänen" xmlUrl="http://www.windytan.com/feeds/posts/default" htmlUrl="http://www.windytan.com/"/>
     <outline type="rss" text="Paul Irish" title="Paul Irish" xmlUrl="http://feeds.feedburner.com/paul-irish" htmlUrl="http://www.paulirish.com/"/>
     <outline type="rss" text="Peter Norvig" title="Peter Norvig" xmlUrl="http://www.norvig.com/rss-feed.xml" htmlUrl="http://norvig.com/"/>
     <outline type="rss" text="Peter Steinberger" title="Peter Steinberger" xmlUrl="http://petersteinberger.com/atom.xml" htmlUrl="http://petersteinberger.com/"/>
@@ -222,6 +223,5 @@
     <outline type="rss" text="Zach Holman" title="Zach Holman" xmlUrl="http://zachholman.com/atom.xml" htmlUrl="http://zachholman.com/"/>
     <outline type="rss" text="Complete IT Professional" title="Complete IT Professional" xmlUrl="http://www.completeitprofessional.com/feed/" htmlUrl="http://www.completeitprofessional.com/top-100-blogs-for-software-developers"/>
     <outline type="rss" text="NOOP.NL" title="NOOP.NL" xmlUrl="http://noop.nl/feed" htmlUrl="http://noop.nl/2009/09/top-200-blogs-for-developers-q3-2009.html"/>
-    <outline type="rss" text="Toptal" title="Toptal" xmlUrl="http://www.toptal.com/blog.rss" htmlUrl="http://www.toptal.com/it/toptal-s-selection-of-top-developer-blogs"/>
   </body>
 </opml>
