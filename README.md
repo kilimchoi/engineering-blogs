@@ -4,6 +4,7 @@
 * Adzerk http://adzerk.com/tech/
 * Airbnb http://nerds.airbnb.com/
 * AirPair https://www.airpair.com/posts
+* Algolia https://blog.algolia.com/
 * Artsy http://artsy.github.io/
 * Asana https://eng.asana.com/
 * Atlassian https://developer.atlassian.com/blog/
