@@ -258,6 +258,10 @@
 * NOOP.NL http://noop.nl/2009/09/top-200-blogs-for-developers-q3-2009.html
 * Toptal http://www.toptal.com/it/toptal-s-selection-of-top-developer-blogs
 
+# RSS feeds
+
+You can find an opml file to import rss feeds here: [engineering_blogs.opml](./engineering_blogs.opml)
+
 # Contributing
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
