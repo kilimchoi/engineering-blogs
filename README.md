@@ -92,7 +92,7 @@
 * Khan Academy http://engineering.khanacademy.org
 * Kickstarter https://www.kickstarter.com/backing-and-hacking
 * LinkedIn https://engineering.linkedin.com/blog
-* linkedcare https://medium.com/the-engineering-team
+* Linkedcare https://medium.com/the-engineering-team
 * LiveChat http://developers.livechatinc.com/blog/
 * LivingSocial https://techblog.livingsocial.com/
 * Localytics http://eng.localytics.com/
