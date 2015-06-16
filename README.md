@@ -32,11 +32,13 @@
 * Codeship http://blog.codeship.com/
 * Collective Idea http://collectiveidea.com/blog/
 * Coolblue http://devblog.coolblue.nl/
+* Criteo http://engineering.criteolabs.com/
 * DataFox http://eng.datafox.co/
 * DeferPanic https://deferpanic.com/blog/
 * Docker http://blog.docker.com/category/engineering/
 * Dropbox https://blogs.dropbox.com/tech/
 * Ebay http://www.ebaytechblog.com/
+* Engine Yard https://blog.engineyard.com/
 * Etsy https://codeascraft.com/
 * Eventbrite https://engineering.eventbrite.com/
 * EverythingMe http://geeks.everything.me/
