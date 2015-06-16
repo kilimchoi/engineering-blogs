@@ -185,6 +185,7 @@
 **Individuals/Group Contributors**
 * A List Apart http://alistapart.com/
 * Adam Leventhal http://dtrace.org/blogs/ahl/
+* Alex Russell https://infrequently.org/
 * Anders Aarvik http://aarvik.dk/
 * Antirez http://antirez.com/latest/0
 * Bad Concurrency http://bad-concurrency.blogspot.com/
