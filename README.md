@@ -74,6 +74,7 @@
 * HackerEarth http://engineering.hackerearth.com/
 * Harry's http://engineering.harrys.com/
 * Heroku http://engineering.heroku.com/
+* Holiday Extras http://hungrygeek.holidayextras.co.uk/
 * Honeybadger http://blog.honeybadger.io/
 * Hootsuite http://code.hootsuite.com/
 * Hoteltonight http://engineering.hoteltonight.com/
