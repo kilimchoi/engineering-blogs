@@ -213,7 +213,7 @@
 * Jonathan Dekhtiar http://rss.jonathandekhtiar.eu/
 * Justin Weiss http://www.justinweiss.com/blog/
 * Kyle Kingsbury https://aphyr.com/
-* Leo http://leo.github.io
+* Leonard Lamprecht http://leo.github.io
 * Marco Pivetta http://ocramius.github.io/
 * Martin Fowler http://martinfowler.com/
 * Matt Cutts https://www.mattcutts.com/blog/
