@@ -186,6 +186,7 @@
 * ZenPayroll http://engineering.zenpayroll.com/
 * Zesty http://engineering.zesty.com/
 * Zillow https://engineering.zillow.com/
+* Zumba http://tech.zumba.com/
 
 **Individuals/Group Contributors**
 * A List Apart http://alistapart.com/
