@@ -15,6 +15,7 @@
 * Base Lab https://lab.getbase.com/category/engineering/
 * Bazaarvoice http://blog.developer.bazaarvoice.com/
 * BenefitFocus http://engineering.benefitfocus.com/
+* Bazaarvoice http://blog.developer.bazaarvoice.com/
 * Bigcommerce http://bigeng.io/
 * Binary Studio http://binary-studio.com/blog/
 * Bitly http://word.bitly.com/
