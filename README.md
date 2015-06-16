@@ -110,7 +110,7 @@
 * Okta http://developer.okta.com/blog/
 * OpenTable http://tech.opentable.com/
 * Optimizely https://medium.com/nerds-optimizely
-* Oursky http://code.oursky.com
+* Oursky http://code.oursky.com/
 * Oyster http://tech.oyster.com/
 * Paperless Post http://dev.paperlesspost.com/
 * Paypal https://www.paypal-engineering.com/
