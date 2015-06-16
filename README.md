@@ -146,8 +146,8 @@
 * Stormpath https://stormpath.com/blog
 * Strava http://engineering.strava.com/
 * Stripe https://stripe.com/blog
-* TaskRabbit http://tech.taskrabbit.com/
 * Takipi http://blog.takipi.com/
+* TaskRabbit http://tech.taskrabbit.com/
 * Thoughtbot https://robots.thoughtbot.com/
 * ThoughtWorks http://www.thoughtworks.com/insights
 * Thumbtack https://www.thumbtack.com/engineering/
