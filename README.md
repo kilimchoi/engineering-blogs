@@ -104,6 +104,7 @@
 * Mozilla Automation Team http://planet.mozilla.org/ateam/
 * Mozilla Release Engineering http://planet.mozilla.org/releng/
 * Moove-it http://blog.moove-it.com/
+* nerdish by nature http://nerdishbynature.com/blog/
 * Netflix http://techblog.netflix.com/
 * New York Times http://open.blogs.nytimes.com
 * Nextdoor https://engblog.nextdoor.com/
@@ -202,6 +203,7 @@
 * Dave Beazley http://www.dabeaz.com/blog.html
 * Dave Cheney http://dave.cheney.net/
 * David Walsh http://davidwalsh.name/
+* Dean Hume http://deanhume.com/
 * Deborah Digges http://deborah-digges.github.io/
 * Dereuromark http://www.dereuromark.de/
 * Evan Tahler http://blog.evantahler.com/
