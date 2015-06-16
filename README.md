@@ -178,6 +178,7 @@
 **Individuals/Group Contributors**
 * A List Apart http://alistapart.com/
 * Adam Leventhal http://dtrace.org/blogs/ahl/
+* Anders Aarvik http://aarvik.dk/
 * Antirez http://antirez.com/latest/0
 * Bad Concurrency http://bad-concurrency.blogspot.com/
 * Bill the Lizard http://www.billthelizard.com/
