@@ -158,6 +158,7 @@
 * Twilio https://www.twilio.com/engineering/
 * Twitter https://blog.twitter.com/engineering
 * Venmo http://engineering.venmo.com/
+* VersionEye http://blog.versioneye.com/
 * Viget http://viget.com/extend
 * Vimeo http://makingvimeo.com/
 * Vine http://engineering.vine.co/
