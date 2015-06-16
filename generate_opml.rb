@@ -5,6 +5,8 @@ require 'json'
 require 'net/http'
 require 'uri'
 
+# limit = 10
+
 # grab name/url pairings from README
 readme = File.open("README.md", "r")
 contents = readme.read
@@ -14,7 +16,12 @@ Struct.new("Blog", :name, :webURL, :rssURL)
 blogs = Array.new
 
 # for each blog URL, check if rss URL exists
-matches.each { |match|
+matches.each_with_index { |match, index|
+  # for testing purposes
+  # if index > 10
+  #   break
+  # end
+
   rssCheckURL = "http://ajax.googleapis.com/ajax/services/feed/lookup?v=1.0&q=#{match[1]}"
   uri = URI.parse(rssCheckURL)
   response = JSON.parse(Net::HTTP.get(uri))
@@ -44,5 +51,5 @@ xml.tag!("opml", {version: "1.0"}) do
 end
 
 output = File.new("engineering_blogs.opml", "wb")
-output.write(xml)
+output.write(xml.target!)
 output.close
