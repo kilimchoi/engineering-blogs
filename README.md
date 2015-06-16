@@ -267,7 +267,6 @@
 **Aggregators**
 * Complete IT Professional http://www.completeitprofessional.com/top-100-blogs-for-software-developers
 * NOOP.NL http://noop.nl/2009/09/top-200-blogs-for-developers-q3-2009.html
-* Toptal http://www.toptal.com/it/toptal-s-selection-of-top-developer-blogs
 
 # RSS feeds
 
