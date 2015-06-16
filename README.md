@@ -14,24 +14,28 @@
 * Bigcommerce http://bigeng.io/
 * Binary Studio http://binary-studio.com/blog/
 * Bitly http://word.bitly.com/
-* Bittorrent http://engineering.bittorrent.com/
+* BitTorrent http://engineering.bittorrent.com/
 * BlaBlaCar http://blablatech.com/blog/
 * BloomReach http://engineering.bloomreach.com/
 * Booking.com http://blog.booking.com/
+* Box https://www.box.com/blog/engineering/
 * Boxever http://www.boxever.com/tech-blog
 * Brandwatch http://engineering.brandwatch.com/
 * Buzzfeed http://www.buzzfeed.com/techblog
 * Canva https://engineering.canva.com
+* Carbon Five http://blog.carbonfive.com/
 * Cerner http://engineering.cerner.com/
 * Chartbeat http://engineering.chartbeat.com/
 * Clever http://engineering.clever.com/
 * Cloudera http://blog.cloudera.com/blog/
 * Cloudflare http://blog.cloudflare.com/
+* ClusterHQ https://clusterhq.com/blog/
 * Code School https://www.codeschool.com/blog/category/development/
 * Codementor https://www.codementor.io/tutorial
 * CodeName One http://www.codenameone.com/blog.html
 * Codeship http://blog.codeship.com/
 * Collective Idea http://collectiveidea.com/blog/
+* Confluent http://blog.confluent.io/
 * Coolblue http://devblog.coolblue.nl/
 * Criteo http://engineering.criteolabs.com/
 * DataFox http://eng.datafox.co/
@@ -42,6 +46,7 @@
 * Engine Yard https://blog.engineyard.com/
 * Etsy https://codeascraft.com/
 * Eventbrite https://engineering.eventbrite.com/
+* Evernote https://blog.evernote.com/tech/
 * EverythingMe http://geeks.everything.me/
 * Facebook https://code.facebook.com/posts/
 * Facebook AI Research https://research.facebook.com/blog/ai/
@@ -71,18 +76,20 @@
 * Honeybadger http://blog.honeybadger.io/
 * Hootsuite http://code.hootsuite.com/
 * Hoteltonight http://engineering.hoteltonight.com/
+* IMVU http://engineering.imvu.com/
 * Indeed http://engineering.indeed.com/blog/
 * Instagram http://instagram-engineering.tumblr.com/
-* Intent http://engineering.intenthq.com/
+* Intent HQ http://engineering.intenthq.com/
 * Intent Media http://intentmedia.com/blog/
 * Jane Street https://blogs.janestreet.com/
 * Just Eat http://tech.just-eat.com/
 * Khan Academy http://engineering.khanacademy.org
 * Kickstarter https://www.kickstarter.com/backing-and-hacking
-* Linkedin https://engineering.linkedin.com/blog
-* Livechat http://developers.livechatinc.com/blog/
+* LinkedIn https://engineering.linkedin.com/blog
+* LiveChat http://developers.livechatinc.com/blog/
 * LivingSocial https://techblog.livingsocial.com/
 * MailChimp http://devs.mailchimp.com/blog/
+* Mandrill http://blog.mandrill.com/
 * Medallia http://engineering.medallia.com/blog/
 * Medium http://medium.com/medium-eng
 * MemSQL http://blog.memsql.com/content/engineering/
@@ -95,15 +102,19 @@
 * Netflix http://techblog.netflix.com/
 * New York Times http://open.blogs.nytimes.com
 * Nextdoor https://engblog.nextdoor.com/
+* NPR Apps http://blog.apps.npr.org/
 * Okta http://developer.okta.com/blog/
 * OpenTable http://tech.opentable.com/
 * Optimizely https://medium.com/nerds-optimizely
 * Oyster http://tech.oyster.com/
+* Paperless Post http://dev.paperlesspost.com/
 * Paypal https://www.paypal-engineering.com/
 * Periscope https://www.periscope.io/blog/
 * Pinterest http://engineering.pinterest.com/
 * Polyvore http://engblog.polyvore.com/
+* Postmark http://blog.postmarkapp.com/
 * Prezi https://medium.com/prezi-engineering
+* Prismatic http://blog.getprismatic.com/
 * Prolific Interactive http://blog.prolificinteractive.com/category/development/
 * Quora http://engineering.quora.com/
 * Raizlabs http://www.raizlabs.com/dev/
@@ -116,16 +127,19 @@
 * Salesforce https://developer.salesforce.com/blogs/engineering/
 * Schibsted Tech Polska http://www.schibsted.pl/blog/
 * Semaphore CI Community https://semaphoreci.com/community
+* Sensible http://blog.sensible.io/
 * Shape Security http://engineering.shapesecurity.com/
 * Sharethrough https://engineering.sharethrough.com/blog
 * Shopify http://www.shopify.com/technology
 * Sift Science http://blog.siftscience.com/?category=Engineering
 * Simple https://www.simple.com/engineering
-* Slideshare http://engineering.slideshare.net/
+* SlideShare http://engineering.slideshare.net/
+* Socialcast http://blog.socialcast.com/engineering/
 * Songkick http://devblog.songkick.com/
 * Soundcloud https://developers.soundcloud.com/blog/
 * Spotify https://labs.spotify.com/
 * Square https://corner.squareup.com/
+* SRC:CLR https://blog.srcclr.com/
 * Stormpath https://stormpath.com/blog
 * Strava http://engineering.strava.com/
 * Stripe https://stripe.com/blog
@@ -139,6 +153,8 @@
 * Tumblr http://engineering.tumblr.com/
 * Twilio https://www.twilio.com/engineering/
 * Twitter https://blog.twitter.com/engineering
+* Venmo http://engineering.venmo.com/
+* Viget http://viget.com/extend
 * Vimeo http://makingvimeo.com/
 * Vine http://engineering.vine.co/
 * Vinted http://engineering.vinted.com/
@@ -146,14 +162,15 @@
 * Wattpad http://engineering.wattpad.com/
 * Wayfair http://engineering.wayfair.com/
 * Wealthfront http://eng.wealthfront.com/
-* Webengage http://engineering.webengage.com/
+* WebEngage http://engineering.webengage.com/
 * Wix http://engineering.wix.com/
 * Wonga Technology http://tech.wonga.com/
+* XING https://devblog.xing.com/
 * Yahoo http://yahooeng.tumblr.com/
 * Yammer https://eng.yammer.com/blog/
 * Yelp http://engineeringblog.yelp.com/
 * Zendesk https://developer.zendesk.com/blog
-* Zenpayroll http://engineering.zenpayroll.com/
+* ZenPayroll http://engineering.zenpayroll.com/
 * Zesty http://engineering.zesty.com/
 * Zillow https://engineering.zillow.com/
 
@@ -165,6 +182,7 @@
 * Blundell's Android Tutorials http://blog.blundell-apps.com/
 * Brendan Gregg http://www.brendangregg.com/blog/
 * Carlos Becker http://carlosbecker.com
+* Cocoa Is My Girlfriend http://www.cimgf.com/
 * Code Better http://codebetter.com/
 * Codrops http://tympanus.net/codrops/
 * Dan North http://dannorth.net/blog/
@@ -192,10 +210,12 @@
 * Mike Ash https://www.mikeash.com/pyblog/
 * Nicolas Liochon http://blog.thislongrun.com/
 * NSHipster http://nshipster.com/
+* Ole Begemann http://oleb.net/blog/
 * Pamela Fox http://www.pamelafox.org/blogposts
 * Paul Graham http://www.paulgraham.com/articles.html
 * Paul Irish http://www.paulirish.com/
 * Peter Norvig http://norvig.com/
+* Peter Steinberger http://petersteinberger.com/
 * Peteris Krumins http://www.catonmat.net/blog/
 * Philip Walton http://philipwalton.com/
 * Practicing Ruby http://practicingruby.com
