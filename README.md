@@ -203,6 +203,7 @@
 * Dave Beazley http://www.dabeaz.com/blog.html
 * Dave Cheney http://dave.cheney.net/
 * David Walsh http://davidwalsh.name/
+* Dean Hume http://deanhume.com/
 * Deborah Digges http://deborah-digges.github.io/
 * Dereuromark http://www.dereuromark.de/
 * Evan Tahler http://blog.evantahler.com/
