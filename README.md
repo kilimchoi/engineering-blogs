@@ -92,6 +92,7 @@
 * LinkedIn https://engineering.linkedin.com/blog
 * LiveChat http://developers.livechatinc.com/blog/
 * LivingSocial https://techblog.livingsocial.com/
+* Localytics http://eng.localytics.com/
 * Magnet.me https://labs.magnet.me
 * MailChimp http://devs.mailchimp.com/blog/
 * Mandrill http://blog.mandrill.com/
