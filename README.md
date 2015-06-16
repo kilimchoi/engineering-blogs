@@ -160,7 +160,6 @@
 * Thoughtbot https://robots.thoughtbot.com/
 * ThoughtWorks http://www.thoughtworks.com/insights
 * Thumbtack https://www.thumbtack.com/engineering/
-* Ticketmaster http://tech.ticketmaster.com/
 * Tilt http://engineering.tilt.com/
 * Trello https://trello.engineering/
 * Trivago http://tech.trivago.com/
