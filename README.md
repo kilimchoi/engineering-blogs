@@ -218,6 +218,7 @@
 * Dereuromark http://www.dereuromark.de/
 * Evan Tahler http://blog.evantahler.com/
 * Gleb Bahmutov http://glebbahmutov.com/blog/
+* Gonto http://gon.to/blog/
 * High Scalability http://highscalability.com/blog/
 * Ian Miell http://zwischenzugs.wordpress.com/
 * Jake Wharton http://jakewharton.com/blog
