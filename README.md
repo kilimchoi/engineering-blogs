@@ -137,6 +137,7 @@
 * RisingStack http://blog.risingstack.com/
 * Salesforce https://developer.salesforce.com/blogs/engineering/
 * Schibsted Tech Polska http://www.schibsted.pl/blog/
+* SeatGeek http://chairnerd.seatgeek.com/
 * Semaphore CI Community https://semaphoreci.com/community
 * Sensible http://blog.sensible.io/
 * Shape Security http://engineering.shapesecurity.com/
@@ -273,4 +274,3 @@ You can find an opml file to import rss feeds here: [engineering_blogs.opml](./e
 # Contributing
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
