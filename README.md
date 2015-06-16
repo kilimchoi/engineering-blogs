@@ -95,6 +95,7 @@
 * MemSQL http://blog.memsql.com/content/engineering/
 * Mixpanel http://code.mixpanel.com
 * Monetate http://engineering.monetate.com/
+* MoneyBird http://engineering.moneybird.com/
 * Monsanto http://engineering.monsanto.com/
 * Mozilla Automation Team http://planet.mozilla.org/ateam/
 * Mozilla Release Engineering http://planet.mozilla.org/releng/
