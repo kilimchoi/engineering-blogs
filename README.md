@@ -9,6 +9,7 @@
 * Artsy http://artsy.github.io/
 * Asana https://eng.asana.com/
 * Atlassian https://developer.atlassian.com/blog/
+* AWeber http://engineering.aweber.com/
 * Azavea http://www.azavea.com/blogs/labs/
 * Bandcamp http://bandcamptech.wordpress.com/
 * Base Lab https://lab.getbase.com/category/engineering/
@@ -227,6 +228,7 @@
 * Marco Pivetta http://ocramius.github.io/
 * Martin Fowler http://martinfowler.com/
 * Matt Cutts https://www.mattcutts.com/blog/
+* Michael Becker http://beckerfuffle.com/
 * Michaël Gallego http://www.michaelgallego.fr/
 * Mike Ash https://www.mikeash.com/pyblog/
 * Nicolas Liochon http://blog.thislongrun.com/
