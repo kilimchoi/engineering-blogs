@@ -146,6 +146,7 @@
 * Stormpath https://stormpath.com/blog
 * Strava http://engineering.strava.com/
 * Stripe https://stripe.com/blog
+* TaskRabbit http://tech.taskrabbit.com/
 * Takipi http://blog.takipi.com/
 * Thoughtbot https://robots.thoughtbot.com/
 * ThoughtWorks http://www.thoughtworks.com/insights
@@ -198,6 +199,7 @@
 * David Walsh http://davidwalsh.name/
 * Deborah Digges http://deborah-digges.github.io/
 * Dereuromark http://www.dereuromark.de/
+* Evan Tahler http://blog.evantahler.com/
 * Gleb Bahmutov http://glebbahmutov.com/blog/
 * High Scalability http://highscalability.com/blog/
 * Ian Miell http://zwischenzugs.wordpress.com/
