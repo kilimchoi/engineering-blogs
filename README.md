@@ -237,6 +237,7 @@
 * Nicolas Liochon http://blog.thislongrun.com/
 * NSHipster http://nshipster.com/
 * Ole Begemann http://oleb.net/blog/
+* Oona Räisänen http://www.windytan.com/
 * Pamela Fox http://www.pamelafox.org/blogposts
 * Paul Graham http://www.paulgraham.com/articles.html
 * Paul Irish http://www.paulirish.com/
