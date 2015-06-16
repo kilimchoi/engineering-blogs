@@ -170,6 +170,7 @@
 * Yahoo http://yahooeng.tumblr.com/
 * Yammer https://eng.yammer.com/blog/
 * Yelp http://engineeringblog.yelp.com/
+* Zalando https://tech.zalando.com/blog/
 * Zendesk https://developer.zendesk.com/blog
 * ZenPayroll http://engineering.zenpayroll.com/
 * Zesty http://engineering.zesty.com/
