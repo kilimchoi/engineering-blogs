@@ -81,6 +81,7 @@
 * Kickstarter https://www.kickstarter.com/backing-and-hacking
 * Linkedin https://engineering.linkedin.com/blog
 * Livechat http://developers.livechatinc.com/blog/
+* LivingSocial https://techblog.livingsocial.com/
 * MailChimp http://devs.mailchimp.com/blog/
 * Medallia http://engineering.medallia.com/blog/
 * Medium http://medium.com/medium-eng
