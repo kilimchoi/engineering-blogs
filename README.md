@@ -217,6 +217,7 @@
 * Code Better http://codebetter.com/
 * Codrops http://tympanus.net/codrops/
 * Dan North http://dannorth.net/blog/
+* Daniel Doubrovkine (dB.) http://code.dblock.org/
 * Daily JS http://dailyjs.com/
 * Dave Beazley http://www.dabeaz.com/blog.html
 * Dave Cheney http://dave.cheney.net/
@@ -283,7 +284,7 @@
 * Yegor Bugayenko http://www.yegor256.com/
 * Zach Holman http://zachholman.com/
 
-# Website 
+# Website
 You can now read the latest blog entries or just subscribe to your favorite ones at http://www.slicedham.co/
 
 # RSS feeds
