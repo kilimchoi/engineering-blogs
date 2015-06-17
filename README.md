@@ -279,6 +279,9 @@
 * Yegor Bugayenko http://www.yegor256.com/
 * Zach Holman http://zachholman.com/
 
+# Website 
+You can now read the latest blog entries or just subscribe to your favorite ones at http://www.slicedham.co/
+
 # RSS feeds
 
 You can find an opml file to import rss feeds here: [engineering_blogs.opml](./engineering_blogs.opml)
