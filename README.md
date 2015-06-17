@@ -221,6 +221,7 @@
 * Deborah Digges http://deborah-digges.github.io/
 * Dereuromark http://www.dereuromark.de/
 * Elegant Code http://elegantcode.com/
+* Eli Bendersky http://eli.thegreenplace.net/
 * Evan Tahler http://blog.evantahler.com/
 * Fatih Arslan http://arslan.io/
 * Gleb Bahmutov http://glebbahmutov.com/blog/
