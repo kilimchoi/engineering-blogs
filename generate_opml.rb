@@ -3,9 +3,11 @@
 require 'builder'
 require 'json'
 require 'net/http'
+require 'nokogiri'
 require 'uri'
 
-# limit = 10
+OUTPUT_FILENAME = "engineering_blogs.opml"
+LIMIT = 10
 
 # grab name/url pairings from README
 readme = File.open("README.md", "r")
@@ -18,20 +20,39 @@ blogs = Array.new
 # for each blog URL, check if rss URL exists
 matches.each_with_index { |match, index|
   # for testing purposes
-  # if index > 10
+  # if index > LIMIT
   #   break
   # end
 
-  rssCheckURL = "http://ajax.googleapis.com/ajax/services/feed/lookup?v=1.0&q=#{match[1]}"
-  uri = URI.parse(rssCheckURL)
-  response = JSON.parse(Net::HTTP.get(uri))
-  if response["responseData"] && response["responseData"].has_key?("url")
-    rssURL = response["responseData"]["url"]
-    blogs.push(Struct::Blog.new(match[0], match[1], rssURL))
+  name = match[0]
+  webURL = match[1]
+
+  # if rssURL already in existing opml file, use that; otherwise, do a lookup
+  if File.exist?(OUTPUT_FILENAME)
+    xml = Nokogiri::XML(File.open(OUTPUT_FILENAME))
+    existingBlog = xml.xpath("//outline[@htmlUrl='#{webURL}']").first
+    if existingBlog != nil
+      rssURL = existingBlog.attr('xmlUrl')
+      puts "#{name}: ALREADY HAVE"
+    end
+  end
+
+  if rssURL.nil?
+    puts "#{name}: GETTING"
+    rssCheckURL = "http://ajax.googleapis.com/ajax/services/feed/lookup?v=1.0&q=#{match[1]}"
+    uri = URI.parse(rssCheckURL)
+    response = JSON.parse(Net::HTTP.get(uri))
+    if response["responseData"] && response["responseData"].has_key?("url")
+      rssURL = response["responseData"]["url"]
+    end
+  end
+
+  if rssURL != nil
+    blogs.push(Struct::Blog.new(name, webURL, rssURL))
   end
 }
 
-puts blogs
+puts "DONE: #{blogs.count} written to #{OUTPUT_FILENAME}"
 
 # write opml
 xml = Builder::XmlMarkup.new( :indent => 2 )
@@ -50,6 +71,6 @@ xml.tag!("opml", {version: "1.0"}) do
   end
 end
 
-output = File.new("engineering_blogs.opml", "wb")
+output = File.new(OUTPUT_FILENAME, "wb")
 output.write(xml.target!)
 output.close
