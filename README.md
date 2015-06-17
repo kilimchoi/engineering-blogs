@@ -122,6 +122,7 @@
 * Oursky http://code.oursky.com/
 * Oyster http://tech.oyster.com/
 * Paperless Post http://dev.paperlesspost.com/
+* Parse http://blog.parse.com/
 * Paypal https://www.paypal-engineering.com/
 * Periscope https://www.periscope.io/blog/
 * Pinterest http://engineering.pinterest.com/
@@ -135,6 +136,7 @@
 * Rdio https://algorithms.rdio.com/
 * Redbubble http://artplustech.com/
 * Red Hat https://developerblog.redhat.com
+* Remind http://engineering.remind.com/
 * Rent the Runway http://dresscode.renttherunway.com/blog/
 * Rightscale http://eng.rightscale.com/
 * RisingStack http://blog.risingstack.com/
