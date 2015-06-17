@@ -57,6 +57,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Dropbox https://blogs.dropbox.com/tech/
 * Ebay http://www.ebaytechblog.com/
 * Engine Yard https://blog.engineyard.com/
+* Envato http://webuild.envato.com/
 * Etsy https://codeascraft.com/
 * Eventbrite https://engineering.eventbrite.com/
 * Evernote https://blog.evernote.com/tech/

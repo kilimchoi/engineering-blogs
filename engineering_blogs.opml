@@ -45,6 +45,7 @@
     <outline type="rss" text="Docker" title="Docker" xmlUrl="https://blog.docker.com/feed/" htmlUrl="http://blog.docker.com/category/engineering/"/>
     <outline type="rss" text="Dropbox" title="Dropbox" xmlUrl="https://blogs.dropbox.com/tech/feed/" htmlUrl="https://blogs.dropbox.com/tech/"/>
     <outline type="rss" text="Ebay" title="Ebay" xmlUrl="http://www.ebaytechblog.com/feed/" htmlUrl="http://www.ebaytechblog.com/"/>
+    <outline type="rss" text="Envato" title="Envato" xmlUrl="http://webuild.envato.com/atom.xml" htmlUrl="http://webuild.envato.com/"/>
     <outline type="rss" text="Etsy" title="Etsy" xmlUrl="https://codeascraft.com/feed/" htmlUrl="https://codeascraft.com/"/>
     <outline type="rss" text="Eventbrite" title="Eventbrite" xmlUrl="https://engineering.eventbrite.com/feed/" htmlUrl="https://engineering.eventbrite.com/"/>
     <outline type="rss" text="Facebook" title="Facebook" xmlUrl="https://code.facebook.com/posts/rss" htmlUrl="https://code.facebook.com/posts/"/>
