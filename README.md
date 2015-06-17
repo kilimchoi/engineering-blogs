@@ -196,6 +196,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Yahoo http://yahooeng.tumblr.com/
 * Yammer https://eng.yammer.com/blog/
 * Yelp http://engineeringblog.yelp.com/
+* YLD! http://blog.yld.io
 * Zalando https://tech.zalando.com/blog/
 * Zendesk https://developer.zendesk.com/blog
 * ZenPayroll http://engineering.zenpayroll.com/
