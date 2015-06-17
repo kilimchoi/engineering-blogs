@@ -222,6 +222,7 @@
 * Dereuromark http://www.dereuromark.de/
 * Elegant Code http://elegantcode.com/
 * Evan Tahler http://blog.evantahler.com/
+* Fatih Arslan http://arslan.io/
 * Gleb Bahmutov http://glebbahmutov.com/blog/
 * Gonto http://gon.to/blog/
 * High Scalability http://highscalability.com/blog/
