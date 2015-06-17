@@ -24,6 +24,7 @@ matches.each_with_index { |match, index|
 
   rssCheckURL = "http://ajax.googleapis.com/ajax/services/feed/lookup?v=1.0&q=#{match[1]}"
   uri = URI.parse(rssCheckURL)
+  STDOUT.write '.'
   response = JSON.parse(Net::HTTP.get(uri))
   if response["responseData"] && response["responseData"].has_key?("url")
     rssURL = response["responseData"]["url"]
@@ -31,7 +32,7 @@ matches.each_with_index { |match, index|
   end
 }
 
-puts blogs
+puts "done (#{blogs.count} blogs)"
 
 # write opml
 xml = Builder::XmlMarkup.new( :indent => 2 )
