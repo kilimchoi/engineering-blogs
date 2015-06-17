@@ -241,6 +241,7 @@
 * Kyle Kingsbury https://aphyr.com/
 * Lambda the Ultimate http://lambda-the-ultimate.org/
 * Leonard Lamprecht http://leo.github.io
+* Lerner Consulting Blog http://blog.lerner.co.il/
 * Marco Pivetta http://ocramius.github.io/
 * Martin Fowler http://martinfowler.com/
 * Matt Cutts https://www.mattcutts.com/blog/
