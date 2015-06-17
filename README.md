@@ -1,4 +1,9 @@
 # Software Engineering Blogs
+
+**Website**
+
+You can now read the latest blog entries or just subscribe to your favorite ones at http://www.slicedham.co/
+
 **Companies**
 * 8th Light http://blog.8thlight.com/
 * AdRoll http://tech.adroll.com/blog/
@@ -285,9 +290,6 @@
 * Winston Chen http://www.winstonchen.co/
 * Yegor Bugayenko http://www.yegor256.com/
 * Zach Holman http://zachholman.com/
-
-# Website
-You can now read the latest blog entries or just subscribe to your favorite ones at http://www.slicedham.co/
 
 # RSS feeds
 
