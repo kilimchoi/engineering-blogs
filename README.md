@@ -197,6 +197,7 @@
 **Individuals/Group Contributors**
 * A List Apart http://alistapart.com/
 * Adam Leventhal http://dtrace.org/blogs/ahl/
+* Ajaxian http://ajaxian.com/
 * Alex Russell https://infrequently.org/
 * Anders Aarvik http://aarvik.dk/
 * Antirez http://antirez.com/latest/0
