@@ -13,6 +13,7 @@
 * Auth0 https://auth0.com/blog/
 * AWeber http://engineering.aweber.com/
 * Azavea http://www.azavea.com/blogs/labs/
+* Badoo https://techblog.badoo.com/
 * Bandcamp http://bandcamptech.wordpress.com/
 * Base Lab https://lab.getbase.com/category/engineering/
 * Bazaarvoice http://blog.developer.bazaarvoice.com/
