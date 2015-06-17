@@ -214,6 +214,7 @@
 * Carlos Becker http://carlosbecker.com
 * Chris Wellons http://nullprogram.com/
 * Cocoa Is My Girlfriend http://www.cimgf.com/
+* Codehero http://codehero.co
 * Code Better http://codebetter.com/
 * Codrops http://tympanus.net/codrops/
 * Dan North http://dannorth.net/blog/
