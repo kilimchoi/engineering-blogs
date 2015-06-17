@@ -102,6 +102,7 @@
     <outline type="rss" text="Oursky" title="Oursky" xmlUrl="http://code.oursky.com/feed/" htmlUrl="http://code.oursky.com/"/>
     <outline type="rss" text="Oyster" title="Oyster" xmlUrl="http://tech.oyster.com/feed/" htmlUrl="http://tech.oyster.com/"/>
     <outline type="rss" text="Paperless Post" title="Paperless Post" xmlUrl="http://dev.paperlesspost.com/atom.xml" htmlUrl="http://dev.paperlesspost.com/"/>
+    <outline type="rss" text="Parse" title="Parse" xmlUrl="http://blog.parse.com/feed/" htmlUrl="http://blog.parse.com/"/>
     <outline type="rss" text="Paypal" title="Paypal" xmlUrl="https://www.paypal-engineering.com/feed/" htmlUrl="https://www.paypal-engineering.com/"/>
     <outline type="rss" text="Periscope" title="Periscope" xmlUrl="https://www.periscope.io/blog/atom.xml" htmlUrl="https://www.periscope.io/blog/"/>
     <outline type="rss" text="Pinterest" title="Pinterest" xmlUrl="http://engineering.pinterest.com/rss" htmlUrl="http://engineering.pinterest.com/"/>
@@ -168,6 +169,7 @@
     <outline type="rss" text="Adam Leventhal" title="Adam Leventhal" xmlUrl="http://dtrace.org/blogs/ahl/feed/" htmlUrl="http://dtrace.org/blogs/ahl/"/>
     <outline type="rss" text="Ajaxian" title="Ajaxian" xmlUrl="http://ajaxian.com/index.xml" htmlUrl="http://ajaxian.com/"/>
     <outline type="rss" text="Alex Russell" title="Alex Russell" xmlUrl="https://infrequently.org/feed/" htmlUrl="https://infrequently.org/"/>
+    <outline type="rss" text="Allison Kaptur" title="Allison Kaptur" xmlUrl="http://akaptur.com/atom.xml" htmlUrl="http://akaptur.com/"/>
     <outline type="rss" text="Anders Aarvik" title="Anders Aarvik" xmlUrl="http://aarvik.dk/rss/" htmlUrl="http://aarvik.dk/"/>
     <outline type="rss" text="Antirez" title="Antirez" xmlUrl="http://antirez.com/rss" htmlUrl="http://antirez.com/latest/0"/>
     <outline type="rss" text="Bad Concurrency" title="Bad Concurrency" xmlUrl="http://bad-concurrency.blogspot.com/feeds/posts/default" htmlUrl="http://bad-concurrency.blogspot.com/"/>
@@ -183,6 +185,7 @@
     <outline type="rss" text="Deborah Digges" title="Deborah Digges" xmlUrl="http://deborah-digges.github.io/atom.xml" htmlUrl="http://deborah-digges.github.io/"/>
     <outline type="rss" text="Dereuromark" title="Dereuromark" xmlUrl="http://www.dereuromark.de/feed/" htmlUrl="http://www.dereuromark.de/"/>
     <outline type="rss" text="Elegant Code" title="Elegant Code" xmlUrl="http://elegantcode.com/feed/" htmlUrl="http://elegantcode.com/"/>
+    <outline type="rss" text="Fatih Arslan" title="Fatih Arslan" xmlUrl="http://arslan.io/posts.atom" htmlUrl="http://arslan.io/"/>
     <outline type="rss" text="Gonto" title="Gonto" xmlUrl="http://gon.to/feed.xml" htmlUrl="http://gon.to/blog/"/>
     <outline type="rss" text="High Scalability" title="High Scalability" xmlUrl="http://feeds.feedburner.com/HighScalability" htmlUrl="http://highscalability.com/blog/"/>
     <outline type="rss" text="Ian Miell" title="Ian Miell" xmlUrl="https://zwischenzugs.wordpress.com/feed/" htmlUrl="http://zwischenzugs.wordpress.com/"/>

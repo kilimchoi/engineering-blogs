@@ -201,6 +201,7 @@
 * Adam Leventhal http://dtrace.org/blogs/ahl/
 * Ajaxian http://ajaxian.com/
 * Alex Russell https://infrequently.org/
+* Allison Kaptur http://akaptur.com/
 * Anders Aarvik http://aarvik.dk/
 * Antirez http://antirez.com/latest/0
 * Bad Concurrency http://bad-concurrency.blogspot.com/
