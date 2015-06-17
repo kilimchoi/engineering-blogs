@@ -218,6 +218,7 @@
 * Dean Hume http://deanhume.com/
 * Deborah Digges http://deborah-digges.github.io/
 * Dereuromark http://www.dereuromark.de/
+* Elegant Code http://elegantcode.com/
 * Evan Tahler http://blog.evantahler.com/
 * Gleb Bahmutov http://glebbahmutov.com/blog/
 * Gonto http://gon.to/blog/
@@ -231,6 +232,7 @@
 * Jonathan Dekhtiar http://rss.jonathandekhtiar.eu/
 * Justin Weiss http://www.justinweiss.com/blog/
 * Kyle Kingsbury https://aphyr.com/
+* Lambda the Ultimate http://lambda-the-ultimate.org/
 * Leonard Lamprecht http://leo.github.io
 * Marco Pivetta http://ocramius.github.io/
 * Martin Fowler http://martinfowler.com/
@@ -255,6 +257,7 @@
 * Raymond Chen http://blogs.msdn.com/b/oldnewthing/
 * Real Python https://realpython.com/blog
 * Reginald Braithwaite http://raganwald.com/#essays
+* Regular Geek http://regulargeek.com/
 * Robert C. Martin http://blog.cleancoder.com/
 * Scott Hanselman http://www.hanselman.com/blog/
 * Stephen Colebourne http://blog.joda.org/
@@ -267,10 +270,6 @@
 * Winston Chen http://www.winstonchen.co/
 * Yegor Bugayenko http://www.yegor256.com/
 * Zach Holman http://zachholman.com/
-
-**Aggregators**
-* Complete IT Professional http://www.completeitprofessional.com/top-100-blogs-for-software-developers
-* NOOP.NL http://noop.nl/2009/09/top-200-blogs-for-developers-q3-2009.html
 
 # RSS feeds
 

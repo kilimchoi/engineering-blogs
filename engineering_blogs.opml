@@ -11,6 +11,7 @@
     <outline type="rss" text="Artsy" title="Artsy" xmlUrl="http://artsy.github.io/atom.xml" htmlUrl="http://artsy.github.io/"/>
     <outline type="rss" text="Asana" title="Asana" xmlUrl="https://eng.asana.com/feed/" htmlUrl="https://eng.asana.com/"/>
     <outline type="rss" text="Atlassian" title="Atlassian" xmlUrl="https://developer.atlassian.com/blog/feed.xml" htmlUrl="https://developer.atlassian.com/blog/"/>
+    <outline type="rss" text="Auth0" title="Auth0" xmlUrl="http://feeds.feedburner.com/auth0" htmlUrl="https://auth0.com/blog/"/>
     <outline type="rss" text="AWeber" title="AWeber" xmlUrl="http://engineering.aweber.com/feed/" htmlUrl="http://engineering.aweber.com/"/>
     <outline type="rss" text="Azavea" title="Azavea" xmlUrl="http://www.azavea.com/blogs/labs/feed/" htmlUrl="http://www.azavea.com/blogs/labs/"/>
     <outline type="rss" text="Bandcamp" title="Bandcamp" xmlUrl="https://bandcamptech.wordpress.com/feed/" htmlUrl="http://bandcamptech.wordpress.com/"/>
@@ -77,6 +78,7 @@
     <outline type="rss" text="Just Eat" title="Just Eat" xmlUrl="http://tech.just-eat.com/feed/" htmlUrl="http://tech.just-eat.com/"/>
     <outline type="rss" text="Kickstarter" title="Kickstarter" xmlUrl="https://www.kickstarter.com/backing-and-hacking.atom" htmlUrl="https://www.kickstarter.com/backing-and-hacking"/>
     <outline type="rss" text="LinkedIn" title="LinkedIn" xmlUrl="https://engineering.linkedin.com/taxonomy/term/1/feed" htmlUrl="https://engineering.linkedin.com/blog"/>
+    <outline type="rss" text="Linkedcare" title="Linkedcare" xmlUrl="https://medium.com/feed/the-engineering-team" htmlUrl="https://medium.com/the-engineering-team"/>
     <outline type="rss" text="LiveChat" title="LiveChat" xmlUrl="http://developers.livechatinc.com/feed/rss/" htmlUrl="http://developers.livechatinc.com/blog/"/>
     <outline type="rss" text="LivingSocial" title="LivingSocial" xmlUrl="https://techblog.livingsocial.com/atom.xml" htmlUrl="https://techblog.livingsocial.com/"/>
     <outline type="rss" text="Localytics" title="Localytics" xmlUrl="http://eng.localytics.com/rss/" htmlUrl="http://eng.localytics.com/"/>
@@ -164,6 +166,7 @@
     <outline type="rss" text="Zumba" title="Zumba" xmlUrl="http://feeds.feedburner.com/zumba_engineering" htmlUrl="http://tech.zumba.com/"/>
     <outline type="rss" text="A List Apart" title="A List Apart" xmlUrl="http://alistapart.com/site/rss" htmlUrl="http://alistapart.com/"/>
     <outline type="rss" text="Adam Leventhal" title="Adam Leventhal" xmlUrl="http://dtrace.org/blogs/ahl/feed/" htmlUrl="http://dtrace.org/blogs/ahl/"/>
+    <outline type="rss" text="Ajaxian" title="Ajaxian" xmlUrl="http://ajaxian.com/index.xml" htmlUrl="http://ajaxian.com/"/>
     <outline type="rss" text="Alex Russell" title="Alex Russell" xmlUrl="https://infrequently.org/feed/" htmlUrl="https://infrequently.org/"/>
     <outline type="rss" text="Anders Aarvik" title="Anders Aarvik" xmlUrl="http://aarvik.dk/rss/" htmlUrl="http://aarvik.dk/"/>
     <outline type="rss" text="Antirez" title="Antirez" xmlUrl="http://antirez.com/rss" htmlUrl="http://antirez.com/latest/0"/>
@@ -179,6 +182,8 @@
     <outline type="rss" text="David Walsh" title="David Walsh" xmlUrl="http://davidwalsh.name/feed/atom" htmlUrl="http://davidwalsh.name/"/>
     <outline type="rss" text="Deborah Digges" title="Deborah Digges" xmlUrl="http://deborah-digges.github.io/atom.xml" htmlUrl="http://deborah-digges.github.io/"/>
     <outline type="rss" text="Dereuromark" title="Dereuromark" xmlUrl="http://www.dereuromark.de/feed/" htmlUrl="http://www.dereuromark.de/"/>
+    <outline type="rss" text="Elegant Code" title="Elegant Code" xmlUrl="http://elegantcode.com/feed/" htmlUrl="http://elegantcode.com/"/>
+    <outline type="rss" text="Gonto" title="Gonto" xmlUrl="http://gon.to/feed.xml" htmlUrl="http://gon.to/blog/"/>
     <outline type="rss" text="High Scalability" title="High Scalability" xmlUrl="http://feeds.feedburner.com/HighScalability" htmlUrl="http://highscalability.com/blog/"/>
     <outline type="rss" text="Ian Miell" title="Ian Miell" xmlUrl="https://zwischenzugs.wordpress.com/feed/" htmlUrl="http://zwischenzugs.wordpress.com/"/>
     <outline type="rss" text="Jake Wharton" title="Jake Wharton" xmlUrl="http://jakewharton.com/atom.xml" htmlUrl="http://jakewharton.com/blog"/>
@@ -189,6 +194,7 @@
     <outline type="rss" text="Jonathan Dekhtiar" title="Jonathan Dekhtiar" xmlUrl="http://rss.jonathandekhtiar.eu/rss/" htmlUrl="http://rss.jonathandekhtiar.eu/"/>
     <outline type="rss" text="Justin Weiss" title="Justin Weiss" xmlUrl="http://www.justinweiss.com/atom.xml" htmlUrl="http://www.justinweiss.com/blog/"/>
     <outline type="rss" text="Kyle Kingsbury" title="Kyle Kingsbury" xmlUrl="https://aphyr.com/posts.atom" htmlUrl="https://aphyr.com/"/>
+    <outline type="rss" text="Lambda the Ultimate" title="Lambda the Ultimate" xmlUrl="http://lambda-the-ultimate.org/rss.xml" htmlUrl="http://lambda-the-ultimate.org/"/>
     <outline type="rss" text="Leonard Lamprecht" title="Leonard Lamprecht" xmlUrl="http://leo.github.io/feed.xml" htmlUrl="http://leo.github.io"/>
     <outline type="rss" text="Marco Pivetta" title="Marco Pivetta" xmlUrl="http://ocramius.github.io/atom.xml" htmlUrl="http://ocramius.github.io/"/>
     <outline type="rss" text="Martin Fowler" title="Martin Fowler" xmlUrl="http://www.martinfowler.com/feed.atom" htmlUrl="http://martinfowler.com/"/>
@@ -210,6 +216,7 @@
     <outline type="rss" text="Raymond Chen" title="Raymond Chen" xmlUrl="http://blogs.msdn.com/rss.aspx" htmlUrl="http://blogs.msdn.com/b/oldnewthing/"/>
     <outline type="rss" text="Real Python" title="Real Python" xmlUrl="https://realpython.com/atom.xml" htmlUrl="https://realpython.com/blog"/>
     <outline type="rss" text="Reginald Braithwaite" title="Reginald Braithwaite" xmlUrl="http://raganwald.com/atom.xml" htmlUrl="http://raganwald.com/#essays"/>
+    <outline type="rss" text="Regular Geek" title="Regular Geek" xmlUrl="http://feeds.regulargeek.com/RegularGeek" htmlUrl="http://regulargeek.com/"/>
     <outline type="rss" text="Robert C. Martin" title="Robert C. Martin" xmlUrl="http://blog.cleancoder.com/atom.xml" htmlUrl="http://blog.cleancoder.com/"/>
     <outline type="rss" text="Scott Hanselman" title="Scott Hanselman" xmlUrl="http://feeds.hanselman.com/ScottHanselman" htmlUrl="http://www.hanselman.com/blog/"/>
     <outline type="rss" text="Stephen Colebourne" title="Stephen Colebourne" xmlUrl="http://blog.joda.org/feeds/posts/default" htmlUrl="http://blog.joda.org/"/>
@@ -221,7 +228,5 @@
     <outline type="rss" text="Winston Chen" title="Winston Chen" xmlUrl="http://www.winstonchen.co/feeds/posts/default" htmlUrl="http://www.winstonchen.co/"/>
     <outline type="rss" text="Yegor Bugayenko" title="Yegor Bugayenko" xmlUrl="http://www.yegor256.com/rss.xml" htmlUrl="http://www.yegor256.com/"/>
     <outline type="rss" text="Zach Holman" title="Zach Holman" xmlUrl="http://zachholman.com/atom.xml" htmlUrl="http://zachholman.com/"/>
-    <outline type="rss" text="Complete IT Professional" title="Complete IT Professional" xmlUrl="http://www.completeitprofessional.com/feed/" htmlUrl="http://www.completeitprofessional.com/top-100-blogs-for-software-developers"/>
-    <outline type="rss" text="NOOP.NL" title="NOOP.NL" xmlUrl="http://noop.nl/feed" htmlUrl="http://noop.nl/2009/09/top-200-blogs-for-developers-q3-2009.html"/>
   </body>
 </opml>
