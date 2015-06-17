@@ -259,6 +259,7 @@
 * Radim Řehůřek http://radimrehurek.com/blog/
 * Raymond Chen http://blogs.msdn.com/b/oldnewthing/
 * Real Python https://realpython.com/blog
+* Recruiterbox http://inside.recruiterbox.com
 * Reginald Braithwaite http://raganwald.com/#essays
 * Regular Geek http://regulargeek.com/
 * Robert C. Martin http://blog.cleancoder.com/
@@ -281,4 +282,3 @@ You can find an opml file to import rss feeds here: [engineering_blogs.opml](./e
 # Contributing
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
