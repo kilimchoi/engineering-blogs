@@ -250,6 +250,7 @@
 * Pamela Fox http://www.pamelafox.org/blogposts
 * Paul Graham http://www.paulgraham.com/articles.html
 * Paul Irish http://www.paulirish.com/
+* Peter Lyons http://peterlyons.com/problog
 * Peter Norvig http://norvig.com/
 * Peter Steinberger http://petersteinberger.com/
 * Peteris Krumins http://www.catonmat.net/blog/
@@ -281,4 +282,3 @@ You can find an opml file to import rss feeds here: [engineering_blogs.opml](./e
 # Contributing
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
