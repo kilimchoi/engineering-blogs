@@ -215,6 +215,7 @@
     <outline type="rss" text="Radim Řehůřek" title="Radim Řehůřek" xmlUrl="http://radimrehurek.com/feed/" htmlUrl="http://radimrehurek.com/blog/"/>
     <outline type="rss" text="Raymond Chen" title="Raymond Chen" xmlUrl="http://blogs.msdn.com/rss.aspx" htmlUrl="http://blogs.msdn.com/b/oldnewthing/"/>
     <outline type="rss" text="Real Python" title="Real Python" xmlUrl="https://realpython.com/atom.xml" htmlUrl="https://realpython.com/blog"/>
+    <outline type="rss" text="Recruiterbox" title="Recruiterbox" xmlUrl="http://inside.recruiterbox.com/rss" htmlUrl="http://inside.recruiterbox.com/"/>
     <outline type="rss" text="Reginald Braithwaite" title="Reginald Braithwaite" xmlUrl="http://raganwald.com/atom.xml" htmlUrl="http://raganwald.com/#essays"/>
     <outline type="rss" text="Regular Geek" title="Regular Geek" xmlUrl="http://feeds.regulargeek.com/RegularGeek" htmlUrl="http://regulargeek.com/"/>
     <outline type="rss" text="Robert C. Martin" title="Robert C. Martin" xmlUrl="http://blog.cleancoder.com/atom.xml" htmlUrl="http://blog.cleancoder.com/"/>
