@@ -196,6 +196,7 @@
 * Zesty http://engineering.zesty.com/
 * Zillow https://engineering.zillow.com/
 * Zumba http://tech.zumba.com/
+* Zynga https://zynga.com/blogs/engineering/
 
 **Individuals/Group Contributors**
 * A List Apart http://alistapart.com/
