@@ -227,6 +227,7 @@
 * Gonto http://gon.to/blog/
 * High Scalability http://highscalability.com/blog/
 * Ian Miell http://zwischenzugs.wordpress.com/
+* Ilya Grigorik https://www.igvita.com/
 * Jake Wharton http://jakewharton.com/blog
 * Jeff Atwood http://blog.codinghorror.com/
 * Joel Spolsky http://www.joelonsoftware.com/
