@@ -298,6 +298,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * The Daily WTF http://thedailywtf.com/
 * Vanilla Java http://vanillajava.blogspot.com/
 * Virtuous Code http://devblog.avdi.org/
+* William Kennedy http://www.goinggo.net/
 * Winston Chen http://www.winstonchen.co/
 * Yegor Bugayenko http://www.yegor256.com/
 * Zach Holman http://zachholman.com/
