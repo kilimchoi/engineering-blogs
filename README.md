@@ -122,6 +122,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Mozilla Release Engineering http://planet.mozilla.org/releng/
 * Moove-it http://blog.moove-it.com/
 * Myntra http://myntra.github.io/
+* Myntra Data Science http://sartorialscience.myntrablogs.com/
 * nerdish by nature http://nerdishbynature.com/blog/
 * Netflix http://techblog.netflix.com/
 * New York Times http://open.blogs.nytimes.com
