@@ -241,6 +241,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Evan Tahler http://blog.evantahler.com/
 * Fatih Arslan http://arslan.io/
 * Gleb Bahmutov http://glebbahmutov.com/blog/
+* Guido van Rossum http://neopythonic.blogspot.com/
 * Gonto http://gon.to/blog/
 * High Scalability http://highscalability.com/blog/
 * Ian Miell http://zwischenzugs.wordpress.com/
