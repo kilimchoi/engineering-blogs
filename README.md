@@ -272,6 +272,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Michael Becker http://beckerfuffle.com/
 * Michaël Gallego http://www.michaelgallego.fr/
 * Mike Ash https://www.mikeash.com/pyblog/
+* Nick Desaulniers https://nickdesaulniers.github.io/
 * Nicolas Liochon http://blog.thislongrun.com/
 * NSHipster http://nshipster.com/
 * Ole Begemann http://oleb.net/blog/
