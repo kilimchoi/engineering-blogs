@@ -185,6 +185,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Tumblr http://engineering.tumblr.com/
 * Twilio https://www.twilio.com/engineering/
 * Twitter https://blog.twitter.com/engineering
+* UnderArmour http://engineering.underarmour.com/
 * Venmo http://engineering.venmo.com/
 * VersionEye http://blog.versioneye.com/
 * Viget http://viget.com/extend
