@@ -213,6 +213,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 **Individuals/Group Contributors**
 * A List Apart http://alistapart.com/
 * Adam Leventhal http://dtrace.org/blogs/ahl/
+* Addy Osmani http://addyosmani.com/blog/
 * Ajaxian http://ajaxian.com/
 * Alex Russell https://infrequently.org/
 * Allison Kaptur http://akaptur.com/
