@@ -253,6 +253,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Ian Miell http://zwischenzugs.wordpress.com/
 * Ilya Grigorik https://www.igvita.com/
 * Jake Wharton http://jakewharton.com/blog
+* James Long http://jlongster.com/archive
 * Jeff Atwood http://blog.codinghorror.com/
 * Joel Spolsky http://www.joelonsoftware.com/
 * John Resig http://ejohn.org/
