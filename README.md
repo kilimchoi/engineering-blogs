@@ -134,6 +134,7 @@
 * Quora http://engineering.quora.com/
 * Raizlabs http://www.raizlabs.com/dev/
 * Rdio https://algorithms.rdio.com/
+* Recruiterbox http://inside.recruiterbox.com
 * Redbubble http://artplustech.com/
 * Red Hat https://developerblog.redhat.com
 * Remind http://engineering.remind.com/
@@ -259,7 +260,6 @@
 * Radim Řehůřek http://radimrehurek.com/blog/
 * Raymond Chen http://blogs.msdn.com/b/oldnewthing/
 * Real Python https://realpython.com/blog
-* Recruiterbox http://inside.recruiterbox.com
 * Reginald Braithwaite http://raganwald.com/#essays
 * Regular Geek http://regulargeek.com/
 * Robert C. Martin http://blog.cleancoder.com/
