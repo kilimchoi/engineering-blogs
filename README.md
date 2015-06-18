@@ -252,6 +252,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Jon Skeet http://codeblog.jonskeet.uk/
 * Jonathan Dekhtiar http://rss.jonathandekhtiar.eu/
 * Justin Weiss http://www.justinweiss.com/blog/
+* Kent Beck http://www.threeriversinstitute.org/blog/
 * Kyle Kingsbury https://aphyr.com/
 * Lambda the Ultimate http://lambda-the-ultimate.org/
 * Leonard Lamprecht http://leo.github.io
