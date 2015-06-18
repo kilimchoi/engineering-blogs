@@ -222,6 +222,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Barry Warsaw http://www.wefearchange.org/
 * Bill the Lizard http://www.billthelizard.com/
 * Blundell's Android Tutorials http://blog.blundell-apps.com/
+* Brandon Rhodes http://rhodesmill.org/brandon/
 * Brendan Gregg http://www.brendangregg.com/blog/
 * Carlos Becker http://carlosbecker.com
 * Chris Wellons http://nullprogram.com/
