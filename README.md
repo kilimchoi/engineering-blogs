@@ -198,6 +198,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Wonga Technology http://tech.wonga.com/
 * XING https://devblog.xing.com/
 * Yahoo http://yahooeng.tumblr.com/
+* Yalantis http://yalantis.com/blog/
 * Yammer https://eng.yammer.com/blog/
 * Yelp http://engineeringblog.yelp.com/
 * YLD! http://blog.yld.io

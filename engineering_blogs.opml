@@ -4,7 +4,7 @@
     <title>Engineering Blogs</title>
   </head>
   <body>
-    <outline type="rss" text="2359 Media" title="2359 Media" xmlUrl="http://engineering.2359media.net/atom.xml" htmlUrl="http://engineering.2359media.net"/>
+    <outline type="rss" text="2359 Media" title="2359 Media" xmlUrl="http://engineering.2359media.net/atom.xml" htmlUrl="http://engineering.2359media.net/"/>
     <outline type="rss" text="AdRoll" title="AdRoll" xmlUrl="http://tech.adroll.com/feed.xml" htmlUrl="http://tech.adroll.com/blog/"/>
     <outline type="rss" text="Adzerk" title="Adzerk" xmlUrl="http://adzerk.com/tech/feed.xml" htmlUrl="http://adzerk.com/tech/"/>
     <outline type="rss" text="AirPair" title="AirPair" xmlUrl="https://www.airpair.com/rss" htmlUrl="https://www.airpair.com/posts"/>
@@ -118,6 +118,7 @@
     <outline type="rss" text="Quora" title="Quora" xmlUrl="http://engineering.quora.com/rss" htmlUrl="http://engineering.quora.com/"/>
     <outline type="rss" text="Raizlabs" title="Raizlabs" xmlUrl="http://www.raizlabs.com/dev/feed/" htmlUrl="http://www.raizlabs.com/dev/"/>
     <outline type="rss" text="Rdio" title="Rdio" xmlUrl="https://algorithms.rdio.com/atom.xml" htmlUrl="https://algorithms.rdio.com/"/>
+    <outline type="rss" text="Recruiterbox" title="Recruiterbox" xmlUrl="http://inside.recruiterbox.com/rss" htmlUrl="http://inside.recruiterbox.com"/>
     <outline type="rss" text="Redbubble" title="Redbubble" xmlUrl="http://artplustech.com/feed/" htmlUrl="http://artplustech.com/"/>
     <outline type="rss" text="Red Hat" title="Red Hat" xmlUrl="http://developerblog.redhat.com/feed/" htmlUrl="https://developerblog.redhat.com"/>
     <outline type="rss" text="Rent the Runway" title="Rent the Runway" xmlUrl="http://dresscode.renttherunway.com/blog?format=RSS" htmlUrl="http://dresscode.renttherunway.com/blog/"/>
@@ -231,7 +232,6 @@
     <outline type="rss" text="Raymond Chen" title="Raymond Chen" xmlUrl="http://blogs.msdn.com/rss.aspx" htmlUrl="http://blogs.msdn.com/b/oldnewthing/"/>
     <outline type="rss" text="Raymond Hettinger" title="Raymond Hettinger" xmlUrl="https://rhettinger.wordpress.com/feed/" htmlUrl="https://rhettinger.wordpress.com/"/>
     <outline type="rss" text="Real Python" title="Real Python" xmlUrl="https://realpython.com/atom.xml" htmlUrl="https://realpython.com/blog"/>
-    <outline type="rss" text="Recruiterbox" title="Recruiterbox" xmlUrl="http://inside.recruiterbox.com/rss" htmlUrl="http://inside.recruiterbox.com/"/>
     <outline type="rss" text="Reginald Braithwaite" title="Reginald Braithwaite" xmlUrl="http://raganwald.com/atom.xml" htmlUrl="http://raganwald.com/#essays"/>
     <outline type="rss" text="Regular Geek" title="Regular Geek" xmlUrl="http://feeds.regulargeek.com/RegularGeek" htmlUrl="http://regulargeek.com/"/>
     <outline type="rss" text="Robert C. Martin" title="Robert C. Martin" xmlUrl="http://blog.cleancoder.com/atom.xml" htmlUrl="http://blog.cleancoder.com/"/>
