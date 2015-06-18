@@ -220,6 +220,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Anders Aarvik http://aarvik.dk/
 * Antirez http://antirez.com/latest/0
 * Bad Concurrency http://bad-concurrency.blogspot.com/
+* Barry Warsaw http://www.wefearchange.org/
 * Bill the Lizard http://www.billthelizard.com/
 * Blundell's Android Tutorials http://blog.blundell-apps.com/
 * Brendan Gregg http://www.brendangregg.com/blog/
