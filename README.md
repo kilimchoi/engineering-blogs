@@ -242,6 +242,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Dean Hume http://deanhume.com/
 * Deborah Digges http://deborah-digges.github.io/
 * Dereuromark http://www.dereuromark.de/
+* Ducode.org https://ducode.org/tag/tutorial
 * Elegant Code http://elegantcode.com/
 * Eli Bendersky http://eli.thegreenplace.net/
 * Evan Tahler http://blog.evantahler.com/
