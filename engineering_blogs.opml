@@ -72,6 +72,7 @@
     <outline type="rss" text="Heroku" title="Heroku" xmlUrl="http://engineering.heroku.com/feed.xml" htmlUrl="http://engineering.heroku.com/"/>
     <outline type="rss" text="Honeybadger" title="Honeybadger" xmlUrl="http://blog.honeybadger.io/feed/" htmlUrl="http://blog.honeybadger.io/"/>
     <outline type="rss" text="Hootsuite" title="Hootsuite" xmlUrl="http://code.hootsuite.com/feed/" htmlUrl="http://code.hootsuite.com/"/>
+    <outline type="rss" text="HubSpot" title="HubSpot" xmlUrl="http://product.hubspot.com/blog/rss.xml" htmlUrl="http://product.hubspot.com/blog/topic/engineering"/>
     <outline type="rss" text="IMVU" title="IMVU" xmlUrl="http://engineering.imvu.com/feed/" htmlUrl="http://engineering.imvu.com/"/>
     <outline type="rss" text="Indeed" title="Indeed" xmlUrl="http://engineering.indeed.com/feed/" htmlUrl="http://engineering.indeed.com/blog/"/>
     <outline type="rss" text="Instagram" title="Instagram" xmlUrl="http://instagram-engineering.tumblr.com/rss" htmlUrl="http://instagram-engineering.tumblr.com/"/>
