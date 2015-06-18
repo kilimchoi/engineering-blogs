@@ -91,6 +91,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Honeybadger http://blog.honeybadger.io/
 * Hootsuite http://code.hootsuite.com/
 * Hoteltonight http://engineering.hoteltonight.com/
+* HubSpot http://product.hubspot.com/blog/topic/engineering
 * IMVU http://engineering.imvu.com/
 * Indeed http://engineering.indeed.com/blog/
 * Instagram http://instagram-engineering.tumblr.com/
