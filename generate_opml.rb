@@ -52,8 +52,6 @@ matches.each_with_index { |match, index|
   end
 }
 
-puts "DONE: #{blogs.count} written to #{OUTPUT_FILENAME}"
-
 # write opml
 xml = Builder::XmlMarkup.new( :indent => 2 )
 xml.instruct! :xml, version: "1.0", encoding: "UTF-8"
@@ -74,3 +72,5 @@ end
 output = File.new(OUTPUT_FILENAME, "wb")
 output.write(xml.target!)
 output.close
+
+puts "DONE: #{blogs.count} written to #{OUTPUT_FILENAME}"
