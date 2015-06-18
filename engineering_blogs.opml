@@ -96,8 +96,8 @@
     <outline type="rss" text="MoneyBird" title="MoneyBird" xmlUrl="http://engineering.moneybird.com/atom.xml" htmlUrl="http://engineering.moneybird.com/"/>
     <outline type="rss" text="Mozilla Automation Team" title="Mozilla Automation Team" xmlUrl="http://planet.mozilla.org/ateam/atom.xml" htmlUrl="http://planet.mozilla.org/ateam/"/>
     <outline type="rss" text="Mozilla Release Engineering" title="Mozilla Release Engineering" xmlUrl="http://planet.mozilla.org/releng/atom.xml" htmlUrl="http://planet.mozilla.org/releng/"/>
-    <outline type="rss" text="Myntra Engineering" title="Myntra Engineering" xmlUrl="http://myntra.github.io/atom.xml" htmlUrl="http://myntra.github.io/"/>
-    <outline type="rss" text="Data Sciences @ Myntra" title="Sartorial Science" xmlUrl="http://sartorialscience.myntrablogs.com/feeds/posts/default" htmlUrl="http://sartorialscience.myntrablogs.com/"/>
+    <outline type="rss" text="Myntra" title="Myntra" xmlUrl="http://myntra.github.io/atom.xml" htmlUrl="http://myntra.github.io/"/>
+    <outline type="rss" text="Myntra Data Science" title="Myntra Data Science" xmlUrl="http://sartorialscience.myntrablogs.com/feeds/posts/default" htmlUrl="http://sartorialscience.myntrablogs.com/"/>
     <outline type="rss" text="nerdish by nature" title="nerdish by nature" xmlUrl="http://nerdishbynature.com/feed.xml" htmlUrl="http://nerdishbynature.com/blog/"/>
     <outline type="rss" text="Netflix" title="Netflix" xmlUrl="http://techblog.netflix.com/feeds/posts/default" htmlUrl="http://techblog.netflix.com/"/>
     <outline type="rss" text="New York Times" title="New York Times" xmlUrl="http://open.blogs.nytimes.com/feed/" htmlUrl="http://open.blogs.nytimes.com"/>
@@ -225,6 +225,7 @@
     <outline type="rss" text="Michael Becker" title="Michael Becker" xmlUrl="http://beckerfuffle.com/atom.xml" htmlUrl="http://beckerfuffle.com/"/>
     <outline type="rss" text="Michaël Gallego" title="Michaël Gallego" xmlUrl="http://www.michaelgallego.fr/feed.xml" htmlUrl="http://www.michaelgallego.fr/"/>
     <outline type="rss" text="Mike Ash" title="Mike Ash" xmlUrl="http://www.mikeash.com/pyblog/rss.py" htmlUrl="https://www.mikeash.com/pyblog/"/>
+    <outline type="rss" text="Nick Desaulniers" title="Nick Desaulniers" xmlUrl="https://nickdesaulniers.github.io/atom.xml" htmlUrl="https://nickdesaulniers.github.io/"/>
     <outline type="rss" text="Nicolas Liochon" title="Nicolas Liochon" xmlUrl="http://blog.thislongrun.com/feeds/posts/default" htmlUrl="http://blog.thislongrun.com/"/>
     <outline type="rss" text="NSHipster" title="NSHipster" xmlUrl="http://nshipster.com/feed.xml" htmlUrl="http://nshipster.com/"/>
     <outline type="rss" text="Ole Begemann" title="Ole Begemann" xmlUrl="http://oleb.net/blog/atom.xml" htmlUrl="http://oleb.net/blog/"/>
