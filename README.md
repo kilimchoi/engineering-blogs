@@ -218,6 +218,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Allison Kaptur http://akaptur.com/
 * Anders Aarvik http://aarvik.dk/
 * Antirez http://antirez.com/latest/0
+* Armin Ronacher http://lucumr.pocoo.org/
 * Bad Concurrency http://bad-concurrency.blogspot.com/
 * Barry Warsaw http://www.wefearchange.org/
 * Bill the Lizard http://www.billthelizard.com/
