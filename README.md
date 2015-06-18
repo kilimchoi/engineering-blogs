@@ -254,6 +254,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Justin Weiss http://www.justinweiss.com/blog/
 * Kyle Kingsbury https://aphyr.com/
 * Lambda the Ultimate http://lambda-the-ultimate.org/
+* Lea Verou http://lea.verou.me/
 * Leonard Lamprecht http://leo.github.io
 * Lerner Consulting Blog http://blog.lerner.co.il/
 * Life Plus Linux http://lifepluslinux.blogspot.in/
