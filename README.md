@@ -245,6 +245,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Fatih Arslan http://arslan.io/
 * Gleb Bahmutov http://glebbahmutov.com/blog/
 * Gonto http://gon.to/blog/
+* Guido van Rossum http://neopythonic.blogspot.com/
 * High Scalability http://highscalability.com/blog/
 * Ian Miell http://zwischenzugs.wordpress.com/
 * Ilya Grigorik https://www.igvita.com/
