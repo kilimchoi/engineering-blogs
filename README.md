@@ -136,6 +136,7 @@
 * Wix http://engineering.wix.com/
 * Wonga Technology http://tech.wonga.com/
 * Yahoo http://yahooeng.tumblr.com/
+* Yalantis http://yalantis.com/blog/
 * Yammer https://eng.yammer.com/blog/
 * Yelp http://engineeringblog.yelp.com/
 * Zendesk https://developer.zendesk.com/blog
