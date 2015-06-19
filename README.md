@@ -278,6 +278,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Mike Ash https://www.mikeash.com/pyblog/
 * Nick Desaulniers https://nickdesaulniers.github.io/
 * Nicolas Liochon http://blog.thislongrun.com/
+* Nikola Brežnjak http://www.nikola-breznjak.co/blog
 * NSHipster http://nshipster.com/
 * Ole Begemann http://oleb.net/blog/
 * Oona Räisänen http://www.windytan.com/
@@ -311,7 +312,6 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Winston Chen http://www.winstonchen.co/
 * Yegor Bugayenko http://www.yegor256.com/
 * Zach Holman http://zachholman.com/
-* Nikola Brežnjak http://www.nikola-breznjak.com
 
 # RSS feeds
 
