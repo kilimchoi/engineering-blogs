@@ -227,6 +227,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Bill the Lizard http://www.billthelizard.com/
 * Blundell's Android Tutorials http://blog.blundell-apps.com/
 * Brandon Rhodes http://rhodesmill.org/brandon/
+* Brendan Eich https://brendaneich.com/
 * Brendan Gregg http://www.brendangregg.com/blog/
 * Carlos Becker http://carlosbecker.com
 * Chris Wellons http://nullprogram.com/
