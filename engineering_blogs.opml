@@ -259,5 +259,6 @@
     <outline type="rss" text="Winston Chen" title="Winston Chen" xmlUrl="http://www.winstonchen.co/feeds/posts/default" htmlUrl="http://www.winstonchen.co/"/>
     <outline type="rss" text="Yegor Bugayenko" title="Yegor Bugayenko" xmlUrl="http://www.yegor256.com/rss.xml" htmlUrl="http://www.yegor256.com/"/>
     <outline type="rss" text="Zach Holman" title="Zach Holman" xmlUrl="http://zachholman.com/atom.xml" htmlUrl="http://zachholman.com/"/>
+    <outline type="rss" text="Zolmeister" title="Zolmeister" xmlUrl="http://www.zolmeister.com/feeds/posts/default" htmlUrl="https://zolmeister.com/"/>
   </body>
 </opml>

@@ -311,6 +311,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Winston Chen http://www.winstonchen.co/
 * Yegor Bugayenko http://www.yegor256.com/
 * Zach Holman http://zachholman.com/
+* Zolmeister https://zolmeister.com/
 
 # RSS feeds
 
