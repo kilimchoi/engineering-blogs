@@ -186,6 +186,7 @@
     <outline type="rss" text="Barry Warsaw" title="Barry Warsaw" xmlUrl="http://www.wefearchange.org/feeds/posts/default" htmlUrl="http://www.wefearchange.org/"/>
     <outline type="rss" text="Bill the Lizard" title="Bill the Lizard" xmlUrl="http://www.billthelizard.com/feeds/posts/default" htmlUrl="http://www.billthelizard.com/"/>
     <outline type="rss" text="Blundell's Android Tutorials" title="Blundell's Android Tutorials" xmlUrl="http://blog.blundell-apps.com/feed/" htmlUrl="http://blog.blundell-apps.com/"/>
+    <outline type="rss" text="Brendan Eich" title="Brendan Eich" xmlUrl="https://brendaneich.com/feed/" htmlUrl="https://brendaneich.com/"/>
     <outline type="rss" text="Chris Wellons" title="Chris Wellons" xmlUrl="http://nullprogram.com/feed/" htmlUrl="http://nullprogram.com/"/>
     <outline type="rss" text="Cocoa Is My Girlfriend" title="Cocoa Is My Girlfriend" xmlUrl="http://www.cimgf.com/feed/" htmlUrl="http://www.cimgf.com/"/>
     <outline type="rss" text="Code Better" title="Code Better" xmlUrl="http://feeds.feedburner.com/CodeBetter" htmlUrl="http://codebetter.com/"/>
@@ -196,7 +197,7 @@
     <outline type="rss" text="David Walsh" title="David Walsh" xmlUrl="http://davidwalsh.name/feed/atom" htmlUrl="http://davidwalsh.name/"/>
     <outline type="rss" text="Deborah Digges" title="Deborah Digges" xmlUrl="http://deborah-digges.github.io/atom.xml" htmlUrl="http://deborah-digges.github.io/"/>
     <outline type="rss" text="Dereuromark" title="Dereuromark" xmlUrl="http://www.dereuromark.de/feed/" htmlUrl="http://www.dereuromark.de/"/>
-	<outline type="rss" text="Ducode.org" title="Ducode.org" xmlUrl="https://ducode.org/feed?tag=tutorial" htmlUrl="https://ducode.org/tag/tutorial" />
+    <outline type="rss" text="Ducode.org" title="Ducode.org" xmlUrl="https://ducode.org/feed?tag=tutorial" htmlUrl="https://ducode.org/tag/tutorial"/>
     <outline type="rss" text="Elegant Code" title="Elegant Code" xmlUrl="http://elegantcode.com/feed/" htmlUrl="http://elegantcode.com/"/>
     <outline type="rss" text="Eli Bendersky" title="Eli Bendersky" xmlUrl="http://eli.thegreenplace.net/feeds/all.atom.xml" htmlUrl="http://eli.thegreenplace.net/"/>
     <outline type="rss" text="Fatih Arslan" title="Fatih Arslan" xmlUrl="http://arslan.io/posts.atom" htmlUrl="http://arslan.io/"/>
