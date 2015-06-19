@@ -282,6 +282,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Ole Begemann http://oleb.net/blog/
 * Oona Räisänen http://www.windytan.com/
 * Pamela Fox http://www.pamelafox.org/blogposts
+* Pat Shaughnessy http://patshaughnessy.net/
 * Paul Graham http://www.paulgraham.com/articles.html
 * Paul Irish http://www.paulirish.com/
 * Peter Lyons http://peterlyons.com/problog
