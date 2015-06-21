@@ -102,6 +102,7 @@
     <outline type="rss" text="Netflix" title="Netflix" xmlUrl="http://techblog.netflix.com/feeds/posts/default" htmlUrl="http://techblog.netflix.com/"/>
     <outline type="rss" text="New York Times" title="New York Times" xmlUrl="http://open.blogs.nytimes.com/feed/" htmlUrl="http://open.blogs.nytimes.com"/>
     <outline type="rss" text="Nextdoor" title="Nextdoor" xmlUrl="https://engblog.nextdoor.com/feed/" htmlUrl="https://engblog.nextdoor.com/"/>
+    <outline type="rss" text="Nordic APIs" title="Nordic APIs" xmlUrl="http://nordicapis.com/feed/" htmlUrl="http://nordicapis.com/blog/"/>
     <outline type="rss" text="NPR Apps" title="NPR Apps" xmlUrl="http://blog.apps.npr.org/atom.xml" htmlUrl="http://blog.apps.npr.org/"/>
     <outline type="rss" text="OpenTable" title="OpenTable" xmlUrl="http://tech.opentable.com/feed/" htmlUrl="http://tech.opentable.com/"/>
     <outline type="rss" text="Optimizely" title="Optimizely" xmlUrl="https://medium.com/feed/nerds-optimizely" htmlUrl="https://medium.com/nerds-optimizely"/>
