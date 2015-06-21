@@ -87,6 +87,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Guardian http://www.theguardian.com/info/developer-blog
 * HackerEarth http://engineering.hackerearth.com/
 * Harry's http://engineering.harrys.com/
+* Hashrocket http://hashrocket.com/blog
 * Heroku http://engineering.heroku.com/
 * Holiday Extras http://hungrygeek.holidayextras.co.uk/
 * Honeybadger http://blog.honeybadger.io/
