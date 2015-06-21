@@ -127,6 +127,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Netflix http://techblog.netflix.com/
 * New York Times http://open.blogs.nytimes.com
 * Nextdoor https://engblog.nextdoor.com/
+* Nordic APIs http://nordicapis.com/blog/
 * NPR Apps http://blog.apps.npr.org/
 * Okta http://developer.okta.com/blog/
 * OpenTable http://tech.opentable.com/
