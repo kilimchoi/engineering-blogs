@@ -298,6 +298,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Practicing Ruby http://practicingruby.com
 * Radek Pazdera http://radek.io
 * Radim Řehůřek http://radimrehurek.com/blog/
+* Ramon Fried https://nativeguru.wordpress.com/
 * Raymond Chen http://blogs.msdn.com/b/oldnewthing/
 * Raymond Hettinger https://rhettinger.wordpress.com/
 * Real Python https://realpython.com/blog
