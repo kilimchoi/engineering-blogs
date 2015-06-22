@@ -313,6 +313,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * William Kennedy http://www.goinggo.net/
 * Winston Chen http://www.winstonchen.co/
 * Yegor Bugayenko http://www.yegor256.com/
+* Yifan Lu http://yifan.lu/
 * Zach Holman http://zachholman.com/
 * Zolmeister https://zolmeister.com/
 
