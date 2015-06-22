@@ -202,6 +202,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Wix http://engineering.wix.com/
 * Wonga Technology http://tech.wonga.com/
 * XING https://devblog.xing.com/
+* XO Group http://tech.xogroupinc.com/
 * Yahoo http://yahooeng.tumblr.com/
 * Yalantis http://yalantis.com/blog/
 * Yammer https://eng.yammer.com/blog/
