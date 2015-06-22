@@ -294,7 +294,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Peter Steinberger http://petersteinberger.com/
 * Peteris Krumins http://www.catonmat.net/blog/
 * Philip Walton http://philipwalton.com/
-* Practicing Ruby http://practicingruby.com
+* Practicing Ruby https://practicingruby.com/
 * Radek Pazdera http://radek.io
 * Radim Řehůřek http://radimrehurek.com/blog/
 * Raymond Chen http://blogs.msdn.com/b/oldnewthing/
