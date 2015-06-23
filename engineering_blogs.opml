@@ -239,6 +239,7 @@
       <outline type="rss" text="Ducode.org" title="Ducode.org" xmlUrl="https://ducode.org/feed" htmlUrl="https://ducode.org/tag/tutorial"/>
       <outline type="rss" text="Elegant Code" title="Elegant Code" xmlUrl="http://elegantcode.com/feed/" htmlUrl="http://elegantcode.com/"/>
       <outline type="rss" text="Eli Bendersky" title="Eli Bendersky" xmlUrl="http://eli.thegreenplace.net/feeds/all.atom.xml" htmlUrl="http://eli.thegreenplace.net/"/>
+      <outline type="rss" text="Evan Hahn" title="Evan Hahn" xmlUrl="http://evanhahn.com/feed.xml" htmlUrl="http://evanhahn.com/"/>
       <outline type="rss" text="Fatih Arslan" title="Fatih Arslan" xmlUrl="http://arslan.io/posts.atom" htmlUrl="http://arslan.io/"/>
       <outline type="rss" text="Gleb Bahmutov" title="Gleb Bahmutov" xmlUrl="http://glebbahmutov.com/blog/atom.xml" htmlUrl="http://glebbahmutov.com/blog/"/>
       <outline type="rss" text="Gonto" title="Gonto" xmlUrl="http://gon.to/feed.xml" htmlUrl="http://gon.to/blog/"/>
