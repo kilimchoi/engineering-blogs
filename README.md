@@ -39,6 +39,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Carbon Five http://blog.carbonfive.com/
 * Cerner http://engineering.cerner.com/
 * Chartbeat http://engineering.chartbeat.com/
+* Chef https://www.chef.io/blog/
 * Clever http://engineering.clever.com/
 * Cloudera http://blog.cloudera.com/blog/
 * Cloudflare http://blog.cloudflare.com/
