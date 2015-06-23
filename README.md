@@ -175,6 +175,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * SRC:CLR https://blog.srcclr.com/
 * Stormpath https://stormpath.com/blog
 * Strava http://engineering.strava.com/
+* Stride NYC http://www.stridenyc.com/blog/
 * Stripe https://stripe.com/blog
 * Takipi http://blog.takipi.com/
 * TaskRabbit http://tech.taskrabbit.com/
