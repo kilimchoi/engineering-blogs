@@ -256,6 +256,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Gleb Bahmutov http://glebbahmutov.com/blog/
 * Gonto http://gon.to/blog/
 * Guido van Rossum http://neopythonic.blogspot.com/
+* Guilherme Rodrigues http://firstdoit.com/
 * High Scalability http://highscalability.com/blog/
 * Ian Miell http://zwischenzugs.wordpress.com/
 * Ilya Grigorik https://www.igvita.com/
