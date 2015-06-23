@@ -68,6 +68,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Facebook AI Research https://research.facebook.com/blog/ai/
 * Fiftythree http://making.fiftythree.com/
 * Finn.no http://tech.finn.no/
+* Firmafon https://dev.firmafon.dk/blog/
 * Flickr http://code.flickr.net/
 * Flipboard http://engineering.flipboard.com/
 * Flipkart http://tech-blog.flipkart.net/
