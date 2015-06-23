@@ -251,6 +251,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Ducode.org https://ducode.org/tag/tutorial
 * Elegant Code http://elegantcode.com/
 * Eli Bendersky http://eli.thegreenplace.net/
+* Evan Hahn http://evanhahn.com/
 * Evan Tahler http://blog.evantahler.com/
 * Fatih Arslan http://arslan.io/
 * Gleb Bahmutov http://glebbahmutov.com/blog/
