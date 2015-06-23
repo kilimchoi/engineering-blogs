@@ -13,6 +13,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * AirPair https://www.airpair.com/posts
 * Algolia https://blog.algolia.com/
 * Allegro http://allegrotech.io
+* Ansible http://www.ansible.com/
 * Artsy http://artsy.github.io/
 * Asana https://eng.asana.com/
 * Atlassian https://developer.atlassian.com/blog/
@@ -39,6 +40,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Carbon Five http://blog.carbonfive.com/
 * Cerner http://engineering.cerner.com/
 * Chartbeat http://engineering.chartbeat.com/
+* Chef https://www.chef.io/
 * Clever http://engineering.clever.com/
 * Cloudera http://blog.cloudera.com/blog/
 * Cloudflare http://blog.cloudflare.com/
