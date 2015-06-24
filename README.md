@@ -285,6 +285,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Matt Cutts https://www.mattcutts.com/blog/
 * Michael Becker http://beckerfuffle.com/
 * Michaël Gallego http://www.michaelgallego.fr/
+* Michael Herman http://mherman.org/
 * Mike Ash https://www.mikeash.com/pyblog/
 * Nick Desaulniers https://nickdesaulniers.github.io/
 * Nicolas Liochon http://blog.thislongrun.com/
