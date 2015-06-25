@@ -60,6 +60,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Ebay http://www.ebaytechblog.com/
 * Engine Yard https://blog.engineyard.com/
 * Envato http://webuild.envato.com/
+* Eric Lippert http://ericlippert.com/
 * Etsy https://codeascraft.com/
 * Eventbrite https://engineering.eventbrite.com/
 * Evernote https://blog.evernote.com/tech/
