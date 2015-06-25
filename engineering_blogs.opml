@@ -59,6 +59,7 @@
       <outline type="rss" text="Ebay" title="Ebay" xmlUrl="http://www.ebaytechblog.com/feed/" htmlUrl="http://www.ebaytechblog.com/"/>
       <outline type="rss" text="Engine Yard" title="Engine Yard" xmlUrl="https://blog.engineyard.com/feed.xml" htmlUrl="https://blog.engineyard.com/"/>
       <outline type="rss" text="Envato" title="Envato" xmlUrl="http://webuild.envato.com/atom.xml" htmlUrl="http://webuild.envato.com/"/>
+      <outline type="rss" text="Eric Lippert" title="Eric Lippert" xmlUrl="http://ericlippert.com/feed/" htmlUrl="http://ericlippert.com/"/>
       <outline type="rss" text="Etsy" title="Etsy" xmlUrl="https://codeascraft.com/feed/" htmlUrl="https://codeascraft.com/"/>
       <outline type="rss" text="Eventbrite" title="Eventbrite" xmlUrl="https://engineering.eventbrite.com/feed/" htmlUrl="https://engineering.eventbrite.com/"/>
       <outline type="rss" text="Evernote" title="Evernote" xmlUrl="http://blog.evernote.com/feed/" htmlUrl="https://blog.evernote.com/tech/"/>
