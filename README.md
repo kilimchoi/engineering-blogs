@@ -314,6 +314,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Regular Geek http://regulargeek.com/
 * Robert C. Martin http://blog.cleancoder.com/
 * Scott Hanselman http://www.hanselman.com/blog/
+* Simon Reimler http://www.devdactic.com/
 * Stephen Colebourne http://blog.joda.org/
 * Steve Yegge http://steve-yegge.blogspot.com/
 * Swift Offical Dev Blog https://developer.apple.com/swift/blog/
