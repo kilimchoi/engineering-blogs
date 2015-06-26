@@ -140,7 +140,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Oyster http://tech.oyster.com/
 * Paperless Post http://dev.paperlesspost.com/
 * Parse http://blog.parse.com/
-* Paypal https://www.paypal-engineering.com/
+* Paypal https://devblog.paypal.com/category/engineering/
 * Periscope https://www.periscope.io/blog/
 * Pinterest http://engineering.pinterest.com/
 * Polyvore http://engblog.polyvore.com/
