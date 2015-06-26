@@ -303,6 +303,7 @@
       <outline type="rss" text="Swift Offical Dev Blog" title="Swift Offical Dev Blog" xmlUrl="feed://developer.apple.com/swift/blog/news.rss" htmlUrl="https://developer.apple.com/swift/blog/"/>
       <outline type="rss" text="Swizec Teller" title="Swizec Teller" xmlUrl="http://swizec.com/blog/feed" htmlUrl="http://swizec.com/blog/"/>
       <outline type="rss" text="The Daily WTF" title="The Daily WTF" xmlUrl="http://thedailywtf.com/rss" htmlUrl="http://thedailywtf.com/"/>
+      <outline type="rss" text="Thomas Young" title="Thomas Young" xmlUrl="http://upcoder.com/feed" htmlUrl="http://upcoder.com"/>
       <outline type="rss" text="Vanilla Java" title="Vanilla Java" xmlUrl="http://vanillajava.blogspot.com/feeds/posts/default" htmlUrl="http://vanillajava.blogspot.com/"/>
       <outline type="rss" text="Virtuous Code" title="Virtuous Code" xmlUrl="http://devblog.avdi.org/feed/" htmlUrl="http://devblog.avdi.org/"/>
       <outline type="rss" text="William Kennedy" title="William Kennedy" xmlUrl="http://www.goinggo.net/feeds/posts/default" htmlUrl="http://www.goinggo.net/"/>

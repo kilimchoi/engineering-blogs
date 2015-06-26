@@ -321,6 +321,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Swift Offical Dev Blog https://developer.apple.com/swift/blog/
 * Swizec Teller http://swizec.com/blog/
 * The Daily WTF http://thedailywtf.com/
+* Thomas Young http://upcoder.com
 * Vanilla Java http://vanillajava.blogspot.com/
 * Virtuous Code http://devblog.avdi.org/
 * William Kennedy http://www.goinggo.net/
