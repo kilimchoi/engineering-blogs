@@ -60,7 +60,6 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Ebay http://www.ebaytechblog.com/
 * Engine Yard https://blog.engineyard.com/
 * Envato http://webuild.envato.com/
-* Eric Lippert http://ericlippert.com/
 * Etsy https://codeascraft.com/
 * Eventbrite https://engineering.eventbrite.com/
 * Evernote https://blog.evernote.com/tech/
@@ -255,6 +254,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Ducode.org https://ducode.org/tag/tutorial
 * Elegant Code http://elegantcode.com/
 * Eli Bendersky http://eli.thegreenplace.net/
+* Eric Lippert http://ericlippert.com/
 * Evan Hahn http://evanhahn.com/
 * Evan Tahler http://blog.evantahler.com/
 * Fatih Arslan http://arslan.io/
