@@ -264,7 +264,6 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Guido van Rossum http://neopythonic.blogspot.com/
 * Guilherme Rodrigues http://firstdoit.com/
 * High Scalability http://highscalability.com/blog/
-* Ian Miell http://zwischenzugs.wordpress.com/
 * Ilya Grigorik https://www.igvita.com/
 * Jake Wharton http://jakewharton.com/blog
 * James Long http://jlongster.com/archive
