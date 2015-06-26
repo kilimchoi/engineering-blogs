@@ -315,11 +315,13 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Regular Geek http://regulargeek.com/
 * Robert C. Martin http://blog.cleancoder.com/
 * Scott Hanselman http://www.hanselman.com/blog/
+* Simon Reimler http://www.devdactic.com/
 * Stephen Colebourne http://blog.joda.org/
 * Steve Yegge http://steve-yegge.blogspot.com/
 * Swift Offical Dev Blog https://developer.apple.com/swift/blog/
 * Swizec Teller http://swizec.com/blog/
 * The Daily WTF http://thedailywtf.com/
+* Thomas Young http://upcoder.com
 * Vanilla Java http://vanillajava.blogspot.com/
 * Virtuous Code http://devblog.avdi.org/
 * William Kennedy http://www.goinggo.net/
