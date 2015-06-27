@@ -331,6 +331,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Yifan Lu http://yifan.lu/
 * Zach Holman http://zachholman.com/
 * Zolmeister https://zolmeister.com/
+* Xiao Li https://xli.github.com/
 
 # RSS feeds
 
