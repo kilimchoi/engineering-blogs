@@ -72,7 +72,6 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Firmafon https://dev.firmafon.dk/blog/
 * Flickr http://code.flickr.net/
 * Flipboard http://engineering.flipboard.com/
-* Flipkart http://tech-blog.flipkart.net/
 * Foursquare http://engineering.foursquare.com/
 * Funding Circle https://engineering.fundingcircle.com/
 * Galois https://galois.com/blog/
