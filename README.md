@@ -135,6 +135,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Nordic APIs http://nordicapis.com/blog/
 * NPR Apps http://blog.apps.npr.org/
 * Okta http://developer.okta.com/blog/
+* OpenDNS https://engineering.opendns.com/
 * OpenTable http://tech.opentable.com/
 * Optimizely https://medium.com/nerds-optimizely
 * Oursky http://code.oursky.com/
