@@ -14,6 +14,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * AirPair https://www.airpair.com/posts
 * Algolia https://blog.algolia.com/
 * Allegro http://allegrotech.io
+* Arkency http://blog.arkency.com/
 * Artsy http://artsy.github.io/
 * Asana https://eng.asana.com/
 * Atlassian https://developer.atlassian.com/blog/
