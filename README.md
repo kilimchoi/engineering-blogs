@@ -276,6 +276,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * John Resig http://ejohn.org/
 * Jon Skeet http://codeblog.jonskeet.uk/
 * Jonathan Dekhtiar http://rss.jonathandekhtiar.eu/
+* Jonathan Snook http://snook.ca/
 * Justin Weiss http://www.justinweiss.com/blog/
 * Kent Beck http://www.threeriversinstitute.org/blog/
 * Kyle Kingsbury https://aphyr.com/
