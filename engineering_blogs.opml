@@ -187,6 +187,7 @@
       <outline type="rss" text="Tumblr" title="Tumblr" xmlUrl="http://engineering.tumblr.com/rss" htmlUrl="http://engineering.tumblr.com/"/>
       <outline type="rss" text="Twilio" title="Twilio" xmlUrl="https://www.twilio.com/engineering/feed/" htmlUrl="https://www.twilio.com/engineering/"/>
       <outline type="rss" text="Twitter" title="Twitter" xmlUrl="https://blog.twitter.com/api/blog.rss?name=engineering" htmlUrl="https://blog.twitter.com/engineering"/>
+      <outline type="rss" text="UnderArmour" title="UnderArmour" xmlUrl="http://engineering.underarmour.com/feed/" htmlUrl="http://engineering.underarmour.com/"/>
       <outline type="rss" text="VersionEye" title="VersionEye" xmlUrl="http://blog.versioneye.com/feed/" htmlUrl="http://blog.versioneye.com/"/>
       <outline type="rss" text="Viget" title="Viget" xmlUrl="http://feeds.feedburner.com/Viget" htmlUrl="http://viget.com/extend"/>
       <outline type="rss" text="Vimeo" title="Vimeo" xmlUrl="http://makingvimeo.com/rss" htmlUrl="http://makingvimeo.com/"/>
