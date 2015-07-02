@@ -271,6 +271,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * High Scalability http://highscalability.com/blog/
 * Ilya Grigorik https://www.igvita.com/
 * Jake Wharton http://jakewharton.com/blog
+* Jake Yesbeck http://jakeyesbeck.com/
 * James Long http://jlongster.com/archive
 * Jeff Atwood http://blog.codinghorror.com/
 * Joel Spolsky http://www.joelonsoftware.com/
