@@ -55,6 +55,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Coolblue http://devblog.coolblue.nl/
 * Criteo http://engineering.criteolabs.com/
 * DataFox http://eng.datafox.co/
+* DataRank http://engineering.datarank.com/
 * DeferPanic https://deferpanic.com/blog/
 * DigitalOcean https://www.digitalocean.com/community/tutorials
 * Docker http://blog.docker.com/category/engineering/
