@@ -168,6 +168,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Semaphore CI Community https://semaphoreci.com/community
 * Sensible http://blog.sensible.io/
 * Shape Security http://engineering.shapesecurity.com/
+* Sharethis http://engineering.sharethis.com/
 * Sharethrough https://engineering.sharethrough.com/blog
 * Shopify http://www.shopify.com/technology
 * Sift Science http://blog.siftscience.com/?category=Engineering
