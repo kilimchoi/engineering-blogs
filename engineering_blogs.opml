@@ -14,6 +14,7 @@
       <outline type="rss" text="AirPair" title="AirPair" xmlUrl="https://www.airpair.com/rss" htmlUrl="https://www.airpair.com/posts"/>
       <outline type="rss" text="Algolia" title="Algolia" xmlUrl="https://blog.algolia.com/feed/" htmlUrl="https://blog.algolia.com/"/>
       <outline type="rss" text="Allegro" title="Allegro" xmlUrl="http://allegrotech.io/feed.xml" htmlUrl="http://allegrotech.io"/>
+      <outline type="rss" text="AlphaSights" title="AlphaSights" xmlUrl="http://engineering-blog.alphasights.com/rss" htmlUrl="http://engineering-blog.alphasights.com/"/>
       <outline type="rss" text="Arkency" title="Arkency" xmlUrl="http://feeds.feedburner.com/arkency.xml" htmlUrl="http://blog.arkency.com/"/>
       <outline type="rss" text="Artsy" title="Artsy" xmlUrl="http://artsy.github.io/atom.xml" htmlUrl="http://artsy.github.io/"/>
       <outline type="rss" text="Asana" title="Asana" xmlUrl="https://eng.asana.com/feed/" htmlUrl="https://eng.asana.com/"/>
