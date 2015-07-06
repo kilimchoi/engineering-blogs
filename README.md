@@ -141,6 +141,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Okta http://developer.okta.com/blog/
 * OpenDNS https://engineering.opendns.com/
 * OpenTable http://tech.opentable.com/
+* OpenTable UK http://tech.opentable.co.uk/
 * Optimizely https://medium.com/nerds-optimizely
 * Oursky http://code.oursky.com/
 * Oyster http://tech.oyster.com/
