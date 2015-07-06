@@ -327,6 +327,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Real Python https://realpython.com/blog
 * Reginald Braithwaite http://raganwald.com/#essays
 * Regular Geek http://regulargeek.com/
+* Rémi Delhaye http://blog.rdlh.io/
 * Robert C. Martin http://blog.cleancoder.com/
 * Scott Hanselman http://www.hanselman.com/blog/
 * Simon Reimler http://www.devdactic.com/
