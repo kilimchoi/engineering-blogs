@@ -280,6 +280,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Jake Yesbeck http://jakeyesbeck.com/
 * James Long http://jlongster.com/archive
 * Jeff Atwood http://blog.codinghorror.com/
+* Jessie Frazelle https://blog.jessfraz.com/
 * Joel Spolsky http://www.joelonsoftware.com/
 * John Resig http://ejohn.org/
 * Jon Skeet http://codeblog.jonskeet.uk/
