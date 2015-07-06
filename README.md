@@ -300,6 +300,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Michaël Gallego http://www.michaelgallego.fr/
 * Michael Herman http://mherman.org/
 * Mike Ash https://www.mikeash.com/pyblog/
+* Mike Fogus http://blog.fogus.me/
 * Nick Desaulniers https://nickdesaulniers.github.io/
 * Nicolas Liochon http://blog.thislongrun.com/
 * Nikola Brežnjak http://www.nikola-breznjak.com/blog/
