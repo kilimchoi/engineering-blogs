@@ -213,6 +213,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Wayfair http://engineering.wayfair.com/
 * Wealthfront http://eng.wealthfront.com/
 * WebEngage http://engineering.webengage.com/
+* Wingify http://engineering.wingify.com/
 * Wix http://engineering.wix.com/
 * Wonga Technology http://tech.wonga.com/
 * XING https://devblog.xing.com/
