@@ -179,6 +179,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Socialcast http://blog.socialcast.com/engineering/
 * Songkick http://devblog.songkick.com/
 * Soundcloud https://developers.soundcloud.com/blog/
+* Speedledger http://engineering.speedledger.com/
 * Spotify https://labs.spotify.com/
 * Square https://corner.squareup.com/
 * SRC:CLR https://blog.srcclr.com/
