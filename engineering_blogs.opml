@@ -107,6 +107,7 @@
       <outline type="rss" text="Just Eat" title="Just Eat" xmlUrl="http://tech.just-eat.com/feed/" htmlUrl="http://tech.just-eat.com/"/>
       <outline type="rss" text="Khan Academy" title="Khan Academy" xmlUrl="http://engineering.khanacademy.org/rss.xml" htmlUrl="http://engineering.khanacademy.org"/>
       <outline type="rss" text="Kickstarter" title="Kickstarter" xmlUrl="https://www.kickstarter.com/backing-and-hacking.atom" htmlUrl="https://www.kickstarter.com/backing-and-hacking"/>
+      <outline type="rss" text="Laterooms" title="Laterooms" xmlUrl="http://engineering.laterooms.com/rss/" htmlUrl="http://engineering.laterooms.com/"/>
       <outline type="rss" text="LinkedIn" title="LinkedIn" xmlUrl="https://engineering.linkedin.com/taxonomy/term/1/feed" htmlUrl="https://engineering.linkedin.com/blog"/>
       <outline type="rss" text="Linkedcare" title="Linkedcare" xmlUrl="https://medium.com/feed/the-engineering-team" htmlUrl="https://medium.com/the-engineering-team"/>
       <outline type="rss" text="LiveChat" title="LiveChat" xmlUrl="http://developers.livechatinc.com/feed/rss/" htmlUrl="http://developers.livechatinc.com/blog/"/>
