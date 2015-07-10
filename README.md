@@ -176,6 +176,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Shopify http://www.shopify.com/technology
 * Sift Science http://blog.siftscience.com/?category=Engineering
 * Simple https://www.simple.com/engineering
+* Skcript http://blog.skcript.com/
 * SlideShare http://engineering.slideshare.net/
 * Socialcast http://blog.socialcast.com/engineering/
 * Songkick http://devblog.songkick.com/
