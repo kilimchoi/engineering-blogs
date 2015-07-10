@@ -110,6 +110,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Just Eat http://tech.just-eat.com/
 * Khan Academy http://engineering.khanacademy.org
 * Kickstarter https://www.kickstarter.com/backing-and-hacking
+* Klout http://engineering.klout.com/
 * Laterooms http://engineering.laterooms.com/
 * LinkedIn https://engineering.linkedin.com/blog
 * Linkedcare https://medium.com/the-engineering-team
