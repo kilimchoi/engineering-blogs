@@ -171,6 +171,7 @@
       <outline type="rss" text="Shopify" title="Shopify" xmlUrl="http://feeds.feedburner.com/shopify-technology" htmlUrl="http://www.shopify.com/technology"/>
       <outline type="rss" text="Sift Science" title="Sift Science" xmlUrl="http://blog.siftscience.com/blog?format=RSS" htmlUrl="http://blog.siftscience.com/?category=Engineering"/>
       <outline type="rss" text="Simple" title="Simple" xmlUrl="https://www.simple.com/engineering-rss.xml" htmlUrl="https://www.simple.com/engineering"/>
+      <outline type="rss" text="Skcript" title="Skcript" xmlUrl="http://www.skcript.com/feed.xml" htmlUrl="http://blog.skcript.com/"/>
       <outline type="rss" text="SlideShare" title="SlideShare" xmlUrl="http://engineering.slideshare.net/feed/" htmlUrl="http://engineering.slideshare.net/"/>
       <outline type="rss" text="Socialcast" title="Socialcast" xmlUrl="http://blog.socialcast.com/feed/" htmlUrl="http://blog.socialcast.com/engineering/"/>
       <outline type="rss" text="Songkick" title="Songkick" xmlUrl="http://devblog.songkick.com/feed/" htmlUrl="http://devblog.songkick.com/"/>
