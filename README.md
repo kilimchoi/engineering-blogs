@@ -192,6 +192,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Takipi http://blog.takipi.com/
 * TaskRabbit http://tech.taskrabbit.com/
 * theScore http://techblog.thescore.com/
+* TheTrainLine http://engineering.thetrainline.com/
 * Thoughtbot https://robots.thoughtbot.com/
 * ThoughtWorks http://www.thoughtworks.com/insights
 * Thumbtack https://www.thumbtack.com/engineering/
