@@ -237,6 +237,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 
 **Individuals/Group Contributors**
 * A List Apart http://alistapart.com/
+* Aaron Patterson http://tenderlovemaking.com/
 * Adam Leventhal http://dtrace.org/blogs/ahl/
 * Adam Tuliper http://completedevelopment.blogspot.be/
 * Addy Osmani http://addyosmani.com/blog/
@@ -250,6 +251,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Bad Concurrency http://bad-concurrency.blogspot.com/
 * Barry Warsaw http://www.wefearchange.org/
 * Bill the Lizard http://www.billthelizard.com/
+* Blake Erickson http://blakeerickson.com/
 * Blundell's Android Tutorials http://blog.blundell-apps.com/
 * Brandon Rhodes http://rhodesmill.org/brandon/
 * Brendan Eich https://brendaneich.com/
@@ -335,7 +337,9 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Reginald Braithwaite http://raganwald.com/#essays
 * Regular Geek http://regulargeek.com/
 * Rémi Delhaye http://blog.rdlh.io/
+* Robin Ward http://eviltrout.com/
 * Robert C. Martin http://blog.cleancoder.com/
+* Sam Saffron http://samsaffron.com/
 * Scott Hanselman http://www.hanselman.com/blog/
 * Simon Reimler http://www.devdactic.com/
 * Stephen Colebourne http://blog.joda.org/
