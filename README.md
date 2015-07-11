@@ -285,6 +285,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Jake Yesbeck http://jakeyesbeck.com/
 * James Long http://jlongster.com/archive
 * Jeff Atwood http://blog.codinghorror.com/
+* Jesus Castello http://www.blackbytes.info/
 * Jessie Frazelle https://blog.jessfraz.com/
 * Joel Spolsky http://www.joelonsoftware.com/
 * John Resig http://ejohn.org/
