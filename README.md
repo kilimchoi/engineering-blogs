@@ -298,6 +298,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Kent Beck http://www.threeriversinstitute.org/blog/
 * Kyle Kingsbury https://aphyr.com/
 * Lambda the Ultimate http://lambda-the-ultimate.org/
+* Larry Land http://lg.io/
 * Lea Verou http://lea.verou.me/
 * Leo http://leo.github.io
 * Lerner Consulting Blog http://blog.lerner.co.il/
