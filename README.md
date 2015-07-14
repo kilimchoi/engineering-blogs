@@ -185,6 +185,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Spotify https://labs.spotify.com/
 * Square https://corner.squareup.com/
 * SRC:CLR https://blog.srcclr.com/
+* Stackexchange http://blog.stackexchange.com/engineering
 * Stormpath https://stormpath.com/blog
 * Strava http://engineering.strava.com/
 * Stride NYC http://www.stridenyc.com/blog/
