@@ -112,6 +112,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Kickstarter https://www.kickstarter.com/backing-and-hacking
 * Klout http://engineering.klout.com/
 * Laterooms http://engineering.laterooms.com/
+* LINE http://developers.linecorp.com/blog/
 * LinkedIn https://engineering.linkedin.com/blog
 * Linkedcare https://medium.com/the-engineering-team
 * LiveChat http://developers.livechatinc.com/blog/
