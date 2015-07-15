@@ -248,6 +248,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Anders Aarvik http://aarvik.dk/
 * Andrew Bancroft http://www.andrewcbancroft.com/
 * Antirez http://antirez.com/latest/0
+* Ariya Hidayat http://ariya.ofilabs.com/
 * Armin Ronacher http://lucumr.pocoo.org/
 * Bad Concurrency http://bad-concurrency.blogspot.com/
 * Barry Warsaw http://www.wefearchange.org/
