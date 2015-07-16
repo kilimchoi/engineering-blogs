@@ -329,6 +329,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Peter Norvig http://norvig.com/
 * Peter Steinberger http://petersteinberger.com/
 * Peteris Krumins http://www.catonmat.net/blog/
+* Petr Mitrichev http://petr-mitrichev.blogspot.com/
 * Philip Walton http://philipwalton.com/
 * Practicing Ruby https://practicingruby.com/
 * Radek Pazdera http://radek.io
