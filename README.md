@@ -327,7 +327,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Paul Graham http://www.paulgraham.com/articles.html
 * Paul Irish http://www.paulirish.com/
 * Paul Lewis aerotwist https://aerotwist.com/blog/
-* Peter Lyons http://peterlyons.com/probloghttp://www.technotalkative.com/
+* Peter Lyons http://peterlyons.com/problog
 * Peter Norvig http://norvig.com/
 * Peter Steinberger http://petersteinberger.com/
 * Peteris Krumins http://www.catonmat.net/blog/
