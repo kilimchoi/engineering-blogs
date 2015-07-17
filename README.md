@@ -333,6 +333,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Peteris Krumins http://www.catonmat.net/blog/
 * Petr Mitrichev http://petr-mitrichev.blogspot.com/
 * Philip Walton http://philipwalton.com/
+* Piotr Wittchen http://blog.wittchen.biz.pl/
 * Practicing Ruby https://practicingruby.com/
 * Radek Pazdera http://radek.io
 * Radim Řehůřek http://radimrehurek.com/blog/
