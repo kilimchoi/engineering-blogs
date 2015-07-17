@@ -79,6 +79,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Flipkart http://tech-blog.flipkart.net/
 * Foursquare http://engineering.foursquare.com/
 * Funding Circle https://engineering.fundingcircle.com/
+* Future Processing http://www.future-processing.pl/technical-blog/
 * Galois https://galois.com/blog/
 * GameChanger http://tech.gc.com/
 * GitHub http://githubengineering.com/
