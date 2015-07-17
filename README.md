@@ -327,7 +327,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Paul Graham http://www.paulgraham.com/articles.html
 * Paul Irish http://www.paulirish.com/
 * Paul Lewis aerotwist https://aerotwist.com/blog/
-* Peter Lyons http://peterlyons.com/problog
+* Peter Lyons http://peterlyons.com/probloghttp://www.technotalkative.com/
 * Peter Norvig http://norvig.com/
 * Peter Steinberger http://petersteinberger.com/
 * Peteris Krumins http://www.catonmat.net/blog/
@@ -352,6 +352,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Steve Yegge http://steve-yegge.blogspot.com/
 * Swift Offical Dev Blog https://developer.apple.com/swift/blog/
 * Swizec Teller http://swizec.com/blog/
+* Technotalkative http://www.technotalkative.com/
 * That Thing In Swift https://thatthinginswift.com/
 * The Daily WTF http://thedailywtf.com/
 * Thomas Young http://upcoder.com
