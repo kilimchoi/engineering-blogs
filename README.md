@@ -353,6 +353,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Steve Yegge http://steve-yegge.blogspot.com/
 * Swift Offical Dev Blog https://developer.apple.com/swift/blog/
 * Swizec Teller http://swizec.com/blog/
+* Technotalkative http://www.technotalkative.com/
 * That Thing In Swift https://thatthinginswift.com/
 * The Daily WTF http://thedailywtf.com/
 * Thomas Young http://upcoder.com
