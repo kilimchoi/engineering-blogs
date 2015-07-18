@@ -1,9 +1,5 @@
 # Software Engineering Blogs
 
-**Description**
-
-A curated list of engineering blogs: read the latest blog entries and subscribe at http://www.slicedham.co/
-
 **Companies**
 * 2359 Media http://engineering.2359media.net/
 * 500px http://developers.500px.com/
