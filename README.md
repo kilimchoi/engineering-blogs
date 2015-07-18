@@ -1,6 +1,7 @@
 # Software Engineering Blogs
 
 **Description**
+
 A curated list of engineering blogs, read the latest blog entries and subscribe at http://www.slicedham.co/
 
 **Companies**
