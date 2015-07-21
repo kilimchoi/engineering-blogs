@@ -282,6 +282,7 @@
 * Guido van Rossum http://neopythonic.blogspot.com/
 * Guilherme Rodrigues http://firstdoit.com/
 * High Scalability http://highscalability.com/blog/
+* Ilija Eftimov http://rubylogs.com/
 * Ilya Grigorik https://www.igvita.com/
 * Jake Wharton http://jakewharton.com/blog
 * Jake Yesbeck http://jakeyesbeck.com/
@@ -343,7 +344,6 @@
 * Rémi Delhaye http://blog.rdlh.io/
 * Robin Ward http://eviltrout.com/
 * Robert C. Martin http://blog.cleancoder.com/
-* Rubylogs http://rubylogs.com/
 * Sam Saffron http://samsaffron.com/
 * Scott Hanselman http://www.hanselman.com/blog/
 * Simon Reimler http://www.devdactic.com/
