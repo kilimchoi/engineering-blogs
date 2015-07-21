@@ -343,6 +343,7 @@
 * Rémi Delhaye http://blog.rdlh.io/
 * Robin Ward http://eviltrout.com/
 * Robert C. Martin http://blog.cleancoder.com/
+* Rubylogs http://rubylogs.com/
 * Sam Saffron http://samsaffron.com/
 * Scott Hanselman http://www.hanselman.com/blog/
 * Simon Reimler http://www.devdactic.com/
