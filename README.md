@@ -284,6 +284,7 @@
 * High Scalability http://highscalability.com/blog/
 * Ilija Eftimov http://rubylogs.com/
 * Ilya Grigorik https://www.igvita.com/
+* Jacopo Tarantino https://jack.ofspades.com/
 * Jake Wharton http://jakewharton.com/blog
 * Jake Yesbeck http://jakeyesbeck.com/
 * James Long http://jlongster.com/archive
