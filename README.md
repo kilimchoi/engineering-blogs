@@ -99,7 +99,6 @@
 * Hoteltonight http://engineering.hoteltonight.com/
 * HubSpot http://product.hubspot.com/blog/topic/engineering
 * IMVU http://engineering.imvu.com/
-* Inchoo http://inchoo.net/blog/
 * Indeed http://engineering.indeed.com/blog/
 * Instagram http://instagram-engineering.tumblr.com/
 * Intent HQ http://engineering.intenthq.com/
