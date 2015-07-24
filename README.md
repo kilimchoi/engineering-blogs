@@ -241,7 +241,9 @@
 * Adam Tuliper http://completedevelopment.blogspot.be/
 * Addy Osmani http://addyosmani.com/blog/
 * Ajaxian http://ajaxian.com/
+* Alan Storm http://alanstorm.com/
 * Alex Russell https://infrequently.org/
+* Allan MacGregor http://coderoncode.com/
 * Allison Kaptur http://akaptur.com/
 * Anders Aarvik http://aarvik.dk/
 * Andrew Bancroft http://www.andrewcbancroft.com/
@@ -276,6 +278,7 @@
 * Eric Lippert http://ericlippert.com/
 * Evan Hahn http://evanhahn.com/
 * Evan Tahler http://blog.evantahler.com/
+* Fabrizio Branca http://fbrnc.net/
 * Fatih Arslan http://arslan.io/
 * Gleb Bahmutov http://glebbahmutov.com/blog/
 * Gonto http://gon.to/blog/
