@@ -99,6 +99,7 @@
 * Hoteltonight http://engineering.hoteltonight.com/
 * HubSpot http://product.hubspot.com/blog/topic/engineering
 * IMVU http://engineering.imvu.com/
+* Inchoo http://inchoo.net/blog/
 * Indeed http://engineering.indeed.com/blog/
 * Instagram http://instagram-engineering.tumblr.com/
 * Intent HQ http://engineering.intenthq.com/
@@ -241,7 +242,9 @@
 * Adam Tuliper http://completedevelopment.blogspot.be/
 * Addy Osmani http://addyosmani.com/blog/
 * Ajaxian http://ajaxian.com/
+* Alan Storm http://alanstorm.com/
 * Alex Russell https://infrequently.org/
+* Allan MacGregor http://coderoncode.com/
 * Allison Kaptur http://akaptur.com/
 * Anders Aarvik http://aarvik.dk/
 * Andrew Bancroft http://www.andrewcbancroft.com/
@@ -276,6 +279,7 @@
 * Eric Lippert http://ericlippert.com/
 * Evan Hahn http://evanhahn.com/
 * Evan Tahler http://blog.evantahler.com/
+* Fabrizio Branca http://fbrnc.net/
 * Fatih Arslan http://arslan.io/
 * Gleb Bahmutov http://glebbahmutov.com/blog/
 * Gonto http://gon.to/blog/
