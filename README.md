@@ -320,6 +320,7 @@
 * Nick Desaulniers https://nickdesaulniers.github.io/
 * Nicolas Liochon http://blog.thislongrun.com/
 * Nikola Brežnjak http://www.nikola-breznjak.com/blog/
+* Nikolay Nemshilov http://nikolay.rocks/
 * NSHipster http://nshipster.com/
 * Ole Begemann http://oleb.net/blog/
 * Oona Räisänen http://www.windytan.com/
