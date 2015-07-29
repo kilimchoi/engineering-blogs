@@ -364,6 +364,7 @@
 * That Thing In Swift https://thatthinginswift.com/
 * The Daily WTF http://thedailywtf.com/
 * Thomas Young http://upcoder.com
+* Uber http://eng.uber.com/
 * Vanilla Java http://vanillajava.blogspot.com/
 * William Kennedy http://www.goinggo.net/
 * Winston Chen http://www.winstonchen.co/
