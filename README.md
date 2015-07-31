@@ -170,6 +170,7 @@
 * Schibsted Tech Polska http://www.schibsted.pl/blog/
 * Semaphore CI Community https://semaphoreci.com/community
 * Sensible http://blog.sensible.io/
+* Server Density https://blog.serverdensity.com/
 * Shape Security http://engineering.shapesecurity.com/
 * Sharethis http://engineering.sharethis.com/
 * Sharethrough https://engineering.sharethrough.com/blog
