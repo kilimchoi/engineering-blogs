@@ -1,11 +1,8 @@
 # Software Engineering Blogs
 
-**Website**
-
-You can now read the latest blog entries or just subscribe to your favorite ones at http://www.slicedham.co/
-
 **Companies**
 * 2359 Media http://engineering.2359media.net/
+* 500px http://developers.500px.com/
 * 8th Light http://blog.8thlight.com/
 * AdRoll http://tech.adroll.com/blog/
 * Adzerk http://adzerk.com/tech/
@@ -13,6 +10,8 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * AirPair https://www.airpair.com/posts
 * Algolia https://blog.algolia.com/
 * Allegro http://allegrotech.io
+* AlphaSights http://engineering-blog.alphasights.com/
+* Arkency http://blog.arkency.com/
 * Artsy http://artsy.github.io/
 * Asana https://eng.asana.com/
 * Atlassian https://developer.atlassian.com/blog/
@@ -53,11 +52,14 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Coolblue http://devblog.coolblue.nl/
 * Criteo http://engineering.criteolabs.com/
 * DataFox http://eng.datafox.co/
+* DataRank http://engineering.datarank.com/
 * DeferPanic https://deferpanic.com/blog/
+* Devmag.io http://engineering.devmag.io/
 * DigitalOcean https://www.digitalocean.com/community/tutorials
 * Docker http://blog.docker.com/category/engineering/
 * Dropbox https://blogs.dropbox.com/tech/
 * Ebay http://www.ebaytechblog.com/
+* Eharmony http://www.eharmony.com/engineering/
 * Engine Yard https://blog.engineyard.com/
 * Envato http://webuild.envato.com/
 * Etsy https://codeascraft.com/
@@ -74,6 +76,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Flipkart http://tech-blog.flipkart.net/
 * Foursquare http://engineering.foursquare.com/
 * Funding Circle https://engineering.fundingcircle.com/
+* Future Processing http://www.future-processing.pl/technical-blog/
 * Galois https://galois.com/blog/
 * GameChanger http://tech.gc.com/
 * GitHub http://githubengineering.com/
@@ -105,6 +108,9 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Just Eat http://tech.just-eat.com/
 * Khan Academy http://engineering.khanacademy.org
 * Kickstarter https://www.kickstarter.com/backing-and-hacking
+* Klout http://engineering.klout.com/
+* Laterooms http://engineering.laterooms.com/
+* LINE http://developers.linecorp.com/blog/
 * LinkedIn https://engineering.linkedin.com/blog
 * Linkedcare https://medium.com/the-engineering-team
 * LiveChat http://developers.livechatinc.com/blog/
@@ -134,13 +140,15 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Nordic APIs http://nordicapis.com/blog/
 * NPR Apps http://blog.apps.npr.org/
 * Okta http://developer.okta.com/blog/
+* OpenDNS https://engineering.opendns.com/
 * OpenTable http://tech.opentable.com/
+* OpenTable UK http://tech.opentable.co.uk/
 * Optimizely https://medium.com/nerds-optimizely
 * Oursky http://code.oursky.com/
 * Oyster http://tech.oyster.com/
 * Paperless Post http://dev.paperlesspost.com/
 * Parse http://blog.parse.com/
-* Paypal https://www.paypal-engineering.com/
+* Paypal https://devblog.paypal.com/category/engineering/
 * Periscope https://www.periscope.io/blog/
 * Pinterest http://engineering.pinterest.com/
 * Polyvore http://engblog.polyvore.com/
@@ -163,6 +171,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Semaphore CI Community https://semaphoreci.com/community
 * Sensible http://blog.sensible.io/
 * Shape Security http://engineering.shapesecurity.com/
+* Sharethis http://engineering.sharethis.com/
 * Sharethrough https://engineering.sharethrough.com/blog
 * Shopify http://www.shopify.com/technology
 * Sift Science http://blog.siftscience.com/?category=Engineering
@@ -171,9 +180,11 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Socialcast http://blog.socialcast.com/engineering/
 * Songkick http://devblog.songkick.com/
 * Soundcloud https://developers.soundcloud.com/blog/
+* Speedledger http://engineering.speedledger.com/
 * Spotify https://labs.spotify.com/
 * Square https://corner.squareup.com/
 * SRC:CLR https://blog.srcclr.com/
+* Stackexchange http://blog.stackexchange.com/engineering
 * Stormpath https://stormpath.com/blog
 * Strava http://engineering.strava.com/
 * Stride NYC http://www.stridenyc.com/blog/
@@ -186,11 +197,14 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Thumbtack https://www.thumbtack.com/engineering/
 * Ticketmaster http://tech.ticketmaster.com/
 * Tilt http://engineering.tilt.com/
+* Transferwise http://tech.transferwise.com/
 * Trello https://trello.engineering/
 * Trivago http://tech.trivago.com/
+* TrueCar http://www.drivenbycode.com/
 * Tumblr http://engineering.tumblr.com/
 * Twilio https://www.twilio.com/engineering/
 * Twitter https://blog.twitter.com/engineering
+* UnderArmour http://engineering.underarmour.com/
 * Venmo http://engineering.venmo.com/
 * VersionEye http://blog.versioneye.com/
 * Viget http://viget.com/extend
@@ -202,10 +216,12 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Wayfair http://engineering.wayfair.com/
 * Wealthfront http://eng.wealthfront.com/
 * WebEngage http://engineering.webengage.com/
+* Wingify http://engineering.wingify.com/
 * Wix http://engineering.wix.com/
 * Wonga Technology http://tech.wonga.com/
 * XING https://devblog.xing.com/
 * XO Group http://tech.xogroupinc.com/
+* Xoom http://dev-blog.xoom.com/
 * Yahoo http://yahooeng.tumblr.com/
 * Yalantis http://yalantis.com/blog/
 * Yammer https://eng.yammer.com/blog/
@@ -216,24 +232,30 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * ZenPayroll http://engineering.zenpayroll.com/
 * Zesty http://engineering.zesty.com/
 * Zillow https://engineering.zillow.com/
+* Zulily http://engineering.zulily.com/
 * Zumba http://tech.zumba.com/
 * Zynga https://zynga.com/blogs/engineering/
 
 **Individuals/Group Contributors**
 * A List Apart http://alistapart.com/
+* Aaron Patterson http://tenderlovemaking.com/
 * Adam Leventhal http://dtrace.org/blogs/ahl/
 * Adam Tuliper http://completedevelopment.blogspot.be/
 * Addy Osmani http://addyosmani.com/blog/
 * Ajaxian http://ajaxian.com/
+* Alan Storm http://alanstorm.com/
 * Alex Russell https://infrequently.org/
+* Allan MacGregor http://coderoncode.com/
 * Allison Kaptur http://akaptur.com/
 * Anders Aarvik http://aarvik.dk/
 * Andrew Bancroft http://www.andrewcbancroft.com/
 * Antirez http://antirez.com/latest/0
+* Ariya Hidayat http://ariya.ofilabs.com/
 * Armin Ronacher http://lucumr.pocoo.org/
 * Bad Concurrency http://bad-concurrency.blogspot.com/
 * Barry Warsaw http://www.wefearchange.org/
 * Bill the Lizard http://www.billthelizard.com/
+* Blake Erickson http://blakeerickson.com/
 * Blundell's Android Tutorials http://blog.blundell-apps.com/
 * Brandon Rhodes http://rhodesmill.org/brandon/
 * Brendan Eich https://brendaneich.com/
@@ -258,25 +280,33 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Eric Lippert http://ericlippert.com/
 * Evan Hahn http://evanhahn.com/
 * Evan Tahler http://blog.evantahler.com/
+* Fabrizio Branca http://fbrnc.net/
 * Fatih Arslan http://arslan.io/
 * Gleb Bahmutov http://glebbahmutov.com/blog/
 * Gonto http://gon.to/blog/
 * Guido van Rossum http://neopythonic.blogspot.com/
 * Guilherme Rodrigues http://firstdoit.com/
 * High Scalability http://highscalability.com/blog/
-* Ian Miell http://zwischenzugs.wordpress.com/
+* Ilija Eftimov http://rubylogs.com/
 * Ilya Grigorik https://www.igvita.com/
+* Jacopo Tarantino https://jack.ofspades.com/
 * Jake Wharton http://jakewharton.com/blog
+* Jake Yesbeck http://jakeyesbeck.com/
 * James Long http://jlongster.com/archive
 * Jeff Atwood http://blog.codinghorror.com/
+* Jesus Castello http://www.blackbytes.info/
+* Jessie Frazelle https://blog.jessfraz.com/
 * Joel Spolsky http://www.joelonsoftware.com/
 * John Resig http://ejohn.org/
 * Jon Skeet http://codeblog.jonskeet.uk/
 * Jonathan Dekhtiar http://rss.jonathandekhtiar.eu/
+* Jonathan Snook http://snook.ca/
 * Justin Weiss http://www.justinweiss.com/blog/
 * Kent Beck http://www.threeriversinstitute.org/blog/
+* Kevin Burke https://kev.inburke.com/
 * Kyle Kingsbury https://aphyr.com/
 * Lambda the Ultimate http://lambda-the-ultimate.org/
+* Larry Land http://lg.io/
 * Lea Verou http://lea.verou.me/
 * Leo http://leo.github.io
 * Lerner Consulting Blog http://blog.lerner.co.il/
@@ -285,13 +315,17 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Marco Pivetta http://ocramius.github.io/
 * Martin Fowler http://martinfowler.com/
 * Matt Cutts https://www.mattcutts.com/blog/
+* Matt Might http://matt.might.net/articles/
 * Michael Becker http://beckerfuffle.com/
 * Michaël Gallego http://www.michaelgallego.fr/
 * Michael Herman http://mherman.org/
 * Mike Ash https://www.mikeash.com/pyblog/
+* Mike Fogus http://blog.fogus.me/
+* Nic Raboy https://blog.nraboy.com/
 * Nick Desaulniers https://nickdesaulniers.github.io/
 * Nicolas Liochon http://blog.thislongrun.com/
 * Nikola Brežnjak http://www.nikola-breznjak.com/blog/
+* Nikolay Nemshilov http://nikolay.rocks/
 * NSHipster http://nshipster.com/
 * Ole Begemann http://oleb.net/blog/
 * Oona Räisänen http://www.windytan.com/
@@ -304,7 +338,9 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Peter Norvig http://norvig.com/
 * Peter Steinberger http://petersteinberger.com/
 * Peteris Krumins http://www.catonmat.net/blog/
+* Petr Mitrichev http://petr-mitrichev.blogspot.com/
 * Philip Walton http://philipwalton.com/
+* Piotr Wittchen http://blog.wittchen.biz.pl/
 * Practicing Ruby https://practicingruby.com/
 * Radek Pazdera http://radek.io
 * Radim Řehůřek http://radimrehurek.com/blog/
@@ -314,17 +350,22 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Real Python https://realpython.com/blog
 * Reginald Braithwaite http://raganwald.com/#essays
 * Regular Geek http://regulargeek.com/
+* Rémi Delhaye http://blog.rdlh.io/
+* Robin Ward http://eviltrout.com/
 * Robert C. Martin http://blog.cleancoder.com/
+* Sam Saffron http://samsaffron.com/
 * Scott Hanselman http://www.hanselman.com/blog/
 * Simon Reimler http://www.devdactic.com/
 * Stephen Colebourne http://blog.joda.org/
 * Steve Yegge http://steve-yegge.blogspot.com/
 * Swift Offical Dev Blog https://developer.apple.com/swift/blog/
 * Swizec Teller http://swizec.com/blog/
+* Technotalkative http://www.technotalkative.com/
+* That Thing In Swift https://thatthinginswift.com/
 * The Daily WTF http://thedailywtf.com/
 * Thomas Young http://upcoder.com
+* Uber http://eng.uber.com/
 * Vanilla Java http://vanillajava.blogspot.com/
-* Virtuous Code http://devblog.avdi.org/
 * William Kennedy http://www.goinggo.net/
 * Winston Chen http://www.winstonchen.co/
 * Yegor Bugayenko http://www.yegor256.com/
