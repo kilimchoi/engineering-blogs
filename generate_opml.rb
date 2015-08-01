@@ -8,7 +8,6 @@ require 'nokogiri'
 require 'uri'
 
 OUTPUT_FILENAME = 'engineering_blogs.opml'
-LIMIT = 10
 TITLE = 'Engineering Blogs'
 
 # grab name/url pairings from README.md
@@ -21,11 +20,6 @@ blogs = []
 
 # for each blog URL, check if rss URL exists
 matches.each_with_index do |match, index|
-  # for testing purposes
-  # if index > LIMIT
-  #   break
-  # end
-
   name = match[0]
   web_url = match[1]
 
