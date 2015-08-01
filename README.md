@@ -143,7 +143,6 @@
 * OpenDNS https://engineering.opendns.com/
 * OpenTable http://tech.opentable.com/
 * OpenTable UK http://tech.opentable.co.uk/
-* Optimizely https://medium.com/nerds-optimizely
 * Oursky http://code.oursky.com/
 * Oyster http://tech.oyster.com/
 * Paperless Post http://dev.paperlesspost.com/
@@ -224,7 +223,6 @@
 * Xoom http://dev-blog.xoom.com/
 * Yahoo http://yahooeng.tumblr.com/
 * Yalantis http://yalantis.com/blog/
-* Yammer https://eng.yammer.com/blog/
 * Yelp http://engineeringblog.yelp.com/
 * YLD! http://blog.yld.io
 * Zalando https://tech.zalando.com/blog/
@@ -303,7 +301,6 @@
 * Jonathan Dekhtiar http://rss.jonathandekhtiar.eu/
 * Jonathan Snook http://snook.ca/
 * Justin Weiss http://www.justinweiss.com/blog/
-* Kent Beck http://www.threeriversinstitute.org/blog/
 * Kevin Burke https://kev.inburke.com/
 * Kyle Kingsbury https://aphyr.com/
 * Lambda the Ultimate http://lambda-the-ultimate.org/
