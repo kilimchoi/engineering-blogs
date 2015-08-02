@@ -203,6 +203,7 @@
 * Tumblr http://engineering.tumblr.com/
 * Twilio https://www.twilio.com/engineering/
 * Twitter https://blog.twitter.com/engineering
+* Uber http://eng.uber.com/
 * UnderArmour http://engineering.underarmour.com/
 * Venmo http://engineering.venmo.com/
 * VersionEye http://blog.versioneye.com/
@@ -362,7 +363,6 @@
 * That Thing In Swift https://thatthinginswift.com/
 * The Daily WTF http://thedailywtf.com/
 * Thomas Young http://upcoder.com
-* Uber http://eng.uber.com/
 * Vanilla Java http://vanillajava.blogspot.com/
 * William Kennedy http://www.goinggo.net/
 * Winston Chen http://www.winstonchen.co/
