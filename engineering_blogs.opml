@@ -203,6 +203,7 @@
       <outline type="rss" text="Tumblr" title="Tumblr" xmlUrl="http://engineering.tumblr.com/rss" htmlUrl="http://engineering.tumblr.com/"/>
       <outline type="rss" text="Twilio" title="Twilio" xmlUrl="https://www.twilio.com/engineering/feed/" htmlUrl="https://www.twilio.com/engineering/"/>
       <outline type="rss" text="Twitter" title="Twitter" xmlUrl="https://blog.twitter.com/api/blog.rss?name=engineering" htmlUrl="https://blog.twitter.com/engineering"/>
+      <outline type="rss" text="Uber" title="Uber" xmlUrl="https://eng.uber.com/feed/" htmlUrl="http://eng.uber.com/"/>
       <outline type="rss" text="UnderArmour" title="UnderArmour" xmlUrl="http://engineering.underarmour.com/feed/" htmlUrl="http://engineering.underarmour.com/"/>
       <outline type="rss" text="VersionEye" title="VersionEye" xmlUrl="http://blog.versioneye.com/feed/" htmlUrl="http://blog.versioneye.com/"/>
       <outline type="rss" text="Viget" title="Viget" xmlUrl="http://feeds.feedburner.com/Viget" htmlUrl="http://viget.com/extend"/>
@@ -349,7 +350,6 @@
       <outline type="rss" text="That Thing In Swift" title="That Thing In Swift" xmlUrl="https://thatthinginswift.com/index.xml" htmlUrl="https://thatthinginswift.com/"/>
       <outline type="rss" text="The Daily WTF" title="The Daily WTF" xmlUrl="http://thedailywtf.com/rss" htmlUrl="http://thedailywtf.com/"/>
       <outline type="rss" text="Thomas Young" title="Thomas Young" xmlUrl="http://upcoder.com/feed" htmlUrl="http://upcoder.com"/>
-      <outline type="rss" text="Uber" title="Uber" xmlUrl="https://eng.uber.com/feed/" htmlUrl="http://eng.uber.com/"/>
       <outline type="rss" text="Vanilla Java" title="Vanilla Java" xmlUrl="http://vanillajava.blogspot.com/feeds/posts/default" htmlUrl="http://vanillajava.blogspot.com/"/>
       <outline type="rss" text="William Kennedy" title="William Kennedy" xmlUrl="http://www.goinggo.net/feeds/posts/default" htmlUrl="http://www.goinggo.net/"/>
       <outline type="rss" text="Winston Chen" title="Winston Chen" xmlUrl="http://www.winstonchen.co/feeds/posts/default" htmlUrl="http://www.winstonchen.co/"/>
