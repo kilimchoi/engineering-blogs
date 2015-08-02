@@ -333,7 +333,7 @@
 * Pat Shaughnessy http://patshaughnessy.net/
 * Paul Graham http://www.paulgraham.com/articles.html
 * Paul Irish http://www.paulirish.com/
-* Paul Lewis aerotwist https://aerotwist.com/blog/
+* Paul Lewis https://aerotwist.com/blog/
 * Peter Lyons http://peterlyons.com/problog
 * Peter Norvig http://norvig.com/
 * Peter Steinberger http://petersteinberger.com/
