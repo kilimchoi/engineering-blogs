@@ -356,6 +356,7 @@
 * Sam Saffron http://samsaffron.com/
 * Scott Hanselman http://www.hanselman.com/blog/
 * Simon Reimler http://www.devdactic.com/
+* Stefan Parker http://codebeforethehorse.tumblr.com/
 * Stephen Colebourne http://blog.joda.org/
 * Steve Yegge http://steve-yegge.blogspot.com/
 * Swift Offical Dev Blog https://developer.apple.com/swift/blog/
