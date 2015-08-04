@@ -160,7 +160,6 @@
 * Quora http://engineering.quora.com/
 * Raizlabs http://www.raizlabs.com/dev/
 * Rdio https://algorithms.rdio.com/
-* Recruiterbox http://inside.recruiterbox.com
 * Redbubble http://artplustech.com/
 * Red Hat https://developerblog.redhat.com
 * Remind http://engineering.remind.com/
