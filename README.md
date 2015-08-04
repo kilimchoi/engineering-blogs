@@ -52,6 +52,7 @@
 * Coolblue http://devblog.coolblue.nl/
 * Criteo http://engineering.criteolabs.com/
 * DataFox http://eng.datafox.co/
+* Databricks https://databricks.com/blog
 * DataRank http://engineering.datarank.com/
 * DeferPanic https://deferpanic.com/blog/
 * Devmag.io http://engineering.devmag.io/
