@@ -9,7 +9,7 @@
 * Airbnb http://nerds.airbnb.com/
 * AirPair https://www.airpair.com/posts
 * Algolia https://blog.algolia.com/
-* Allegro http://allegrotech.io
+* Allegro.tech http://allegro.tech
 * AlphaSights http://engineering-blog.alphasights.com/
 * Arkency http://blog.arkency.com/
 * Artsy http://artsy.github.io/
