@@ -13,13 +13,13 @@
       <outline type="rss" text="Airbnb" title="Airbnb" xmlUrl="http://nerds.airbnb.com/feed/" htmlUrl="http://nerds.airbnb.com/"/>
       <outline type="rss" text="AirPair" title="AirPair" xmlUrl="https://www.airpair.com/rss" htmlUrl="https://www.airpair.com/posts"/>
       <outline type="rss" text="Algolia" title="Algolia" xmlUrl="https://blog.algolia.com/feed/" htmlUrl="https://blog.algolia.com/"/>
-      <outline type="rss" text="Allegro" title="Allegro" xmlUrl="http://allegrotech.io/feed.xml" htmlUrl="http://allegrotech.io"/>
+      <outline type="rss" text="Allegro" title="Allegro" xmlUrl="http://allegrotech.io/feed" htmlUrl="http://allegrotech.io"/>
       <outline type="rss" text="AlphaSights" title="AlphaSights" xmlUrl="http://engineering-blog.alphasights.com/rss" htmlUrl="http://engineering-blog.alphasights.com/"/>
       <outline type="rss" text="Arkency" title="Arkency" xmlUrl="http://feeds.feedburner.com/arkency.xml" htmlUrl="http://blog.arkency.com/"/>
       <outline type="rss" text="Artsy" title="Artsy" xmlUrl="http://artsy.github.io/atom.xml" htmlUrl="http://artsy.github.io/"/>
       <outline type="rss" text="Asana" title="Asana" xmlUrl="https://eng.asana.com/feed/" htmlUrl="https://eng.asana.com/"/>
       <outline type="rss" text="Atlassian" title="Atlassian" xmlUrl="https://developer.atlassian.com/blog/feed.xml" htmlUrl="https://developer.atlassian.com/blog/"/>
-      <outline type="rss" text="Auth0" title="Auth0" xmlUrl="http://feeds.feedburner.com/auth0" htmlUrl="https://auth0.com/blog/"/>
+      <outline type="rss" text="Auth0" title="Auth0" xmlUrl="https://auth0.com/blog/rss.xml" htmlUrl="https://auth0.com/blog/"/>
       <outline type="rss" text="AWeber" title="AWeber" xmlUrl="http://engineering.aweber.com/feed/" htmlUrl="http://engineering.aweber.com/"/>
       <outline type="rss" text="Azavea" title="Azavea" xmlUrl="http://www.azavea.com/blogs/labs/feed/" htmlUrl="http://www.azavea.com/blogs/labs/"/>
       <outline type="rss" text="Badoo" title="Badoo" xmlUrl="https://techblog.badoo.com/feed.xml" htmlUrl="https://techblog.badoo.com/"/>
@@ -67,7 +67,7 @@
       <outline type="rss" text="Envato" title="Envato" xmlUrl="http://webuild.envato.com/atom.xml" htmlUrl="http://webuild.envato.com/"/>
       <outline type="rss" text="Etsy" title="Etsy" xmlUrl="https://codeascraft.com/feed/" htmlUrl="https://codeascraft.com/"/>
       <outline type="rss" text="Eventbrite" title="Eventbrite" xmlUrl="https://engineering.eventbrite.com/feed/" htmlUrl="https://engineering.eventbrite.com/"/>
-      <outline type="rss" text="Evernote" title="Evernote" xmlUrl="http://blog.evernote.com/feed/" htmlUrl="https://blog.evernote.com/tech/"/>
+      <outline type="rss" text="Evernote" title="Evernote" xmlUrl="https://blog.evernote.com/feed/" htmlUrl="https://blog.evernote.com/tech/"/>
       <outline type="rss" text="EverythingMe" title="EverythingMe" xmlUrl="http://geeks.everything.me/rss" htmlUrl="http://geeks.everything.me/"/>
       <outline type="rss" text="Facebook" title="Facebook" xmlUrl="https://code.facebook.com/posts/rss" htmlUrl="https://code.facebook.com/posts/"/>
       <outline type="rss" text="Facebook AI Research" title="Facebook AI Research" xmlUrl="https://research.facebook.com/blog/rss" htmlUrl="https://research.facebook.com/blog/ai/"/>
@@ -88,7 +88,7 @@
       <outline type="rss" text="GoCardless" title="GoCardless" xmlUrl="https://gocardless.com/blog/atom.xml" htmlUrl="https://gocardless.com/blog/tagged/engineering/"/>
       <outline type="rss" text="Good Eggs" title="Good Eggs" xmlUrl="http://bites.goodeggs.com/rss" htmlUrl="http://bites.goodeggs.com/"/>
       <outline type="rss" text="GoSquared" title="GoSquared" xmlUrl="https://engineering.gosquared.com/feed" htmlUrl="https://engineering.gosquared.com/"/>
-      <outline type="rss" text="Grammarly" title="Grammarly" xmlUrl="http://tech.grammarly.com/blog/blog/rss.xml" htmlUrl="http://tech.grammarly.com"/>
+      <outline type="rss" text="Grammarly" title="Grammarly" xmlUrl="http://tech.grammarly.com/blog/rss.xml" htmlUrl="http://tech.grammarly.com"/>
       <outline type="rss" text="Grouper" title="Grouper" xmlUrl="http://eng.joingrouper.com/atom.xml" htmlUrl="http://eng.joingrouper.com/"/>
       <outline type="rss" text="Groupon" title="Groupon" xmlUrl="https://engineering.groupon.com/feed/" htmlUrl="https://engineering.groupon.com/"/>
       <outline type="rss" text="Guardian" title="Guardian" xmlUrl="http://www.theguardian.com/info/developer-blog/rss" htmlUrl="http://www.theguardian.com/info/developer-blog"/>
@@ -151,7 +151,6 @@
       <outline type="rss" text="Parse" title="Parse" xmlUrl="http://blog.parse.com/feed/" htmlUrl="http://blog.parse.com/"/>
       <outline type="rss" text="Paypal" title="Paypal" xmlUrl="https://devblog.paypal.com/feed/" htmlUrl="https://devblog.paypal.com/category/engineering/"/>
       <outline type="rss" text="Periscope" title="Periscope" xmlUrl="https://www.periscope.io/blog/atom.xml" htmlUrl="https://www.periscope.io/blog/"/>
-      <outline type="rss" text="Pinterest" title="Pinterest" xmlUrl="http://engineering.pinterest.com/rss" htmlUrl="http://engineering.pinterest.com/"/>
       <outline type="rss" text="Polyvore" title="Polyvore" xmlUrl="http://engblog.polyvore.com/feeds/posts/default" htmlUrl="http://engblog.polyvore.com/"/>
       <outline type="rss" text="Postmark" title="Postmark" xmlUrl="http://blog.postmarkapp.com/rss" htmlUrl="http://blog.postmarkapp.com/"/>
       <outline type="rss" text="Prezi" title="Prezi" xmlUrl="https://medium.com/feed/prezi-engineering" htmlUrl="https://medium.com/prezi-engineering"/>
