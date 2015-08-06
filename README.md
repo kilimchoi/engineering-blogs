@@ -266,9 +266,9 @@
 * Cocoa Is My Girlfriend http://www.cimgf.com/
 * Code Better http://codebetter.com/
 * Codrops http://tympanus.net/codrops/
-* Daily JS http://dailyjs.com/
 * Dan North http://dannorth.net/blog/
 * Daniel Doubrovkine (dB.) http://code.dblock.org/
+* Daily JS http://dailyjs.com/
 * Dave Beazley http://www.dabeaz.com/blog.html
 * Dave Cheney http://dave.cheney.net/
 * David Walsh http://davidwalsh.name/
@@ -295,8 +295,8 @@
 * Jake Yesbeck http://jakeyesbeck.com/
 * James Long http://jlongster.com/archive
 * Jeff Atwood http://blog.codinghorror.com/
-* Jessie Frazelle https://blog.jessfraz.com/
 * Jesus Castello http://www.blackbytes.info/
+* Jessie Frazelle https://blog.jessfraz.com/
 * Joel Spolsky http://www.joelonsoftware.com/
 * John Resig http://ejohn.org/
 * Jon Skeet http://codeblog.jonskeet.uk/
@@ -318,16 +318,16 @@
 * Matt Cutts https://www.mattcutts.com/blog/
 * Matt Might http://matt.might.net/articles/
 * Michael Becker http://beckerfuffle.com/
-* Michael Herman http://mherman.org/
 * Michaël Gallego http://www.michaelgallego.fr/
+* Michael Herman http://mherman.org/
 * Mike Ash https://www.mikeash.com/pyblog/
 * Mike Fogus http://blog.fogus.me/
-* NSHipster http://nshipster.com/
 * Nic Raboy https://blog.nraboy.com/
 * Nick Desaulniers https://nickdesaulniers.github.io/
 * Nicolas Liochon http://blog.thislongrun.com/
 * Nikola Brežnjak http://www.nikola-breznjak.com/blog/
 * Nikolay Nemshilov http://nikolay.rocks/
+* NSHipster http://nshipster.com/
 * Ole Begemann http://oleb.net/blog/
 * Oona Räisänen http://www.windytan.com/
 * Pamela Fox http://www.pamelafox.org/blogposts
@@ -351,9 +351,9 @@
 * Real Python https://realpython.com/blog
 * Reginald Braithwaite http://raganwald.com/#essays
 * Regular Geek http://regulargeek.com/
-* Robert C. Martin http://blog.cleancoder.com/
-* Robin Ward http://eviltrout.com/
 * Rémi Delhaye http://blog.rdlh.io/
+* Robin Ward http://eviltrout.com/
+* Robert C. Martin http://blog.cleancoder.com/
 * Sam Saffron http://samsaffron.com/
 * Scott Hanselman http://www.hanselman.com/blog/
 * Simon Reimler http://www.devdactic.com/
