@@ -126,6 +126,7 @@
 * Medallia http://engineering.medallia.com/blog/
 * Medium http://medium.com/medium-eng
 * MemSQL http://blog.memsql.com/content/engineering/
+* Mixmax https://mixmax.com/engineering
 * Mixpanel http://code.mixpanel.com
 * Monetate http://engineering.monetate.com/
 * MoneyBird http://engineering.moneybird.com/
