@@ -342,6 +342,7 @@
 * Philip Walton http://philipwalton.com/
 * Piotr Wittchen http://blog.wittchen.biz.pl/
 * Practicing Ruby https://practicingruby.com/
+* Prashant Pandey https://potentialmind.wordpress.com/2015/07/28/any-one-can-code-dive-into-this-awesome-world/
 * Radek Pazdera http://radek.io
 * Radim Řehůřek http://radimrehurek.com/blog/
 * Ramon Fried https://nativeguru.wordpress.com/
