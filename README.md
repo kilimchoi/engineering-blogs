@@ -313,6 +313,7 @@
 * Leo http://leo.github.io
 * Lerner Consulting Blog http://blog.lerner.co.il/
 * Life Plus Linux http://lifepluslinux.blogspot.in/
+* Manu Sporny http://manu.sporny.org/
 * Marc Plano-Lesay http://enoent.fr
 * Marco Pivetta http://ocramius.github.io/
 * Martin Fowler http://martinfowler.com/
