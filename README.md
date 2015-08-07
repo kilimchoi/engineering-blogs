@@ -80,6 +80,7 @@
 * Honeybadger http://blog.honeybadger.io/
 * Hootsuite http://code.hootsuite.com/
 * Hoteltonight http://engineering.hoteltonight.com/
+* Huddle http://tldr.huddle.com/
 * IMVU http://engineering.imvu.com/
 * Indeed http://engineering.indeed.com/blog/
 * Instagram http://instagram-engineering.tumblr.com/
