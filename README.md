@@ -100,6 +100,7 @@
 * Hootsuite http://code.hootsuite.com/
 * Hoteltonight http://engineering.hoteltonight.com/
 * HubSpot http://product.hubspot.com/blog/topic/engineering
+* Huddle http://tldr.huddle.com/
 * IFTTT http://engineering.ifttt.com/
 * IMVU http://engineering.imvu.com/
 * Indeed http://engineering.indeed.com/blog/
