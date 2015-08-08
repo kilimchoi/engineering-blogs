@@ -86,6 +86,7 @@
 * Gnip https://engineering.gnip.com/
 * GoCardless https://gocardless.com/blog/tagged/engineering/
 * Good Eggs http://bites.goodeggs.com/
+* Google Online Security http://googleonlinesecurity.blogspot.com/
 * GoSquared https://engineering.gosquared.com/
 * Grammarly http://tech.grammarly.com
 * Grouper http://eng.joingrouper.com/
@@ -288,7 +289,6 @@
 * Fatih Arslan http://arslan.io/
 * Gleb Bahmutov http://glebbahmutov.com/blog/
 * Gonto http://gon.to/blog/
-* Google Online Security http://googleonlinesecurity.blogspot.com/
 * Guido van Rossum http://neopythonic.blogspot.com/
 * Guilherme Rodrigues http://firstdoit.com/
 * High Scalability http://highscalability.com/blog/
