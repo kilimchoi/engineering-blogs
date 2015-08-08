@@ -288,6 +288,7 @@
 * Fatih Arslan http://arslan.io/
 * Gleb Bahmutov http://glebbahmutov.com/blog/
 * Gonto http://gon.to/blog/
+* Google Online Security http://googleonlinesecurity.blogspot.com/
 * Guido van Rossum http://neopythonic.blogspot.com/
 * Guilherme Rodrigues http://firstdoit.com/
 * High Scalability http://highscalability.com/blog/
