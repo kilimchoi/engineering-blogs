@@ -86,6 +86,7 @@
 * Gnip https://engineering.gnip.com/
 * GoCardless https://gocardless.com/blog/tagged/engineering/
 * Good Eggs http://bites.goodeggs.com/
+* Google Online Security http://googleonlinesecurity.blogspot.com/
 * GoSquared https://engineering.gosquared.com/
 * Grammarly http://tech.grammarly.com
 * Grouper http://eng.joingrouper.com/
