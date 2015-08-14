@@ -221,9 +221,9 @@
 * Wayfair http://engineering.wayfair.com/
 * Wealthfront http://eng.wealthfront.com/
 * WebEngage http://engineering.webengage.com/
+* Wimdu http://tech.wimdu.com/
 * Wingify http://engineering.wingify.com/
 * Wix http://engineering.wix.com/
-* Wimdu http://tech.wimdu.com/
 * Wonga Technology http://tech.wonga.com/
 * XING https://devblog.xing.com/
 * XO Group http://tech.xogroupinc.com/
