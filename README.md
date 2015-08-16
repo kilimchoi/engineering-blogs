@@ -80,9 +80,9 @@
 * Future Processing http://www.future-processing.pl/technical-blog/
 * Galois https://galois.com/blog/
 * GameChanger http://tech.gc.com/
+* Gilt http://tech.gilt.com
 * GitHub http://githubengineering.com/
 * GitHub Old https://github.com/blog/category/engineering
-* Gilt http://tech.gilt.com
 * Gnip https://engineering.gnip.com/
 * GoCardless https://gocardless.com/blog/tagged/engineering/
 * Good Eggs http://bites.goodeggs.com/
@@ -115,8 +115,8 @@
 * Klout http://engineering.klout.com/
 * Laterooms http://engineering.laterooms.com/
 * LINE http://developers.linecorp.com/blog/
-* LinkedIn https://engineering.linkedin.com/blog
 * Linkedcare https://medium.com/the-engineering-team
+* LinkedIn https://engineering.linkedin.com/blog
 * LiveChat http://developers.livechatinc.com/blog/
 * LiveRamp http://liveramp.com/engineering/
 * LivingSocial https://techblog.livingsocial.com/
@@ -133,9 +133,9 @@
 * Monetate http://engineering.monetate.com/
 * MoneyBird http://engineering.moneybird.com/
 * Monsanto http://engineering.monsanto.com/
+* Moove-it http://blog.moove-it.com/
 * Mozilla Automation Team http://planet.mozilla.org/ateam/
 * Mozilla Release Engineering http://planet.mozilla.org/releng/
-* Moove-it http://blog.moove-it.com/
 * Myntra http://myntra.github.io/
 * Myntra Data Science http://sartorialscience.myntrablogs.com/
 * nerdish by nature http://nerdishbynature.com/blog/
@@ -271,9 +271,9 @@
 * Cocoa Is My Girlfriend http://www.cimgf.com/
 * Code Better http://codebetter.com/
 * Codrops http://tympanus.net/codrops/
+* Daily JS http://dailyjs.com/
 * Dan North http://dannorth.net/blog/
 * Daniel Doubrovkine (dB.) http://code.dblock.org/
-* Daily JS http://dailyjs.com/
 * Dave Beazley http://www.dabeaz.com/blog.html
 * Dave Cheney http://dave.cheney.net/
 * David Walsh http://davidwalsh.name/
@@ -300,8 +300,8 @@
 * Jake Yesbeck http://jakeyesbeck.com/
 * James Long http://jlongster.com/archive
 * Jeff Atwood http://blog.codinghorror.com/
-* Jesus Castello http://www.blackbytes.info/
 * Jessie Frazelle https://blog.jessfraz.com/
+* Jesus Castello http://www.blackbytes.info/
 * Joel Spolsky http://www.joelonsoftware.com/
 * John Resig http://ejohn.org/
 * Jon Skeet http://codeblog.jonskeet.uk/
@@ -357,8 +357,8 @@
 * Reginald Braithwaite http://raganwald.com/#essays
 * Regular Geek http://regulargeek.com/
 * Rémi Delhaye http://blog.rdlh.io/
-* Robin Ward http://eviltrout.com/
 * Robert C. Martin http://blog.cleancoder.com/
+* Robin Ward http://eviltrout.com/
 * Sam Saffron http://samsaffron.com/
 * Scott Hanselman http://www.hanselman.com/blog/
 * Simon Reimler http://www.devdactic.com/
