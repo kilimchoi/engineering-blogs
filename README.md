@@ -168,6 +168,7 @@
 * Remind http://engineering.remind.com/
 * Rent the Runway http://dresscode.renttherunway.com/blog/
 * Rightscale http://eng.rightscale.com/
+* Riot Games http://engineering.riotgames.com/
 * RisingStack http://blog.risingstack.com/
 * Salesforce https://developer.salesforce.com/blogs/engineering/
 * Schibsted Tech Polska http://www.schibsted.pl/blog/
