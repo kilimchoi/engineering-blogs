@@ -33,6 +33,7 @@
 * Box https://www.box.com/blog/engineering/
 * Boxever http://www.boxever.com/tech-blog
 * Brandwatch http://engineering.brandwatch.com/
+* Buffer https://overflow.bufferapp.com/
 * Buzzfeed http://www.buzzfeed.com/techblog
 * Canva https://engineering.canva.com
 * Carbon Five http://blog.carbonfive.com/
