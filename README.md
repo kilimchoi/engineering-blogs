@@ -295,6 +295,7 @@
 * Guido van Rossum http://neopythonic.blogspot.com/
 * Guilherme Rodrigues http://firstdoit.com/
 * High Scalability http://highscalability.com/blog/
+* Idontgetoutmuch's Weblog https://idontgetoutmuch.wordpress.com/
 * Ilija Eftimov http://rubylogs.com/
 * Ilya Grigorik https://www.igvita.com/
 * Jacopo Tarantino https://jack.ofspades.com/
