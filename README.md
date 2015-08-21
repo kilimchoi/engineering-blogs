@@ -286,6 +286,7 @@
 * Eli Bendersky http://eli.thegreenplace.net/
 * Eric Lippert http://ericlippert.com/
 * Evan Hahn http://evanhahn.com/
+* Evan Miller http://evanmiller.org/
 * Evan Tahler http://blog.evantahler.com/
 * Fabrizio Branca http://fbrnc.net/
 * Fatih Arslan http://arslan.io/
