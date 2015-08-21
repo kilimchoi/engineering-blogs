@@ -297,6 +297,7 @@
       <outline type="rss" text="Jon Skeet" title="Jon Skeet" xmlUrl="http://codeblog.jonskeet.uk/feed/" htmlUrl="http://codeblog.jonskeet.uk/"/>
       <outline type="rss" text="Jonathan Dekhtiar" title="Jonathan Dekhtiar" xmlUrl="http://rss.jonathandekhtiar.eu/rss/" htmlUrl="http://rss.jonathandekhtiar.eu/"/>
       <outline type="rss" text="Jonathan Snook" title="Jonathan Snook" xmlUrl="http://snook.ca/jonathan/index.rdf" htmlUrl="http://snook.ca/"/>
+      <outline type="rss" text="Josh Levine" title="Josh Levine" xmlUrl="http://wp.josh.com/feed/" htmlUrl="http://wp.josh.com/"/>
       <outline type="rss" text="Justin Weiss" title="Justin Weiss" xmlUrl="http://www.justinweiss.com/atom.xml" htmlUrl="http://www.justinweiss.com/blog/"/>
       <outline type="rss" text="Kevin Burke" title="Kevin Burke" xmlUrl="https://kev.inburke.com/feed/" htmlUrl="https://kev.inburke.com/"/>
       <outline type="rss" text="Kyle Kingsbury" title="Kyle Kingsbury" xmlUrl="https://aphyr.com/posts.atom" htmlUrl="https://aphyr.com/"/>
