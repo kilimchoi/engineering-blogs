@@ -308,6 +308,7 @@
 * Jon Skeet http://codeblog.jonskeet.uk/
 * Jonathan Dekhtiar http://rss.jonathandekhtiar.eu/
 * Jonathan Snook http://snook.ca/
+* Josh Levine http://wp.josh.com/
 * Justin Weiss http://www.justinweiss.com/blog/
 * Kevin Burke https://kev.inburke.com/
 * Kyle Kingsbury https://aphyr.com/
