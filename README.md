@@ -1,6 +1,8 @@
 # Software Engineering Blogs [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-**Companies**
+### Companies
+
+#### A .companies
 * 2359 Media http://engineering.2359media.net/
 * 500px http://developers.500px.com/
 * 8th Light http://blog.8thlight.com/
@@ -242,7 +244,7 @@
 * Zumba http://tech.zumba.com/
 * Zynga https://zynga.com/blogs/engineering/
 
-**Individuals/Group Contributors**
+### Individuals/Group Contributors
 * A List Apart http://alistapart.com/
 * Aaron Patterson http://tenderlovemaking.com/
 * Adam Leventhal http://dtrace.org/blogs/ahl/
