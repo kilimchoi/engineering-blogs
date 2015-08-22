@@ -1,9 +1,27 @@
 # Software Engineering Blogs [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-**Companies**
+### [Companies](#companies-1)
+|     |     |     |     |     |     |     |     |     |
+|:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |
+| [#](#-companies) 	| [A](#a-companies) 	| [B](#b-companies) 	| [C](#c-companies) 	| [D](#d-companies) 	| [E](#e-companies) 	| [F](#f-companies) 	| [G](#g-companies) 	| [H](#h-companies) 	|
+| [I](#i-companies) 	| [J](#j-companies) 	| [K](#k-companies) 	| [L](#l-companies) 	| [M](#m-companies) 	| [N](#n-companies) 	| [O](#o-companies) 	| [P](#p-companies) 	| [Q](#q-companies) 	|
+| [R](#r-companies) 	| [S](#s-companies) 	| [T](#t-companies) 	| [U](#u-companies) 	| [V](#v-companies) 	| [W](#w-companies) 	| [X](#x-companies) 	| [Y](#y-companies) 	| [Z](#z-companies)  	|
+
+### [Individuals/Group Contributors](#individualsgroup-contributors-1)
+|   	|   	|   	|   	|   	|   	|   	|   	|   	|
+|:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |
+| [#](#-individuals) 	| [A](#a-individuals) 	| [B](#b-individuals) 	| [C](#c-individuals) 	| [D](#d-individuals) 	| [E](#e-individuals) 	| [F](#f-individuals) 	| [G](#g-individuals) 	| [H](#h-individuals) 	|
+| [I](#i-individuals) 	| [J](#j-individuals) 	| [K](#k-individuals) 	| [L](#l-individuals) 	| [M](#m-individuals) 	| [N](#n-individuals) 	| [O](#o-individuals) 	| [P](#p-individuals) 	| [Q](#q-individuals) 	|
+| [R](#r-individuals) 	| [S](#s-individuals) 	| [T](#t-individuals) 	| [U](#u-individuals) 	| [V](#v-individuals) 	| [W](#w-individuals) 	| [X](#x-individuals) 	| [Y](#y-individuals) 	| [Z](#z-individuals)  	|
+
+### Companies
+
+#### \# companies
 * 2359 Media http://engineering.2359media.net/
 * 500px http://developers.500px.com/
 * 8th Light http://blog.8thlight.com/
+
+#### A companies
 * AdRoll http://tech.adroll.com/blog/
 * Adzerk http://adzerk.com/tech/
 * Airbnb http://nerds.airbnb.com/
@@ -18,6 +36,8 @@
 * Auth0 https://auth0.com/blog/
 * AWeber http://engineering.aweber.com/
 * Azavea http://www.azavea.com/blogs/labs/
+
+#### B companies
 * Badoo https://techblog.badoo.com/
 * Bandcamp http://bandcamptech.wordpress.com/
 * Base Lab https://lab.getbase.com/category/engineering/
@@ -34,6 +54,8 @@
 * Boxever http://www.boxever.com/tech-blog
 * Brandwatch http://engineering.brandwatch.com/
 * Buzzfeed http://www.buzzfeed.com/techblog
+
+#### C companies
 * Canva https://engineering.canva.com
 * Carbon Five http://blog.carbonfive.com/
 * Cerner http://engineering.cerner.com/
@@ -51,6 +73,8 @@
 * Confluent http://blog.confluent.io/
 * Coolblue http://devblog.coolblue.nl/
 * Criteo http://engineering.criteolabs.com/
+
+#### D companies
 * Databricks https://databricks.com/blog
 * DataFox http://eng.datafox.co/
 * DataRank http://engineering.datarank.com/
@@ -59,6 +83,8 @@
 * DigitalOcean https://www.digitalocean.com/community/tutorials
 * Docker http://blog.docker.com/category/engineering/
 * Dropbox https://blogs.dropbox.com/tech/
+
+#### E companies
 * Ebay http://www.ebaytechblog.com/
 * Eharmony http://www.eharmony.com/engineering/
 * Engine Yard https://blog.engineyard.com/
@@ -67,6 +93,8 @@
 * Eventbrite https://engineering.eventbrite.com/
 * Evernote https://blog.evernote.com/tech/
 * EverythingMe http://geeks.everything.me/
+
+#### F companies
 * Facebook https://code.facebook.com/posts/
 * Facebook AI Research https://research.facebook.com/blog/ai/
 * Fiftythree http://making.fiftythree.com/
@@ -78,6 +106,8 @@
 * Foursquare http://engineering.foursquare.com/
 * Funding Circle https://engineering.fundingcircle.com/
 * Future Processing http://www.future-processing.pl/technical-blog/
+
+#### G companies
 * Galois https://galois.com/blog/
 * GameChanger http://tech.gc.com/
 * Gilt http://tech.gilt.com
@@ -92,6 +122,8 @@
 * Grouper http://eng.joingrouper.com/
 * Groupon https://engineering.groupon.com/
 * Guardian http://www.theguardian.com/info/developer-blog
+
+#### H companies
 * HackerEarth http://engineering.hackerearth.com/
 * Harry's http://engineering.harrys.com/
 * Hashrocket http://hashrocket.com/blog
@@ -102,17 +134,25 @@
 * Hoteltonight http://engineering.hoteltonight.com/
 * HubSpot http://product.hubspot.com/blog/topic/engineering
 * Huddle http://tldr.huddle.com/
+
+#### I companies
 * IFTTT http://engineering.ifttt.com/
 * IMVU http://engineering.imvu.com/
 * Indeed http://engineering.indeed.com/blog/
 * Instagram http://instagram-engineering.tumblr.com/
 * Intent HQ http://engineering.intenthq.com/
 * Intent Media http://intentmedia.com/blog/
+
+#### J companies
 * Jane Street https://blogs.janestreet.com/
 * Just Eat http://tech.just-eat.com/
+
+#### K companies
 * Khan Academy http://engineering.khanacademy.org
 * Kickstarter https://www.kickstarter.com/backing-and-hacking
 * Klout http://engineering.klout.com/
+
+#### L companies
 * Laterooms http://engineering.laterooms.com/
 * LINE http://developers.linecorp.com/blog/
 * Linkedcare https://medium.com/the-engineering-team
@@ -122,6 +162,8 @@
 * LivingSocial https://techblog.livingsocial.com/
 * Localytics http://eng.localytics.com/
 * Lookout http://hackers.lookout.com/
+
+#### M companies
 * Magnet.me https://labs.magnet.me
 * MailChimp http://devs.mailchimp.com/blog/
 * Mandrill http://blog.mandrill.com/
@@ -138,18 +180,24 @@
 * Mozilla Release Engineering http://planet.mozilla.org/releng/
 * Myntra http://myntra.github.io/
 * Myntra Data Science http://sartorialscience.myntrablogs.com/
+
+#### N companies
 * nerdish by nature http://nerdishbynature.com/blog/
 * Netflix http://techblog.netflix.com/
 * New York Times http://open.blogs.nytimes.com
 * Nextdoor https://engblog.nextdoor.com/
 * Nordic APIs http://nordicapis.com/blog/
 * NPR Apps http://blog.apps.npr.org/
+
+#### O companies
 * Okta http://developer.okta.com/blog/
 * OpenDNS https://engineering.opendns.com/
 * OpenTable http://tech.opentable.com/
 * OpenTable UK http://tech.opentable.co.uk/
 * Oursky http://code.oursky.com/
 * Oyster http://tech.oyster.com/
+
+#### P companies
 * Paperless Post http://dev.paperlesspost.com/
 * Parse http://blog.parse.com/
 * Paypal https://devblog.paypal.com/category/engineering/
@@ -160,7 +208,11 @@
 * Prezi https://medium.com/prezi-engineering
 * Prismatic http://blog.getprismatic.com/
 * Prolific Interactive http://blog.prolificinteractive.com/category/development/
+
+#### Q companies
 * Quora http://engineering.quora.com/
+
+#### R companies
 * Raizlabs http://www.raizlabs.com/dev/
 * Rdio https://algorithms.rdio.com/
 * Redbubble http://artplustech.com/
@@ -170,6 +222,8 @@
 * Rightscale http://eng.rightscale.com/
 * Riot Games http://engineering.riotgames.com/
 * RisingStack http://blog.risingstack.com/
+
+#### S companies
 * Salesforce https://developer.salesforce.com/blogs/engineering/
 * Schibsted Tech Polska http://www.schibsted.pl/blog/
 * Semaphore CI Community https://semaphoreci.com/community
@@ -193,6 +247,8 @@
 * Strava http://engineering.strava.com/
 * Stride NYC http://www.stridenyc.com/blog/
 * Stripe https://stripe.com/blog
+
+#### T companies
 * Takipi http://blog.takipi.com/
 * TaskRabbit http://tech.taskrabbit.com/
 * theScore http://techblog.thescore.com/
@@ -208,8 +264,12 @@
 * Tumblr http://engineering.tumblr.com/
 * Twilio https://www.twilio.com/engineering/
 * Twitter https://blog.twitter.com/engineering
+
+#### U companies
 * Uber http://eng.uber.com/
 * UnderArmour http://engineering.underarmour.com/
+
+#### V companies
 * Venmo http://engineering.venmo.com/
 * VersionEye http://blog.versioneye.com/
 * Viget http://viget.com/extend
@@ -217,6 +277,8 @@
 * Vine http://engineering.vine.co/
 * Vinted http://engineering.vinted.com/
 * VNGRS http://blog.vngrs.com/
+
+#### W companies
 * Warby Parker http://www.theoculists.com/
 * Wattpad http://engineering.wattpad.com/
 * Wayfair http://engineering.wayfair.com/
@@ -226,13 +288,19 @@
 * Wingify http://engineering.wingify.com/
 * Wix http://engineering.wix.com/
 * Wonga Technology http://tech.wonga.com/
+
+#### X companies
 * XING https://devblog.xing.com/
 * XO Group http://tech.xogroupinc.com/
 * Xoom http://dev-blog.xoom.com/
+
+#### Y companies
 * Yahoo http://yahooeng.tumblr.com/
 * Yalantis http://yalantis.com/blog/
 * Yelp http://engineeringblog.yelp.com/
 * YLD! http://blog.yld.io
+
+#### Z companies
 * Zalando https://tech.zalando.com/blog/
 * Zendesk https://developer.zendesk.com/blog
 * ZenPayroll http://engineering.zenpayroll.com/
@@ -242,7 +310,9 @@
 * Zumba http://tech.zumba.com/
 * Zynga https://zynga.com/blogs/engineering/
 
-**Individuals/Group Contributors**
+### Individuals/Group Contributors
+
+#### A individuals
 * A List Apart http://alistapart.com/
 * Aaron Patterson http://tenderlovemaking.com/
 * Adam Leventhal http://dtrace.org/blogs/ahl/
@@ -259,6 +329,8 @@
 * Antirez http://antirez.com/latest/0
 * Ariya Hidayat http://ariya.ofilabs.com/
 * Armin Ronacher http://lucumr.pocoo.org/
+
+#### B individuals
 * Bad Concurrency http://bad-concurrency.blogspot.com/
 * Barry Warsaw http://www.wefearchange.org/
 * Bill the Lizard http://www.billthelizard.com/
@@ -267,11 +339,15 @@
 * Brandon Rhodes http://rhodesmill.org/brandon/
 * Brendan Eich https://brendaneich.com/
 * Brendan Gregg http://www.brendangregg.com/blog/
+
+#### C individuals
 * Carlos Becker http://carlosbecker.com
 * Chris Wellons http://nullprogram.com/
 * Cocoa Is My Girlfriend http://www.cimgf.com/
 * Code Better http://codebetter.com/
 * Codrops http://tympanus.net/codrops/
+
+#### D individuals
 * Daily JS http://dailyjs.com/
 * Dan North http://dannorth.net/blog/
 * Daniel Doubrovkine (dB.) http://code.dblock.org/
@@ -282,22 +358,34 @@
 * Deborah Digges http://deborah-digges.github.io/
 * Dereuromark http://www.dereuromark.de/
 * Ducode.org https://ducode.org/tag/tutorial
+
+#### E individuals
 * Elegant Code http://elegantcode.com/
 * Eli Bendersky http://eli.thegreenplace.net/
 * Eric Lippert http://ericlippert.com/
 * Evan Hahn http://evanhahn.com/
 * Evan Miller http://evanmiller.org/
 * Evan Tahler http://blog.evantahler.com/
+
+#### F individuals
 * Fabrizio Branca http://fbrnc.net/
 * Fatih Arslan http://arslan.io/
+
+#### G individuals
 * Gleb Bahmutov http://glebbahmutov.com/blog/
 * Gonto http://gon.to/blog/
 * Guido van Rossum http://neopythonic.blogspot.com/
 * Guilherme Rodrigues http://firstdoit.com/
+
+#### H individuals
 * High Scalability http://highscalability.com/blog/
+
+#### I individuals
 * Idontgetoutmuch's Weblog https://idontgetoutmuch.wordpress.com/
 * Ilija Eftimov http://rubylogs.com/
 * Ilya Grigorik https://www.igvita.com/
+
+#### J individuals
 * Jacopo Tarantino https://jack.ofspades.com/
 * Jake Wharton http://jakewharton.com/blog
 * Jake Yesbeck http://jakeyesbeck.com/
@@ -311,14 +399,20 @@
 * Jonathan Dekhtiar http://rss.jonathandekhtiar.eu/
 * Jonathan Snook http://snook.ca/
 * Justin Weiss http://www.justinweiss.com/blog/
+
+#### K individuals
 * Kevin Burke https://kev.inburke.com/
 * Kyle Kingsbury https://aphyr.com/
+
+#### L individuals
 * Lambda the Ultimate http://lambda-the-ultimate.org/
 * Larry Land http://lg.io/
 * Lea Verou http://lea.verou.me/
 * Leo http://leo.github.io
 * Lerner Consulting Blog http://blog.lerner.co.il/
 * Life Plus Linux http://lifepluslinux.blogspot.in/
+
+#### M individuals
 * Manu Sporny http://manu.sporny.org/
 * Marc Plano-Lesay http://enoent.fr
 * Marco Pivetta http://ocramius.github.io/
@@ -330,14 +424,20 @@
 * Michael Herman http://mherman.org/
 * Mike Ash https://www.mikeash.com/pyblog/
 * Mike Fogus http://blog.fogus.me/
+
+#### N individuals
 * Nic Raboy https://blog.nraboy.com/
 * Nick Desaulniers https://nickdesaulniers.github.io/
 * Nicolas Liochon http://blog.thislongrun.com/
 * Nikola Brežnjak http://www.nikola-breznjak.com/blog/
 * Nikolay Nemshilov http://nikolay.rocks/
 * NSHipster http://nshipster.com/
+
+#### O individuals
 * Ole Begemann http://oleb.net/blog/
 * Oona Räisänen http://www.windytan.com/
+
+#### P individuals
 * Pamela Fox http://www.pamelafox.org/blogposts
 * Pat Shaughnessy http://patshaughnessy.net/
 * Paul Graham http://www.paulgraham.com/articles.html
@@ -351,6 +451,8 @@
 * Philip Walton http://philipwalton.com/
 * Piotr Wittchen http://blog.wittchen.biz.pl/
 * Practicing Ruby https://practicingruby.com/
+
+#### R individuals
 * Radek Pazdera http://radek.io
 * Radim Řehůřek http://radimrehurek.com/blog/
 * Ramon Fried https://nativeguru.wordpress.com/
@@ -362,6 +464,8 @@
 * Rémi Delhaye http://blog.rdlh.io/
 * Robert C. Martin http://blog.cleancoder.com/
 * Robin Ward http://eviltrout.com/
+
+#### S individuals
 * Sam Saffron http://samsaffron.com/
 * Scott Hanselman http://www.hanselman.com/blog/
 * Simon Reimler http://www.devdactic.com/
@@ -370,17 +474,29 @@
 * Steve Yegge http://steve-yegge.blogspot.com/
 * Swift Offical Dev Blog https://developer.apple.com/swift/blog/
 * Swizec Teller http://swizec.com/blog/
+
+#### T individuals
 * Technotalkative http://www.technotalkative.com/
 * That Thing In Swift https://thatthinginswift.com/
 * The Daily WTF http://thedailywtf.com/
 * Thomas Young http://upcoder.com
+
+#### V individuals
 * Vanilla Java http://vanillajava.blogspot.com/
+
+#### W individuals
 * William Kennedy http://www.goinggo.net/
 * Winston Chen http://www.winstonchen.co/
+
+#### Y individuals
 * Yegor Bugayenko http://www.yegor256.com/
 * Yifan Lu http://yifan.lu/
+
+#### Z individuals
 * Zach Holman http://zachholman.com/
 * Zolmeister https://zolmeister.com/
+
+----
 
 # RSS feeds
 
