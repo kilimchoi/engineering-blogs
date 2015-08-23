@@ -76,6 +76,7 @@
 * Criteo http://engineering.criteolabs.com/
 
 #### D companies
+* Data Artisans http://data-artisans.com/blog/
 * Databricks https://databricks.com/blog
 * DataFox http://eng.datafox.co/
 * DataRank http://engineering.datarank.com/
