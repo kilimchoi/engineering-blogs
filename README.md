@@ -147,7 +147,6 @@
 
 #### J companies
 * Jane Street https://blogs.janestreet.com/
-* Joyent https://www.joyent.com/blog/
 * Just Eat http://tech.just-eat.com/
 
 #### K companies

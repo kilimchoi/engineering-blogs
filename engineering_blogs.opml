@@ -113,7 +113,6 @@
       <outline type="rss" text="Intent HQ" title="Intent HQ" xmlUrl="http://engineering.intenthq.com/feed.xml" htmlUrl="http://engineering.intenthq.com/"/>
       <outline type="rss" text="Intent Media" title="Intent Media" xmlUrl="http://intentmedia.com/feed/" htmlUrl="http://intentmedia.com/blog/"/>
       <outline type="rss" text="Jane Street" title="Jane Street" xmlUrl="https://blogs.janestreet.com/rss" htmlUrl="https://blogs.janestreet.com/"/>
-      <outline type="rss" text="Joyent" title="Joyent" xmlUrl="https://www.joyent.com/blog/feed/" htmlUrl="https://www.joyent.com/blog"/>
       <outline type="rss" text="Just Eat" title="Just Eat" xmlUrl="http://tech.just-eat.com/feed/" htmlUrl="http://tech.just-eat.com/"/>
       <outline type="rss" text="Khan Academy" title="Khan Academy" xmlUrl="http://engineering.khanacademy.org/rss.xml" htmlUrl="http://engineering.khanacademy.org"/>
       <outline type="rss" text="Kickstarter" title="Kickstarter" xmlUrl="https://www.kickstarter.com/backing-and-hacking.atom" htmlUrl="https://www.kickstarter.com/backing-and-hacking"/>
