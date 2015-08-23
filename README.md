@@ -192,6 +192,7 @@
 
 #### O companies
 * Okta http://developer.okta.com/blog/
+* OmniTI http://omniti.com/seeds/
 * OpenDNS https://engineering.opendns.com/
 * OpenTable http://tech.opentable.com/
 * OpenTable UK http://tech.opentable.co.uk/
