@@ -34,6 +34,7 @@
 * Asana https://eng.asana.com/
 * Atlassian https://developer.atlassian.com/blog/
 * Auth0 https://auth0.com/blog/
+* Autodesk http://cloudengineering.autodesk.com/blog/
 * AWeber http://engineering.aweber.com/
 * Azavea http://www.azavea.com/blogs/labs/
 
