@@ -382,6 +382,7 @@
 
 #### H individuals
 * High Scalability http://highscalability.com/blog/
+* Huon Wilson http://huonw.github.io/
 
 #### I individuals
 * Idontgetoutmuch's Weblog https://idontgetoutmuch.wordpress.com/
