@@ -469,6 +469,7 @@
 * Rémi Delhaye http://blog.rdlh.io/
 * Robert C. Martin http://blog.cleancoder.com/
 * Robin Ward http://eviltrout.com/
+* Rudy Huyn http://rudyhuyn.com/blog/
 
 #### S individuals
 * Sam Saffron http://samsaffron.com/
