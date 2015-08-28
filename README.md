@@ -375,6 +375,7 @@
 #### F individuals
 * Fabrizio Branca http://fbrnc.net/
 * Fatih Arslan http://arslan.io/
+* Freek Van der Herten https://murze.be/
 
 #### G individuals
 * Gleb Bahmutov http://glebbahmutov.com/blog/
