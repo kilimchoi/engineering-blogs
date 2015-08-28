@@ -360,6 +360,7 @@
 * David Walsh http://davidwalsh.name/
 * Dean Hume http://deanhume.com/
 * Deborah Digges http://deborah-digges.github.io/
+* Dennis Yurichev http://yurichev.com/blog/
 * Dereuromark http://www.dereuromark.de/
 * Ducode.org https://ducode.org/tag/tutorial
 
