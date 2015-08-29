@@ -152,6 +152,7 @@
 #### K companies
 * Khan Academy http://engineering.khanacademy.org
 * Kickstarter https://www.kickstarter.com/backing-and-hacking
+* Kifi http://eng.kifi.com/
 * Klout http://engineering.klout.com/
 
 #### L companies
