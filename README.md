@@ -88,6 +88,7 @@
 
 #### E companies
 * Ebay http://www.ebaytechblog.com/
+* eFounders https://medium.com/unexpected-token/
 * Eharmony http://www.eharmony.com/engineering/
 * Engine Yard https://blog.engineyard.com/
 * Envato http://webuild.envato.com/
@@ -154,6 +155,7 @@
 * Kickstarter https://www.kickstarter.com/backing-and-hacking
 * Kifi http://eng.kifi.com/
 * Klout http://engineering.klout.com/
+* Kogan.com http://devblog.kogan.com/
 
 #### L companies
 * Laterooms http://engineering.laterooms.com/
@@ -284,6 +286,7 @@
 * VNGRS http://blog.vngrs.com/
 
 #### W companies
+* Walmart http://www.walmartlabs.com/the-blog/
 * Warby Parker http://www.theoculists.com/
 * Wattpad http://engineering.wattpad.com/
 * Wayfair http://engineering.wayfair.com/
@@ -293,6 +296,7 @@
 * Wingify http://engineering.wingify.com/
 * Wix http://engineering.wix.com/
 * Wonga Technology http://tech.wonga.com/
+* WyeWorks http://wyeworks.com/blog/
 
 #### X companies
 * XING https://devblog.xing.com/
@@ -330,6 +334,7 @@
 * Allison Kaptur http://akaptur.com/
 * Anders Aarvik http://aarvik.dk/
 * Andrew Bancroft http://www.andrewcbancroft.com/
+* Andrew Ray http://blog.andrewray.me/
 * Andrey Akinshin http://aakinshin.net/en/blog/content/
 * Antirez http://antirez.com/latest/0
 * Ariya Hidayat http://ariya.ofilabs.com/
@@ -473,6 +478,7 @@
 * Robert C. Martin http://blog.cleancoder.com/
 * Robin Ward http://eviltrout.com/
 * Rudy Huyn http://rudyhuyn.com/blog/
+* Ruslan Spivak http://ruslanspivak.com/
 
 #### S individuals
 * Sam Saffron http://samsaffron.com/
