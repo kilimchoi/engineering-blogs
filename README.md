@@ -34,6 +34,7 @@
 * Asana https://eng.asana.com/
 * Atlassian https://developer.atlassian.com/blog/
 * Auth0 https://auth0.com/blog/
+* Autodesk http://cloudengineering.autodesk.com/blog/
 * AWeber http://engineering.aweber.com/
 * Azavea http://www.azavea.com/blogs/labs/
 
@@ -75,6 +76,7 @@
 * Criteo http://engineering.criteolabs.com/
 
 #### D companies
+* Data Artisans http://data-artisans.com/blog/
 * Databricks https://databricks.com/blog
 * DataFox http://eng.datafox.co/
 * DataRank http://engineering.datarank.com/
@@ -150,6 +152,7 @@
 #### K companies
 * Khan Academy http://engineering.khanacademy.org
 * Kickstarter https://www.kickstarter.com/backing-and-hacking
+* Kifi http://eng.kifi.com/
 * Klout http://engineering.klout.com/
 
 #### L companies
@@ -191,6 +194,7 @@
 
 #### O companies
 * Okta http://developer.okta.com/blog/
+* OmniTI http://omniti.com/seeds/
 * OpenDNS https://engineering.opendns.com/
 * OpenTable http://tech.opentable.com/
 * OpenTable UK http://tech.opentable.co.uk/
@@ -208,6 +212,7 @@
 * Prezi https://medium.com/prezi-engineering
 * Prismatic http://blog.getprismatic.com/
 * Prolific Interactive http://blog.prolificinteractive.com/category/development/
+* PullReview http://blog.8thcolor.com/
 
 #### Q companies
 * Quora http://engineering.quora.com/
@@ -356,6 +361,7 @@
 * David Walsh http://davidwalsh.name/
 * Dean Hume http://deanhume.com/
 * Deborah Digges http://deborah-digges.github.io/
+* Dennis Yurichev http://yurichev.com/blog/
 * Dereuromark http://www.dereuromark.de/
 * Ducode.org https://ducode.org/tag/tutorial
 
@@ -370,6 +376,7 @@
 #### F individuals
 * Fabrizio Branca http://fbrnc.net/
 * Fatih Arslan http://arslan.io/
+* Freek Van der Herten https://murze.be/
 
 #### G individuals
 * Gleb Bahmutov http://glebbahmutov.com/blog/
@@ -379,6 +386,7 @@
 
 #### H individuals
 * High Scalability http://highscalability.com/blog/
+* Huon Wilson http://huonw.github.io/
 
 #### I individuals
 * Idontgetoutmuch's Weblog https://idontgetoutmuch.wordpress.com/
