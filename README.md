@@ -293,6 +293,7 @@
 * Wingify http://engineering.wingify.com/
 * Wix http://engineering.wix.com/
 * Wonga Technology http://tech.wonga.com/
+* WyeWorks http://wyeworks.com/blog/
 
 #### X companies
 * XING https://devblog.xing.com/
