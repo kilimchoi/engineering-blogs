@@ -144,6 +144,7 @@
 * Instagram http://instagram-engineering.tumblr.com/
 * Intent HQ http://engineering.intenthq.com/
 * Intent Media http://intentmedia.com/blog/
+* Insight Data Engineering http://insightdataengineering.com/blog/
 
 #### J companies
 * Jane Street https://blogs.janestreet.com/
