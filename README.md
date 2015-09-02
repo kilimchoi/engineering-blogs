@@ -154,6 +154,7 @@
 * Kickstarter https://www.kickstarter.com/backing-and-hacking
 * Kifi http://eng.kifi.com/
 * Klout http://engineering.klout.com/
+* Kogan.com http://devblog.kogan.com/
 
 #### L companies
 * Laterooms http://engineering.laterooms.com/
