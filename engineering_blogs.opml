@@ -85,6 +85,7 @@
       <outline type="rss" text="GameChanger" title="GameChanger" xmlUrl="http://tech.gc.com/atom.xml" htmlUrl="http://tech.gc.com/"/>
       <outline type="rss" text="Gilt" title="Gilt" xmlUrl="http://tech.gilt.com/atom.xml" htmlUrl="http://tech.gilt.com"/>
       <outline type="rss" text="GitHub" title="GitHub" xmlUrl="http://githubengineering.com/atom.xml" htmlUrl="http://githubengineering.com/"/>
+      <outline type="rss" text="GitHub Old" title="GitHub Old" xmlUrl="https://github.com/blog/category/engineering.atom" htmlUrl="https://github.com/blog/category/engineering"/>
       <outline type="rss" text="Gnip" title="Gnip" xmlUrl="https://engineering.gnip.com/feed/" htmlUrl="https://engineering.gnip.com/"/>
       <outline type="rss" text="GoCardless" title="GoCardless" xmlUrl="https://gocardless.com/blog/atom.xml" htmlUrl="https://gocardless.com/blog/tagged/engineering/"/>
       <outline type="rss" text="Good Eggs" title="Good Eggs" xmlUrl="http://bites.goodeggs.com/rss" htmlUrl="http://bites.goodeggs.com/"/>
@@ -215,6 +216,7 @@
       <outline type="rss" text="Vine" title="Vine" xmlUrl="http://engineering.vine.co/rss" htmlUrl="http://engineering.vine.co/"/>
       <outline type="rss" text="Vinted" title="Vinted" xmlUrl="http://engineering.vinted.com/atom.xml" htmlUrl="http://engineering.vinted.com/"/>
       <outline type="rss" text="VNGRS" title="VNGRS" xmlUrl="http://feeds.feedburner.com/vngrsblog" htmlUrl="http://blog.vngrs.com/"/>
+      <outline type="rss" text="Walmart" title="Walmart" xmlUrl="http://www.walmartlabs.com/feed/" htmlUrl="http://www.walmartlabs.com/the-blog/"/>
       <outline type="rss" text="Warby Parker" title="Warby Parker" xmlUrl="http://www.theoculists.com/feed/" htmlUrl="http://www.theoculists.com/"/>
       <outline type="rss" text="Wattpad" title="Wattpad" xmlUrl="http://engineering.wattpad.com/rss" htmlUrl="http://engineering.wattpad.com/"/>
       <outline type="rss" text="Wayfair" title="Wayfair" xmlUrl="http://engineering.wayfair.com/feed/" htmlUrl="http://engineering.wayfair.com/"/>
