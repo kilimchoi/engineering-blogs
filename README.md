@@ -333,6 +333,7 @@
 * Allison Kaptur http://akaptur.com/
 * Anders Aarvik http://aarvik.dk/
 * Andrew Bancroft http://www.andrewcbancroft.com/
+* Andrew Ray http://blog.andrewray.me/
 * Andrey Akinshin http://aakinshin.net/en/blog/content/
 * Antirez http://antirez.com/latest/0
 * Ariya Hidayat http://ariya.ofilabs.com/
@@ -476,6 +477,7 @@
 * Robert C. Martin http://blog.cleancoder.com/
 * Robin Ward http://eviltrout.com/
 * Rudy Huyn http://rudyhuyn.com/blog/
+* Ruslan Spivak http://ruslanspivak.com/
 
 #### S individuals
 * Sam Saffron http://samsaffron.com/
