@@ -145,6 +145,7 @@
 * Instagram http://instagram-engineering.tumblr.com/
 * Intent HQ http://engineering.intenthq.com/
 * Intent Media http://intentmedia.com/blog/
+* Intercom https://blog.intercom.io/category/engineering/
 
 #### J companies
 * Jane Street https://blogs.janestreet.com/
