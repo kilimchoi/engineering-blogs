@@ -420,7 +420,7 @@
 * Lambda the Ultimate http://lambda-the-ultimate.org/
 * Larry Land http://lg.io/
 * Lea Verou http://lea.verou.me/
-* Leo http://leo.github.io
+* Leo http://leo.im
 * Lerner Consulting Blog http://blog.lerner.co.il/
 * Life Plus Linux http://lifepluslinux.blogspot.in/
 
