@@ -370,6 +370,7 @@
 * Ducode.org https://ducode.org/tag/tutorial
 
 #### E individuals
+* Ejci's Blog http://ejci.net/
 * Elegant Code http://elegantcode.com/
 * Eli Bendersky http://eli.thegreenplace.net/
 * Eric Lippert http://ericlippert.com/

@@ -283,6 +283,7 @@
       <outline type="rss" text="Dennis Yurichev" title="Dennis Yurichev" xmlUrl="http://yurichev.com/blog/rss.xml" htmlUrl="http://yurichev.com/blog/"/>
       <outline type="rss" text="Dereuromark" title="Dereuromark" xmlUrl="http://www.dereuromark.de/feed/" htmlUrl="http://www.dereuromark.de/"/>
       <outline type="rss" text="Ducode.org" title="Ducode.org" xmlUrl="https://ducode.org/feed" htmlUrl="https://ducode.org/tag/tutorial"/>
+      <outline type="rss" text="Ejci's Blog" title="Ejci's Blog" xmlUrl="http://blog.ejci.net/feed/" htmlUrl="http://ejci.net/"/>
       <outline type="rss" text="Elegant Code" title="Elegant Code" xmlUrl="http://elegantcode.com/feed/" htmlUrl="http://elegantcode.com/"/>
       <outline type="rss" text="Eli Bendersky" title="Eli Bendersky" xmlUrl="http://eli.thegreenplace.net/feeds/all.atom.xml" htmlUrl="http://eli.thegreenplace.net/"/>
       <outline type="rss" text="Eric Lippert" title="Eric Lippert" xmlUrl="http://ericlippert.com/feed/" htmlUrl="http://ericlippert.com/"/>
