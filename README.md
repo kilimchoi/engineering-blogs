@@ -496,6 +496,9 @@
 * The Daily WTF http://thedailywtf.com/
 * Thomas Young http://upcoder.com
 
+#### U individuals
+* Una Kravets http://una.im/
+
 #### V individuals
 * Vanilla Java http://vanillajava.blogspot.com/
 
