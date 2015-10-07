@@ -14,7 +14,9 @@ TITLE = 'Engineering Blogs'
 readme = File.open('README.md', 'r')
 contents = readme.read
 matches = contents.scan(/\* (.*) (http.*)/)
-
+# All blogs that do not respond
+unavailable = []
+  
 Struct.new('Blog', :name, :web_url, :rss_url)
 blogs = []
 
@@ -54,10 +56,16 @@ matches.each_with_index do |match, index|
     end
   end
 
-  blogs.push(Struct::Blog.new(name, web_url, rss_url)) if rss_url && rss_url.length > 0
+  if rss_url && rss_url.length > 0
+    blogs.push(Struct::Blog.new(name, web_url, rss_url))
+  else
+    unavailable.push(Struct::Blog.new(name, web_url, rss_url))
+  end
+
 end
 
 blogs.sort_by { |b| b.name.capitalize }
+unavailable.sort_by { |b| b.name.capitalize }
 
 # write opml
 xml = Builder::XmlMarkup.new(indent: 2)
@@ -73,14 +81,23 @@ xml.tag!('opml', version: '1.0') do
     xml.tag!('outline', text: TITLE, title: TITLE) do
       blogs.each do |blog|
         xml.tag!('outline', type: 'rss', text: blog.name, title: blog.name,
-          xmlUrl: blog.rss_url, htmlUrl: blog.web_url)
+          xmlUrl: blog.rss_url, htmlUrl: blog.web_url, topic: 'unknown')
       end
     end
   end
 end
+
+
 
 output = File.new(OUTPUT_FILENAME, 'wb')
 output.write(xml.target!)
 output.close
 
 puts "DONE: #{blogs.count} written to #{OUTPUT_FILENAME}"
+
+
+puts "========== UNAVAILABLE ========"
+unavailable.each do |b|
+  puts "Name: #{b.name} | URL: #{b.web_url}"  
+end
+puts "================================"
