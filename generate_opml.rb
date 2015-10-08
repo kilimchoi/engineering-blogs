@@ -16,7 +16,7 @@ contents = readme.read
 matches = contents.scan(/\* (.*) (http.*)/)
 # All blogs that do not respond
 unavailable = []
-  
+
 Struct.new('Blog', :name, :web_url, :rss_url)
 blogs = []
 
@@ -81,13 +81,11 @@ xml.tag!('opml', version: '1.0') do
     xml.tag!('outline', text: TITLE, title: TITLE) do
       blogs.each do |blog|
         xml.tag!('outline', type: 'rss', text: blog.name, title: blog.name,
-          xmlUrl: blog.rss_url, htmlUrl: blog.web_url, topic: 'unknown')
+          xmlUrl: blog.rss_url, htmlUrl: blog.web_url)
       end
     end
   end
 end
-
-
 
 output = File.new(OUTPUT_FILENAME, 'wb')
 output.write(xml.target!)
@@ -95,9 +93,9 @@ output.close
 
 puts "DONE: #{blogs.count} written to #{OUTPUT_FILENAME}"
 
-
-puts "========== UNAVAILABLE ========"
+puts "\nUnable to find an RSS feed for the following blogs:"
+puts "==================================================="
 unavailable.each do |b|
-  puts "Name: #{b.name} | URL: #{b.web_url}"  
+  puts "#{b.name} | #{b.web_url}"
 end
-puts "================================"
+puts "==================================================="
