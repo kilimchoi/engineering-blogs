@@ -14,6 +14,8 @@ TITLE = 'Engineering Blogs'
 readme = File.open('README.md', 'r')
 contents = readme.read
 matches = contents.scan(/\* (.*) (http.*)/)
+# All blogs that do not respond
+unavailable = []
 
 Struct.new('Blog', :name, :web_url, :rss_url)
 blogs = []
@@ -54,10 +56,16 @@ matches.each_with_index do |match, index|
     end
   end
 
-  blogs.push(Struct::Blog.new(name, web_url, rss_url)) if rss_url && rss_url.length > 0
+  if rss_url && rss_url.length > 0
+    blogs.push(Struct::Blog.new(name, web_url, rss_url))
+  else
+    unavailable.push(Struct::Blog.new(name, web_url, rss_url))
+  end
+
 end
 
 blogs.sort_by { |b| b.name.capitalize }
+unavailable.sort_by { |b| b.name.capitalize }
 
 # write opml
 xml = Builder::XmlMarkup.new(indent: 2)
@@ -84,3 +92,10 @@ output.write(xml.target!)
 output.close
 
 puts "DONE: #{blogs.count} written to #{OUTPUT_FILENAME}"
+
+puts "\nUnable to find an RSS feed for the following blogs:"
+puts "==================================================="
+unavailable.each do |b|
+  puts "#{b.name} | #{b.web_url}"
+end
+puts "==================================================="
