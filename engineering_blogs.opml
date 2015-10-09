@@ -247,6 +247,7 @@
       <outline type="rss" text="Zumba" title="Zumba" xmlUrl="http://feeds.feedburner.com/zumba_engineering" htmlUrl="http://tech.zumba.com/"/>
       <outline type="rss" text="A List Apart" title="A List Apart" xmlUrl="http://alistapart.com/site/rss" htmlUrl="http://alistapart.com/"/>
       <outline type="rss" text="Aaron Patterson" title="Aaron Patterson" xmlUrl="http://tenderlovemaking.com/atom.xml" htmlUrl="http://tenderlovemaking.com/"/>
+      <outline type="rss" text="Adam Bard" title="Adam Bard" xmlUrl="http://adambard.com/blog/feed.xml" htmlUrl="http://adambard.com/blog/"/>
       <outline type="rss" text="Adam Leventhal" title="Adam Leventhal" xmlUrl="http://dtrace.org/blogs/ahl/feed/" htmlUrl="http://dtrace.org/blogs/ahl/"/>
       <outline type="rss" text="Adam Tuliper" title="Adam Tuliper" xmlUrl="http://completedevelopment.blogspot.com/feeds/posts/default" htmlUrl="http://completedevelopment.blogspot.be/"/>
       <outline type="rss" text="Addy Osmani" title="Addy Osmani" xmlUrl="http://addyosmani.com/blog/feed/" htmlUrl="http://addyosmani.com/blog/"/>
@@ -276,6 +277,7 @@
       <outline type="rss" text="Code Better" title="Code Better" xmlUrl="http://feeds.feedburner.com/CodeBetter" htmlUrl="http://codebetter.com/"/>
       <outline type="rss" text="Codrops" title="Codrops" xmlUrl="http://tympanus.net/codrops/rss" htmlUrl="http://tympanus.net/codrops/"/>
       <outline type="rss" text="Daily JS" title="Daily JS" xmlUrl="http://dailyjs.com/rss/" htmlUrl="http://dailyjs.com/"/>
+      <outline type="rss" text="Dan Luu" title="Dan Luu" xmlUrl="http://danluu.com/atom.xml" htmlUrl="http://danluu.com/"/>
       <outline type="rss" text="Dan North" title="Dan North" xmlUrl="http://dannorth.net/feed/" htmlUrl="http://dannorth.net/blog/"/>
       <outline type="rss" text="Daniel Doubrovkine (dB.)" title="Daniel Doubrovkine (dB.)" xmlUrl="http://code.dblock.org/feed.xml" htmlUrl="http://code.dblock.org/"/>
       <outline type="rss" text="Dave Cheney" title="Dave Cheney" xmlUrl="http://dave.cheney.net/feed" htmlUrl="http://dave.cheney.net/"/>
@@ -377,10 +379,12 @@
       <outline type="rss" text="That Thing In Swift" title="That Thing In Swift" xmlUrl="https://thatthinginswift.com/index.xml" htmlUrl="https://thatthinginswift.com/"/>
       <outline type="rss" text="The Daily WTF" title="The Daily WTF" xmlUrl="http://thedailywtf.com/rss" htmlUrl="http://thedailywtf.com/"/>
       <outline type="rss" text="Thomas Young" title="Thomas Young" xmlUrl="http://upcoder.com/feed" htmlUrl="http://upcoder.com"/>
+      <outline type="rss" text="Tikhon Jelvis" title="Tikhon Jelvis" xmlUrl="http://jelv.is/blog/rss.xml" htmlUrl="http://jelv.is/blog/"/>
       <outline type="rss" text="Una Kravets" title="Una Kravets" xmlUrl="http://una.github.io/feed.xml" htmlUrl="http://una.im/"/>
       <outline type="rss" text="Vanilla Java" title="Vanilla Java" xmlUrl="http://vanillajava.blogspot.com/feeds/posts/default" htmlUrl="http://vanillajava.blogspot.com/"/>
       <outline type="rss" text="William Kennedy" title="William Kennedy" xmlUrl="http://www.goinggo.net/feeds/posts/default" htmlUrl="http://www.goinggo.net/"/>
       <outline type="rss" text="Winston Chen" title="Winston Chen" xmlUrl="http://www.winstonchen.co/feeds/posts/default" htmlUrl="http://www.winstonchen.co/"/>
+      <outline type="rss" text="Wojtek Gawroński" title="Wojtek Gawroński" xmlUrl="http://www.afronski.pl/feed.xml" htmlUrl="http://www.afronski.pl/"/>
       <outline type="rss" text="Yegor Bugayenko" title="Yegor Bugayenko" xmlUrl="http://www.yegor256.com/rss.xml" htmlUrl="http://www.yegor256.com/"/>
       <outline type="rss" text="Yifan Lu" title="Yifan Lu" xmlUrl="http://yifan.lu/feed/" htmlUrl="http://yifan.lu/"/>
       <outline type="rss" text="Zach Holman" title="Zach Holman" xmlUrl="http://zachholman.com/atom.xml" htmlUrl="http://zachholman.com/"/>
