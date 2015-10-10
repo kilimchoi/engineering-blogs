@@ -324,6 +324,7 @@
 #### A individuals
 * A List Apart http://alistapart.com/
 * Aaron Patterson http://tenderlovemaking.com/
+* Adam Bard http://adambard.com/blog/
 * Adam Leventhal http://dtrace.org/blogs/ahl/
 * Adam Tuliper http://completedevelopment.blogspot.be/
 * Addy Osmani http://addyosmani.com/blog/
@@ -359,6 +360,7 @@
 
 #### D individuals
 * Daily JS http://dailyjs.com/
+* Dan Luu http://danluu.com/
 * Dan North http://dannorth.net/blog/
 * Daniel Doubrovkine (dB.) http://code.dblock.org/
 * Dave Beazley http://www.dabeaz.com/blog.html
@@ -496,6 +498,7 @@
 * That Thing In Swift https://thatthinginswift.com/
 * The Daily WTF http://thedailywtf.com/
 * Thomas Young http://upcoder.com
+* Tikhon Jelvis http://jelv.is/blog/
 
 #### U individuals
 * Una Kravets http://una.im/
@@ -506,6 +509,7 @@
 #### W individuals
 * William Kennedy http://www.goinggo.net/
 * Winston Chen http://www.winstonchen.co/
+* Wojtek Gawroński http://www.afronski.pl/
 
 #### Y individuals
 * Yegor Bugayenko http://www.yegor256.com/
