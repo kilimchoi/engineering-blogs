@@ -250,7 +250,7 @@
 * Spotify https://labs.spotify.com/
 * Square https://corner.squareup.com/
 * SRC:CLR https://blog.srcclr.com/
-* Stackexchange http://blog.stackexchange.com/engineering
+* Stack Overflow http://blog.stackoverflow.com/engineering/
 * Stormpath https://stormpath.com/blog
 * Strava http://engineering.strava.com/
 * Stride NYC http://www.stridenyc.com/blog/
