@@ -28,6 +28,7 @@
       <outline type="rss" text="Base Lab" title="Base Lab" xmlUrl="https://lab.getbase.com/feed/" htmlUrl="https://lab.getbase.com/category/engineering/"/>
       <outline type="rss" text="Bazaarvoice" title="Bazaarvoice" xmlUrl="http://blog.developer.bazaarvoice.com/feed/" htmlUrl="http://blog.developer.bazaarvoice.com/"/>
       <outline type="rss" text="Bigcommerce" title="Bigcommerce" xmlUrl="http://bigeng.io/rss" htmlUrl="http://bigeng.io/"/>
+      <outline type="rss" text="Bigstep" title="Bigstep" xmlUrl="http://blog.bigstep.com/feed/" htmlUrl="http://blog.bigstep.com/"/>
       <outline type="rss" text="Binary Studio" title="Binary Studio" xmlUrl="http://binary-studio.com/feed/" htmlUrl="http://binary-studio.com/blog/"/>
       <outline type="rss" text="Bitly" title="Bitly" xmlUrl="http://word.bitly.com/rss" htmlUrl="http://word.bitly.com/"/>
       <outline type="rss" text="BitTorrent" title="BitTorrent" xmlUrl="http://engineering.bittorrent.com/feed/" htmlUrl="http://engineering.bittorrent.com/"/>
