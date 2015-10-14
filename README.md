@@ -76,6 +76,7 @@
 * Criteo http://engineering.criteolabs.com/
 
 #### D companies
+* Dailymotion http://engineering.dailymotion.com/
 * Data Artisans http://data-artisans.com/blog/
 * Databricks https://databricks.com/blog
 * DataFox http://eng.datafox.co/
@@ -488,6 +489,7 @@
 * Scott Hanselman http://www.hanselman.com/blog/
 * Simon Reimler http://www.devdactic.com/
 * Srinivas Tamada http://www.9lessons.info/
+* Stack Abuse http://www.stackabuse.com/
 * Stefan Parker http://codebeforethehorse.tumblr.com/
 * Stephen Colebourne http://blog.joda.org/
 * Steve Yegge http://steve-yegge.blogspot.com/
