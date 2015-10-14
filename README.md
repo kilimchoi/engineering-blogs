@@ -488,6 +488,7 @@
 * Sam Saffron http://samsaffron.com/
 * Scott Hanselman http://www.hanselman.com/blog/
 * Simon Reimler http://www.devdactic.com/
+* Stack Abuse http://www.stackabuse.com/
 * Stefan Parker http://codebeforethehorse.tumblr.com/
 * Stephen Colebourne http://blog.joda.org/
 * Steve Yegge http://steve-yegge.blogspot.com/
