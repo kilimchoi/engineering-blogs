@@ -189,6 +189,7 @@
       <outline type="rss" text="Sift Science" title="Sift Science" xmlUrl="http://blog.siftscience.com/blog?format=RSS" htmlUrl="http://blog.siftscience.com/?category=Engineering"/>
       <outline type="rss" text="Simple" title="Simple" xmlUrl="https://www.simple.com/engineering-rss.xml" htmlUrl="https://www.simple.com/engineering"/>
       <outline type="rss" text="SlideShare" title="SlideShare" xmlUrl="https://engineering.linkedin.com/taxonomy/term/372/feed" htmlUrl="http://engineering.slideshare.net/"/>
+      <outline type="rss" text="Smugmug" title="Smugmug" xmlUrl="http://don.blogs.smugmug.com/feed/" htmlUrl="http://don.blogs.smugmug.com/"/>
       <outline type="rss" text="Socialcast" title="Socialcast" xmlUrl="http://blog.socialcast.com/feed/" htmlUrl="http://blog.socialcast.com/engineering/"/>
       <outline type="rss" text="Songkick" title="Songkick" xmlUrl="http://devblog.songkick.com/feed/" htmlUrl="http://devblog.songkick.com/"/>
       <outline type="rss" text="Soundcloud" title="Soundcloud" xmlUrl="https://developers.soundcloud.com/blog.rss" htmlUrl="https://developers.soundcloud.com/blog/"/>
@@ -209,6 +210,7 @@
       <outline type="rss" text="Thumbtack" title="Thumbtack" xmlUrl="https://www.thumbtack.com/engineering/feeds/all.atom.xml" htmlUrl="https://www.thumbtack.com/engineering/"/>
       <outline type="rss" text="Ticketmaster" title="Ticketmaster" xmlUrl="http://tech.ticketmaster.com/feed/" htmlUrl="http://tech.ticketmaster.com/"/>
       <outline type="rss" text="Tilt" title="Tilt" xmlUrl="http://engineering.tilt.com/atom.xml" htmlUrl="http://engineering.tilt.com/"/>
+      <outline type="rss" text="Toptal" title="Toptal" xmlUrl="http://www.toptal.com/blog.rss" htmlUrl="http://www.toptal.com/blog"/>
       <outline type="rss" text="Transferwise" title="Transferwise" xmlUrl="http://tech.transferwise.com/rss/" htmlUrl="http://tech.transferwise.com/"/>
       <outline type="rss" text="Trello" title="Trello" xmlUrl="https://trello.engineering/feed.xml" htmlUrl="https://trello.engineering/"/>
       <outline type="rss" text="Trivago" title="Trivago" xmlUrl="http://tech.trivago.com/atom.xml" htmlUrl="http://tech.trivago.com/"/>
