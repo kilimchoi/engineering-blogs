@@ -244,6 +244,7 @@
 * Sift Science http://blog.siftscience.com/?category=Engineering
 * Simple https://www.simple.com/engineering
 * SlideShare http://engineering.slideshare.net/
+* Smugmug http://don.blogs.smugmug.com/
 * Socialcast http://blog.socialcast.com/engineering/
 * Songkick http://devblog.songkick.com/
 * Soundcloud https://developers.soundcloud.com/blog/
@@ -266,6 +267,7 @@
 * Thumbtack https://www.thumbtack.com/engineering/
 * Ticketmaster http://tech.ticketmaster.com/
 * Tilt http://engineering.tilt.com/
+* Toptal http://www.toptal.com/blog
 * Transferwise http://tech.transferwise.com/
 * Trello https://trello.engineering/
 * Trivago http://tech.trivago.com/
