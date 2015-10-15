@@ -385,6 +385,7 @@
 #### F individuals
 * Fabrizio Branca http://fbrnc.net/
 * Fatih Arslan http://arslan.io/
+* Federico Cargnelutti http://blog.fedecarg.com/
 * Freek Van der Herten https://murze.be/
 
 #### G individuals
