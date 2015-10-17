@@ -279,7 +279,7 @@
 * UnderArmour http://engineering.underarmour.com/
 
 #### V companies
-* Venmo http://engineering.venmo.com/
+* Venmo http://blog.venmo.com/?category=Engineering
 * VersionEye http://blog.versioneye.com/
 * Viget http://viget.com/extend
 * Vimeo http://makingvimeo.com/
