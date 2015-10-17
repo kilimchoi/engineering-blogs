@@ -506,6 +506,7 @@
 
 #### U individuals
 * Una Kravets http://una.im/
+* Undocumented Matlab http://undocumentedmatlab.com/
 
 #### V individuals
 * Vanilla Java http://vanillajava.blogspot.com/
