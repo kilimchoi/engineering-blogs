@@ -219,6 +219,7 @@
       <outline type="rss" text="Twitter" title="Twitter" xmlUrl="https://blog.twitter.com/api/blog.rss?name=engineering" htmlUrl="https://blog.twitter.com/engineering"/>
       <outline type="rss" text="Uber" title="Uber" xmlUrl="https://eng.uber.com/feed/" htmlUrl="http://eng.uber.com/"/>
       <outline type="rss" text="UnderArmour" title="UnderArmour" xmlUrl="http://engineering.underarmour.com/feed/" htmlUrl="http://engineering.underarmour.com/"/>
+      <outline type="rss" text="Venmo" title="Venmo" xmlUrl="http://blog.venmo.com/hf2t3h4x98p5e13z82pl8j66ngcmry?format=RSS" htmlUrl="http://blog.venmo.com/?category=Engineering"/>
       <outline type="rss" text="VersionEye" title="VersionEye" xmlUrl="http://blog.versioneye.com/feed/" htmlUrl="http://blog.versioneye.com/"/>
       <outline type="rss" text="Viget" title="Viget" xmlUrl="http://feeds.feedburner.com/Viget" htmlUrl="http://viget.com/extend"/>
       <outline type="rss" text="Vimeo" title="Vimeo" xmlUrl="http://makingvimeo.com/rss" htmlUrl="http://makingvimeo.com/"/>
@@ -385,6 +386,7 @@
       <outline type="rss" text="Thomas Young" title="Thomas Young" xmlUrl="http://upcoder.com/feed" htmlUrl="http://upcoder.com"/>
       <outline type="rss" text="Tikhon Jelvis" title="Tikhon Jelvis" xmlUrl="http://jelv.is/blog/rss.xml" htmlUrl="http://jelv.is/blog/"/>
       <outline type="rss" text="Una Kravets" title="Una Kravets" xmlUrl="http://una.github.io/feed.xml" htmlUrl="http://una.im/"/>
+      <outline type="rss" text="Undocumented Matlab" title="Undocumented Matlab" xmlUrl="http://undocumentedmatlab.com/feed" htmlUrl="http://undocumentedmatlab.com/"/>
       <outline type="rss" text="Vanilla Java" title="Vanilla Java" xmlUrl="http://vanillajava.blogspot.com/feeds/posts/default" htmlUrl="http://vanillajava.blogspot.com/"/>
       <outline type="rss" text="William Kennedy" title="William Kennedy" xmlUrl="http://www.goinggo.net/feeds/posts/default" htmlUrl="http://www.goinggo.net/"/>
       <outline type="rss" text="Winston Chen" title="Winston Chen" xmlUrl="http://www.winstonchen.co/feeds/posts/default" htmlUrl="http://www.winstonchen.co/"/>
