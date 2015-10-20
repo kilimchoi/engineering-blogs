@@ -252,6 +252,7 @@
 * Square https://corner.squareup.com/
 * SRC:CLR https://blog.srcclr.com/
 * Stack Overflow http://blog.stackoverflow.com/engineering/
+* SteelSeries http://www.techblog.steelseries.com/
 * Stormpath https://stormpath.com/blog
 * Strava http://engineering.strava.com/
 * Stride NYC http://www.stridenyc.com/blog/
