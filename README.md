@@ -407,6 +407,7 @@
 * Jacopo Tarantino https://jack.ofspades.com/
 * Jake Wharton http://jakewharton.com/blog
 * Jake Yesbeck http://jakeyesbeck.com/
+* James Hague http://prog21.dadgum.com/
 * James Long http://jlongster.com/archive
 * Jeff Atwood http://blog.codinghorror.com/
 * Jessie Frazelle https://blog.jessfraz.com/
