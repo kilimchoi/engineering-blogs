@@ -336,6 +336,7 @@
 * Allison Kaptur http://akaptur.com/
 * Anders Aarvik http://aarvik.dk/
 * Andrew Bancroft http://www.andrewcbancroft.com/
+* Andrew Brampton https://blog.bramp.net/
 * Andrew Ray http://blog.andrewray.me/
 * Andrey Akinshin http://aakinshin.net/en/blog/content/
 * Antirez http://antirez.com/latest/0
@@ -409,6 +410,7 @@
 * Jake Yesbeck http://jakeyesbeck.com/
 * James Hague http://prog21.dadgum.com/
 * James Long http://jlongster.com/archive
+* Jamis Buck http://weblog.jamisbuck.org/
 * Jeff Atwood http://blog.codinghorror.com/
 * Jessie Frazelle https://blog.jessfraz.com/
 * Jesus Castello http://www.blackbytes.info/
@@ -513,6 +515,7 @@
 * Vanilla Java http://vanillajava.blogspot.com/
 
 #### W individuals
+* Wilfred Hughes http://www.wilfred.me.uk/
 * William Kennedy http://www.goinggo.net/
 * Winston Chen http://www.winstonchen.co/
 * Wojtek Gawroński http://www.afronski.pl/
