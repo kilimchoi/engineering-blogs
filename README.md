@@ -126,6 +126,7 @@
 * Grouper http://eng.joingrouper.com/
 * Groupon https://engineering.groupon.com/
 * Guardian http://www.theguardian.com/info/developer-blog
+* Gusto http://engineering.gusto.com/ 
 
 #### H companies
 * HackerEarth http://engineering.hackerearth.com/
@@ -313,7 +314,6 @@
 #### Z companies
 * Zalando https://tech.zalando.com/blog/
 * Zendesk https://developer.zendesk.com/blog
-* ZenPayroll http://engineering.zenpayroll.com/
 * Zesty http://engineering.zesty.com/
 * Zillow https://engineering.zillow.com/
 * Zulily http://engineering.zulily.com/

@@ -99,6 +99,7 @@
       <outline type="rss" text="Grouper" title="Grouper" xmlUrl="http://eng.joingrouper.com/atom.xml" htmlUrl="http://eng.joingrouper.com/"/>
       <outline type="rss" text="Groupon" title="Groupon" xmlUrl="https://engineering.groupon.com/feed/" htmlUrl="https://engineering.groupon.com/"/>
       <outline type="rss" text="Guardian" title="Guardian" xmlUrl="http://www.theguardian.com/info/developer-blog/rss" htmlUrl="http://www.theguardian.com/info/developer-blog"/>
+      <outline type="rss" text="Gusto" title="Gusto" xmlUrl="http://engineering.gusto.com/rss/" htmlUrl="http://engineering.gusto.com/ "/>
       <outline type="rss" text="HackerEarth" title="HackerEarth" xmlUrl="http://engineering.hackerearth.com/rss" htmlUrl="http://engineering.hackerearth.com/"/>
       <outline type="rss" text="Harry's" title="Harry's" xmlUrl="http://engineering.harrys.com/feed.xml" htmlUrl="http://engineering.harrys.com/"/>
       <outline type="rss" text="Hashrocket" title="Hashrocket" xmlUrl="http://feeds.feedburner.com/hashrocket-blog" htmlUrl="http://hashrocket.com/blog"/>
@@ -242,7 +243,6 @@
       <outline type="rss" text="Yelp" title="Yelp" xmlUrl="http://engineeringblog.yelp.com/rss" htmlUrl="http://engineeringblog.yelp.com/"/>
       <outline type="rss" text="YLD!" title="YLD!" xmlUrl="http://blog.yld.io/rss/" htmlUrl="http://blog.yld.io"/>
       <outline type="rss" text="Zendesk" title="Zendesk" xmlUrl="https://developer.zendesk.com/blog.xml" htmlUrl="https://developer.zendesk.com/blog"/>
-      <outline type="rss" text="ZenPayroll" title="ZenPayroll" xmlUrl="http://engineering.zenpayroll.com/rss/" htmlUrl="http://engineering.zenpayroll.com/"/>
       <outline type="rss" text="Zesty" title="Zesty" xmlUrl="http://engineering.zesty.com/rss/" htmlUrl="http://engineering.zesty.com/"/>
       <outline type="rss" text="Zillow" title="Zillow" xmlUrl="http://engineering.zillow.com/feed/" htmlUrl="https://engineering.zillow.com/"/>
       <outline type="rss" text="Zulily" title="Zulily" xmlUrl="http://engineering.zulily.com/feed/" htmlUrl="http://engineering.zulily.com/"/>
