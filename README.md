@@ -470,6 +470,7 @@
 * Peteris Krumins http://www.catonmat.net/blog/
 * Petr Mitrichev http://petr-mitrichev.blogspot.com/
 * Philip Walton http://philipwalton.com/
+* Philipp Oppermann http://blog.phil-opp.com/
 * Piotr Wittchen http://blog.wittchen.biz.pl/
 * Practicing Ruby https://practicingruby.com/
 

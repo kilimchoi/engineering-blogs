@@ -241,6 +241,7 @@
       <outline type="rss" text="Yahoo" title="Yahoo" xmlUrl="http://yahooeng.tumblr.com/rss" htmlUrl="http://yahooeng.tumblr.com/"/>
       <outline type="rss" text="Yelp" title="Yelp" xmlUrl="http://engineeringblog.yelp.com/rss" htmlUrl="http://engineeringblog.yelp.com/"/>
       <outline type="rss" text="YLD!" title="YLD!" xmlUrl="http://blog.yld.io/rss/" htmlUrl="http://blog.yld.io"/>
+      <outline type="rss" text="Zalando" title="Zalando" xmlUrl="https://tech.zalando.com/blog/rss-all.xml" htmlUrl="https://tech.zalando.com/blog/"/>
       <outline type="rss" text="Zendesk" title="Zendesk" xmlUrl="https://developer.zendesk.com/blog.xml" htmlUrl="https://developer.zendesk.com/blog"/>
       <outline type="rss" text="ZenPayroll" title="ZenPayroll" xmlUrl="http://engineering.zenpayroll.com/rss/" htmlUrl="http://engineering.zenpayroll.com/"/>
       <outline type="rss" text="Zesty" title="Zesty" xmlUrl="http://engineering.zesty.com/rss/" htmlUrl="http://engineering.zesty.com/"/>
@@ -359,6 +360,7 @@
       <outline type="rss" text="Peteris Krumins" title="Peteris Krumins" xmlUrl="http://www.catonmat.net/feed/" htmlUrl="http://www.catonmat.net/blog/"/>
       <outline type="rss" text="Petr Mitrichev" title="Petr Mitrichev" xmlUrl="http://petr-mitrichev.blogspot.com/feeds/posts/default" htmlUrl="http://petr-mitrichev.blogspot.com/"/>
       <outline type="rss" text="Philip Walton" title="Philip Walton" xmlUrl="http://feeds.feedburner.com/philipwalton" htmlUrl="http://philipwalton.com/"/>
+      <outline type="rss" text="Philipp Oppermann" title="Philipp Oppermann" xmlUrl="http://blog.phil-opp.com/atom.xml" htmlUrl="http://blog.phil-opp.com/"/>
       <outline type="rss" text="Piotr Wittchen" title="Piotr Wittchen" xmlUrl="http://blog.wittchen.biz.pl/feed/" htmlUrl="http://blog.wittchen.biz.pl/"/>
       <outline type="rss" text="Radek Pazdera" title="Radek Pazdera" xmlUrl="http://radek.io/rss.xml" htmlUrl="http://radek.io"/>
       <outline type="rss" text="Radim Řehůřek" title="Radim Řehůřek" xmlUrl="http://radimrehurek.com/feed/" htmlUrl="http://radimrehurek.com/blog/"/>
