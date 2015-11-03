@@ -374,6 +374,7 @@
 * Deborah Digges http://deborah-digges.github.io/
 * Dennis Yurichev http://yurichev.com/blog/
 * Dereuromark http://www.dereuromark.de/
+* Dragan Gaic http://www.gajotres.net/
 * Ducode.org https://ducode.org/tag/tutorial
 
 #### E individuals
