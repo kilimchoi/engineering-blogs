@@ -126,7 +126,7 @@
 * Grouper http://eng.joingrouper.com/
 * Groupon https://engineering.groupon.com/
 * Guardian http://www.theguardian.com/info/developer-blog
-* Gusto http://engineering.gusto.com/ 
+* Gusto http://engineering.gusto.com/
 
 #### H companies
 * HackerEarth http://engineering.hackerearth.com/
@@ -232,6 +232,7 @@
 * Rightscale http://eng.rightscale.com/
 * Riot Games http://engineering.riotgames.com/
 * RisingStack http://blog.risingstack.com/
+* Robert Elder Software http://blog.robertelder.org/
 
 #### S companies
 * Salesforce https://developer.salesforce.com/blogs/engineering/
@@ -447,6 +448,7 @@
 * Mike Fogus http://blog.fogus.me/
 
 #### N individuals
+* Nelson Elhage https://blog.nelhage.com/
 * Nic Raboy https://blog.nraboy.com/
 * Nick Desaulniers https://nickdesaulniers.github.io/
 * Nicolas Liochon http://blog.thislongrun.com/

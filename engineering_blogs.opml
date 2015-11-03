@@ -99,7 +99,7 @@
       <outline type="rss" text="Grouper" title="Grouper" xmlUrl="http://eng.joingrouper.com/atom.xml" htmlUrl="http://eng.joingrouper.com/"/>
       <outline type="rss" text="Groupon" title="Groupon" xmlUrl="https://engineering.groupon.com/feed/" htmlUrl="https://engineering.groupon.com/"/>
       <outline type="rss" text="Guardian" title="Guardian" xmlUrl="http://www.theguardian.com/info/developer-blog/rss" htmlUrl="http://www.theguardian.com/info/developer-blog"/>
-      <outline type="rss" text="Gusto" title="Gusto" xmlUrl="http://engineering.gusto.com/rss/" htmlUrl="http://engineering.gusto.com/ "/>
+      <outline type="rss" text="Gusto" title="Gusto" xmlUrl="http://engineering.gusto.com/rss/" htmlUrl="http://engineering.gusto.com/"/>
       <outline type="rss" text="HackerEarth" title="HackerEarth" xmlUrl="http://engineering.hackerearth.com/rss" htmlUrl="http://engineering.hackerearth.com/"/>
       <outline type="rss" text="Harry's" title="Harry's" xmlUrl="http://engineering.harrys.com/feed.xml" htmlUrl="http://engineering.harrys.com/"/>
       <outline type="rss" text="Hashrocket" title="Hashrocket" xmlUrl="http://feeds.feedburner.com/hashrocket-blog" htmlUrl="http://hashrocket.com/blog"/>
@@ -343,6 +343,7 @@
       <outline type="rss" text="Michael Herman" title="Michael Herman" xmlUrl="http://mherman.org/atom.xml" htmlUrl="http://mherman.org/"/>
       <outline type="rss" text="Mike Ash" title="Mike Ash" xmlUrl="http://www.mikeash.com/pyblog/rss.py" htmlUrl="https://www.mikeash.com/pyblog/"/>
       <outline type="rss" text="Mike Fogus" title="Mike Fogus" xmlUrl="http://blog.fogus.me/feed/" htmlUrl="http://blog.fogus.me/"/>
+      <outline type="rss" text="Nelson Elhage" title="Nelson Elhage" xmlUrl="https://blog.nelhage.com/atom.xml" htmlUrl="https://blog.nelhage.com/"/>
       <outline type="rss" text="Nic Raboy" title="Nic Raboy" xmlUrl="https://blog.nraboy.com/feed/" htmlUrl="https://blog.nraboy.com/"/>
       <outline type="rss" text="Nick Desaulniers" title="Nick Desaulniers" xmlUrl="https://nickdesaulniers.github.io/atom.xml" htmlUrl="https://nickdesaulniers.github.io/"/>
       <outline type="rss" text="Nicolas Liochon" title="Nicolas Liochon" xmlUrl="http://blog.thislongrun.com/feeds/posts/default" htmlUrl="http://blog.thislongrun.com/"/>
