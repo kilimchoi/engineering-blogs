@@ -227,6 +227,7 @@
 * Raizlabs http://www.raizlabs.com/dev/
 * Rdio https://algorithms.rdio.com/
 * Redbubble http://artplustech.com/
+* Redfin https://www.redfin.com/devblog/
 * Red Hat https://developerblog.redhat.com
 * Remind http://engineering.remind.com/
 * Rent the Runway http://dresscode.renttherunway.com/blog/
