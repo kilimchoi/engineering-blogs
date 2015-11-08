@@ -43,7 +43,7 @@
 * Bandcamp http://bandcamptech.wordpress.com/
 * Base Lab https://lab.getbase.com/category/engineering/
 * Bazaarvoice http://blog.developer.bazaarvoice.com/
-* BenefitFocus http://engineering.benefitfocus.com/
+* BenefitFocus https://engineering.benefitfocus.com/
 * Bigcommerce http://bigeng.io/
 * Binary Studio http://binary-studio.com/blog/
 * Bitly http://word.bitly.com/
