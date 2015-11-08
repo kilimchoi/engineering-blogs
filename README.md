@@ -295,6 +295,7 @@
 * Wattpad http://engineering.wattpad.com/
 * Wayfair http://engineering.wayfair.com/
 * Wealthfront http://eng.wealthfront.com/
+* We Are Wizards https://blog.wearewizards.io/
 * WebEngage http://engineering.webengage.com/
 * Wimdu http://tech.wimdu.com/
 * Wingify http://engineering.wingify.com/
