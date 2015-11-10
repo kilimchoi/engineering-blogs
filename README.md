@@ -151,7 +151,7 @@
 
 #### J companies
 * Jane Street https://blogs.janestreet.com/
-* Jolly Good Code http://jollygoodcode.com/blog/
+* Jolly Good Code https://jollygoodcode.github.io/
 * Just Eat http://tech.just-eat.com/
 
 #### K companies
