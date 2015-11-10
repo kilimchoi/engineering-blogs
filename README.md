@@ -212,7 +212,7 @@
 * Parse http://blog.parse.com/
 * Paypal https://devblog.paypal.com/category/engineering/
 * Periscope https://www.periscope.io/blog/
-* Pinterest http://engineering.pinterest.com/
+* Pinterest https://engineering.pinterest.com/
 * Polyvore http://engblog.polyvore.com/
 * Postmark http://blog.postmarkapp.com/
 * Prezi https://medium.com/prezi-engineering
