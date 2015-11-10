@@ -310,7 +310,7 @@
 
 #### Y companies
 * Yahoo http://yahooeng.tumblr.com/
-* Yalantis http://yalantis.com/blog/
+* Yalantis https://yalantis.com/blog/
 * Yelp http://engineeringblog.yelp.com/
 * YLD! http://blog.yld.io
 
