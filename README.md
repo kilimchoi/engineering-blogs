@@ -417,6 +417,7 @@
 * James Long http://jlongster.com/archive
 * Jamis Buck http://weblog.jamisbuck.org/
 * Jeff Atwood http://blog.codinghorror.com/
+* Jeremy Kun http://jeremykun.com/
 * Jessie Frazelle https://blog.jessfraz.com/
 * Jesus Castello http://www.blackbytes.info/
 * Joel Spolsky http://www.joelonsoftware.com/
