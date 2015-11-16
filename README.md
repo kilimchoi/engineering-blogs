@@ -149,6 +149,7 @@ You can now read the latest blog entries or just subscribe to your favorite ones
 * Rdio https://algorithms.rdio.com/
 * Recruiterbox http://inside.recruiterbox.com
 * Redbubble http://artplustech.com/
+* Redino http://redino.net/blog
 * Red Hat https://developerblog.redhat.com
 * Remind http://engineering.remind.com/
 * Rent the Runway http://dresscode.renttherunway.com/blog/
