@@ -449,6 +449,7 @@
 * Michael Becker http://beckerfuffle.com/
 * Michaël Gallego http://www.michaelgallego.fr/
 * Michael Herman http://mherman.org/
+* Miguel Quinones http://miqu.me/
 * Mike Ash https://www.mikeash.com/pyblog/
 * Mike Fogus http://blog.fogus.me/
 
