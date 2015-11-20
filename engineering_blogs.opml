@@ -42,6 +42,7 @@
       <outline type="rss" text="Canva" title="Canva" xmlUrl="https://engineering.canva.com/rss" htmlUrl="https://engineering.canva.com"/>
       <outline type="rss" text="Carbon Five" title="Carbon Five" xmlUrl="http://blog.carbonfive.com/rss" htmlUrl="http://blog.carbonfive.com/"/>
       <outline type="rss" text="Cerner" title="Cerner" xmlUrl="http://engineering.cerner.com/atom.xml" htmlUrl="http://engineering.cerner.com/"/>
+      <outline type="rss" text="Chaps" title="Chaps" xmlUrl="https://blog.chaps.io/feed.xml" htmlUrl="https://blog.chaps.io/"/>
       <outline type="rss" text="Chartbeat" title="Chartbeat" xmlUrl="http://engineering.chartbeat.com/feed/" htmlUrl="http://engineering.chartbeat.com/"/>
       <outline type="rss" text="Chef" title="Chef" xmlUrl="https://www.chef.io/blog/feed/" htmlUrl="https://www.chef.io/blog/"/>
       <outline type="rss" text="Clever" title="Clever" xmlUrl="http://engineering.clever.com/index.xml" htmlUrl="http://engineering.clever.com/"/>
