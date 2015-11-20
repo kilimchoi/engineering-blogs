@@ -219,6 +219,7 @@
 * Prismatic http://blog.getprismatic.com/
 * Prolific Interactive http://blog.prolificinteractive.com/category/development/
 * PullReview http://blog.8thcolor.com/
+* Plataformatec http://blog.plataformatec.com.br/
 
 #### Q companies
 * Quora http://engineering.quora.com/
@@ -462,6 +463,7 @@
 * Nikola Brežnjak http://www.nikola-breznjak.com/blog/
 * Nikolay Nemshilov http://nikolay.rocks/
 * NSHipster http://nshipster.com/
+* Nate Berkopec http://www.nateberkopec.com/
 
 #### O individuals
 * Ole Begemann http://oleb.net/blog/
