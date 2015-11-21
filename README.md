@@ -60,6 +60,7 @@
 * Canva https://engineering.canva.com
 * Carbon Five http://blog.carbonfive.com/
 * Cerner http://engineering.cerner.com/
+* Chaps https://blog.chaps.io/
 * Chartbeat http://engineering.chartbeat.com/
 * Chef https://www.chef.io/blog/
 * Clever http://engineering.clever.com/
