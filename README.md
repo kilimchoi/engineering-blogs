@@ -483,6 +483,7 @@
 * Philipp Oppermann http://os.phil-opp.com/
 * Piotr Wittchen http://blog.wittchen.biz.pl/
 * Practicing Ruby https://practicingruby.com/
+* Praveen Shukla https://praveenatc42.wordpress.com/
 
 #### R individuals
 * Radek Pazdera http://radek.io
