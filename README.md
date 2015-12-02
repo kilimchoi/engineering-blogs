@@ -361,6 +361,7 @@
 
 #### C individuals
 * Carlos Becker http://carlosbecker.com
+* Chris Hager https://www.metachris.com
 * Chris Wellons http://nullprogram.com/
 * Cocoa Is My Girlfriend http://www.cimgf.com/
 * Code Better http://codebetter.com/
