@@ -427,6 +427,7 @@
 * Jon Skeet http://codeblog.jonskeet.uk/
 * Jonathan Dekhtiar http://rss.jonathandekhtiar.eu/
 * Jonathan Snook http://snook.ca/
+* Josh Sherman http://joshtronic.com/
 * Justin Weiss http://www.justinweiss.com/blog/
 
 #### K individuals
