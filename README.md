@@ -63,6 +63,7 @@
 * Chaps https://blog.chaps.io/
 * Chartbeat http://engineering.chartbeat.com/
 * Chef https://www.chef.io/blog/
+* CenturyLink https://www.ctl.io/developers/blog
 * Clever http://engineering.clever.com/
 * Cloudera http://blog.cloudera.com/blog/
 * Cloudflare https://blog.cloudflare.com/
