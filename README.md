@@ -497,6 +497,7 @@
 * Reginald Braithwaite http://raganwald.com/#essays
 * Regular Geek http://regulargeek.com/
 * Rémi Delhaye http://blog.rdlh.io/
+* Rob Allen https://akrabat.com/
 * Robert C. Martin http://blog.cleancoder.com/
 * Robin Ward http://eviltrout.com/
 * Rudy Huyn http://www.rudyhuyn.com/blog/
