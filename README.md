@@ -483,6 +483,7 @@
 * Petr Mitrichev http://petr-mitrichev.blogspot.com/
 * Philip Walton http://philipwalton.com/
 * Philipp Oppermann http://os.phil-opp.com/
+* Piotr Pasich http://piotrpasich.com/
 * Piotr Wittchen http://blog.wittchen.biz.pl/
 * Practicing Ruby https://practicingruby.com/
 
