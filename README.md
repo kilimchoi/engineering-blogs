@@ -74,6 +74,7 @@
 * Collective Idea http://collectiveidea.com/blog/
 * Confluent http://www.confluent.io/blog
 * Coolblue http://devblog.coolblue.nl/
+* Coursera https://tech.coursera.org/
 * Criteo http://engineering.criteolabs.com/
 
 #### D companies
