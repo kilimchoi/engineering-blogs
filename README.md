@@ -59,11 +59,11 @@
 #### C companies
 * Canva https://engineering.canva.com
 * Carbon Five http://blog.carbonfive.com/
+* CenturyLink https://www.ctl.io/developers/blog
 * Cerner http://engineering.cerner.com/
 * Chaps https://blog.chaps.io/
 * Chartbeat http://engineering.chartbeat.com/
 * Chef https://www.chef.io/blog/
-* CenturyLink https://www.ctl.io/developers/blog
 * Clever http://engineering.clever.com/
 * Cloudera http://blog.cloudera.com/blog/
 * Cloudflare https://blog.cloudflare.com/
@@ -370,6 +370,7 @@
 
 #### D individuals
 * Daily JS http://dailyjs.com/
+* Daily Tech Video http://dailytechvideo.com/
 * Dan Luu http://danluu.com/
 * Dan North http://dannorth.net/blog/
 * Daniel Doubrovkine (dB.) http://code.dblock.org/

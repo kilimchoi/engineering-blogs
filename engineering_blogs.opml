@@ -41,7 +41,7 @@
       <outline type="rss" text="Buzzfeed" title="Buzzfeed" xmlUrl="http://www.buzzfeed.com/galarant/python-buzzfeed" htmlUrl="http://www.buzzfeed.com/techblog"/>
       <outline type="rss" text="Canva" title="Canva" xmlUrl="https://engineering.canva.com/rss" htmlUrl="https://engineering.canva.com"/>
       <outline type="rss" text="Carbon Five" title="Carbon Five" xmlUrl="http://blog.carbonfive.com/rss" htmlUrl="http://blog.carbonfive.com/"/>
-      <outline type="rss" text="CenturyLink" title="CenturyLink Dev Center" xmlUrl="https://www.ctl.io/developers/blog/rss" htmlUrl="https://www.ctl.io/developers/blog"/>
+      <outline type="rss" text="CenturyLink" title="CenturyLink" xmlUrl="https://www.ctl.io/developers/blog/rss" htmlUrl="https://www.ctl.io/developers/blog"/>
       <outline type="rss" text="Cerner" title="Cerner" xmlUrl="http://engineering.cerner.com/atom.xml" htmlUrl="http://engineering.cerner.com/"/>
       <outline type="rss" text="Chaps" title="Chaps" xmlUrl="https://blog.chaps.io/feed.xml" htmlUrl="https://blog.chaps.io/"/>
       <outline type="rss" text="Chartbeat" title="Chartbeat" xmlUrl="http://engineering.chartbeat.com/feed/" htmlUrl="http://engineering.chartbeat.com/"/>
@@ -159,6 +159,7 @@
       <outline type="rss" text="Nextdoor" title="Nextdoor" xmlUrl="https://engblog.nextdoor.com/feed/" htmlUrl="https://engblog.nextdoor.com/"/>
       <outline type="rss" text="Nordic APIs" title="Nordic APIs" xmlUrl="http://nordicapis.com/feed/" htmlUrl="http://nordicapis.com/blog/"/>
       <outline type="rss" text="NPR Apps" title="NPR Apps" xmlUrl="http://blog.apps.npr.org/atom.xml" htmlUrl="http://blog.apps.npr.org/"/>
+      <outline type="rss" text="Okta" title="Okta" xmlUrl="https://feeds.feedburner.com/OktaBlog" htmlUrl="http://developer.okta.com/blog/"/>
       <outline type="rss" text="OmniTI" title="OmniTI" xmlUrl="http://omniti.com/feeds/seeds" htmlUrl="http://omniti.com/seeds/"/>
       <outline type="rss" text="OpenDNS" title="OpenDNS" xmlUrl="https://engineering.opendns.com/feed/" htmlUrl="https://engineering.opendns.com/"/>
       <outline type="rss" text="OpenTable" title="OpenTable" xmlUrl="http://tech.opentable.com/feed/" htmlUrl="http://tech.opentable.com/"/>
@@ -289,6 +290,7 @@
       <outline type="rss" text="Code Better" title="Code Better" xmlUrl="http://feeds.feedburner.com/CodeBetter" htmlUrl="http://codebetter.com/"/>
       <outline type="rss" text="Codrops" title="Codrops" xmlUrl="http://tympanus.net/codrops/rss" htmlUrl="http://tympanus.net/codrops/"/>
       <outline type="rss" text="Daily JS" title="Daily JS" xmlUrl="http://dailyjs.com/rss/" htmlUrl="http://dailyjs.com/"/>
+      <outline type="rss" text="Daily Tech Video" title="Daily Tech Video" xmlUrl="http://dailytechvideo.com/feed/" htmlUrl="http://dailytechvideo.com/"/>
       <outline type="rss" text="Dan Luu" title="Dan Luu" xmlUrl="http://danluu.com/atom.xml" htmlUrl="http://danluu.com/"/>
       <outline type="rss" text="Dan North" title="Dan North" xmlUrl="http://dannorth.net/feed/" htmlUrl="http://dannorth.net/blog/"/>
       <outline type="rss" text="Daniel Doubrovkine (dB.)" title="Daniel Doubrovkine (dB.)" xmlUrl="http://code.dblock.org/feed.xml" htmlUrl="http://code.dblock.org/"/>
