@@ -486,6 +486,7 @@
 * Petr Mitrichev http://petr-mitrichev.blogspot.com/
 * Philip Walton http://philipwalton.com/
 * Philipp Oppermann http://os.phil-opp.com/
+* Piotr Pasich http://piotrpasich.com/
 * Piotr Wittchen http://blog.wittchen.biz.pl/
 * Practicing Ruby https://practicingruby.com/
 
@@ -500,6 +501,7 @@
 * Reginald Braithwaite http://raganwald.com/#essays
 * Regular Geek http://regulargeek.com/
 * Rémi Delhaye http://blog.rdlh.io/
+* Rob Allen https://akrabat.com/
 * Robert C. Martin http://blog.cleancoder.com/
 * Robin Ward http://eviltrout.com/
 * Rudy Huyn http://www.rudyhuyn.com/blog/
