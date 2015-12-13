@@ -79,6 +79,7 @@
 
 #### D companies
 * Dailymotion http://engineering.dailymotion.com/
+* Daily Tech Video http://dailytechvideo.com/
 * Data Artisans http://data-artisans.com/blog/
 * Databricks https://databricks.com/blog
 * DataFox http://eng.datafox.co/
