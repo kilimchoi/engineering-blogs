@@ -361,6 +361,7 @@
 
 #### C individuals
 * Carlos Becker http://carlosbecker.com
+* Chris Hager https://www.metachris.com
 * Chris Wellons http://nullprogram.com/
 * Cocoa Is My Girlfriend http://www.cimgf.com/
 * Code Better http://codebetter.com/
@@ -492,6 +493,7 @@
 * Ramon Fried https://nativeguru.wordpress.com/
 * Raymond Chen http://blogs.msdn.com/b/oldnewthing/
 * Raymond Hettinger https://rhettinger.wordpress.com/
+* ReactJS News https://reactjsnews.com
 * Real Python https://realpython.com/blog/
 * Reginald Braithwaite http://raganwald.com/#essays
 * Regular Geek http://regulargeek.com/
