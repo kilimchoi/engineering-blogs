@@ -36,6 +36,7 @@
 * Auth0 https://auth0.com/blog/
 * Autodesk http://cloudengineering.autodesk.com/blog/
 * AWeber http://engineering.aweber.com/
+* AWS https://aws.amazon.com/blogs/aws/
 * Azavea http://www.azavea.com/blogs/labs/
 
 #### B companies
