@@ -460,6 +460,7 @@
 * Miguel Quinones http://www.miqu.me/
 * Mike Ash https://www.mikeash.com/pyblog/
 * Mike Fogus http://blog.fogus.me/
+* Mykhailo Kozik http://mishadoff.com/
 
 #### N individuals
 * Nelson Elhage https://blog.nelhage.com/
