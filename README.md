@@ -66,7 +66,7 @@
 * Chartbeat http://engineering.chartbeat.com/
 * Chef https://www.chef.io/blog/
 * Clever http://engineering.clever.com/
-* Cloudera http://blog.cloudera.com/blog/
+* Cloudera http://blog.cloudera.com/
 * Cloudflare https://blog.cloudflare.com/
 * ClusterHQ https://clusterhq.com/blog/
 * CockroachDB http://www.cockroachlabs.com/blog/
