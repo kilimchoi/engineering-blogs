@@ -147,6 +147,7 @@
 #### I companies
 * IFTTT http://engineering.ifttt.com/
 * IMVU http://engineering.imvu.com/
+* Imaginea http://blog.imaginea.com/
 * Imgur http://imgur.com/blog/category/eng/
 * Indeed http://engineering.indeedblog.com/blog/
 * Instagram http://instagram-engineering.tumblr.com/
