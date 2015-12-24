@@ -268,6 +268,7 @@
 
 #### T companies
 * Takipi http://blog.takipi.com/
+* Target https://target.github.io/
 * TaskRabbit http://tech.taskrabbit.com/
 * theScore http://techblog.thescore.com/
 * Thoughtbot https://robots.thoughtbot.com/
