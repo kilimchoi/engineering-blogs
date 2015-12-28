@@ -389,6 +389,7 @@
 * Ducode.org https://ducode.org/tag/tutorial
 
 #### E individuals
+* Edgar Aroutiounian http://hyegar.com/blog/
 * Ejci's Blog http://ejci.net/
 * Elegant Code http://elegantcode.com/
 * Eli Bendersky http://eli.thegreenplace.net/
@@ -499,6 +500,7 @@
 * Radek Pazdera http://radek.io
 * Radim Řehůřek http://radimrehurek.com/blog/
 * Ramon Fried https://nativeguru.wordpress.com/
+* Ray Wenderlich http://www.raywenderlich.com/
 * Raymond Chen http://blogs.msdn.com/b/oldnewthing/
 * Raymond Hettinger https://rhettinger.wordpress.com/
 * ReactJS News https://reactjsnews.com
@@ -509,6 +511,7 @@
 * Rob Allen https://akrabat.com/
 * Robert C. Martin http://blog.cleancoder.com/
 * Robin Ward http://eviltrout.com/
+* Robin Wilson http://blog.rtwilson.com/
 * Rudy Huyn http://www.rudyhuyn.com/blog/
 * Ruslan Spivak http://ruslanspivak.com/
 

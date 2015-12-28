@@ -176,7 +176,6 @@
       <outline type="rss" text="Polyvore" title="Polyvore" xmlUrl="http://engblog.polyvore.com/feeds/posts/default" htmlUrl="http://engblog.polyvore.com/"/>
       <outline type="rss" text="Postmark" title="Postmark" xmlUrl="http://blog.postmarkapp.com/rss" htmlUrl="http://blog.postmarkapp.com/"/>
       <outline type="rss" text="Prezi" title="Prezi" xmlUrl="https://medium.com/feed/prezi-engineering" htmlUrl="https://medium.com/prezi-engineering"/>
-      <outline type="rss" text="Prismatic" title="Prismatic" xmlUrl="https://prismatic.github.io/feed.xml" htmlUrl="https://prismatic.github.io/"/>
       <outline type="rss" text="Prolific Interactive" title="Prolific Interactive" xmlUrl="http://blog.prolificinteractive.com/category/development/feed/" htmlUrl="http://blog.prolificinteractive.com/category/development/"/>
       <outline type="rss" text="PullReview" title="PullReview" xmlUrl="http://blog.8thcolor.com/feed.xml" htmlUrl="http://blog.8thcolor.com/"/>
       <outline type="rss" text="Quora" title="Quora" xmlUrl="http://engineering.quora.com/rss" htmlUrl="http://engineering.quora.com/"/>
@@ -303,6 +302,7 @@
       <outline type="rss" text="Dereuromark" title="Dereuromark" xmlUrl="http://www.dereuromark.de/feed/" htmlUrl="http://www.dereuromark.de/"/>
       <outline type="rss" text="Dragan Gaic" title="Dragan Gaic" xmlUrl="http://www.gajotres.net/feed/" htmlUrl="http://www.gajotres.net/"/>
       <outline type="rss" text="Ducode.org" title="Ducode.org" xmlUrl="https://ducode.org/feed" htmlUrl="https://ducode.org/tag/tutorial"/>
+      <outline type="rss" text="Edgar Aroutiounian" title="Edgar Aroutiounian" xmlUrl="http://hyegar.com/rss.xml" htmlUrl="http://hyegar.com/blog/"/>
       <outline type="rss" text="Ejci's Blog" title="Ejci's Blog" xmlUrl="http://blog.ejci.net/feed/" htmlUrl="http://ejci.net/"/>
       <outline type="rss" text="Elegant Code" title="Elegant Code" xmlUrl="http://elegantcode.com/feed/" htmlUrl="http://elegantcode.com/"/>
       <outline type="rss" text="Eli Bendersky" title="Eli Bendersky" xmlUrl="http://eli.thegreenplace.net/feeds/all.atom.xml" htmlUrl="http://eli.thegreenplace.net/"/>
@@ -385,6 +385,7 @@
       <outline type="rss" text="Radek Pazdera" title="Radek Pazdera" xmlUrl="http://radek.io/rss.xml" htmlUrl="http://radek.io"/>
       <outline type="rss" text="Radim Řehůřek" title="Radim Řehůřek" xmlUrl="http://radimrehurek.com/feed/" htmlUrl="http://radimrehurek.com/blog/"/>
       <outline type="rss" text="Ramon Fried" title="Ramon Fried" xmlUrl="https://nativeguru.wordpress.com/feed/" htmlUrl="https://nativeguru.wordpress.com/"/>
+      <outline type="rss" text="Ray Wenderlich" title="Ray Wenderlich" xmlUrl="http://www.raywenderlich.com/rss" htmlUrl="http://www.raywenderlich.com/"/>
       <outline type="rss" text="Raymond Chen" title="Raymond Chen" xmlUrl="http://blogs.msdn.com/b/oldnewthing/atom.aspx" htmlUrl="http://blogs.msdn.com/b/oldnewthing/"/>
       <outline type="rss" text="Raymond Hettinger" title="Raymond Hettinger" xmlUrl="https://rhettinger.wordpress.com/feed/" htmlUrl="https://rhettinger.wordpress.com/"/>
       <outline type="rss" text="ReactJS News" title="ReactJS News" xmlUrl="https://reactjsnews.com/feed.xml" htmlUrl="https://reactjsnews.com"/>
@@ -395,6 +396,7 @@
       <outline type="rss" text="Rob Allen" title="Rob Allen" xmlUrl="https://akrabat.com/feed/" htmlUrl="https://akrabat.com/"/>
       <outline type="rss" text="Robert C. Martin" title="Robert C. Martin" xmlUrl="http://blog.cleancoder.com/atom.xml" htmlUrl="http://blog.cleancoder.com/"/>
       <outline type="rss" text="Robin Ward" title="Robin Ward" xmlUrl="http://eviltrout.com/feed.xml" htmlUrl="http://eviltrout.com/"/>
+      <outline type="rss" text="Robin Wilson" title="Robin Wilson" xmlUrl="http://blog.rtwilson.com/feed/" htmlUrl="http://blog.rtwilson.com/"/>
       <outline type="rss" text="Rudy Huyn" title="Rudy Huyn" xmlUrl="http://www.rudyhuyn.com/blog/feed/" htmlUrl="http://www.rudyhuyn.com/blog/"/>
       <outline type="rss" text="Ruslan Spivak" title="Ruslan Spivak" xmlUrl="http://ruslanspivak.com/feeds/all.atom.xml" htmlUrl="http://ruslanspivak.com/"/>
       <outline type="rss" text="Sam Saffron" title="Sam Saffron" xmlUrl="http://samsaffron.com/posts.rss" htmlUrl="http://samsaffron.com/"/>
