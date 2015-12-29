@@ -221,7 +221,6 @@
 * Polyvore http://engblog.polyvore.com/
 * Postmark http://blog.postmarkapp.com/
 * Prezi https://medium.com/prezi-engineering
-* Prismatic http://blog.getprismatic.com/
 * Prolific Interactive http://blog.prolificinteractive.com/category/development/
 * PullReview http://blog.8thcolor.com/
 
@@ -480,7 +479,7 @@
 * Oona Räisänen http://www.windytan.com/
 
 #### P individuals
-* Pamela Fox http://www.pamelafox.org/blogposts
+* Pamela Fox http://blog.pamelafox.org/
 * Pat Shaughnessy http://patshaughnessy.net/
 * Paul Graham http://www.paulgraham.com/articles.html
 * Paul Irish http://www.paulirish.com/
