@@ -243,6 +243,7 @@
       <outline type="rss" text="Wimdu" title="Wimdu" xmlUrl="http://tech.wimdu.com/atom.xml" htmlUrl="http://tech.wimdu.com/"/>
       <outline type="rss" text="Wingify" title="Wingify" xmlUrl="http://engineering.wingify.com/atom.xml" htmlUrl="http://engineering.wingify.com/"/>
       <outline type="rss" text="Wix" title="Wix" xmlUrl="http://engineering.wix.com/feed/" htmlUrl="http://engineering.wix.com/"/>
+      <outline type="rss" text="Wolox" title="Wolox" xmlUrl="https://medium.com/feed/@WoloxEngineering" htmlUrl="https://medium.com/@WoloxEngineering/"/>
       <outline type="rss" text="Wonga Technology" title="Wonga Technology" xmlUrl="http://wongatech.github.io/feed.xml" htmlUrl="http://tech.wonga.com/"/>
       <outline type="rss" text="WyeWorks" title="WyeWorks" xmlUrl="http://wyeworks.com/blog/atom.xml" htmlUrl="http://wyeworks.com/blog/"/>
       <outline type="rss" text="XING" title="XING" xmlUrl="https://devblog.xing.com/feed/" htmlUrl="https://devblog.xing.com/"/>

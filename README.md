@@ -306,6 +306,7 @@
 * Wimdu http://tech.wimdu.com/
 * Wingify http://engineering.wingify.com/
 * Wix http://engineering.wix.com/
+* Wolox https://medium.com/@WoloxEngineering/
 * Wonga Technology http://tech.wonga.com/
 * WyeWorks http://wyeworks.com/blog/
 
