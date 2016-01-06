@@ -191,6 +191,7 @@
       <outline type="rss" text="RisingStack" title="RisingStack" xmlUrl="http://blog.risingstack.com/rss/" htmlUrl="https://blog.risingstack.com/"/>
       <outline type="rss" text="Salesforce" title="Salesforce" xmlUrl="https://developer.salesforce.com/blogs/engineering/feed" htmlUrl="https://developer.salesforce.com/blogs/engineering/"/>
       <outline type="rss" text="Schibsted Tech Polska" title="Schibsted Tech Polska" xmlUrl="http://www.schibsted.pl/blog/feed/" htmlUrl="http://www.schibsted.pl/blog/"/>
+      <outline type="rss" text="Secret Escapes" title="Secret Escapes" xmlUrl="http://tech.secretescapes.com/feed/" htmlUrl="http://tech.secretescapes.com/"/>
       <outline type="rss" text="Semaphore CI Community" title="Semaphore CI Community" xmlUrl="https://semaphoreci.com/community/tutorials.atom" htmlUrl="https://semaphoreci.com/community"/>
       <outline type="rss" text="Sensible" title="Sensible" xmlUrl="http://blog.sensible.io/rss" htmlUrl="http://blog.sensible.io/"/>
       <outline type="rss" text="Shape Security" title="Shape Security" xmlUrl="http://engineering.shapesecurity.com/atom.xml" htmlUrl="http://engineering.shapesecurity.com/"/>
