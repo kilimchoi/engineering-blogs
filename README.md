@@ -270,6 +270,7 @@
 * Takipi http://blog.takipi.com/
 * Target https://target.github.io/
 * TaskRabbit http://tech.taskrabbit.com/
+* Teespring http://teespring.engineering/
 * theScore http://techblog.thescore.com/
 * Thoughtbot https://robots.thoughtbot.com/
 * ThoughtWorks https://www.thoughtworks.com/insights
