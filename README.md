@@ -243,8 +243,8 @@
 #### S companies
 * Salesforce https://developer.salesforce.com/blogs/engineering/
 * Schibsted Tech Polska http://www.schibsted.pl/blog/
-* Semaphore CI Community https://semaphoreci.com/community
 * Secret Escapes http://tech.secretescapes.com/
+* Semaphore CI Community https://semaphoreci.com/community
 * Sensible http://blog.sensible.io/
 * Shape Security http://engineering.shapesecurity.com/
 * Sharethis http://engineering.sharethis.com/
