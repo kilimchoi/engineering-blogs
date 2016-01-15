@@ -248,7 +248,7 @@
 * Sensible http://blog.sensible.io/
 * Shape Security http://engineering.shapesecurity.com/
 * Sharethis http://engineering.sharethis.com/
-* Sharethrough https://engineering.sharethrough.com/blog/
+* Sharethrough http://engineering.sharethrough.com/blog/
 * Shopify https://www.shopify.com/technology
 * Sift Science http://blog.siftscience.com/?category=Engineering
 * Simple https://www.simple.com/engineering
@@ -262,7 +262,7 @@
 * SRC:CLR https://blog.srcclr.com/
 * Stack Overflow http://blog.stackoverflow.com/engineering/
 * Stormpath https://stormpath.com/blog/
-* Strava http://labs.strava.com
+* Strava http://labs.strava.com/blog/
 * Stride NYC http://www.stridenyc.com/blog/
 * Stripe https://stripe.com/blog
 
