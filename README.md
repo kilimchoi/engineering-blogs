@@ -404,6 +404,7 @@
 * Fabrizio Branca http://fbrnc.net/
 * Fatih Arslan http://arslan.io/
 * Federico Cargnelutti http://blog.fedecarg.com/
+* Federico Tomassetti http://tomassetti.me/
 * Freek Van der Herten https://murze.be/
 
 #### G individuals
