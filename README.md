@@ -155,7 +155,6 @@
 * Intent Media http://intentmedia.com/blog/
 
 #### J companies
-* Jane Street https://blogs.janestreet.com/
 * Jolly Good Code https://jollygoodcode.github.io/
 * Just Eat http://tech.just-eat.com/
 
@@ -205,7 +204,7 @@
 
 #### O companies
 * Okta http://developer.okta.com/blog/
-* OmniTI http://omniti.com/seeds/
+* OmniTI https://omniti.com/seeds/
 * OpenDNS https://engineering.opendns.com/
 * OpenTable http://tech.opentable.com/
 * OpenTable UK http://tech.opentable.co.uk/
@@ -338,7 +337,7 @@
 #### A individuals
 * A List Apart http://alistapart.com/
 * Aaron Patterson http://tenderlovemaking.com/
-* Adam Bard http://adambard.com/blog/
+* Adam Bard https://adambard.com/blog/
 * Adam Leventhal http://dtrace.org/blogs/ahl/
 * Adam Tuliper http://www.adamtuliper.com/
 * Addy Osmani http://addyosmani.com/blog/
@@ -408,7 +407,7 @@
 * Freek Van der Herten https://murze.be/
 
 #### G individuals
-* Gleb Bahmutov http://glebbahmutov.com/blog/
+* Gleb Bahmutov https://glebbahmutov.com/blog/
 * Gonto http://gon.to/blog/
 * Guido van Rossum http://neopythonic.blogspot.com/
 * Guilherme Rodrigues http://firstdoit.com/
@@ -449,7 +448,6 @@
 * Lambda the Ultimate http://lambda-the-ultimate.org/
 * Larry Land http://lg.io/
 * Lea Verou http://lea.verou.me/
-* Leo https://leo.im/
 * Lerner Consulting Blog http://blog.lerner.co.il/
 * Life Plus Linux http://lifepluslinux.blogspot.in/
 
@@ -521,7 +519,7 @@
 #### S individuals
 * Sam Saffron http://samsaffron.com/
 * Scott Hanselman http://www.hanselman.com/blog/
-* Simon Reimler http://devdactic.com/
+* Simon Reimler https://devdactic.com/devblog/
 * Srinivas Tamada http://www.9lessons.info/
 * Stack Abuse http://www.stackabuse.com/
 * Stefan Parker http://codebeforethehorse.tumblr.com/
