@@ -251,7 +251,7 @@
 * Shopify https://www.shopify.com/technology
 * Sift Science http://blog.siftscience.com/?category=Engineering
 * Simple https://www.simple.com/engineering
-* SlideShare http://engineering.slideshare.net/
+* SlideShare https://engineering.linkedin.com/blog/topic/slideshare
 * Socialcast http://blog.socialcast.com/engineering/
 * Songkick http://devblog.songkick.com/
 * Soundcloud https://developers.soundcloud.com/blog/
