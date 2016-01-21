@@ -71,6 +71,7 @@
 * ClusterHQ https://clusterhq.com/blog/
 * CockroachDB http://www.cockroachlabs.com/blog/
 * Code School http://blog.codeschool.io/category/development/
+* Codemancers http://crypt.codemancers.com/
 * Codementor https://www.codementor.io/tutorial
 * CodeName One http://www.codenameone.com/blog.html
 * Codeship http://blog.codeship.com/
@@ -276,6 +277,7 @@
 * Thumbtack https://www.thumbtack.com/engineering/
 * Ticketmaster http://tech.ticketmaster.com/
 * Tilt http://engineering.tilt.com/
+* TrackMaven http://engineroom.trackmaven.com/
 * Transferwise http://tech.transferwise.com/
 * Trello https://trello.engineering/
 * Trivago http://tech.trivago.com/
