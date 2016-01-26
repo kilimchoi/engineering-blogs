@@ -265,7 +265,6 @@
 * Strava http://labs.strava.com/blog/
 * Stride NYC http://www.stridenyc.com/blog/
 * Stripe https://stripe.com/blog
-* Stylight http://tech.stylight.com
 
 #### T companies
 * Takipi http://blog.takipi.com/
