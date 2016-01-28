@@ -308,7 +308,6 @@
 
 #### X companies
 * XING https://devblog.xing.com/
-* XO Group http://xogroupinc.com/
 * Xoom http://dev-blog.xoom.com/
 
 #### Y companies
