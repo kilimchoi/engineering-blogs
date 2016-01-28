@@ -284,7 +284,6 @@
 
 #### U companies
 * Uber http://eng.uber.com/
-* UnderArmour http://engineering.underarmour.com/
 
 #### V companies
 * Venmo http://blog.venmo.com/?category=Engineering
