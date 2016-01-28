@@ -214,7 +214,7 @@
 * Parse http://blog.parse.com/
 * Paypal https://devblog.paypal.com/category/engineering/
 * Periscope https://www.periscopedata.com/blog/
-* Pinterest https://engineering.pinterest.com/
+* Pinterest https://engineering.pinterest.com/blog
 * Polyvore http://engblog.polyvore.com/
 * Postmark http://blog.postmarkapp.com/
 * Prezi https://medium.com/prezi-engineering
