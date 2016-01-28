@@ -17,7 +17,6 @@
 ### Companies
 
 #### \# companies
-* 2359 Media http://engineering.2359media.net/
 * 500px http://developers.500px.com/
 * 8th Light http://blog.8thlight.com/
 
