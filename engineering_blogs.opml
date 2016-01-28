@@ -215,7 +215,6 @@
       <outline type="rss" text="Thoughtbot" title="Thoughtbot" xmlUrl="feed://feeds.feedburner.com/GiantRobotsSmashingIntoOtherGiantRobots" htmlUrl="https://robots.thoughtbot.com/"/>
       <outline type="rss" text="ThoughtWorks" title="ThoughtWorks" xmlUrl="https://www.thoughtworks.com/rss/insights.xml" htmlUrl="https://www.thoughtworks.com/insights"/>
       <outline type="rss" text="Thumbtack" title="Thumbtack" xmlUrl="https://www.thumbtack.com/engineering/feeds/all.atom.xml" htmlUrl="https://www.thumbtack.com/engineering/"/>
-      <outline type="rss" text="Ticketmaster" title="Ticketmaster" xmlUrl="http://tech.ticketmaster.com/feed/" htmlUrl="http://tech.ticketmaster.com/"/>
       <outline type="rss" text="Tilt" title="Tilt" xmlUrl="http://engineering.tilt.com/atom.xml" htmlUrl="http://engineering.tilt.com/"/>
       <outline type="rss" text="TrackMaven" title="TrackMaven" xmlUrl="http://engineroom.trackmaven.com/feeds/rss.xml" htmlUrl="http://engineroom.trackmaven.com/"/>
       <outline type="rss" text="Transferwise" title="Transferwise" xmlUrl="http://tech.transferwise.com/rss/" htmlUrl="http://tech.transferwise.com/"/>
