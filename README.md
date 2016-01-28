@@ -275,7 +275,6 @@
 * Tilt http://engineering.tilt.com/
 * TrackMaven http://engineroom.trackmaven.com/
 * Transferwise http://tech.transferwise.com/
-* Trello https://trello.engineering/
 * Trivago http://tech.trivago.com/
 * TrueCar http://www.drivenbycode.com/
 * Tumblr http://engineering.tumblr.com/
