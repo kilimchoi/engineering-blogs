@@ -152,7 +152,6 @@
       <outline type="rss" text="Mozilla Release Engineering" title="Mozilla Release Engineering" xmlUrl="http://planet.mozilla.org/releng/atom.xml" htmlUrl="http://planet.mozilla.org/releng/"/>
       <outline type="rss" text="Myntra" title="Myntra" xmlUrl="http://myntra.github.io/atom.xml" htmlUrl="http://myntra.github.io/"/>
       <outline type="rss" text="Myntra Data Science" title="Myntra Data Science" xmlUrl="http://sartorialscience.myntrablogs.com/feeds/posts/default" htmlUrl="http://sartorialscience.myntrablogs.com/"/>
-      <outline type="rss" text="nerdish by nature" title="nerdish by nature" xmlUrl="http://nerdishbynature.com/feed.xml" htmlUrl="http://nerdishbynature.com/blog/"/>
       <outline type="rss" text="Netflix" title="Netflix" xmlUrl="http://techblog.netflix.com/feeds/posts/default" htmlUrl="http://techblog.netflix.com/"/>
       <outline type="rss" text="New York Times" title="New York Times" xmlUrl="http://open.blogs.nytimes.com/feed/" htmlUrl="http://open.blogs.nytimes.com"/>
       <outline type="rss" text="Nextdoor" title="Nextdoor" xmlUrl="https://engblog.nextdoor.com/feed/" htmlUrl="https://engblog.nextdoor.com/"/>
