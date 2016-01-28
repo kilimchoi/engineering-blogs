@@ -323,7 +323,6 @@
 * Zalando https://tech.zalando.com/blog/
 * Zendesk https://developer.zendesk.com/blog
 * Zenefits https://engineering.zenefits.com/posts/
-* Zesty http://engineering.zesty.com/
 * Zillow https://engineering.zillow.com/
 * Zulily http://engineering.zulily.com/
 * Zumba http://tech.zumba.com/
