@@ -196,7 +196,6 @@
 * Myntra Data Science http://sartorialscience.myntrablogs.com/
 
 #### N companies
-* nerdish by nature http://nerdishbynature.com/blog/
 * Netflix http://techblog.netflix.com/
 * New York Times http://open.blogs.nytimes.com
 * Nextdoor https://engblog.nextdoor.com/
