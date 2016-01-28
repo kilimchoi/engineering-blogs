@@ -270,7 +270,6 @@
 * Thoughtbot https://robots.thoughtbot.com/
 * ThoughtWorks https://www.thoughtworks.com/insights
 * Thumbtack https://www.thumbtack.com/engineering/
-* Ticketmaster http://tech.ticketmaster.com/
 * Tilt http://engineering.tilt.com/
 * TrackMaven http://engineroom.trackmaven.com/
 * Transferwise http://tech.transferwise.com/
