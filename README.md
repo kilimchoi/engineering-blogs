@@ -334,7 +334,6 @@
 * Adam Leventhal http://dtrace.org/blogs/ahl/
 * Adam Tuliper http://www.adamtuliper.com/
 * Addy Osmani http://addyosmani.com/blog/
-* Ajaxian http://ajaxian.com/
 * Alan Storm http://alanstorm.com/
 * Alex Russell https://infrequently.org/
 * Allan MacGregor http://coderoncode.com/
