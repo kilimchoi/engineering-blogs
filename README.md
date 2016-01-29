@@ -328,13 +328,11 @@
 ### Individuals/Group Contributors
 
 #### A individuals
-* A List Apart http://alistapart.com/
 * Aaron Patterson http://tenderlovemaking.com/
 * Adam Bard https://adambard.com/blog/
 * Adam Leventhal http://dtrace.org/blogs/ahl/
 * Adam Tuliper http://www.adamtuliper.com/
 * Addy Osmani http://addyosmani.com/blog/
-* Ajaxian http://ajaxian.com/
 * Alan Storm http://alanstorm.com/
 * Alex Russell https://infrequently.org/
 * Allan MacGregor http://coderoncode.com/
@@ -360,7 +358,7 @@
 
 #### C individuals
 * Carlos Becker http://carlosbecker.com
-* Chris Hager https://www.metachris.com
+* Chris Hager https://www.metachris.com/blog/
 * Chris Wellons http://nullprogram.com/
 * Cocoa Is My Girlfriend http://www.cimgf.com/
 * Code Better http://codebetter.com/
@@ -370,7 +368,6 @@
 * Daily JS http://dailyjs.com/
 * Daily Tech Video http://dailytechvideo.com/
 * Dan Luu http://danluu.com/
-* Dan North http://dannorth.net/blog/
 * Daniel Doubrovkine (dB.) http://code.dblock.org/
 * Dave Beazley http://www.dabeaz.com/blog.html
 * Dave Cheney http://dave.cheney.net/
@@ -452,7 +449,7 @@
 * Martin Fowler http://martinfowler.com/
 * Matt Cutts https://www.mattcutts.com/blog/
 * Matt Might http://matt.might.net/articles/
-* Michaël Gallego http://www.michaelgallego.fr/
+* Michaël Gallego http://www.michaelgallego.fr/articles/
 * Michael Herman http://mherman.org/
 * Miguel Quinones http://www.miqu.me/
 * Mike Ash https://www.mikeash.com/pyblog/
