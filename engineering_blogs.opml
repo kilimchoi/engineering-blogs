@@ -287,7 +287,6 @@
       <outline type="rss" text="Daily JS" title="Daily JS" xmlUrl="http://dailyjs.com/rss/" htmlUrl="http://dailyjs.com/"/>
       <outline type="rss" text="Daily Tech Video" title="Daily Tech Video" xmlUrl="http://dailytechvideo.com/feed/" htmlUrl="http://dailytechvideo.com/"/>
       <outline type="rss" text="Dan Luu" title="Dan Luu" xmlUrl="http://danluu.com/atom.xml" htmlUrl="http://danluu.com/"/>
-      <outline type="rss" text="Dan North" title="Dan North" xmlUrl="http://dannorth.net/feed/" htmlUrl="http://dannorth.net/blog/"/>
       <outline type="rss" text="Daniel Doubrovkine (dB.)" title="Daniel Doubrovkine (dB.)" xmlUrl="http://code.dblock.org/feed.xml" htmlUrl="http://code.dblock.org/"/>
       <outline type="rss" text="Dave Cheney" title="Dave Cheney" xmlUrl="http://dave.cheney.net/feed" htmlUrl="http://dave.cheney.net/"/>
       <outline type="rss" text="David Walsh" title="David Walsh" xmlUrl="https://davidwalsh.name/feed/atom" htmlUrl="https://davidwalsh.name/"/>
