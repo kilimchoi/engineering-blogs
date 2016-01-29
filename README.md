@@ -370,7 +370,6 @@
 * Daily JS http://dailyjs.com/
 * Daily Tech Video http://dailytechvideo.com/
 * Dan Luu http://danluu.com/
-* Dan North http://dannorth.net/blog/
 * Daniel Doubrovkine (dB.) http://code.dblock.org/
 * Dave Beazley http://www.dabeaz.com/blog.html
 * Dave Cheney http://dave.cheney.net/
