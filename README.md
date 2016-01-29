@@ -328,7 +328,6 @@
 ### Individuals/Group Contributors
 
 #### A individuals
-* A List Apart http://alistapart.com/
 * Aaron Patterson http://tenderlovemaking.com/
 * Adam Bard https://adambard.com/blog/
 * Adam Leventhal http://dtrace.org/blogs/ahl/
