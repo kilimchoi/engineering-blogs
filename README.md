@@ -400,6 +400,7 @@
 #### G individuals
 * Gleb Bahmutov https://glebbahmutov.com/blog/
 * Gonto http://gon.to/blog/
+* Graham King http://www.darkcoding.net/
 * Guido van Rossum http://neopythonic.blogspot.com/
 * Guilherme Rodrigues http://firstdoit.com/
 
