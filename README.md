@@ -151,6 +151,7 @@
 * Instagram http://instagram-engineering.tumblr.com/
 * Intent HQ http://engineering.intenthq.com/
 * Intent Media http://intentmedia.com/blog/
+* Intercom https://engineering.intercom.io/
 
 #### J companies
 * Jolly Good Code https://jollygoodcode.github.io/
