@@ -553,6 +553,9 @@
 #### A products
 * Atom.io http://blog.atom.io/
 
+#### R products
+* Rust http://blog.rust-lang.org/
+
 ----
 
 # RSS feeds
