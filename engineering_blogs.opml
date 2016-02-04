@@ -178,6 +178,7 @@
       <outline type="rss" text="Quora" title="Quora" xmlUrl="https://engineering.quora.com/rss" htmlUrl="http://engineering.quora.com/"/>
       <outline type="rss" text="Raizlabs" title="Raizlabs" xmlUrl="http://www.raizlabs.com/dev/feed/" htmlUrl="http://www.raizlabs.com/dev/"/>
       <outline type="rss" text="Rdio" title="Rdio" xmlUrl="https://algorithms.rdio.com/atom.xml" htmlUrl="https://algorithms.rdio.com/"/>
+      <outline type="rss" text="Realm.io" title="Realm.io" xmlUrl="https://feeds.feedburner.com/realmio" htmlUrl="https://realm.io/news/"/>
       <outline type="rss" text="Redbubble" title="Redbubble" xmlUrl="http://artplustech.com/feed/" htmlUrl="http://artplustech.com/"/>
       <outline type="rss" text="Redino" title="Redino" xmlUrl="http://redino.net/blog/feed/" htmlUrl="http://redino.net/blog/"/>
       <outline type="rss" text="Red Hat" title="Red Hat" xmlUrl="http://developerblog.redhat.com/feed/" htmlUrl="https://developerblog.redhat.com"/>
