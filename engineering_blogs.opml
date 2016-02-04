@@ -422,6 +422,8 @@
       <outline type="rss" text="Yifan Lu" title="Yifan Lu" xmlUrl="http://yifan.lu/feed/" htmlUrl="http://yifan.lu/"/>
       <outline type="rss" text="Zach Holman" title="Zach Holman" xmlUrl="http://zachholman.com/atom.xml" htmlUrl="http://zachholman.com/"/>
       <outline type="rss" text="Zolmeister" title="Zolmeister" xmlUrl="https://www.zolmeister.com/feeds/posts/default" htmlUrl="https://zolmeister.com/"/>
+      <outline type="rss" text="Atom.io" title="Atom.io" xmlUrl="http://blog.atom.io/feed.xml" htmlUrl="http://blog.atom.io/"/>
+      <outline type="rss" text="Rust" title="Rust" xmlUrl="http://blog.rust-lang.org/feed.xml" htmlUrl="http://blog.rust-lang.org/"/>
     </outline>
   </body>
 </opml>
