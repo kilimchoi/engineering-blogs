@@ -551,13 +551,13 @@
 
 ### Products/Technologies
 
-#### A products
+#### A technologies
 * Atom.io http://blog.atom.io/
 
-#### G products
+#### G technologies
 * Go https://blog.golang.org/
 
-#### R products
+#### R technologies
 * Rust http://blog.rust-lang.org/
 
 ----
