@@ -557,6 +557,9 @@
 #### G technologies
 * Go https://blog.golang.org/
 
+#### L technologies
+* Laravel http://blog.laravel.com/
+
 #### R technologies
 * Rust http://blog.rust-lang.org/
 
