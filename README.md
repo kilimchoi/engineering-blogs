@@ -554,6 +554,9 @@
 #### A products
 * Atom.io http://blog.atom.io/
 
+#### G products
+* Go https://blog.golang.org/
+
 #### R products
 * Rust http://blog.rust-lang.org/
 
