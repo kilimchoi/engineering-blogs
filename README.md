@@ -442,6 +442,7 @@
 * Lambda the Ultimate http://lambda-the-ultimate.org/
 * Larry Land http://lg.io/
 * Lea Verou http://lea.verou.me/
+* Leonardo Cardoso http://leocardz.com/
 * Lerner Consulting Blog http://blog.lerner.co.il/
 * Life Plus Linux http://lifepluslinux.blogspot.in/
 
