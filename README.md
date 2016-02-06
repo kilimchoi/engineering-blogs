@@ -558,6 +558,7 @@
 * Go https://blog.golang.org/
 
 #### R technologies
+* React https://facebook.github.io/react/blog/
 * Rust http://blog.rust-lang.org/
 
 ----
