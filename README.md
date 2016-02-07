@@ -42,6 +42,7 @@
 * Bandcamp https://bandcamptech.wordpress.com/
 * Base Lab https://lab.getbase.com/category/engineering/
 * Bazaarvoice http://blog.developer.bazaarvoice.com/
+* Benchling http://benchling.engineering/
 * BenefitFocus https://www.benefitfocus.com/blogs/design-engineering
 * Bigcommerce http://www.bigeng.io/
 * Binary Studio http://binary-studio.com/blog/
@@ -154,6 +155,7 @@
 * Intercom https://engineering.intercom.io/
 
 #### J companies
+* Jane Street https://blogs.janestreet.com/category/ocaml/
 * Jolly Good Code https://jollygoodcode.github.io/
 * Just Eat http://tech.just-eat.com/
 
@@ -371,6 +373,7 @@
 * Daily Tech Video http://dailytechvideo.com/
 * Dan Luu http://danluu.com/
 * Daniel Doubrovkine (dB.) http://code.dblock.org/
+* Dave Atchley http://www.datchley.name/
 * Dave Beazley http://www.dabeaz.com/blog.html
 * Dave Cheney http://dave.cheney.net/
 * David Walsh https://davidwalsh.name/
@@ -384,6 +387,7 @@
 
 #### E individuals
 * Edgar Aroutiounian http://hyegar.com/blog/
+* Edward Z. Yang http://blog.ezyang.com/
 * Ejci's Blog http://ejci.net/
 * Elegant Code http://elegantcode.com/
 * Eli Bendersky http://eli.thegreenplace.net/
@@ -416,6 +420,7 @@
 * Ilya Grigorik https://www.igvita.com/
 
 #### J individuals
+* Jackson Davis http://jcdav.is/
 * Jacopo Tarantino https://jack.ofspades.com/
 * Jake Wharton http://jakewharton.com/blog
 * Jake Yesbeck http://jakeyesbeck.com/
