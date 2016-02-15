@@ -427,6 +427,7 @@
       <outline type="rss" text="Go" title="Go" xmlUrl="https://blog.golang.org/feed.atom" htmlUrl="https://blog.golang.org/"/>
       <outline type="rss" text="Laravel" title="Laravel" xmlUrl="http://blog.laravel.com/?feed=rss2" htmlUrl="http://blog.laravel.com/"/>
       <outline type="rss" text="React" title="React" xmlUrl="https://facebook.github.io/react/feed.xml" htmlUrl="https://facebook.github.io/react/blog/"/>
+      <outline type="rss" text="RocksDB" title="RocksDB" xmlUrl="http://rocksdb.org/blog/rss" htmlUrl="http://rocksdb.org/blog"/>
       <outline type="rss" text="Rust" title="Rust" xmlUrl="http://blog.rust-lang.org/feed.xml" htmlUrl="http://blog.rust-lang.org/"/>
     </outline>
   </body>
