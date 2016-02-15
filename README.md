@@ -562,6 +562,7 @@
 
 #### R technologies
 * React https://facebook.github.io/react/blog/
+* RocksDB http://rocksdb.org/blog
 * Rust http://blog.rust-lang.org/
 
 ----
