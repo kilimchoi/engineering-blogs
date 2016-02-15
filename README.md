@@ -46,6 +46,7 @@
 
 #### B companies
 * Badoo https://techblog.badoo.com/
+* Baidu Research http://research.baidu.com/baidu-tech-blog/
 * Bandcamp https://bandcamptech.wordpress.com/
 * Base Lab https://lab.getbase.com/category/engineering/
 * Bazaarvoice http://blog.developer.bazaarvoice.com/
@@ -525,6 +526,7 @@
 * Stefan Parker http://codebeforethehorse.tumblr.com/
 * Stephen Colebourne http://blog.joda.org/
 * Steve Yegge http://steve-yegge.blogspot.com/
+* Stitch Fix http://multithreaded.stitchfix.com/
 * Swift Offical Dev Blog https://developer.apple.com/swift/blog/
 * Swizec Teller http://swizec.com/blog/
 
