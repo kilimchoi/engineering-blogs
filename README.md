@@ -265,6 +265,7 @@
 * Square https://corner.squareup.com/
 * SRC:CLR https://blog.srcclr.com/
 * Stack Overflow http://blog.stackoverflow.com/engineering/
+* Stitch Fix http://multithreaded.stitchfix.com/blog
 * Stormpath https://stormpath.com/blog/
 * Strava http://labs.strava.com/blog/
 * Stride NYC http://www.stridenyc.com/blog/
