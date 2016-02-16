@@ -156,6 +156,7 @@
 * Imaginea http://blog.imaginea.com/
 * Imgur http://imgur.com/blog/category/eng/
 * Indeed http://engineering.indeedblog.com/blog/
+* Instacart https://tech.instacart.com/
 * Instagram http://instagram-engineering.tumblr.com/
 * Intent HQ http://engineering.intenthq.com/
 * Intent Media http://intentmedia.com/blog/
