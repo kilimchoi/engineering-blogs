@@ -23,6 +23,7 @@
       <outline type="rss" text="AWS" title="AWS" xmlUrl="https://aws.amazon.com/blogs/aws/feed/" htmlUrl="https://aws.amazon.com/blogs/aws/"/>
       <outline type="rss" text="Azavea" title="Azavea" xmlUrl="http://www.azavea.com/blogs/labs/feed/" htmlUrl="http://www.azavea.com/blogs/labs/"/>
       <outline type="rss" text="Badoo" title="Badoo" xmlUrl="https://techblog.badoo.com/feed.xml" htmlUrl="https://techblog.badoo.com/"/>
+      <outline type="rss" text="Baidu Research" title="Baidu Research" xmlUrl="http://research.baidu.com/feed/" htmlUrl="http://research.baidu.com/category/baidutechblog/baidu-research-technology/"/>
       <outline type="rss" text="Bandcamp" title="Bandcamp" xmlUrl="https://bandcamptech.wordpress.com/feed/" htmlUrl="https://bandcamptech.wordpress.com/"/>
       <outline type="rss" text="Base Lab" title="Base Lab" xmlUrl="https://lab.getbase.com/feed/" htmlUrl="https://lab.getbase.com/category/engineering/"/>
       <outline type="rss" text="Bazaarvoice" title="Bazaarvoice" xmlUrl="http://blog.developer.bazaarvoice.com/feed/" htmlUrl="http://blog.developer.bazaarvoice.com/"/>
