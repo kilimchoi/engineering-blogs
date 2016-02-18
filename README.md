@@ -162,6 +162,7 @@
 * Intercom https://engineering.intercom.io/
 
 #### J companies
+* Jane Street https://blogs.janestreet.com/category/ocaml/
 * Jolly Good Code https://jollygoodcode.github.io/
 * Just Eat http://tech.just-eat.com/
 
