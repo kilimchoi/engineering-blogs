@@ -209,6 +209,7 @@
       <outline type="rss" text="Square" title="Square" xmlUrl="http://feeds.feedburner.com/corner-squareup-com" htmlUrl="https://corner.squareup.com/"/>
       <outline type="rss" text="SRC:CLR" title="SRC:CLR" xmlUrl="https://blog.srcclr.com/atom.xml" htmlUrl="https://blog.srcclr.com/"/>
       <outline type="rss" text="Stack Overflow" title="Stack Overflow" xmlUrl="http://blog.stackoverflow.com/feed/" htmlUrl="http://blog.stackoverflow.com/engineering/"/>
+      <outline type="rss" text="Stitch Fix" title="Stitch Fix" xmlUrl="http://multithreaded.stitchfix.com/feed.xml" htmlUrl="http://multithreaded.stitchfix.com/blog"/>
       <outline type="rss" text="Stormpath" title="Stormpath" xmlUrl="https://stormpath.com/atom.xml" htmlUrl="https://stormpath.com/blog/"/>
       <outline type="rss" text="Stride NYC" title="Stride NYC" xmlUrl="http://www.stridenyc.com/blog/rss" htmlUrl="http://www.stridenyc.com/blog/"/>
       <outline type="rss" text="Stripe" title="Stripe" xmlUrl="https://stripe.com/blog/feed.rss" htmlUrl="https://stripe.com/blog"/>
