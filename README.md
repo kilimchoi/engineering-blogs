@@ -577,6 +577,9 @@
 * RocksDB http://rocksdb.org/blog
 * Rust http://blog.rust-lang.org/
 
+#### V technologies
+* Vertabelo http://www.vertabelo.com/blog
+
 ----
 
 # RSS feeds

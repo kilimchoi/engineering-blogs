@@ -435,6 +435,7 @@
       <outline type="rss" text="React" title="React" xmlUrl="https://facebook.github.io/react/feed.xml" htmlUrl="https://facebook.github.io/react/blog/"/>
       <outline type="rss" text="RocksDB" title="RocksDB" xmlUrl="http://rocksdb.org/blog/rss" htmlUrl="http://rocksdb.org/blog"/>
       <outline type="rss" text="Rust" title="Rust" xmlUrl="http://blog.rust-lang.org/feed.xml" htmlUrl="http://blog.rust-lang.org/"/>
+      <outline type="rss" text="Vertabelo" title="Vertabelo" xmlUrl="http://www.vertabelo.com/_rss/blog.xml" htmlUrl="http://www.vertabelo.com/blog"/>
     </outline>
   </body>
 </opml>
