@@ -16,7 +16,7 @@
       <outline type="rss" text="AlphaSights" title="AlphaSights" xmlUrl="http://engineering-blog.alphasights.com/rss" htmlUrl="http://engineering-blog.alphasights.com/"/>
       <outline type="rss" text="Arkency" title="Arkency" xmlUrl="http://feeds.feedburner.com/arkency.xml" htmlUrl="http://blog.arkency.com/"/>
       <outline type="rss" text="Artsy" title="Artsy" xmlUrl="http://artsy.github.io/feed" htmlUrl="http://artsy.github.io/"/>
-      <outline type="rss" text="Asana" title="Asana" xmlUrl="https://blog.asana.com/feed/" htmlUrl="https://blog.asana.com/category/eng"/>
+      <outline type="rss" text="Asana" title="Asana" xmlUrl="https://blog.asana.com/feed/" htmlUrl="https://blog.asana.com/category/eng/"/>
       <outline type="rss" text="Atlassian" title="Atlassian" xmlUrl="https://developer.atlassian.com/blog/feed.xml" htmlUrl="https://developer.atlassian.com/blog/"/>
       <outline type="rss" text="Auth0" title="Auth0" xmlUrl="https://auth0.com/blog/rss.xml" htmlUrl="https://auth0.com/blog/"/>
       <outline type="rss" text="Autodesk" title="Autodesk" xmlUrl="http://cloudengineering.autodesk.com/blog/atom.xml" htmlUrl="http://cloudengineering.autodesk.com/blog/"/>
@@ -117,7 +117,7 @@
       <outline type="rss" text="IFTTT" title="IFTTT" xmlUrl="http://engineering.ifttt.com/feed.xml" htmlUrl="http://engineering.ifttt.com/"/>
       <outline type="rss" text="IMVU" title="IMVU" xmlUrl="http://engineering.imvu.com/feed/" htmlUrl="http://engineering.imvu.com/"/>
       <outline type="rss" text="Imaginea" title="Imaginea" xmlUrl="http://blog.imaginea.com/feed/" htmlUrl="http://blog.imaginea.com/"/>
-      <outline type="rss" text="Imgur" title="Imgur" xmlUrl="http://blog.imgur.com/feed/" htmlUrl="http://blog.imgur.com//category/eng/"/>
+      <outline type="rss" text="Imgur" title="Imgur" xmlUrl="https://blog.imgur.com/feed/" htmlUrl="http://blog.imgur.com/category/eng/"/>
       <outline type="rss" text="Indeed" title="Indeed" xmlUrl="http://engineering.indeedblog.com/feed/" htmlUrl="http://engineering.indeedblog.com/blog/"/>
       <outline type="rss" text="Instacart" title="Instacart" xmlUrl="http://tech.instacart.com/feed/" htmlUrl="https://tech.instacart.com/"/>
       <outline type="rss" text="Instagram" title="Instagram" xmlUrl="http://instagram-engineering.tumblr.com/rss" htmlUrl="http://instagram-engineering.tumblr.com/"/>
@@ -172,7 +172,7 @@
       <outline type="rss" text="Periscope" title="Periscope" xmlUrl="https://www.periscopedata.com/blog/atom.xml" htmlUrl="https://www.periscopedata.com/blog/"/>
       <outline type="rss" text="Pinterest" title="Pinterest" xmlUrl="https://engineering.pinterest.com/blog/rss" htmlUrl="https://engineering.pinterest.com/blog"/>
       <outline type="rss" text="Polyvore" title="Polyvore" xmlUrl="http://engblog.polyvore.com/feeds/posts/default" htmlUrl="http://engblog.polyvore.com/"/>
-      <outline type="rss" text="Postmark" title="Postmark" xmlUrl="https://postmarkapp.com/blog/feed.atom" htmlUrl="https://postmarkapp.com/blog/"/>
+      <outline type="rss" text="Postmark" title="Postmark" xmlUrl="https://postmarkapp.com/blog/feed.atom" htmlUrl="https://postmarkapp.com/blog"/>
       <outline type="rss" text="Prezi" title="Prezi" xmlUrl="https://medium.com/feed/prezi-engineering" htmlUrl="https://medium.com/prezi-engineering"/>
       <outline type="rss" text="Prolific Interactive" title="Prolific Interactive" xmlUrl="http://blog.prolificinteractive.com/category/development/feed/" htmlUrl="http://blog.prolificinteractive.com/category/development/"/>
       <outline type="rss" text="PullReview" title="PullReview" xmlUrl="http://blog.8thcolor.com/feed.xml" htmlUrl="http://blog.8thcolor.com/"/>
@@ -337,7 +337,7 @@
       <outline type="rss" text="Joel Spolsky" title="Joel Spolsky" xmlUrl="http://www.joelonsoftware.com/rss.xml" htmlUrl="http://www.joelonsoftware.com/"/>
       <outline type="rss" text="John Resig" title="John Resig" xmlUrl="http://feeds.feedburner.com/JohnResig" htmlUrl="http://ejohn.org/category/blog/"/>
       <outline type="rss" text="Jon Skeet" title="Jon Skeet" xmlUrl="http://codeblog.jonskeet.uk/feed/" htmlUrl="http://codeblog.jonskeet.uk/"/>
-      <outline type="rss" text="Jonathan Dekhtiar" title="Jonathan Dekhtiar" xmlUrl="http://www.dataradar.io/rss/" htmlUrl="http://www.dataradar.io"/>
+      <outline type="rss" text="Jonathan Dekhtiar" title="Jonathan Dekhtiar" xmlUrl="http://www.dataradar.io/rss/" htmlUrl="https://www.dataradar.io"/>
       <outline type="rss" text="Jonathan Snook" title="Jonathan Snook" xmlUrl="http://snook.ca/jonathan/index.rdf" htmlUrl="http://snook.ca/"/>
       <outline type="rss" text="Josh Sherman" title="Josh Sherman" xmlUrl="https://joshtronic.com/atom.xml" htmlUrl="https://joshtronic.com/"/>
       <outline type="rss" text="Justin Weiss" title="Justin Weiss" xmlUrl="http://www.justinweiss.com/atom.xml" htmlUrl="http://www.justinweiss.com/blog/"/>

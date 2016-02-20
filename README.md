@@ -37,7 +37,7 @@
 * AlphaSights http://engineering-blog.alphasights.com/
 * Arkency http://blog.arkency.com/
 * Artsy http://artsy.github.io/
-* Asana https://blog.asana.com/category/eng
+* Asana https://blog.asana.com/category/eng/
 * Atlassian https://developer.atlassian.com/blog/
 * Auth0 https://auth0.com/blog/
 * Autodesk http://cloudengineering.autodesk.com/blog/
@@ -154,7 +154,7 @@
 * IFTTT http://engineering.ifttt.com/
 * IMVU http://engineering.imvu.com/
 * Imaginea http://blog.imaginea.com/
-* Imgur http://blog.imgur.com//category/eng/
+* Imgur http://blog.imgur.com/category/eng/
 * Indeed http://engineering.indeedblog.com/blog/
 * Instacart https://tech.instacart.com/
 * Instagram http://instagram-engineering.tumblr.com/
@@ -225,7 +225,7 @@
 * Periscope https://www.periscopedata.com/blog/
 * Pinterest https://engineering.pinterest.com/blog
 * Polyvore http://engblog.polyvore.com/
-* Postmark https://postmarkapp.com/blog/
+* Postmark https://postmarkapp.com/blog
 * Prezi https://medium.com/prezi-engineering
 * Prolific Interactive http://blog.prolificinteractive.com/category/development/
 * PullReview http://blog.8thcolor.com/
@@ -439,7 +439,7 @@
 * Joel Spolsky http://www.joelonsoftware.com/
 * John Resig http://ejohn.org/category/blog/
 * Jon Skeet http://codeblog.jonskeet.uk/
-* Jonathan Dekhtiar http://www.dataradar.io
+* Jonathan Dekhtiar https://www.dataradar.io
 * Jonathan Snook http://snook.ca/
 * Josh Sherman https://joshtronic.com/
 * Justin Weiss http://www.justinweiss.com/blog/
