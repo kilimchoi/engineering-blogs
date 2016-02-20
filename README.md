@@ -14,6 +14,13 @@
 | [I](#i-individuals) 	| [J](#j-individuals) 	| [K](#k-individuals) 	| [L](#l-individuals) 	| [M](#m-individuals) 	| [N](#n-individuals) 	| [O](#o-individuals) 	| [P](#p-individuals) 	| [Q](#q-individuals) 	|
 | [R](#r-individuals) 	| [S](#s-individuals) 	| [T](#t-individuals) 	| [U](#u-individuals) 	| [V](#v-individuals) 	| [W](#w-individuals) 	| [X](#x-individuals) 	| [Y](#y-individuals) 	| [Z](#z-individuals)  	|
 
+### [Products/Technologies](#productstechnologies-1)
+|   	|   	|   	|   	|   	|   	|   	|   	|   	|
+|:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |
+| [#](#-technologies) 	| [A](#a-technologies) 	| [B](#b-technologies) 	| [C](#c-technologies) 	| [D](#d-technologies) 	| [E](#e-technologies) 	| [F](#f-technologies) 	| [G](#g-technologies) 	| [H](#h-technologies) 	|
+| [I](#i-technologies) 	| [J](#j-technologies) 	| [K](#k-technologies) 	| [L](#l-technologies) 	| [M](#m-technologies) 	| [N](#n-technologies) 	| [O](#o-technologies) 	| [P](#p-technologies) 	| [Q](#q-technologies) 	|
+| [R](#r-technologies) 	| [S](#s-technologies) 	| [T](#t-technologies) 	| [U](#u-technologies) 	| [V](#v-technologies) 	| [W](#w-technologies) 	| [X](#x-technologies) 	| [Y](#y-technologies) 	| [Z](#z-technologies)  	|
+
 ### Companies
 
 #### \# companies
@@ -39,6 +46,7 @@
 
 #### B companies
 * Badoo https://techblog.badoo.com/
+* Baidu Research http://research.baidu.com/category/baidutechblog/baidu-research-technology/
 * Bandcamp https://bandcamptech.wordpress.com/
 * Base Lab https://lab.getbase.com/category/engineering/
 * Bazaarvoice http://blog.developer.bazaarvoice.com/
@@ -148,12 +156,14 @@
 * Imaginea http://blog.imaginea.com/
 * Imgur http://imgur.com/blog/category/eng/
 * Indeed http://engineering.indeedblog.com/blog/
+* Instacart https://tech.instacart.com/
 * Instagram http://instagram-engineering.tumblr.com/
 * Intent HQ http://engineering.intenthq.com/
 * Intent Media http://intentmedia.com/blog/
 * Intercom https://engineering.intercom.io/
 
 #### J companies
+* Jane Street https://blogs.janestreet.com/category/ocaml/
 * Jolly Good Code https://jollygoodcode.github.io/
 * Just Eat http://tech.just-eat.com/
 
@@ -249,6 +259,7 @@
 * Shopify https://www.shopify.com/technology
 * Sift Science http://blog.siftscience.com/?category=Engineering
 * Simple https://www.simple.com/engineering
+* Sky Betting & Gaming http://engineering.skybettingandgaming.com/
 * SlideShare https://engineering.linkedin.com/blog/topic/slideshare
 * Socialcast http://blog.socialcast.com/engineering/
 * Songkick http://devblog.songkick.com/
@@ -258,6 +269,7 @@
 * Square https://corner.squareup.com/
 * SRC:CLR https://blog.srcclr.com/
 * Stack Overflow http://blog.stackoverflow.com/engineering/
+* Stitch Fix http://multithreaded.stitchfix.com/blog
 * Stormpath https://stormpath.com/blog/
 * Strava http://labs.strava.com/blog/
 * Stride NYC http://www.stridenyc.com/blog/
@@ -371,6 +383,7 @@
 * Daily Tech Video http://dailytechvideo.com/
 * Dan Luu http://danluu.com/
 * Daniel Doubrovkine (dB.) http://code.dblock.org/
+* Dave Atchley http://www.datchley.name/
 * Dave Beazley http://www.dabeaz.com/blog.html
 * Dave Cheney http://dave.cheney.net/
 * David Walsh https://davidwalsh.name/
@@ -562,7 +575,11 @@
 
 #### R technologies
 * React https://facebook.github.io/react/blog/
+* RocksDB http://rocksdb.org/blog
 * Rust http://blog.rust-lang.org/
+
+#### V technologies
+* Vertabelo http://www.vertabelo.com/blog
 
 ----
 
