@@ -260,6 +260,7 @@
       <outline type="rss" text="Zulily" title="Zulily" xmlUrl="http://engineering.zulily.com/feed/" htmlUrl="http://engineering.zulily.com/"/>
       <outline type="rss" text="Zumba" title="Zumba" xmlUrl="http://feeds.feedburner.com/zumba_engineering" htmlUrl="http://tech.zumba.com/"/>
       <outline type="rss" text="Aaron Patterson" title="Aaron Patterson" xmlUrl="http://tenderlovemaking.com/atom.xml" htmlUrl="http://tenderlovemaking.com/"/>
+      <outline type="rss" text="Abhinaba Basu" title="Abhinaba Basu" xmlUrl="http://blogs.msdn.com/b/abhinaba/atom.aspx" htmlUrl="http://blogs.msdn.com/b/abhinaba/"/>
       <outline type="rss" text="Adam Bard" title="Adam Bard" xmlUrl="https://adambard.com/blog/feed.xml" htmlUrl="https://adambard.com/blog/"/>
       <outline type="rss" text="Adam Leventhal" title="Adam Leventhal" xmlUrl="http://dtrace.org/blogs/ahl/feed/" htmlUrl="http://dtrace.org/blogs/ahl/"/>
       <outline type="rss" text="Adam Tuliper" title="Adam Tuliper" xmlUrl="http://www.adamtuliper.com/feeds/posts/default" htmlUrl="http://www.adamtuliper.com/"/>
