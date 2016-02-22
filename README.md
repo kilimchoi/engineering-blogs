@@ -396,6 +396,7 @@
 
 #### E individuals
 * Edgar Aroutiounian http://hyegar.com/blog/
+* Edward Z. Yang http://blog.ezyang.com/
 * Ejci's Blog http://ejci.net/
 * Elegant Code http://elegantcode.com/
 * Eli Bendersky http://eli.thegreenplace.net/
@@ -428,6 +429,7 @@
 * Ilya Grigorik https://www.igvita.com/
 
 #### J individuals
+* Jackson Davis http://jcdav.is/
 * Jacopo Tarantino https://jack.ofspades.com/
 * Jake Wharton http://jakewharton.com/blog
 * Jake Yesbeck http://jakeyesbeck.com/
