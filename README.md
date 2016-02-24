@@ -429,7 +429,6 @@
 
 #### J individuals
 * Jacopo Tarantino https://jack.ofspades.com/
-* Jeff Preshing http://preshing.com/
 * Jake Wharton http://jakewharton.com/blog
 * Jake Yesbeck http://jakeyesbeck.com/
 * James Hague http://prog21.dadgum.com/
@@ -437,6 +436,7 @@
 * Jamis Buck http://weblog.jamisbuck.org/
 * Jay Fields http://blog.jayfields.com
 * Jeff Atwood http://blog.codinghorror.com/
+* Jeff Preshing http://preshing.com/
 * Jeremy Kun http://jeremykun.com/
 * Jessie Frazelle https://blog.jessfraz.com/
 * Jesus Castello http://www.blackbytes.info/
