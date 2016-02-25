@@ -363,6 +363,7 @@
 * Bad Concurrency http://bad-concurrency.blogspot.com/
 * Barry Warsaw http://www.wefearchange.org/
 * Bill the Lizard http://www.billthelizard.com/
+* Bjørn Johansen https://bjornjohansen.no/
 * Blake Erickson http://blakeerickson.com/
 * Blundell's Android Tutorials http://blog.blundellapps.co.uk
 * Brandon Rhodes http://rhodesmill.org/brandon/
