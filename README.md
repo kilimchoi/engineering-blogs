@@ -446,6 +446,7 @@
 * Jon Skeet http://codeblog.jonskeet.uk/
 * Jonathan Dekhtiar https://www.dataradar.io
 * Jonathan Snook http://snook.ca/
+* Josh Haberman http://blog.reverberate.org/
 * Josh Sherman https://joshtronic.com/
 * Justin Weiss http://www.justinweiss.com/blog/
 
