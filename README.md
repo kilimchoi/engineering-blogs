@@ -495,7 +495,6 @@
 * Paul Graham http://www.paulgraham.com/articles.html
 * Paul Irish http://www.paulirish.com/
 * Paul Lewis https://aerotwist.com/blog/
-* Peter Lyons http://peterlyons.com/problog
 * Peter Norvig http://norvig.com/
 * Peter Steinberger http://petersteinberger.com/
 * Peteris Krumins http://www.catonmat.net/blog/
