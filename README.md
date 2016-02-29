@@ -466,6 +466,7 @@
 * Manu Sporny http://manu.sporny.org/
 * Marc Plano-Lesay http://enoent.fr
 * Marco Pivetta http://ocramius.github.io/
+* Martin Bean http://martinbean.co.uk/
 * Martin Fowler http://martinfowler.com/
 * Matt Cutts https://www.mattcutts.com/blog/
 * Matt Might http://matt.might.net/articles/
