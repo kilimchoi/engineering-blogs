@@ -369,6 +369,7 @@
 * Brandon Rhodes http://rhodesmill.org/brandon/
 * Brendan Eich https://brendaneich.com/
 * Brendan Gregg http://www.brendangregg.com/blog/
+* Bryan Cantrill http://dtrace.org/blogs/bmc/
 
 #### C individuals
 * Carlos Becker http://carlosbecker.com
