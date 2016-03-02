@@ -94,6 +94,7 @@
 * DataFox http://eng.datafox.co/
 * DataRank http://engineering.datarank.com/
 * DeferPanic https://deferpanic.com/blog/
+* Deis https://deis.com/blog
 * DigitalOcean https://www.digitalocean.com/community/tutorials
 * Docker https://blog.docker.com/category/engineering/
 * Dropbox https://blogs.dropbox.com/tech/
