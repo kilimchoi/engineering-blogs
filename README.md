@@ -107,7 +107,6 @@
 * Etsy https://codeascraft.com/
 * Eventbrite http://www.eventbrite.com/engineering/
 * Evernote https://blog.evernote.com/tech/
-* EverythingMe http://geeks.everything.me/
 
 #### F companies
 * Facebook https://code.facebook.com/posts/
