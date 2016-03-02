@@ -397,7 +397,7 @@
 * Ducode.org https://ducode.org/tag/tutorial
 
 #### E individuals
-* Edgar Aroutiounian http://hyegar.com/blog/
+* Edgar Aroutiounian http://hyegar.com/archive/
 * Ejci's Blog http://ejci.net/
 * Elegant Code http://elegantcode.com/
 * Eli Bendersky http://eli.thegreenplace.net/
