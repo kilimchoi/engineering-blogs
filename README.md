@@ -299,7 +299,7 @@
 #### V companies
 * Venmo http://blog.venmo.com/?category=Engineering
 * VersionEye http://blog.versioneye.com/
-* Viget https://viget.com/extend
+* Viget https://www.viget.com/articles/category/code#articles
 * Vimeo http://makingvimeo.com/
 * Vine http://engineering.vine.co/
 * Vinted http://engineering.vinted.com/
