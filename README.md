@@ -143,6 +143,7 @@
 * Harry's http://engineering.harrys.com/
 * Hashrocket https://hashrocket.com/blog
 * Heroku https://engineering.heroku.com/
+* HireArt http://code.hireart.com/
 * Holiday Extras http://hungrygeek.holidayextras.co.uk/
 * Honeybadger http://blog.honeybadger.io/
 * Hootsuite http://code.hootsuite.com/
