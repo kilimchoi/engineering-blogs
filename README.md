@@ -418,6 +418,7 @@
 * Gleb Bahmutov https://glebbahmutov.com/blog/
 * Gonto http://gon.to/blog/
 * Graham King http://www.darkcoding.net/
+* Grzegorz Gajos http://ggajos.com/
 * Guido van Rossum http://neopythonic.blogspot.com/
 * Guilherme Rodrigues http://firstdoit.com/
 
