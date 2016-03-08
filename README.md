@@ -359,6 +359,7 @@
 * Antirez http://antirez.com/latest/0
 * Ariya Hidayat http://ariya.ofilabs.com/
 * Armin Ronacher http://lucumr.pocoo.org/
+* Axel Rauschmayer http://www.2ality.com/
 
 #### B individuals
 * Bad Concurrency http://bad-concurrency.blogspot.com/
