@@ -363,6 +363,7 @@
 #### B individuals
 * Bad Concurrency http://bad-concurrency.blogspot.com/
 * Barry Warsaw http://www.wefearchange.org/
+* Ben McCormick http://benmccormick.org/
 * Bill the Lizard http://www.billthelizard.com/
 * Bjørn Johansen https://bjornjohansen.no/
 * Blake Erickson http://blakeerickson.com/
