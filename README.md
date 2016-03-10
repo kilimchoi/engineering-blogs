@@ -400,6 +400,7 @@
 * Ducode.org https://ducode.org/tag/tutorial
 
 #### E individuals
+* Edan Kwan http://blog.edankwan.com/
 * Edgar Aroutiounian http://hyegar.com/archive/
 * Ejci's Blog http://ejci.net/
 * Elegant Code http://elegantcode.com/
