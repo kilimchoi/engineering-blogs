@@ -347,6 +347,7 @@
 * Adam Leventhal http://dtrace.org/blogs/ahl/
 * Adam Tuliper http://www.adamtuliper.com/
 * Addy Osmani https://addyosmani.com/blog/
+* Adrian Colyer http://blog.acolyer.org/
 * Alan Storm http://alanstorm.com/
 * Alex Russell https://infrequently.org/
 * Allan MacGregor http://coderoncode.com/
