@@ -575,6 +575,9 @@
 #### A technologies
 * Atom.io http://blog.atom.io/
 
+#### C technologies
+* Crystal http://crystal-lang.org/
+
 #### G technologies
 * Go https://blog.golang.org/
 
