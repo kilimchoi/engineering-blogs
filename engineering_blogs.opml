@@ -293,6 +293,7 @@
       <outline type="rss" text="Brendan Gregg" title="Brendan Gregg" xmlUrl="http://www.brendangregg.com/blog/rss.xml" htmlUrl="http://www.brendangregg.com/blog/"/>
       <outline type="rss" text="Bryan Cantrill" title="Bryan Cantrill" xmlUrl="http://dtrace.org/blogs/bmc/feed/" htmlUrl="http://dtrace.org/blogs/bmc/"/>
       <outline type="rss" text="Carlos Becker" title="Carlos Becker" xmlUrl="http://carlosbecker.com/atom.xml" htmlUrl="http://carlosbecker.com"/>
+      <outline type="rss" text="Chien Tran" title="Chien Tran" xmlUrl="http://thelazylog.com/rss/" htmlUrl="http://thelazylog.com/"/>
       <outline type="rss" text="Chris Hager" title="Chris Hager" xmlUrl="https://www.metachris.com/atom.xml" htmlUrl="https://www.metachris.com/blog/"/>
       <outline type="rss" text="Chris Wellons" title="Chris Wellons" xmlUrl="http://nullprogram.com/feed/" htmlUrl="http://nullprogram.com/"/>
       <outline type="rss" text="Cocoa Is My Girlfriend" title="Cocoa Is My Girlfriend" xmlUrl="http://www.cimgf.com/feed/" htmlUrl="http://www.cimgf.com/"/>
