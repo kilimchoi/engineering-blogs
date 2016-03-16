@@ -433,7 +433,7 @@
 
 #### I individuals
 * Idontgetoutmuch's Weblog https://idontgetoutmuch.wordpress.com/
-* Ilija Eftimov http://rubylogs.com/
+* Ilija Eftimov http://eftimov.net/
 * Ilya Grigorik https://www.igvita.com/
 
 #### J individuals
