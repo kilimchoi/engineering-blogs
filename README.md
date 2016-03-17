@@ -483,6 +483,7 @@
 * Miguel Quinones http://www.miqu.me/
 * Mike Ash https://www.mikeash.com/pyblog/
 * Mike Fogus http://blog.fogus.me/
+* Milosz Galazka https://blog.sleeplessbeastie.eu/
 * Mykhailo Kozik http://mishadoff.com/
 
 #### N individuals
