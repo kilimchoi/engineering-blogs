@@ -432,6 +432,7 @@
 * Huon Wilson http://huonw.github.io/
 
 #### I individuals
+* Ian Hummel https://themodernlife.github.io/
 * Idontgetoutmuch's Weblog https://idontgetoutmuch.wordpress.com/
 * Ilija Eftimov http://eftimov.net/
 * Ilya Grigorik https://www.igvita.com/
