@@ -564,7 +564,6 @@
 #### W individuals
 * Wilfred Hughes http://www.wilfred.me.uk/
 * William Kennedy http://www.goinggo.net/
-* Winston Chen http://www.winstonchen.co/
 * Wojtek Gawroński http://www.afronski.pl/
 
 #### Y individuals
