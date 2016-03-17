@@ -489,6 +489,7 @@
 * Nelson Elhage https://blog.nelhage.com/
 * Nic Raboy https://blog.nraboy.com/
 * Nick Desaulniers https://nickdesaulniers.github.io/
+* Nick Galbreath http://www.client9.com/
 * Nicolas Liochon http://blog.thislongrun.com/
 * Nikola Brežnjak http://www.nikola-breznjak.com/blog/
 * Nikolay Nemshilov http://nikolay.rocks/
