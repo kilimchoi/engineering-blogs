@@ -430,6 +430,7 @@
 #### H individuals
 * High Scalability http://highscalability.com/
 * Huon Wilson http://huonw.github.io/
+* Hypriot http://blog.hypriot.com/
 
 #### I individuals
 * Ian Hummel https://themodernlife.github.io/
