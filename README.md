@@ -200,6 +200,7 @@
 * Monsanto http://engineering.monsanto.com/
 * Moove-it http://blog.moove-it.com/
 * Mozilla Automation Team http://planet.mozilla.org/ateam/
+* Mozilla Hacks https://hacks.mozilla.org/
 * Mozilla Release Engineering http://planet.mozilla.org/releng/
 * Myntra http://myntra.github.io/
 * Myntra Data Science http://sartorialscience.myntrablogs.com/
