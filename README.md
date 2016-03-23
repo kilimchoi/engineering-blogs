@@ -400,6 +400,7 @@
 * Dereuromark http://www.dereuromark.de/
 * Discover Meteor https://www.discovermeteor.com/blog
 * Dragan Gaic http://www.gajotres.net/
+* Drew DeVault https://drewdevault.com/
 * Ducode.org https://ducode.org/tag/tutorial
 
 #### E individuals
