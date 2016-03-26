@@ -97,6 +97,7 @@
 * Deis https://deis.com/blog
 * DigitalOcean https://www.digitalocean.com/community/tutorials
 * Docker https://blog.docker.com/category/engineering/
+* Droids On Roids http://www.thedroidsonroids.com/blog/
 * Dropbox https://blogs.dropbox.com/tech/
 
 #### E companies
