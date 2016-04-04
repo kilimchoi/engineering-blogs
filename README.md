@@ -328,6 +328,7 @@
 
 #### Y companies
 * Yahoo http://yahooeng.tumblr.com/
+* Yell https://blog.yell.com
 * Yelp http://engineeringblog.yelp.com/
 * YLD! http://blog.yld.io
 
