@@ -345,6 +345,7 @@
 #### A individuals
 * Aaron Patterson http://tenderlovemaking.com/
 * Abhinaba Basu http://blogs.msdn.com/b/abhinaba/
+* Abu Ashraf Masnun http://masnun.com/
 * Adam Bard https://adambard.com/blog/
 * Adam Leventhal http://dtrace.org/blogs/ahl/
 * Adam Tuliper http://www.adamtuliper.com/
