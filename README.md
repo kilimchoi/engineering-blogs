@@ -92,6 +92,7 @@
 * Data Artisans http://data-artisans.com/blog/
 * Databricks https://databricks.com/blog
 * DataFox http://eng.datafox.co/
+* DataRadar.io https://www.dataradar.io/
 * DataRank http://engineering.datarank.com/
 * DeferPanic https://deferpanic.com/blog/
 * Deis https://deis.com/blog
@@ -459,7 +460,7 @@
 * Joel Spolsky http://www.joelonsoftware.com/
 * John Resig http://ejohn.org/category/blog/
 * Jon Skeet http://codeblog.jonskeet.uk/
-* Jonathan Dekhtiar https://www.dataradar.io
+* Jonathan Dekhtiar https://www.born2data.com/
 * Jonathan Snook http://snook.ca/
 * Josh Haberman http://blog.reverberate.org/
 * Josh Sherman https://joshtronic.com/
