@@ -467,6 +467,7 @@
 * Justin Weiss http://www.justinweiss.com/blog/
 
 #### K individuals
+* K. Harrison http://useyourloaf.com/
 * Kevin Burke https://kev.inburke.com/
 * Kyle Kingsbury https://aphyr.com/
 
