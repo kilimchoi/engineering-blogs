@@ -220,6 +220,7 @@
       <outline type="rss" text="Takipi" title="Takipi" xmlUrl="http://blog.takipi.com/feed/" htmlUrl="http://blog.takipi.com/"/>
       <outline type="rss" text="Target" title="Target" xmlUrl="https://target.github.io/feed.xml" htmlUrl="https://target.github.io/"/>
       <outline type="rss" text="TaskRabbit" title="TaskRabbit" xmlUrl="http://tech.taskrabbit.com/" htmlUrl="http://tech.taskrabbit.com/"/>
+      <outline type="rss" text="Teachers Pay Teachers" title="Teachers Pay Teachers" xmlUrl="http://engineering.teacherspayteachers.com/feed.xml" htmlUrl="http://engineering.teacherspayteachers.com/"/>
       <outline type="rss" text="Teamwork" title="Teamwork" xmlUrl="http://engineroom.teamwork.com/rss/" htmlUrl="http://engineroom.teamwork.com/"/>
       <outline type="rss" text="Teespring" title="Teespring" xmlUrl="http://teespring.engineering/index.xml" htmlUrl="http://teespring.engineering/"/>
       <outline type="rss" text="theScore" title="theScore" xmlUrl="http://techblog.thescore.com/feed.xml" htmlUrl="http://techblog.thescore.com/"/>
