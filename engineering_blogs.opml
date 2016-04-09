@@ -65,7 +65,6 @@
       <outline type="rss" text="Data Artisans" title="Data Artisans" xmlUrl="http://data-artisans.com/feed/" htmlUrl="http://data-artisans.com/blog/"/>
       <outline type="rss" text="Databricks" title="Databricks" xmlUrl="https://databricks.com/feed" htmlUrl="https://databricks.com/blog"/>
       <outline type="rss" text="DataFox" title="DataFox" xmlUrl="http://eng.datafox.co/feed.xml" htmlUrl="http://eng.datafox.co/"/>
-      <outline type="rss" text="DataRadar.io" title="DataRadar.io" xmlUrl="http://www.dataradar.io/rss/" htmlUrl="https://www.dataradar.io/"/>
       <outline type="rss" text="DataRank" title="DataRank" xmlUrl="http://engineering.datarank.com/feed.xml" htmlUrl="http://engineering.datarank.com/"/>
       <outline type="rss" text="DeferPanic" title="DeferPanic" xmlUrl="https://deferpanic.com/blog/index.xml/" htmlUrl="https://deferpanic.com/blog/"/>
       <outline type="rss" text="Deis" title="Deis" xmlUrl="https://deis.com/feed.xml" htmlUrl="https://deis.com/blog"/>
@@ -310,6 +309,7 @@
       <outline type="rss" text="Daily Tech Video" title="Daily Tech Video" xmlUrl="http://dailytechvideo.com/feed/" htmlUrl="http://dailytechvideo.com/"/>
       <outline type="rss" text="Dan Luu" title="Dan Luu" xmlUrl="http://danluu.com/atom.xml" htmlUrl="http://danluu.com/"/>
       <outline type="rss" text="Daniel Doubrovkine (dB.)" title="Daniel Doubrovkine (dB.)" xmlUrl="http://code.dblock.org/feed.xml" htmlUrl="http://code.dblock.org/"/>
+      <outline type="rss" text="DataRadar.io" title="DataRadar.io" xmlUrl="http://www.dataradar.io/rss/" htmlUrl="https://www.dataradar.io/"/>
       <outline type="rss" text="Dave Atchley" title="Dave Atchley" xmlUrl="http://www.datchley.name/rss/" htmlUrl="http://www.datchley.name/"/>
       <outline type="rss" text="Dave Cheney" title="Dave Cheney" xmlUrl="http://dave.cheney.net/feed" htmlUrl="http://dave.cheney.net/"/>
       <outline type="rss" text="David Walsh" title="David Walsh" xmlUrl="https://davidwalsh.name/feed/atom" htmlUrl="https://davidwalsh.name/"/>
