@@ -92,7 +92,6 @@
 * Data Artisans http://data-artisans.com/blog/
 * Databricks https://databricks.com/blog
 * DataFox http://eng.datafox.co/
-* DataRadar.io https://www.dataradar.io/
 * DataRank http://engineering.datarank.com/
 * DeferPanic https://deferpanic.com/blog/
 * Deis https://deis.com/blog
@@ -394,6 +393,7 @@
 * Daily Tech Video http://dailytechvideo.com/
 * Dan Luu http://danluu.com/
 * Daniel Doubrovkine (dB.) http://code.dblock.org/
+* DataRadar.io https://www.dataradar.io/
 * Dave Atchley http://www.datchley.name/
 * Dave Beazley http://www.dabeaz.com/blog.html
 * Dave Cheney http://dave.cheney.net/
