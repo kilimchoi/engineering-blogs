@@ -79,6 +79,7 @@
       <outline type="rss" text="Etsy" title="Etsy" xmlUrl="https://codeascraft.com/feed/" htmlUrl="https://codeascraft.com/"/>
       <outline type="rss" text="Eventbrite" title="Eventbrite" xmlUrl="http://www.eventbrite.com/engineering/feed/" htmlUrl="http://www.eventbrite.com/engineering/"/>
       <outline type="rss" text="Evernote" title="Evernote" xmlUrl="https://blog.evernote.com/feed/" htmlUrl="https://blog.evernote.com/tech/"/>
+      <outline type="rss" text="Evil Martians" title="Evil Martians" xmlUrl="https://evilmartians.com/chronicles.atom" htmlUrl="https://evilmartians.com/chronicles/"/>
       <outline type="rss" text="Facebook" title="Facebook" xmlUrl="https://code.facebook.com/posts/rss" htmlUrl="https://code.facebook.com/posts/"/>
       <outline type="rss" text="Facebook AI Research" title="Facebook AI Research" xmlUrl="https://research.facebook.com/blog/rss" htmlUrl="https://research.facebook.com/blog/ai/"/>
       <outline type="rss" text="Fiftythree" title="Fiftythree" xmlUrl="http://making.fiftythree.com/feed.xml" htmlUrl="http://making.fiftythree.com/"/>
