@@ -252,6 +252,7 @@
 #### S companies
 * Salesforce https://developer.salesforce.com/blogs/engineering/
 * Schibsted Tech Polska http://www.schibsted.pl/blog/
+* Scrunch https://tech.scrunch.com/blog/
 * Secret Escapes http://tech.secretescapes.com/
 * Semaphore CI Community https://semaphoreci.com/community
 * Sensible http://blog.sensible.io/
