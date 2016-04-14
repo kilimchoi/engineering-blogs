@@ -160,7 +160,7 @@
 * Imgur http://blog.imgur.com/category/eng/
 * Indeed http://engineering.indeedblog.com/blog/
 * Instacart https://tech.instacart.com/
-* Instagram http://instagram-engineering.tumblr.com/
+* Instagram http://engineering.instagram.com/
 * Intent HQ http://engineering.intenthq.com/
 * Intent Media http://intentmedia.com/blog/
 * Intercom https://engineering.intercom.io/

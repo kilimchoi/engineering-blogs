@@ -123,7 +123,7 @@
       <outline type="rss" text="Imgur" title="Imgur" xmlUrl="https://blog.imgur.com/feed/" htmlUrl="http://blog.imgur.com/category/eng/"/>
       <outline type="rss" text="Indeed" title="Indeed" xmlUrl="http://engineering.indeedblog.com/feed/" htmlUrl="http://engineering.indeedblog.com/blog/"/>
       <outline type="rss" text="Instacart" title="Instacart" xmlUrl="http://tech.instacart.com/feed/" htmlUrl="https://tech.instacart.com/"/>
-      <outline type="rss" text="Instagram" title="Instagram" xmlUrl="http://instagram-engineering.tumblr.com/rss" htmlUrl="http://instagram-engineering.tumblr.com/"/>
+      <outline type="rss" text="Instagram" title="Instagram" xmlUrl="http://engineering.instagram.com/posts/rss" htmlUrl="http://engineering.instagram.com/"/>
       <outline type="rss" text="Intent HQ" title="Intent HQ" xmlUrl="http://engineering.intenthq.com/feed.xml" htmlUrl="http://engineering.intenthq.com/"/>
       <outline type="rss" text="Intent Media" title="Intent Media" xmlUrl="http://intentmedia.com/feed/" htmlUrl="http://intentmedia.com/blog/"/>
       <outline type="rss" text="Intercom" title="Intercom" xmlUrl="https://engineering.intercom.io/feed.xml" htmlUrl="https://engineering.intercom.io/"/>
