@@ -188,6 +188,7 @@
 * Lookout http://hackers.lookout.com/
 
 #### M companies
+* Made Tech https://www.madetech.com/blog
 * Magnet.me https://labs.magnet.me
 * MailChimp http://devs.mailchimp.com/blog/
 * Mandrill http://blog.mandrill.com/
