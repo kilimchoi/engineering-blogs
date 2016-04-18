@@ -529,6 +529,7 @@
 * Practicing Ruby https://practicingruby.com/
 
 #### R individuals
+* Rachel Kroll https://rachelbythebay.com/w/
 * Radek Pazdera http://radek.io
 * Radim Řehůřek http://radimrehurek.com/blog/
 * Ramon Fried https://nativeguru.wordpress.com/
