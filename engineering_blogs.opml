@@ -48,6 +48,7 @@
       <outline type="rss" text="Chartbeat" title="Chartbeat" xmlUrl="http://engineering.chartbeat.com/feed/" htmlUrl="http://engineering.chartbeat.com/"/>
       <outline type="rss" text="Chef" title="Chef" xmlUrl="https://www.chef.io/blog/feed/" htmlUrl="https://www.chef.io/blog/"/>
       <outline type="rss" text="Clever" title="Clever" xmlUrl="http://engineering.clever.com/rss" htmlUrl="http://engineering.clever.com/"/>
+      <outline type="rss" text="CleverTap" title="CleverTap" xmlUrl="https://blog.clevertap.com/feed/" htmlUrl="https://blog.clevertap.com/category/engineering/"/>
       <outline type="rss" text="Cloudera" title="Cloudera" xmlUrl="http://blog.cloudera.com/feed/" htmlUrl="http://blog.cloudera.com/"/>
       <outline type="rss" text="Cloudflare" title="Cloudflare" xmlUrl="https://blog.cloudflare.com/rss/" htmlUrl="https://blog.cloudflare.com/"/>
       <outline type="rss" text="ClusterHQ" title="ClusterHQ" xmlUrl="https://clusterhq.com/feed.xml" htmlUrl="https://clusterhq.com/blog/"/>
@@ -203,6 +204,7 @@
       <outline type="rss" text="Sensible" title="Sensible" xmlUrl="http://blog.sensible.io/rss" htmlUrl="http://blog.sensible.io/"/>
       <outline type="rss" text="Shape Security" title="Shape Security" xmlUrl="http://engineering.shapesecurity.com/atom.xml" htmlUrl="http://engineering.shapesecurity.com/"/>
       <outline type="rss" text="Sharethis" title="Sharethis" xmlUrl="http://engineering.sharethis.com/rss/" htmlUrl="http://engineering.sharethis.com/"/>
+      <outline type="rss" text="Shopify" title="Shopify" xmlUrl="http://engineering.shopify.com/blogs/engineering.atom" htmlUrl="https://engineering.shopify.com"/>
       <outline type="rss" text="Sift Science" title="Sift Science" xmlUrl="http://blog.siftscience.com/blog?format=RSS" htmlUrl="http://blog.siftscience.com/?category=Engineering"/>
       <outline type="rss" text="Simple" title="Simple" xmlUrl="https://www.simple.com/engineering-rss.xml" htmlUrl="https://www.simple.com/engineering"/>
       <outline type="rss" text="Sky Betting &amp; Gaming" title="Sky Betting &amp; Gaming" xmlUrl="http://engineering.skybettingandgaming.com/feed.xml" htmlUrl="http://engineering.skybettingandgaming.com/"/>
@@ -331,6 +333,7 @@
       <outline type="rss" text="Eric Lippert" title="Eric Lippert" xmlUrl="http://ericlippert.com/feed/" htmlUrl="http://ericlippert.com/"/>
       <outline type="rss" text="Evan Hahn" title="Evan Hahn" xmlUrl="http://evanhahn.com/feed.xml" htmlUrl="http://evanhahn.com/"/>
       <outline type="rss" text="Evan Miller" title="Evan Miller" xmlUrl="http://www.evanmiller.org/news.xml" htmlUrl="http://www.evanmiller.org/"/>
+      <outline type="rss" text="Evan Tahler" title="Evan Tahler" xmlUrl="https://blog.evantahler.com/feed" htmlUrl="http://blog.evantahler.com/"/>
       <outline type="rss" text="Fabrizio Branca" title="Fabrizio Branca" xmlUrl="http://fbrnc.net/blog.atom" htmlUrl="http://fbrnc.net/"/>
       <outline type="rss" text="Fatih Arslan" title="Fatih Arslan" xmlUrl="http://arslan.io/posts.atom" htmlUrl="http://arslan.io/"/>
       <outline type="rss" text="Federico Cargnelutti" title="Federico Cargnelutti" xmlUrl="http://blog.fedecarg.com/feed/" htmlUrl="http://blog.fedecarg.com/"/>
