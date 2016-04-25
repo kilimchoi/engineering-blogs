@@ -291,6 +291,7 @@
 * Thumbtack https://www.thumbtack.com/engineering/
 * Ticketmaster http://tech.ticketmaster.com/
 * Tilt http://engineering.tilt.com/
+* Toptal https://www.toptal.com/blog/
 * TrackMaven http://engineroom.trackmaven.com/
 * Transferwise http://tech.transferwise.com/
 * Trivago http://tech.trivago.com/
