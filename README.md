@@ -239,7 +239,6 @@
 
 #### R companies
 * Raizlabs http://www.raizlabs.com/dev/
-* Rdio https://algorithms.rdio.com/
 * Realm.io https://realm.io/news/
 * Redbubble http://artplustech.com/
 * Redino http://redino.net/blog/
