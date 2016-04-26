@@ -558,7 +558,6 @@
 * Stefan Parker http://codebeforethehorse.tumblr.com/
 * Stephen Colebourne http://blog.joda.org/
 * Steve Yegge http://steve-yegge.blogspot.com/
-* Swift Offical Dev Blog https://developer.apple.com/swift/blog/
 * Swizec Teller http://swizec.com/blog/
 
 #### T individuals
@@ -606,6 +605,9 @@
 * React https://facebook.github.io/react/blog/
 * RocksDB http://rocksdb.org/blog
 * Rust http://blog.rust-lang.org/
+
+#### S technologies
+* Swift https://developer.apple.com/swift/blog/
 
 #### V technologies
 * Vertabelo http://www.vertabelo.com/blog
