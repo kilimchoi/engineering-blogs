@@ -601,7 +601,7 @@
 * Go https://blog.golang.org/
 
 #### L technologies
-* Laravel http://blog.laravel.com/
+* Laravel https://laravel-news.com/blog/
 
 #### R technologies
 * React https://facebook.github.io/react/blog/
