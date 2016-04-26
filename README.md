@@ -24,7 +24,6 @@
 ### Companies
 
 #### \# companies
-* 500px http://developers.500px.com/
 * 8th Light http://blog.8thlight.com/
 
 #### A companies
