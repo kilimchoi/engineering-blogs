@@ -76,7 +76,7 @@
 * Cloudflare https://blog.cloudflare.com/
 * ClusterHQ https://clusterhq.com/blog/
 * CockroachDB http://www.cockroachlabs.com/blog/
-* Code School http://blog.codeschool.io/category/development/
+* Code School https://www.codeschool.com/blog/categories/development/
 * Codemancers http://crypt.codemancers.com/
 * Codementor https://www.codementor.io/tutorial
 * CodeName One http://www.codenameone.com/blog.html
@@ -178,7 +178,7 @@
 #### L companies
 * Laterooms http://engineering.laterooms.com/
 * LINE http://developers.linecorp.com/blog/
-* Linkedcare https://medium.com/the-engineering-team
+* Linkedcare http://blog.linkedcare.com/
 * LinkedIn https://engineering.linkedin.com/blog
 * LiveChat https://developers.livechatinc.com/blog/
 * LiveRamp http://liveramp.com/engineering/
