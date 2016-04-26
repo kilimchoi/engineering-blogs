@@ -417,6 +417,7 @@
 * Elegant Code http://elegantcode.com/
 * Eli Bendersky http://eli.thegreenplace.net/
 * Eric Lippert http://ericlippert.com/
+* Evan Dempsey http://www.smallsurething.com/
 * Evan Hahn http://evanhahn.com/
 * Evan Miller http://www.evanmiller.org/
 * Evan Tahler http://blog.evantahler.com/
