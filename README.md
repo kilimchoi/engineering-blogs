@@ -274,7 +274,7 @@
 * Stitch Fix http://multithreaded.stitchfix.com/blog/
 * Stormpath https://stormpath.com/blog/
 * Strava http://labs.strava.com/blog/
-* Stride NYC http://www.stridenyc.com/blog/
+* Stride NYC http://blog.stridenyc.com/
 * Stripe https://stripe.com/blog
 
 #### T companies
