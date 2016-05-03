@@ -160,6 +160,7 @@
 * Indeed http://engineering.indeedblog.com/blog/
 * Instacart https://tech.instacart.com/
 * Instagram http://engineering.instagram.com/
+* Intel https://software.intel.com/en-us/
 * Intent HQ http://engineering.intenthq.com/
 * Intent Media http://intentmedia.com/blog/
 * Intercom https://engineering.intercom.io/
