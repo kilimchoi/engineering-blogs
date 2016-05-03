@@ -426,6 +426,7 @@
 * Fatih Arslan http://arslan.io/
 * Federico Cargnelutti http://blog.fedecarg.com/
 * Federico Tomassetti http://tomassetti.me/
+* Filippo Valsorda https://blog.filippo.io/
 * Freek Van der Herten https://murze.be/
 
 #### G individuals
