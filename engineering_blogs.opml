@@ -329,10 +329,12 @@
       <outline type="rss" text="Evan Dempsey" title="Evan Dempsey" xmlUrl="http://www.smallsurething.com/feed/" htmlUrl="http://www.smallsurething.com/"/>
       <outline type="rss" text="Evan Hahn" title="Evan Hahn" xmlUrl="http://evanhahn.com/feed.xml" htmlUrl="http://evanhahn.com/"/>
       <outline type="rss" text="Evan Miller" title="Evan Miller" xmlUrl="http://www.evanmiller.org/news.xml" htmlUrl="http://www.evanmiller.org/"/>
+      <outline type="rss" text="Evan Tahler" title="Evan Tahler" xmlUrl="https://blog.evantahler.com/feed" htmlUrl="http://blog.evantahler.com/"/>
       <outline type="rss" text="Fabrizio Branca" title="Fabrizio Branca" xmlUrl="http://fbrnc.net/blog.atom" htmlUrl="http://fbrnc.net/"/>
       <outline type="rss" text="Fatih Arslan" title="Fatih Arslan" xmlUrl="http://arslan.io/posts.atom" htmlUrl="http://arslan.io/"/>
       <outline type="rss" text="Federico Cargnelutti" title="Federico Cargnelutti" xmlUrl="https://blog.fedecarg.com/feed/" htmlUrl="http://blog.fedecarg.com/"/>
       <outline type="rss" text="Federico Tomassetti" title="Federico Tomassetti" xmlUrl="http://tomassetti.me/feed/" htmlUrl="http://tomassetti.me/"/>
+      <outline type="rss" text="Filippo Valsorda" title="Filippo Valsorda" xmlUrl="https://blog.filippo.io/rss/" htmlUrl="https://blog.filippo.io/"/>
       <outline type="rss" text="Freek Van der Herten" title="Freek Van der Herten" xmlUrl="https://murze.be/feed/" htmlUrl="https://murze.be/"/>
       <outline type="rss" text="Gleb Bahmutov" title="Gleb Bahmutov" xmlUrl="https://glebbahmutov.com/blog/atom.xml" htmlUrl="https://glebbahmutov.com/blog/"/>
       <outline type="rss" text="Gonto" title="Gonto" xmlUrl="http://gon.to/feed.xml" htmlUrl="http://gon.to/blog/"/>
