@@ -158,9 +158,9 @@
 * Imaginea http://blog.imaginea.com/
 * Imgur http://blog.imgur.com/category/eng/
 * Indeed http://engineering.indeedblog.com/blog/
-* Intel https://software.intel.com/en-us/blogs/
 * Instacart https://tech.instacart.com/
 * Instagram http://engineering.instagram.com/
+* Intel https://software.intel.com/en-us/blogs/
 * Intent HQ http://engineering.intenthq.com/
 * Intent Media http://intentmedia.com/blog/
 * Intercom https://engineering.intercom.io/
