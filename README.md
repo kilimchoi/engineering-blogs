@@ -256,6 +256,7 @@
 * Schibsted Tech Polska http://www.schibsted.pl/blog/
 * Scrunch https://tech.scrunch.com/blog/
 * Secret Escapes http://tech.secretescapes.com/
+* Segment https://segment.com/blog/categories/engineering/
 * Semaphore CI Community https://semaphoreci.com/community
 * Sensible http://blog.sensible.io/
 * Shape Security http://engineering.shapesecurity.com/
