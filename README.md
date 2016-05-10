@@ -375,6 +375,7 @@
 * Barry Warsaw http://www.wefearchange.org/
 * Bartlomiej Filipek http://www.bfilipek.com/
 * Ben McCormick http://benmccormick.org/
+* Benjamin Scholtz Mechatronic Engineering http://benjaminscholtz.com/
 * Bill the Lizard http://www.billthelizard.com/
 * Bjørn Johansen https://bjornjohansen.no/
 * Blake Erickson http://blakeerickson.com/
