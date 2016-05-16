@@ -325,6 +325,7 @@
 * Wix http://engineering.wix.com/
 * Wolox https://medium.com/@WoloxEngineering/
 * Wonga Technology http://tech.wonga.com/
+* WSO2 http://wso2.com/library/
 * WyeWorks https://wyeworks.com/blog/
 
 #### X companies
