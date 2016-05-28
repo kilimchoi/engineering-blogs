@@ -279,6 +279,7 @@
 * Strava http://labs.strava.com/blog/
 * Stride NYC http://blog.stridenyc.com/
 * Stripe https://stripe.com/blog
+* SurveyMonkey https://surveymonkeycodes.com
 
 #### T companies
 * Takipi http://blog.takipi.com/
