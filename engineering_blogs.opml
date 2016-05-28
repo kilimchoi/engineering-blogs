@@ -220,6 +220,7 @@
       <outline type="rss" text="Stormpath" title="Stormpath" xmlUrl="https://stormpath.com/feed/" htmlUrl="https://stormpath.com/blog/"/>
       <outline type="rss" text="Stride NYC" title="Stride NYC" xmlUrl="http://blog.stridenyc.com/rss.xml" htmlUrl="http://blog.stridenyc.com/"/>
       <outline type="rss" text="Stripe" title="Stripe" xmlUrl="https://stripe.com/blog/feed.rss" htmlUrl="https://stripe.com/blog"/>
+      <outline type="rss" text="SurveyMonkey" title="SurveyMonkey" xmlUrl="https://surveymonkeycodes.com/feed/" htmlUrl="https://surveymonkeycodes.com"/>
       <outline type="rss" text="Takipi" title="Takipi" xmlUrl="http://blog.takipi.com/feed/" htmlUrl="http://blog.takipi.com/"/>
       <outline type="rss" text="Target" title="Target" xmlUrl="https://target.github.io/feed.xml" htmlUrl="https://target.github.io/"/>
       <outline type="rss" text="TaskRabbit" title="TaskRabbit" xmlUrl="http://tech.taskrabbit.com/" htmlUrl="http://tech.taskrabbit.com/"/>
