@@ -305,6 +305,7 @@
 * Uber http://eng.uber.com/
 
 #### V companies
+* Vena Solutions https://engineering.vena.io/
 * Venmo http://blog.venmo.com/?category=Engineering
 * VersionEye http://blog.versioneye.com/
 * Viget https://www.viget.com/articles/category/code#articles
