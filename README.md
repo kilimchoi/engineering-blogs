@@ -309,6 +309,7 @@
 * Vena Solutions https://engineering.vena.io/
 * Venmo http://blog.venmo.com/?category=Engineering
 * VersionEye http://blog.versioneye.com/
+* Vevo http://blog.vevo.com/
 * Viget https://www.viget.com/articles/category/code#articles
 * Vimeo http://makingvimeo.com/
 * Vine http://engineering.vine.co/
