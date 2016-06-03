@@ -574,6 +574,7 @@
 * The Daily WTF http://thedailywtf.com/
 * Thomas Young http://upcoder.com
 * Tikhon Jelvis http://jelv.is/blog/
+* T.J. Maher http://adventuresinautomation.blogspot.com/
 
 #### U individuals
 * Una Kravets http://una.im/
