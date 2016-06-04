@@ -271,6 +271,7 @@
       <outline type="rss" text="Zendesk" title="Zendesk" xmlUrl="https://developer.zendesk.com/blog.xml" htmlUrl="https://developer.zendesk.com/blog"/>
       <outline type="rss" text="Zenefits" title="Zenefits" xmlUrl="https://engineering.zenefits.com/feed/" htmlUrl="https://engineering.zenefits.com/posts/"/>
       <outline type="rss" text="Zillow" title="Zillow" xmlUrl="https://engineering.zillow.com/rss" htmlUrl="https://engineering.zillow.com/"/>
+      <outline type="rss" text="Zoosk" title="Zoosk" xmlUrl="https://about.zoosk.com/feed/" htmlUrl="https://about.zoosk.com/en/engineering-blog/"/>
       <outline type="rss" text="Zulily" title="Zulily" xmlUrl="https://engineering.zulily.com/feed/" htmlUrl="http://engineering.zulily.com/"/>
       <outline type="rss" text="Zumba" title="Zumba" xmlUrl="http://feeds.feedburner.com/zumba_engineering" htmlUrl="http://tech.zumba.com/"/>
       <outline type="rss" text="Aaron Patterson" title="Aaron Patterson" xmlUrl="http://tenderlovemaking.com/atom.xml" htmlUrl="http://tenderlovemaking.com/"/>
