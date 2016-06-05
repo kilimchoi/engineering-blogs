@@ -225,6 +225,7 @@
 * Oyster http://tech.oyster.com/
 
 #### P companies
+* Panorama Education http://engineering.panoramaed.com/
 * Paperless Post http://dev.paperlesspost.com/
 * Parse http://blog.parse.com/
 * Paypal https://devblog.paypal.com/category/engineering/
