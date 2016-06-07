@@ -56,6 +56,7 @@
 * Bitly http://word.bitly.com/
 * BitTorrent http://engineering.bittorrent.com/
 * BlaBlaCar http://blablatech.com/blog/
+* BlackRock http://rockthecode.io/
 * BloomReach http://engineering.bloomreach.com/
 * Booking.com http://blog.booking.com/
 * Box https://www.box.com/blog/engineering/
