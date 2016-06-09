@@ -61,7 +61,7 @@
 * Box https://www.box.com/blog/engineering/
 * Boxever http://www.boxever.com/tech-blog
 * Brandwatch http://engineering.brandwatch.com/
-* Buzzfeed http://www.buzzfeed.com/techblog
+* Buzzfeed https://www.buzzfeed.com/techblog
 
 #### C companies
 * Canva https://engineering.canva.com
