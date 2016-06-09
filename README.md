@@ -335,7 +335,6 @@
 
 #### X companies
 * XING https://devblog.xing.com/
-* Xoom http://dev-blog.xoom.com/
 
 #### Y companies
 * Yahoo http://yahooeng.tumblr.com/
