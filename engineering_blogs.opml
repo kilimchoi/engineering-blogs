@@ -17,6 +17,7 @@
       <outline type="rss" text="Artsy" title="Artsy" xmlUrl="http://artsy.github.io/feed" htmlUrl="http://artsy.github.io/"/>
       <outline type="rss" text="Asana" title="Asana" xmlUrl="https://blog.asana.com/feed/" htmlUrl="https://blog.asana.com/category/eng/"/>
       <outline type="rss" text="Atlassian" title="Atlassian" xmlUrl="https://developer.atlassian.com/blog/feed.xml" htmlUrl="https://developer.atlassian.com/blog/"/>
+      <outline type="rss" text="Atomic Object" title="Atomic Object" xmlUrl="https://spin.atomicobject.com/feed/" htmlUrl="https://spin.atomicobject.com/"/>
       <outline type="rss" text="Auth0" title="Auth0" xmlUrl="https://auth0.com/blog/rss.xml" htmlUrl="https://auth0.com/blog/"/>
       <outline type="rss" text="Autodesk" title="Autodesk" xmlUrl="http://cloudengineering.autodesk.com/blog/atom.xml" htmlUrl="http://cloudengineering.autodesk.com/blog/"/>
       <outline type="rss" text="AWS" title="AWS" xmlUrl="https://aws.amazon.com/blogs/aws/feed/" htmlUrl="https://aws.amazon.com/blogs/aws/"/>
@@ -33,8 +34,8 @@
       <outline type="rss" text="Bitly" title="Bitly" xmlUrl="http://word.bitly.com/rss" htmlUrl="http://word.bitly.com/"/>
       <outline type="rss" text="BitTorrent" title="BitTorrent" xmlUrl="http://engineering.bittorrent.com/feed/" htmlUrl="http://engineering.bittorrent.com/"/>
       <outline type="rss" text="BlaBlaCar" title="BlaBlaCar" xmlUrl="http://blablatech.com/atom.xml" htmlUrl="http://blablatech.com/blog/"/>
-      <outline type="rss" text="BloomReach" title="BloomReach" xmlUrl="http://engineering.bloomreach.com/feed/" htmlUrl="http://engineering.bloomreach.com/"/>
       <outline type="rss" text="BlackRock" title="BlackRock" xmlUrl="http://rockthecode.io/feed/" htmlUrl="http://rockthecode.io/"/>
+      <outline type="rss" text="BloomReach" title="BloomReach" xmlUrl="http://engineering.bloomreach.com/feed/" htmlUrl="http://engineering.bloomreach.com/"/>
       <outline type="rss" text="Booking.com" title="Booking.com" xmlUrl="http://blog.booking.com/atom.xml" htmlUrl="http://blog.booking.com/"/>
       <outline type="rss" text="Box" title="Box" xmlUrl="https://www.box.com/blog/feed" htmlUrl="https://www.box.com/blog/engineering/"/>
       <outline type="rss" text="Boxever" title="Boxever" xmlUrl="http://www.boxever.com/feed" htmlUrl="http://www.boxever.com/tech-blog"/>
