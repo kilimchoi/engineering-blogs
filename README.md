@@ -34,6 +34,7 @@
 * Algolia https://blog.algolia.com/
 * Allegro.tech http://allegro.tech
 * AlphaSights http://engineering-blog.alphasights.com/
+* Appnexus http://techblog.appnexus.com/
 * Arkency http://blog.arkency.com/
 * Artsy http://artsy.github.io/
 * Asana https://blog.asana.com/category/eng/
