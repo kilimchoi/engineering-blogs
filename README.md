@@ -80,6 +80,7 @@
 * ClusterHQ https://clusterhq.com/blog/
 * CockroachDB http://www.cockroachlabs.com/blog/
 * Code School https://www.codeschool.com/blog/categories/development/
+* Codelitt http://www.codelitt.com/blog/
 * Codemancers http://crypt.codemancers.com/
 * Codementor https://www.codementor.io/tutorial
 * CodeName One http://www.codenameone.com/blog.html
