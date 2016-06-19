@@ -60,7 +60,6 @@
 * Bazaarvoice https://blog.developer.bazaarvoice.com/
 * Benchling http://benchling.engineering/
 * BenefitFocus https://www.benefitfocus.com/blogs/design-engineering
-* Bigcommerce http://www.bigeng.io/
 * Binary Studio http://binary-studio.com/blog/
 * Bitly http://word.bitly.com/
 * BitTorrent http://engineering.bittorrent.com/
@@ -70,7 +69,7 @@
 * BloomReach http://engineering.bloomreach.com/
 * Booking.com https://blog.booking.com/
 * Box https://www.box.com/blog/engineering/
-* Boxever http://www.boxever.com/tech-blog
+* Boxever http://www.boxever.com/blog/
 * Brandwatch http://engineering.brandwatch.com/
 * Buzzfeed https://www.buzzfeed.com/techblog
 
@@ -108,7 +107,6 @@
 * Data Artisans http://data-artisans.com/blog/
 * Databricks https://databricks.com/blog
 * DataFox http://eng.datafox.co/
-* DataRank http://engineering.datarank.com/
 * DeferPanic https://deferpanic.com/blog/
 * Deis https://deis.com/blog
 * Deliveroo http://deliveroo.engineering/
@@ -160,7 +158,7 @@
 * GoSquared https://engineering.gosquared.com/
 * Grammarly http://tech.grammarly.com/blog/index.html
 * Grofers https://lambda.grofers.com/
-* Grouper http://eng.joingrouper.com/
+* Grouper http://blog.joingrouper.com/
 * Groupon https://engineering.groupon.com/
 * Guardian https://www.theguardian.com/info/developer-blog
 * Gusto http://engineering.gusto.com/
@@ -319,6 +317,7 @@
 * ShowMax https://tech.showmax.com
 * Sift Science http://blog.siftscience.com/?category=Engineering
 * Simple https://www.simple.com/engineering
+* Simply Measured http://simplymeasured.com/blog/
 * Sky Betting & Gaming http://engineering.skybettingandgaming.com/
 * Skyscanner http://codevoyagers.com/
 * Slack https://slack.engineering/
@@ -534,7 +533,7 @@
 * Ian Sommerville http://iansommerville.com/systems-software-and-technology/
 * Idontgetoutmuch's Weblog https://idontgetoutmuch.wordpress.com/
 * Ievgen Kuzminov http://stdout.in/
-* Ilija Eftimov https://eftimov.net/
+* Ilija Eftimov https://ieftimov.net/
 * Ilya Grigorik https://www.igvita.com/
 * Ivan Ursul https://ivanursul.com/
 
