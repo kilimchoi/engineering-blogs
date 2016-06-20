@@ -400,6 +400,7 @@
 * Chien Tran http://thelazylog.com/
 * Chris Hager https://www.metachris.com/blog/
 * Chris Wellons http://nullprogram.com/
+* Clay McLeod http://blog.claymcleod.io/
 * Cocoa Is My Girlfriend http://www.cimgf.com/
 * Code Better http://codebetter.com/
 * Codrops http://tympanus.net/codrops/
