@@ -428,7 +428,6 @@
 #### E individuals
 * Edan Kwan http://blog.edankwan.com/
 * Edgar Aroutiounian http://hyegar.com/archive/
-* Ejci's Blog http://ejci.net/
 * Elegant Code http://elegantcode.com/
 * Eli Bendersky http://eli.thegreenplace.net/
 * Eric Lippert http://ericlippert.com/
@@ -447,7 +446,6 @@
 
 #### G individuals
 * Gleb Bahmutov https://glebbahmutov.com/blog/
-* Gonto http://gon.to/blog/
 * Graham King http://www.darkcoding.net/
 * Grzegorz Gajos http://ggajos.com/
 * Guido van Rossum http://neopythonic.blogspot.com/
