@@ -321,6 +321,7 @@
       <outline type="rss" text="Clay McLeod" title="Clay McLeod" xmlUrl="http://blog.claymcleod.io/atom.xml" htmlUrl="http://blog.claymcleod.io/"/>
       <outline type="rss" text="Cocoa Is My Girlfriend" title="Cocoa Is My Girlfriend" xmlUrl="http://www.cimgf.com/feed/" htmlUrl="http://www.cimgf.com/"/>
       <outline type="rss" text="Code Better" title="Code Better" xmlUrl="http://feeds.feedburner.com/CodeBetter" htmlUrl="http://codebetter.com/"/>
+      <outline type="rss" text="Code with style!" title="Code with style!" xmlUrl="http://codewithstyle.info/feed/" htmlUrl="http://codewithstyle.info/"/>
       <outline type="rss" text="Codrops" title="Codrops" xmlUrl="http://tympanus.net/codrops/rss" htmlUrl="http://tympanus.net/codrops/"/>
       <outline type="rss" text="Daily JS" title="Daily JS" xmlUrl="http://dailyjs.com/rss/" htmlUrl="http://dailyjs.com/"/>
       <outline type="rss" text="Daily Tech Video" title="Daily Tech Video" xmlUrl="http://dailytechvideo.com/feed/" htmlUrl="http://dailytechvideo.com/"/>

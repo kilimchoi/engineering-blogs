@@ -404,6 +404,7 @@
 * Clay McLeod http://blog.claymcleod.io/
 * Cocoa Is My Girlfriend http://www.cimgf.com/
 * Code Better http://codebetter.com/
+* Code with style! http://codewithstyle.info/
 * Codrops http://tympanus.net/codrops/
 
 #### D individuals
