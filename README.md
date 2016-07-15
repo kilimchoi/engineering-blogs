@@ -484,6 +484,7 @@
 * Jonathan Snook http://snook.ca/
 * Josh Haberman http://blog.reverberate.org/
 * Josh Sherman https://joshtronic.com/
+* Juan Treminio https://jtreminio.com
 * Justin Weiss http://www.justinweiss.com/blog/
 
 #### K individuals
