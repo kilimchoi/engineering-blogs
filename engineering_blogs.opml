@@ -336,6 +336,7 @@
       <outline type="rss" text="Dennis Yurichev" title="Dennis Yurichev" xmlUrl="http://yurichev.com/blog/rss.xml" htmlUrl="http://yurichev.com/blog/"/>
       <outline type="rss" text="Dereuromark" title="Dereuromark" xmlUrl="http://www.dereuromark.de/feed/" htmlUrl="http://www.dereuromark.de/"/>
       <outline type="rss" text="Discover Meteor" title="Discover Meteor" xmlUrl="https://www.discovermeteor.com/feed.xml" htmlUrl="https://www.discovermeteor.com/blog"/>
+      <outline type="rss" text="Dot Dev (.dev)" title="Dot Dev (.dev)" xmlUrl="https://dotdev.co/feed" htmlUrl="https://dotdev.co"/>
       <outline type="rss" text="Dragan Gaic" title="Dragan Gaic" xmlUrl="http://www.gajotres.net/feed/" htmlUrl="http://www.gajotres.net/"/>
       <outline type="rss" text="Drew DeVault" title="Drew DeVault" xmlUrl="https://drewdevault.com/feed.xml" htmlUrl="https://drewdevault.com/"/>
       <outline type="rss" text="Ducode.org" title="Ducode.org" xmlUrl="https://ducode.org/feed" htmlUrl="https://ducode.org/tag/tutorial"/>
