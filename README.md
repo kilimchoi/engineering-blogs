@@ -419,6 +419,7 @@
 * David Walsh https://davidwalsh.name/
 * Dean Hume http://deanhume.com/
 * Deborah Digges http://deborah-digges.github.io/
+* Dennis Felsing https://hookrace.net/
 * Dennis Yurichev http://yurichev.com/blog/
 * Dereuromark http://www.dereuromark.de/
 * Discover Meteor https://www.discovermeteor.com/blog
