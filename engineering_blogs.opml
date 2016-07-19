@@ -137,6 +137,7 @@
       <outline type="rss" text="Khan Academy" title="Khan Academy" xmlUrl="http://engineering.khanacademy.org/rss.xml" htmlUrl="http://engineering.khanacademy.org"/>
       <outline type="rss" text="Kickstarter" title="Kickstarter" xmlUrl="https://www.kickstarter.com/backing-and-hacking.atom" htmlUrl="https://www.kickstarter.com/backing-and-hacking"/>
       <outline type="rss" text="Kifi" title="Kifi" xmlUrl="http://eng.kifi.com/feed/" htmlUrl="http://eng.kifi.com/"/>
+      <outline type="rss" text="King" title="King" xmlUrl="https://techblog.king.com/feed/" htmlUrl="https://techblog.king.com/"/>
       <outline type="rss" text="Kinvolk" title="Kinvolk" xmlUrl="https://kinvolk.io/blog/index.xml" htmlUrl="https://kinvolk.io/blog/"/>
       <outline type="rss" text="Kogan.com" title="Kogan.com" xmlUrl="http://devblog.kogan.com/blog?format=RSS" htmlUrl="http://devblog.kogan.com/"/>
       <outline type="rss" text="Laterooms" title="Laterooms" xmlUrl="http://engineering.laterooms.com/rss/" htmlUrl="http://engineering.laterooms.com/"/>
