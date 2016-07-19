@@ -431,6 +431,7 @@
 #### E individuals
 * Edan Kwan http://blog.edankwan.com/
 * Edgar Aroutiounian http://hyegar.com/archive/
+* Edmond Lau http://www.theeffectiveengineer.com/blog
 * Elegant Code http://elegantcode.com/
 * Eli Bendersky http://eli.thegreenplace.net/
 * Eric Lippert http://ericlippert.com/
