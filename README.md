@@ -380,6 +380,7 @@
 * Andrew Ray http://blog.andrewray.me/
 * Andrey Akinshin http://aakinshin.net/en/blog/content/
 * Antirez http://antirez.com/latest/0
+* API Evangelist http://apievangelist.com/
 * Ariya Hidayat http://ariya.ofilabs.com/
 * Armin Ronacher http://lucumr.pocoo.org/
 * Axel Rauschmayer http://www.2ality.com/
