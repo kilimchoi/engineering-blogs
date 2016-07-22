@@ -179,6 +179,7 @@
 * Just Eat http://tech.just-eat.com/
 
 #### K companies
+* Key Location https://keylocation.sg/our-tech
 * Khan Academy http://engineering.khanacademy.org
 * Kickstarter https://www.kickstarter.com/backing-and-hacking
 * Kifi http://eng.kifi.com/
