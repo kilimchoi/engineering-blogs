@@ -302,6 +302,7 @@
       <outline type="rss" text="Andrew Ray" title="Andrew Ray" xmlUrl="http://blog.andrewray.me/rss/" htmlUrl="http://blog.andrewray.me/"/>
       <outline type="rss" text="Andrey Akinshin" title="Andrey Akinshin" xmlUrl="http://aakinshin.net/en/rss.xml" htmlUrl="http://aakinshin.net/en/blog/content/"/>
       <outline type="rss" text="Antirez" title="Antirez" xmlUrl="http://antirez.com/rss" htmlUrl="http://antirez.com/latest/0"/>
+      <outline type="rss" text="API Evangelist" title="API Evangelist" xmlUrl="http://apievangelist.com/blog.xml" htmlUrl="http://apievangelist.com/"/>
       <outline type="rss" text="Ariya Hidayat" title="Ariya Hidayat" xmlUrl="http://ariya.ofilabs.com/feed" htmlUrl="http://ariya.ofilabs.com/"/>
       <outline type="rss" text="Armin Ronacher" title="Armin Ronacher" xmlUrl="http://lucumr.pocoo.org/feed.atom" htmlUrl="http://lucumr.pocoo.org/"/>
       <outline type="rss" text="Axel Rauschmayer" title="Axel Rauschmayer" xmlUrl="http://www.2ality.com/feeds/posts/default" htmlUrl="http://www.2ality.com/"/>
