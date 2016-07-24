@@ -401,6 +401,7 @@
 
 #### C individuals
 * Carlos Becker http://carlosbecker.com
+* Chen Hui Jing https://www.chenhuijing.com/blog/
 * Chien Tran http://thelazylog.com/
 * Chris Hager https://www.metachris.com/blog/
 * Chris Wellons http://nullprogram.com/
