@@ -402,6 +402,7 @@
 #### C individuals
 * Carlos Becker http://carlosbecker.com
 * Chien Tran http://thelazylog.com/
+* Chinmaya Kr. Patanaik http://chinmayapatanaik.com
 * Chris Hager https://www.metachris.com/blog/
 * Chris Wellons http://nullprogram.com/
 * Clay McLeod http://blog.claymcleod.io/
