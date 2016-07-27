@@ -629,6 +629,9 @@
 #### L technologies
 * Laravel https://laravel-news.com/blog/
 
+#### M technologies
+* Microsoft Edge https://blogs.windows.com/msedgedev/
+
 #### N technologies
 * .NET https://blogs.msdn.microsoft.com/dotnet/
 
