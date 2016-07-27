@@ -139,7 +139,7 @@
 * Gnip https://engineering.gnip.com/
 * GoCardless https://gocardless.com/blog/tagged/engineering/
 * Good Eggs http://bites.goodeggs.com/
-* Google Online Security https://googleonlinesecurity.blogspot.com/
+* Google Online Security https://security.googleblog.com/
 * GoSquared https://engineering.gosquared.com/
 * Grammarly http://tech.grammarly.com/blog/index.html
 * Grouper http://eng.joingrouper.com/
