@@ -372,6 +372,7 @@
 * Addy Osmani https://addyosmani.com/blog/
 * Adrian Colyer http://blog.acolyer.org/
 * Alan Storm http://alanstorm.com/
+* Alex Rogozhnikov https://arogozhnikov.github.io/
 * Alex Russell https://infrequently.org/
 * Allan MacGregor http://coderoncode.com/
 * Allison Kaptur http://akaptur.com/
