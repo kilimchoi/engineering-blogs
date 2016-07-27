@@ -629,6 +629,9 @@
 #### L technologies
 * Laravel https://laravel-news.com/blog/
 
+#### N technologies
+* .NET https://blogs.msdn.microsoft.com/dotnet/
+
 #### R technologies
 * React https://facebook.github.io/react/blog/
 * RocksDB http://rocksdb.org/blog
