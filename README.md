@@ -618,6 +618,7 @@
 ### Products/Technologies
 
 #### A technologies
+* Android http://android-developers.blogspot.com/
 * Atom.io http://blog.atom.io/
 
 #### C technologies
