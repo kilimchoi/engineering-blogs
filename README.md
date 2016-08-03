@@ -149,6 +149,7 @@
 * Gusto http://engineering.gusto.com/
 
 #### H companies
+* HackerCollider https://hackercollider.com/
 * HackerEarth http://engineering.hackerearth.com/
 * Harry's http://engineering.harrys.com/
 * Hashrocket https://hashrocket.com/blog
