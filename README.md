@@ -358,6 +358,7 @@
 * Zendesk https://developer.zendesk.com/blog
 * Zenefits https://engineering.zenefits.com/posts/
 * Zillow https://engineering.zillow.com/
+* Zomato https://engineering.zomato.com/
 * Zoosk https://about.zoosk.com/en/engineering-blog/
 * Zulily http://engineering.zulily.com/
 * Zumba http://tech.zumba.com/
