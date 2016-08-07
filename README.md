@@ -527,6 +527,7 @@
 * Mike Ash https://www.mikeash.com/pyblog/
 * Mike Fogus http://blog.fogus.me/
 * Milosz Galazka https://blog.sleeplessbeastie.eu/
+* Mindaugas Mozūras http://codingfearlessly.com
 * Mykhailo Kozik http://mishadoff.com/
 
 #### N individuals
