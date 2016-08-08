@@ -121,6 +121,7 @@
 * Facebook https://code.facebook.com/posts/
 * Facebook AI Research https://research.facebook.com/blog/ai/
 * Fiftythree http://making.fiftythree.com/
+* Findmypast http://tech.findmypast.com/
 * Finn.no http://tech.finn.no/
 * Firmafon https://dev.firmafon.dk/blog/
 * Flickr http://code.flickr.net/
@@ -358,6 +359,7 @@
 * Zendesk https://developer.zendesk.com/blog
 * Zenefits https://engineering.zenefits.com/posts/
 * Zillow https://engineering.zillow.com/
+* Zomato https://engineering.zomato.com/
 * Zoosk https://about.zoosk.com/en/engineering-blog/
 * Zulily http://engineering.zulily.com/
 * Zumba http://tech.zumba.com/
