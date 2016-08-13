@@ -44,7 +44,7 @@
 * Auth0 https://auth0.com/blog/
 * Autodesk http://cloudengineering.autodesk.com/blog/
 * AWS https://aws.amazon.com/blogs/aws/
-* Azavea http://www.azavea.com/blogs/labs/
+* Azavea https://www.azavea.com/blog/category/software-development/
 
 #### B companies
 * Badoo https://techblog.badoo.com/
