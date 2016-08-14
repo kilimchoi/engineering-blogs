@@ -319,6 +319,7 @@
 
 #### U companies
 * Uber http://eng.uber.com/
+* Upday https://upday.github.io/
 
 #### V companies
 * Vena Solutions https://engineering.vena.io/
