@@ -523,6 +523,7 @@
 * Matt Cutts https://www.mattcutts.com/blog/
 * Matt Might http://matt.might.net/articles/
 * Matt Warren http://mattwarren.org/
+* Michael Crump http://michaelcrump.net/
 * Michaël Gallego http://www.michaelgallego.fr/articles/
 * Michael Herman http://mherman.org/
 * Miguel Quinones http://www.miqu.me/
