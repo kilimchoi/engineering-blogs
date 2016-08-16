@@ -179,6 +179,7 @@
       <outline type="rss" text="Okta" title="Okta" xmlUrl="https://www.java.com/en/download/faq/release_dates.xml" htmlUrl="http://developer.okta.com/blog/"/>
       <outline type="rss" text="OmniTI" title="OmniTI" xmlUrl="https://omniti.com/feeds/seeds" htmlUrl="https://omniti.com/seeds/stop-collaborate-and-listen-notify"/>
       <outline type="rss" text="OpenDNS" title="OpenDNS" xmlUrl="https://blog.opendns.com/feed/" htmlUrl="https://engineering.opendns.com/"/>
+      <outline type="rss" text="Opendoor" title="Opendoor" xmlUrl="https://labs.opendoor.com/feed.xml" htmlUrl="https://labs.opendoor.com/"/>
       <outline type="rss" text="OpenTable" title="OpenTable" xmlUrl="http://tech.opentable.com/feed/" htmlUrl="http://tech.opentable.com/"/>
       <outline type="rss" text="OpenTable UK" title="OpenTable UK" xmlUrl="http://tech.opentable.co.uk/atom.xml" htmlUrl="http://tech.opentable.co.uk/"/>
       <outline type="rss" text="Oursky" title="Oursky" xmlUrl="https://code.oursky.com/feed/" htmlUrl="http://code.oursky.com/"/>
@@ -416,7 +417,7 @@
       <outline type="rss" text="Matt Cutts" title="Matt Cutts" xmlUrl="https://www.mattcutts.com/blog/feed/" htmlUrl="https://www.mattcutts.com/blog/"/>
       <outline type="rss" text="Matt Might" title="Matt Might" xmlUrl="http://matt.might.net/articles/feed.rss" htmlUrl="http://matt.might.net/articles/"/>
       <outline type="rss" text="Matt Warren" title="Matt Warren" xmlUrl="http://mattwarren.org/atom.xml" htmlUrl="http://mattwarren.org/"/>
-      <outline type="rss" text="Michael Crump" title="Michael Crump" xmlUrl="http://www.michaelcrump.net/feed" htmlUrl="http://www.michaelcrump.net"/>
+      <outline type="rss" text="Michael Crump" title="Michael Crump" xmlUrl="http://michaelcrump.net/feed.xml" htmlUrl="http://michaelcrump.net/"/>
       <outline type="rss" text="Michaël Gallego" title="Michaël Gallego" xmlUrl="http://www.michaelgallego.fr/feed.xml" htmlUrl="http://www.michaelgallego.fr/articles/"/>
       <outline type="rss" text="Michael Herman" title="Michael Herman" xmlUrl="http://mherman.org/atom.xml" htmlUrl="http://mherman.org/"/>
       <outline type="rss" text="Miguel Quinones" title="Miguel Quinones" xmlUrl="http://www.miqu.me/atom.xml" htmlUrl="http://www.miqu.me/"/>
