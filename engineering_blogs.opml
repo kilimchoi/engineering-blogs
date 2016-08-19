@@ -5,6 +5,7 @@
   </head>
   <body>
     <outline text="Engineering Blogs" title="Engineering Blogs">
+      <outline type="rss" text="500px" title="500px" xmlUrl="https://developers.500px.com/feed" htmlUrl="https://developers.500px.com/"/>
       <outline type="rss" text="8th Light" title="8th Light" xmlUrl="http://blog.8thlight.com/feed/atom.xml" htmlUrl="http://blog.8thlight.com/"/>
       <outline type="rss" text="AdRoll" title="AdRoll" xmlUrl="http://tech.adroll.com/feed.xml" htmlUrl="http://tech.adroll.com/blog/"/>
       <outline type="rss" text="Advanced Web Machinery" title="Advanced Web Machinery" xmlUrl="https://advancedweb.hu/atom.xml" htmlUrl="https://advancedweb.hu/"/>
