@@ -390,6 +390,7 @@
 * Andrew Ray http://blog.andrewray.me/
 * Andrey Akinshin http://aakinshin.net/en/blog/content/
 * Antirez http://antirez.com/latest/0
+* Ariejan de Vroom https://ariejan.net/
 * Ariya Hidayat https://ariya.io/
 * Armin Ronacher http://lucumr.pocoo.org/
 * Axel Rauschmayer http://www.2ality.com/
