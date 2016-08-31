@@ -496,7 +496,6 @@
 * Jesus Castello http://www.blackbytes.info/
 * Joel Spolsky http://www.joelonsoftware.com/
 * John Resig http://ejohn.org/category/blog/
-* Jon Black http://blog.humblecoder.com/
 * Jon Skeet http://codeblog.jonskeet.uk/
 * Jonathan Dekhtiar https://www.born2data.com/
 * Jonathan Snook http://snook.ca/
