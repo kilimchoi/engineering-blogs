@@ -457,7 +457,6 @@
 
 #### F individuals
 * Fabrizio Branca http://fbrnc.net/
-* Fatih Arslan http://arslan.io/
 * Federico Cargnelutti http://blog.fedecarg.com/
 * Federico Tomassetti http://tomassetti.me/
 * Filippo Valsorda https://blog.filippo.io/
