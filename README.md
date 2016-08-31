@@ -184,7 +184,6 @@
 #### K companies
 * Khan Academy http://engineering.khanacademy.org
 * Kickstarter https://www.kickstarter.com/backing-and-hacking
-* Kifi http://eng.kifi.com/
 * King https://techblog.king.com/
 * Kinvolk https://kinvolk.io/blog/
 * Kogan.com http://devblog.kogan.com/
