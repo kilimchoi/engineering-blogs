@@ -16,6 +16,7 @@ contents = readme.read
 matches = contents.scan(/\* (.*) (http.*)/)
 # All blogs that do not respond
 unavailable = []
+temp_ignores = ['Buzzfeed', 'TaskRabbit', 'WyeWorks']
 
 Struct.new('Blog', :name, :web_url, :rss_url)
 blogs = []
@@ -24,6 +25,11 @@ blogs = []
 matches.each_with_index do |match, index|
   name = match[0]
   web_url = match[1]
+
+  if temp_ignores.include?(name)
+      puts "#{name}: IGNORE [TEMPORARILY]"
+      next
+  end
 
   # if rss_url already in existing opml file, use that; otherwise, do a lookup
   rss_url = nil
