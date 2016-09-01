@@ -45,6 +45,7 @@
       <outline type="rss" text="Boxever" title="Boxever" xmlUrl="http://www.boxever.com/feed" htmlUrl="http://www.boxever.com/tech-blog"/>
       <outline type="rss" text="Brandwatch" title="Brandwatch" xmlUrl="http://engineering.brandwatch.com/rss/" htmlUrl="http://engineering.brandwatch.com/"/>
       <outline type="rss" text="Budacode" title="Budacode" xmlUrl="https://blog.budacode.com/feed/" htmlUrl="https://blog.budacode.com/"/>
+      <outline type="rss" text="Buzzfeed" title="Buzzfeed" xmlUrl="https://www.buzzfeed.com/galarant/python-buzzfeed" htmlUrl="https://www.buzzfeed.com/techblog"/>
       <outline type="rss" text="Canva" title="Canva" xmlUrl="https://engineering.canva.com/feed.xml" htmlUrl="https://engineering.canva.com"/>
       <outline type="rss" text="Carbon Five" title="Carbon Five" xmlUrl="http://blog.carbonfive.com/rss" htmlUrl="http://blog.carbonfive.com/"/>
       <outline type="rss" text="CenturyLink" title="CenturyLink" xmlUrl="https://www.ctl.io/developers/blog/rss" htmlUrl="https://www.ctl.io/developers/blog"/>
@@ -120,6 +121,7 @@
       <outline type="rss" text="Honeybadger" title="Honeybadger" xmlUrl="http://blog.honeybadger.io/feed.xml" htmlUrl="http://blog.honeybadger.io/"/>
       <outline type="rss" text="Hootsuite" title="Hootsuite" xmlUrl="http://code.hootsuite.com/feed/" htmlUrl="http://code.hootsuite.com/"/>
       <outline type="rss" text="Hoteltonight" title="Hoteltonight" xmlUrl="http://engineering.hoteltonight.com/feed.xml" htmlUrl="http://engineering.hoteltonight.com/"/>
+      <outline type="rss" text="Housing.com" title="Housing.com" xmlUrl="https://medium.com/feed/engineering-housing" htmlUrl="https://medium.com/engineering-housing"/>
       <outline type="rss" text="HubSpot" title="HubSpot" xmlUrl="http://product.hubspot.com/blog/rss.xml" htmlUrl="http://product.hubspot.com/blog/topic/engineering"/>
       <outline type="rss" text="Huddle" title="Huddle" xmlUrl="http://tldr.huddle.com/atom.xml" htmlUrl="http://tldr.huddle.com/"/>
       <outline type="rss" text="IFTTT" title="IFTTT" xmlUrl="http://engineering.ifttt.com/feed.xml" htmlUrl="http://engineering.ifttt.com/"/>
@@ -234,6 +236,7 @@
       <outline type="rss" text="SurveyMonkey" title="SurveyMonkey" xmlUrl="https://engineering.surveymonkey.com/feed/" htmlUrl="https://surveymonkeycodes.com"/>
       <outline type="rss" text="Takipi" title="Takipi" xmlUrl="http://blog.takipi.com/feed/" htmlUrl="http://blog.takipi.com/"/>
       <outline type="rss" text="Target" title="Target" xmlUrl="https://target.github.io/feed.xml" htmlUrl="https://target.github.io/"/>
+      <outline type="rss" text="TaskRabbit" title="TaskRabbit" xmlUrl="http://tech.taskrabbit.com/" htmlUrl="http://tech.taskrabbit.com/"/>
       <outline type="rss" text="Teamwork" title="Teamwork" xmlUrl="http://engineroom.teamwork.com/rss/" htmlUrl="http://engineroom.teamwork.com/"/>
       <outline type="rss" text="Teespring" title="Teespring" xmlUrl="http://teespring.engineering/index.xml" htmlUrl="http://teespring.engineering/"/>
       <outline type="rss" text="theScore" title="theScore" xmlUrl="http://techblog.thescore.com/feed.xml" htmlUrl="http://techblog.thescore.com/"/>

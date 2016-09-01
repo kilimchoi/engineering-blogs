@@ -160,6 +160,7 @@
 * Honeybadger http://blog.honeybadger.io/
 * Hootsuite http://code.hootsuite.com/
 * Hoteltonight http://engineering.hoteltonight.com/
+* Housing.com https://medium.com/engineering-housing
 * HubSpot http://product.hubspot.com/blog/topic/engineering
 * Huddle http://tldr.huddle.com/
 
