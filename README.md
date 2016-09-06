@@ -408,6 +408,7 @@
 * Brandon Rhodes http://rhodesmill.org/brandon/
 * Brendan Eich https://brendaneich.com/
 * Brendan Gregg http://www.brendangregg.com/blog/
+* Bruce Schneier https://www.schneier.com/
 * Bryan Cantrill http://dtrace.org/blogs/bmc/
 
 #### C individuals
