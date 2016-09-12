@@ -549,6 +549,7 @@
 #### O individuals
 * Ole Begemann http://oleb.net/blog/
 * Oona Räisänen http://www.windytan.com/
+* One Bit Code http://onebitcode.com
 
 #### P individuals
 * Pamela Fox http://blog.pamelafox.org/
