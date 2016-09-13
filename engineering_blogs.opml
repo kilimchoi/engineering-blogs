@@ -246,6 +246,7 @@
       <outline type="rss" text="Toptal" title="Toptal" xmlUrl="https://www.toptal.com/developers/blog.rss" htmlUrl="https://www.toptal.com/blog/"/>
       <outline type="rss" text="TrackMaven" title="TrackMaven" xmlUrl="http://engineroom.trackmaven.com/feeds/rss.xml" htmlUrl="http://engineroom.trackmaven.com/"/>
       <outline type="rss" text="Transferwise" title="Transferwise" xmlUrl="http://tech.transferwise.com/rss/" htmlUrl="http://tech.transferwise.com/"/>
+      <outline type="rss" text="TripAdvisor" title="TripAdvisor" xmlUrl="http://engineering.tripadvisor.com/rss" htmlUrl="http://engineering.tripadvisor.com/"/>
       <outline type="rss" text="Trivago" title="Trivago" xmlUrl="http://tech.trivago.com/atom.xml" htmlUrl="http://tech.trivago.com/"/>
       <outline type="rss" text="TrueCar" title="TrueCar" xmlUrl="https://www.drivenbycode.com/feed/" htmlUrl="https://www.drivenbycode.com/"/>
       <outline type="rss" text="Tumblr" title="Tumblr" xmlUrl="https://engineering.tumblr.com/rss" htmlUrl="http://engineering.tumblr.com/"/>
