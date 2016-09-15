@@ -181,6 +181,7 @@
 * Jane Street https://blogs.janestreet.com/category/ocaml/
 * Jolly Good Code https://jollygoodcode.github.io/
 * Just Eat http://tech.just-eat.com/
+* 
 
 #### K companies
 * Khan Academy http://engineering.khanacademy.org
@@ -504,6 +505,7 @@
 * Josh Sherman https://joshtronic.com/
 * Juan Treminio https://jtreminio.com
 * Justin Weiss http://www.justinweiss.com/blog/
+* Juri Strumpflohner http://juristr.com/blog
 
 #### K individuals
 * K. Harrison http://useyourloaf.com/
