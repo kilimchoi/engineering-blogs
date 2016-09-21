@@ -91,6 +91,7 @@
 * CodeName One http://www.codenameone.com/blog.html
 * Codeship http://blog.codeship.com/
 * Collective Idea http://collectiveidea.com/blog/
+* Condé Nast https://engineering.condenast.io/
 * Confluent http://www.confluent.io/blog
 * Coolblue http://devblog.coolblue.nl/
 * Criteo http://engineering.criteolabs.com/
