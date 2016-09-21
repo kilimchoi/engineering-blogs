@@ -335,6 +335,7 @@
 * VNGRS http://blog.vngrs.com/
 
 #### W companies
+* WalmartLabs https://medium.com/walmartlabs/ 
 * Warby Parker http://www.theoculists.com/
 * Wattpad http://engineering.wattpad.com/
 * Wayfair http://engineering.wayfair.com/
