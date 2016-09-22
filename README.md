@@ -275,6 +275,7 @@
 * Scrunch https://tech.scrunch.com/blog/
 * Secret Escapes http://tech.secretescapes.com/
 * Segment https://segment.com/blog/categories/engineering/
+* Semantics3 https://engineering.semantics3.com
 * Semaphore CI Community https://semaphoreci.com/community
 * Sensible http://blog.sensible.io/
 * Shape Security http://engineering.shapesecurity.com/
