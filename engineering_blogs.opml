@@ -265,7 +265,7 @@
       <outline type="rss" text="Vine" title="Vine" xmlUrl="http://engineering.vine.co/rss" htmlUrl="http://engineering.vine.co/"/>
       <outline type="rss" text="Vinted" title="Vinted" xmlUrl="http://engineering.vinted.com//atom.xml" htmlUrl="http://engineering.vinted.com/"/>
       <outline type="rss" text="VNGRS" title="VNGRS" xmlUrl="http://blog.vngrs.com/rss.xml" htmlUrl="http://blog.vngrs.com/"/>
-      <outline type="rss" text="WalmartLabs" title="WalmartLabs" xmlUrl="https://medium.com/feed/walmartlabs" htmlUrl="https://medium.com/walmartlabs/ "/>
+      <outline type="rss" text="WalmartLabs" title="WalmartLabs" xmlUrl="https://medium.com/feed/walmartlabs" htmlUrl="https://medium.com/walmartlabs/"/>
       <outline type="rss" text="Warby Parker" title="Warby Parker" xmlUrl="http://www.theoculists.com/feed/" htmlUrl="http://www.theoculists.com/"/>
       <outline type="rss" text="Wattpad" title="Wattpad" xmlUrl="http://engineering.wattpad.com/rss" htmlUrl="http://engineering.wattpad.com/"/>
       <outline type="rss" text="Wayfair" title="Wayfair" xmlUrl="http://engineering.wayfair.com/feed/" htmlUrl="http://engineering.wayfair.com/"/>
@@ -406,6 +406,7 @@
       <outline type="rss" text="Justin Weiss" title="Justin Weiss" xmlUrl="http://www.justinweiss.com/atom.xml" htmlUrl="http://www.justinweiss.com/blog/"/>
       <outline type="rss" text="Juri Strumpflohner" title="Juri Strumpflohner" xmlUrl="http://feeds.feedburner.com/juristrumpflohner" htmlUrl="http://juristr.com/blog"/>
       <outline type="rss" text="K. Harrison" title="K. Harrison" xmlUrl="http://useyourloaf.com/blog/rss.xml" htmlUrl="http://useyourloaf.com/"/>
+      <outline type="rss" text="Ken Shirriff" title="Ken Shirriff" xmlUrl="http://www.righto.com/feeds/posts/default" htmlUrl="http://www.righto.com/"/>
       <outline type="rss" text="Kevin Burke" title="Kevin Burke" xmlUrl="https://kev.inburke.com/feed/" htmlUrl="https://kev.inburke.com/"/>
       <outline type="rss" text="Kyle Kingsbury" title="Kyle Kingsbury" xmlUrl="https://aphyr.com/posts.atom" htmlUrl="https://aphyr.com/"/>
       <outline type="rss" text="Lambda the Ultimate" title="Lambda the Ultimate" xmlUrl="http://lambda-the-ultimate.org/rss.xml" htmlUrl="http://lambda-the-ultimate.org/"/>

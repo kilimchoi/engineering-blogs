@@ -338,7 +338,7 @@
 * VNGRS http://blog.vngrs.com/
 
 #### W companies
-* WalmartLabs https://medium.com/walmartlabs/ 
+* WalmartLabs https://medium.com/walmartlabs/
 * Warby Parker http://www.theoculists.com/
 * Wattpad http://engineering.wattpad.com/
 * Wayfair http://engineering.wayfair.com/
@@ -513,6 +513,7 @@
 
 #### K individuals
 * K. Harrison http://useyourloaf.com/
+* Ken Shirriff http://www.righto.com/
 * Kevin Burke https://kev.inburke.com/
 * Kyle Kingsbury https://aphyr.com/
 
