@@ -605,6 +605,7 @@
 * Swizec Teller http://swizec.com/blog/
 
 #### T individuals
+* Tero Parviainen http://teropa.info/
 * That Thing In Swift https://thatthinginswift.com/
 * The Daily WTF http://thedailywtf.com/
 * Thomas Young http://upcoder.com
