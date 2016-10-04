@@ -247,6 +247,7 @@
 * Paypal https://devblog.paypal.com/category/engineering/
 * Periscope https://www.periscopedata.com/blog/
 * Pinterest https://engineering.pinterest.com/blog
+* Pivotal https://engineering.pivotal.io
 * Polyvore http://engblog.polyvore.com/
 * Postmark https://postmarkapp.com/blog
 * Prezi https://medium.com/prezi-engineering
