@@ -266,7 +266,7 @@
       <outline type="rss" text="Vine" title="Vine" xmlUrl="http://engineering.vine.co/rss" htmlUrl="http://engineering.vine.co/"/>
       <outline type="rss" text="Vinted" title="Vinted" xmlUrl="http://engineering.vinted.com//atom.xml" htmlUrl="http://engineering.vinted.com/"/>
       <outline type="rss" text="VNGRS" title="VNGRS" xmlUrl="http://blog.vngrs.com/rss.xml" htmlUrl="http://blog.vngrs.com/"/>
-      <outline type="rss" text="WalmartLabs" title="WalmartLabs" xmlUrl="https://medium.com/feed/walmartlabs" htmlUrl="https://medium.com/walmartlabs/ "/>
+      <outline type="rss" text="WalmartLabs" title="WalmartLabs" xmlUrl="https://medium.com/feed/walmartlabs" htmlUrl="https://medium.com/walmartlabs/"/>
       <outline type="rss" text="Warby Parker" title="Warby Parker" xmlUrl="http://www.theoculists.com/feed/" htmlUrl="http://www.theoculists.com/"/>
       <outline type="rss" text="Wattpad" title="Wattpad" xmlUrl="http://engineering.wattpad.com/rss" htmlUrl="http://engineering.wattpad.com/"/>
       <outline type="rss" text="Wayfair" title="Wayfair" xmlUrl="http://engineering.wayfair.com/feed/" htmlUrl="http://engineering.wayfair.com/"/>
@@ -499,6 +499,7 @@
       <outline type="rss" text="Atom.io" title="Atom.io" xmlUrl="http://blog.atom.io/feed.xml" htmlUrl="http://blog.atom.io/"/>
       <outline type="rss" text="Crystal" title="Crystal" xmlUrl="http://crystal-lang.org/feed.xml" htmlUrl="http://crystal-lang.org/"/>
       <outline type="rss" text="Go" title="Go" xmlUrl="https://blog.golang.org/feed.atom" htmlUrl="https://blog.golang.org/"/>
+      <outline type="rss" text="Klipse" title="Klipse" xmlUrl="http://blog.klipse.tech//feed.xml" htmlUrl="http://blog.klipse.tech/"/>
       <outline type="rss" text="Laravel" title="Laravel" xmlUrl="http://feed.laravel-news.com/" htmlUrl="https://laravel-news.com/blog/"/>
       <outline type="rss" text="Microsoft Edge" title="Microsoft Edge" xmlUrl="https://blogs.windows.com/msedgedev/feed/" htmlUrl="https://blogs.windows.com/msedgedev/"/>
       <outline type="rss" text=".NET" title=".NET" xmlUrl="https://blogs.msdn.microsoft.com/dotnet/feed/" htmlUrl="https://blogs.msdn.microsoft.com/dotnet/"/>

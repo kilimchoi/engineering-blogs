@@ -339,7 +339,7 @@
 * VNGRS http://blog.vngrs.com/
 
 #### W companies
-* WalmartLabs https://medium.com/walmartlabs/ 
+* WalmartLabs https://medium.com/walmartlabs/
 * Warby Parker http://www.theoculists.com/
 * Wattpad http://engineering.wattpad.com/
 * Wayfair http://engineering.wayfair.com/
@@ -642,6 +642,9 @@
 
 #### G technologies
 * Go https://blog.golang.org/
+
+#### K technologies
+* Klipse http://blog.klipse.tech/
 
 #### L technologies
 * Laravel https://laravel-news.com/blog/
