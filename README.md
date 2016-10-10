@@ -485,6 +485,7 @@
 * Ian Hummel https://themodernlife.github.io/
 * Ian Sommerville http://iansommerville.com/systems-software-and-technology/
 * Idontgetoutmuch's Weblog https://idontgetoutmuch.wordpress.com/
+* Ievgen Kuzminov http://stdout.in/
 * Ilija Eftimov http://eftimov.net/
 * Ilya Grigorik https://www.igvita.com/
 
