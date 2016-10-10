@@ -193,6 +193,7 @@
 
 #### L companies
 * Laterooms http://engineering.laterooms.com/
+* LendingHome https://tech.lendinghome.com/
 * LINE http://developers.linecorp.com/blog/
 * Linkedcare http://blog.linkedcare.com/
 * LinkedIn https://engineering.linkedin.com/blog
