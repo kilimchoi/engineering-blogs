@@ -29,6 +29,7 @@
 
 #### A companies
 * AdRoll http://tech.adroll.com/blog/
+* Adobe http://blogs.adobe.com/blog-directory
 * Advanced Web Machinery https://advancedweb.hu/
 * Adzerk http://adzerk.com/tech/
 * Airbnb http://nerds.airbnb.com/
