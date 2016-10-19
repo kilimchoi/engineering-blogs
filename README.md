@@ -206,6 +206,7 @@
 * Lookout http://hackers.lookout.com/
 
 #### M companies
+* Machinalis http://www.machinalis.com/blog/
 * Made Tech https://www.madetech.com/blog
 * Magnet.me https://labs.magnet.me
 * MailChimp http://devs.mailchimp.com/blog/
