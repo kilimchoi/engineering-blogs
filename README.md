@@ -49,6 +49,7 @@
 * Azavea https://www.azavea.com/blog/category/software-development/
 
 #### B companies
+* Backtrace https://backtrace.io/blog/
 * Badoo https://techblog.badoo.com/
 * Baidu Research http://research.baidu.com/category/baidutechblog/baidu-research-technology/
 * Bandcamp https://bandcamptech.wordpress.com/
