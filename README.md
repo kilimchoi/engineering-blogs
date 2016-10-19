@@ -264,6 +264,7 @@
 * Quora https://engineering.quora.com/
 
 #### R companies
+* Raintank https://blog.raintank.io/
 * Raizlabs http://www.raizlabs.com/dev/
 * REA Group http://rea.tech/engineering/
 * Realm.io https://realm.io/news/
