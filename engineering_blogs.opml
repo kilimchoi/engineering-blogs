@@ -8,6 +8,7 @@
       <outline type="rss" text="500px" title="500px" xmlUrl="https://developers.500px.com/feed" htmlUrl="https://developers.500px.com/"/>
       <outline type="rss" text="8th Light" title="8th Light" xmlUrl="http://blog.8thlight.com/feed/atom.xml" htmlUrl="http://blog.8thlight.com/"/>
       <outline type="rss" text="AdRoll" title="AdRoll" xmlUrl="http://tech.adroll.com/feed.xml" htmlUrl="http://tech.adroll.com/blog/"/>
+      <outline type="rss" text="Airbrake" title="Airbrake" xmlUrl="https://airbrake.io/blog/feed" htmlUrl="https://airbrake.io/blog/"/>
       <outline type="rss" text="Advanced Web Machinery" title="Advanced Web Machinery" xmlUrl="https://advancedweb.hu/atom.xml" htmlUrl="https://advancedweb.hu/"/>
       <outline type="rss" text="Adzerk" title="Adzerk" xmlUrl="http://adzerk.com/tech/feed.xml" htmlUrl="http://adzerk.com/tech/"/>
       <outline type="rss" text="Airbnb" title="Airbnb" xmlUrl="http://nerds.airbnb.com/feed/" htmlUrl="http://nerds.airbnb.com/"/>
@@ -494,6 +495,7 @@
       <outline type="rss" text="Undocumented Matlab" title="Undocumented Matlab" xmlUrl="http://undocumentedmatlab.com/feed" htmlUrl="http://undocumentedmatlab.com/"/>
       <outline type="rss" text="Vanilla Java" title="Vanilla Java" xmlUrl="http://vanillajava.blogspot.com/feeds/posts/default" htmlUrl="http://vanillajava.blogspot.com/"/>
       <outline type="rss" text="Wilfred Hughes" title="Wilfred Hughes" xmlUrl="http://www.wilfred.me.uk/rss.xml" htmlUrl="http://www.wilfred.me.uk/"/>
+      <outline type="rss" text="William Kennedy" title="William Kennedy" xmlUrl="http://www.goinggo.net/index.xml" htmlUrl="http://www.goinggo.net/"/>
       <outline type="rss" text="Wojtek Gawroński" title="Wojtek Gawroński" xmlUrl="https://www.afronski.pl/feed.xml" htmlUrl="http://www.afronski.pl/"/>
       <outline type="rss" text="Yegor Bugayenko" title="Yegor Bugayenko" xmlUrl="http://www.yegor256.com/rss.xml" htmlUrl="http://www.yegor256.com/"/>
       <outline type="rss" text="Yifan Lu" title="Yifan Lu" xmlUrl="http://yifan.lu/feed.xml" htmlUrl="http://yifan.lu/"/>
