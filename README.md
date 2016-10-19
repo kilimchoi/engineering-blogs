@@ -518,6 +518,7 @@
 * Josh Haberman http://blog.reverberate.org/
 * Josh Sherman https://joshtronic.com/
 * Juan Treminio https://jtreminio.com
+* Julia Evans https://jvns.ca/
 * Justin Weiss http://www.justinweiss.com/blog/
 * Juri Strumpflohner http://juristr.com/blog
 
