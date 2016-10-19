@@ -265,6 +265,7 @@
 
 #### R companies
 * Raizlabs http://www.raizlabs.com/dev/
+* REA Group http://rea.tech/engineering/
 * Realm.io https://realm.io/news/
 * Redbubble http://artplustech.com/
 * Redino http://redino.net/blog/
