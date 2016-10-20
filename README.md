@@ -538,6 +538,7 @@
 * Manu Sporny http://manu.sporny.org/
 * Marc Plano-Lesay http://enoent.fr
 * Marco Pivetta http://ocramius.github.io/
+* Marek Majkowski https://idea.popcount.org/
 * Martin Fowler http://martinfowler.com/
 * Matt Aimonetti https://matt.aimonetti.net/
 * Matt Cutts https://www.mattcutts.com/blog/
