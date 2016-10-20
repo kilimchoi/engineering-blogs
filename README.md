@@ -540,6 +540,7 @@
 * Marco Pivetta http://ocramius.github.io/
 * Marek Majkowski https://idea.popcount.org/
 * Martin Fowler http://martinfowler.com/
+* Mary Rose Cook https://maryrosecook.com/blog/
 * Matt Aimonetti https://matt.aimonetti.net/
 * Matt Cutts https://www.mattcutts.com/blog/
 * Matt Might http://matt.might.net/articles/
