@@ -508,6 +508,7 @@
 * Jeff Atwood http://blog.codinghorror.com/
 * Jeff Preshing http://preshing.com/
 * Jeremy Kun http://jeremykun.com/
+* Jerry Gamblin http://jerrygamblin.com/
 * Jessie Frazelle https://blog.jessfraz.com/
 * Jesus Castello http://www.blackbytes.info/
 * Joel Spolsky http://www.joelonsoftware.com/
