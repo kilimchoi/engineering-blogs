@@ -467,6 +467,7 @@
 * Eric Lippert http://ericlippert.com/
 * Evan Dempsey http://www.smallsurething.com/
 * Evan Hahn http://evanhahn.com/
+* Evan Jones http://www.evanjones.ca/chronological.html
 * Evan Miller http://www.evanmiller.org/
 * Evan Tahler http://blog.evantahler.com/
 
