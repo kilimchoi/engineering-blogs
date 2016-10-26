@@ -94,6 +94,7 @@
 * Confluent http://www.confluent.io/blog
 * Coolblue http://devblog.coolblue.nl/
 * Criteo http://engineering.criteolabs.com/
+* Crowdfire https://crowdfire.engineering/
 
 #### D companies
 * Dailymotion http://engineering.dailymotion.com/
