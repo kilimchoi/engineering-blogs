@@ -298,10 +298,10 @@
 * Socialcast http://blog.socialcast.com/engineering/
 * Songkick http://devblog.songkick.com/
 * Soundcloud https://developers.soundcloud.com/blog/
+* SourceClear https://blog.sourceclear.com/
 * Speedledger http://engineering.speedledger.com/
 * Spotify https://labs.spotify.com/
 * Square https://corner.squareup.com/
-* SRC:CLR https://blog.srcclr.com/
 * Stack Overflow http://blog.stackoverflow.com/engineering/
 * Stitch Fix http://multithreaded.stitchfix.com/blog/
 * Stormpath https://stormpath.com/blog/

@@ -22,6 +22,7 @@ temp_ignores = [
   'Made Tech',
   'Opendoor',
   'Segment',
+  'SourceClear',
   'TaskRabbit',
   'WyeWorks'
 ]
