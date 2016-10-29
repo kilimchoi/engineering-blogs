@@ -141,7 +141,6 @@
       <outline type="rss" text="Intercom" title="Intercom" xmlUrl="https://engineering.intercom.io/feed.xml" htmlUrl="https://engineering.intercom.io/"/>
       <outline type="rss" text="Jane Street" title="Jane Street" xmlUrl="https://blogs.janestreet.com/category/ocaml/feed/" htmlUrl="https://blogs.janestreet.com/category/ocaml/"/>
       <outline type="rss" text="Jolly Good Code" title="Jolly Good Code" xmlUrl="https://jollygoodcode.github.io/atom.xml" htmlUrl="https://jollygoodcode.github.io/"/>
-      <outline type="rss" text="Just Eat" title="Just Eat" xmlUrl="https://tech.just-eat.com/feed/" htmlUrl="http://tech.just-eat.com/"/>
       <outline type="rss" text="Khan Academy" title="Khan Academy" xmlUrl="http://engineering.khanacademy.org/rss.xml" htmlUrl="http://engineering.khanacademy.org"/>
       <outline type="rss" text="Kickstarter" title="Kickstarter" xmlUrl="https://www.kickstarter.com/backing-and-hacking.atom" htmlUrl="https://www.kickstarter.com/backing-and-hacking"/>
       <outline type="rss" text="King" title="King" xmlUrl="https://techblog.king.com/feed/" htmlUrl="https://techblog.king.com/"/>
