@@ -25,6 +25,7 @@ temp_ignores = [
   'SourceClear',
   'TaskRabbit',
   'theScore',
+  'Trivago',
   'WyeWorks'
 ]
 
