@@ -21,6 +21,7 @@ temp_ignores = [
   'Buzzfeed',
   'Made Tech',
   'Opendoor',
+  'Segment',
   'TaskRabbit',
   'WyeWorks'
 ]
