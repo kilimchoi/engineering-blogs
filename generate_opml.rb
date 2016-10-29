@@ -26,7 +26,8 @@ temp_ignores = [
   'TaskRabbit',
   'theScore',
   'Trivago',
-  'WyeWorks'
+  'WyeWorks',
+  'Zoosk'
 ]
 
 Struct.new('Blog', :name, :web_url, :rss_url)
