@@ -210,7 +210,6 @@
 #### M companies
 * Machinalis http://www.machinalis.com/blog/
 * Made Tech https://www.madetech.com/blog
-* Magnet.me https://labs.magnet.me
 * MailChimp http://devs.mailchimp.com/blog/
 * Mandrill http://blog.mandrill.com/
 * Medallia http://engineering.medallia.com/blog/
