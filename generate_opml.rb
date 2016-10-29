@@ -24,6 +24,7 @@ temp_ignores = [
   'Segment',
   'SourceClear',
   'TaskRabbit',
+  'theScore',
   'WyeWorks'
 ]
 
