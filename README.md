@@ -160,6 +160,7 @@
 * HackerEarth http://engineering.hackerearth.com/
 * Harry's http://engineering.harrys.com/
 * Hashrocket https://hashrocket.com/blog
+* Haus https://engineering.haus.com
 * Heroku https://engineering.heroku.com/
 * HireArt http://code.hireart.com/
 * Holiday Extras http://hungrygeek.holidayextras.co.uk/

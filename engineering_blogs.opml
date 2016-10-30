@@ -120,6 +120,7 @@
       <outline type="rss" text="HackerEarth" title="HackerEarth" xmlUrl="http://engineering.hackerearth.com/rss" htmlUrl="http://engineering.hackerearth.com/"/>
       <outline type="rss" text="Harry's" title="Harry's" xmlUrl="http://engineering.harrys.com/feed.xml" htmlUrl="http://engineering.harrys.com/"/>
       <outline type="rss" text="Hashrocket" title="Hashrocket" xmlUrl="http://feeds.feedburner.com/hashrocket-blog" htmlUrl="https://hashrocket.com/blog"/>
+      <outline type="rss" text="Haus" title="Haus" xmlUrl="https://engineering.haus.com/feed" htmlUrl="https://engineering.haus.com"/>
       <outline type="rss" text="Heroku" title="Heroku" xmlUrl="http://engineering.heroku.com/feed.xml" htmlUrl="https://engineering.heroku.com/"/>
       <outline type="rss" text="HireArt" title="HireArt" xmlUrl="http://code.hireart.com/feed.xml" htmlUrl="http://code.hireart.com/"/>
       <outline type="rss" text="Honeybadger" title="Honeybadger" xmlUrl="http://blog.honeybadger.io/feed.xml" htmlUrl="http://blog.honeybadger.io/"/>
