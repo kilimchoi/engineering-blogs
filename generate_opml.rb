@@ -16,7 +16,19 @@ contents = readme.read
 matches = contents.scan(/\* (.*) (http.*)/)
 # All blogs that do not respond
 unavailable = []
-temp_ignores = ['Buzzfeed', 'TaskRabbit', 'WyeWorks']
+temp_ignores = [
+  'AdRoll',
+  'Buzzfeed',
+  'Made Tech',
+  'Opendoor',
+  'Segment',
+  'SourceClear',
+  'TaskRabbit',
+  'theScore',
+  'Trivago',
+  'WyeWorks',
+  'Zoosk'
+]
 
 Struct.new('Blog', :name, :web_url, :rss_url)
 blogs = []
