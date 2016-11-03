@@ -557,6 +557,7 @@
 * Mike Ash https://www.mikeash.com/pyblog/
 * Mike Fogus http://blog.fogus.me/
 * Milosz Galazka https://blog.sleeplessbeastie.eu/
+* Monica Dinculescu http://meowni.ca/
 * Mykhailo Kozik http://mishadoff.com/
 
 #### N individuals
