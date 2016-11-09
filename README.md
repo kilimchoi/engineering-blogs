@@ -149,6 +149,7 @@
 * Gnip https://engineering.gnip.com/
 * GoCardless https://gocardless.com/blog/tagged/engineering/
 * Good Eggs http://bites.goodeggs.com/
+* Google https://developers.googleblog.com/
 * Google Online Security https://security.googleblog.com/
 * Google Research https://research.googleblog.com/
 * GoSquared https://engineering.gosquared.com/
