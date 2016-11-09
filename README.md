@@ -160,6 +160,7 @@
 
 #### H companies
 * HackerEarth http://engineering.hackerearth.com/
+* Heavy Water http://www.heavywater.io/blog/
 * Harry's http://engineering.harrys.com/
 * Hashrocket https://hashrocket.com/blog
 * Haus https://engineering.haus.com
