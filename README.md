@@ -160,6 +160,7 @@
 
 #### H companies
 * HackerEarth http://engineering.hackerearth.com/
+* Hacker News https://news.ycombinator.com/
 * Harry's http://engineering.harrys.com/
 * Hashrocket https://hashrocket.com/blog
 * Haus https://engineering.haus.com
