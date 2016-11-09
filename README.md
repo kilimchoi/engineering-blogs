@@ -595,6 +595,7 @@
 * Piotr Pasich http://piotrpasich.com/
 * Piotr Wittchen http://blog.wittchen.biz.pl/
 * Practicing Ruby https://practicingruby.com/
+* Praveen Shukla https://praveenatc42.wordpress.com/
 
 #### R individuals
 * Rachel Kroll https://rachelbythebay.com/w/
