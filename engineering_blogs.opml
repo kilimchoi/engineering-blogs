@@ -331,6 +331,7 @@
       <outline type="rss" text="Brandon Rhodes" title="Brandon Rhodes" xmlUrl="http://rhodesmill.org/brandon/feed" htmlUrl="http://rhodesmill.org/brandon/"/>
       <outline type="rss" text="Brendan Eich" title="Brendan Eich" xmlUrl="https://brendaneich.com/feed/" htmlUrl="https://brendaneich.com/"/>
       <outline type="rss" text="Brendan Gregg" title="Brendan Gregg" xmlUrl="http://www.brendangregg.com/blog/rss.xml" htmlUrl="http://www.brendangregg.com/blog/"/>
+      <outline type="rss" text="Brujo Benavides" title="Brujo Benavides" xmlUrl="https://medium.com/feed/@elbrujohalcon" htmlUrl="https://medium.com/@elbrujohalcon"/>
       <outline type="rss" text="Bryan Cantrill" title="Bryan Cantrill" xmlUrl="http://dtrace.org/blogs/bmc/feed/" htmlUrl="http://dtrace.org/blogs/bmc/"/>
       <outline type="rss" text="Carlos Becker" title="Carlos Becker" xmlUrl="http://carlosbecker.com/feed.xml" htmlUrl="http://carlosbecker.com"/>
       <outline type="rss" text="Chen Hui Jing" title="Chen Hui Jing" xmlUrl="https://www.chenhuijing.com/feed.xml" htmlUrl="https://www.chenhuijing.com/blog/"/>

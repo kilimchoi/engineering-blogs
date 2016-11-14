@@ -429,6 +429,7 @@
 * Brandon Rhodes http://rhodesmill.org/brandon/
 * Brendan Eich https://brendaneich.com/
 * Brendan Gregg http://www.brendangregg.com/blog/
+* Brujo Benavides https://medium.com/@elbrujohalcon
 * Bryan Cantrill http://dtrace.org/blogs/bmc/
 
 #### C individuals
