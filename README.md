@@ -119,6 +119,7 @@
 * Eharmony http://www.eharmony.com/engineering/
 * Engine Yard https://blog.engineyard.com/
 * Envato http://webuild.envato.com/
+* Erlang Solutions https://www.erlang-solutions.com/blog.html
 * Etsy https://codeascraft.com/
 * Eventbrite http://www.eventbrite.com/engineering/
 * Evernote https://blog.evernote.com/tech/
