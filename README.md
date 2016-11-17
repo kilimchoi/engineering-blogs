@@ -310,6 +310,7 @@
 * Speedledger http://engineering.speedledger.com/
 * Spotify https://labs.spotify.com/
 * Square https://corner.squareup.com/
+* Squarespace https://engineering.squarespace.com/
 * Stack Overflow https://stackoverflow.blog/engineering/
 * Stitch Fix http://multithreaded.stitchfix.com/blog/
 * Stormpath https://stormpath.com/blog/
