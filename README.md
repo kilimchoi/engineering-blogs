@@ -211,6 +211,7 @@
 * LivingSocial https://techblog.livingsocial.com/
 * Localytics http://eng.localytics.com/
 * Lookout http://hackers.lookout.com/
+* Lyft https://eng.lyft.com/
 
 #### M companies
 * Machinalis http://www.machinalis.com/blog/
