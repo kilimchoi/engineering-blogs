@@ -98,6 +98,7 @@
 * Condé Nast https://engineering.condenast.io/
 * Confluent http://www.confluent.io/blog
 * Coolblue http://devblog.coolblue.nl/
+* Coursera https://building.coursera.org/engineering/
 * Criteo http://engineering.criteolabs.com/
 * Crowdfire https://crowdfire.engineering/
 
