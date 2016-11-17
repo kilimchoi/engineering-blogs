@@ -72,6 +72,7 @@
 * Boxever http://www.boxever.com/tech-blog
 * Brandwatch http://engineering.brandwatch.com/
 * Budacode https://blog.budacode.com/
+* Buffer https://overflow.buffer.com/
 * Buzzfeed https://www.buzzfeed.com/techblog
 
 #### C companies
