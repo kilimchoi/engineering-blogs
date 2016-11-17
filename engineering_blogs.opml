@@ -231,6 +231,7 @@
       <outline type="rss" text="Shopify" title="Shopify" xmlUrl="http://engineering.shopify.com/blogs/engineering.atom" htmlUrl="https://engineering.shopify.com"/>
       <outline type="rss" text="Sift Science" title="Sift Science" xmlUrl="http://blog.siftscience.com/feed/" htmlUrl="http://blog.siftscience.com/?category=Engineering"/>
       <outline type="rss" text="Sky Betting &amp; Gaming" title="Sky Betting &amp; Gaming" xmlUrl="http://engineering.skybettingandgaming.com/feed.xml" htmlUrl="http://engineering.skybettingandgaming.com/"/>
+      <outline type="rss" text="Skyscanner" title="Skyscanner" xmlUrl="http://codevoyagers.com/feed/" htmlUrl="http://codevoyagers.com/"/>
       <outline type="rss" text="Slack" title="Slack" xmlUrl="https://slack.engineering/feed" htmlUrl="https://slack.engineering/"/>
       <outline type="rss" text="SlideShare" title="SlideShare" xmlUrl="https://engineering.linkedin.com/blog.rss" htmlUrl="https://engineering.linkedin.com/blog/topic/slideshare"/>
       <outline type="rss" text="Small Improvements" title="Small Improvements" xmlUrl="https://tech.small-improvements.com/feed/" htmlUrl="https://tech.small-improvements.com/"/>
