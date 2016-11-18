@@ -117,6 +117,7 @@
 * Ebay http://www.ebaytechblog.com/
 * eFounders https://medium.com/unexpected-token
 * Eharmony http://www.eharmony.com/engineering/
+* Elastic https://www.elastic.co/blog/category/engineering
 * Engine Yard https://blog.engineyard.com/
 * Envato http://webuild.envato.com/
 * Erlang Solutions https://www.erlang-solutions.com/blog.html
