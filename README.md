@@ -577,6 +577,7 @@
 * Mykhailo Kozik http://mishadoff.com/
 
 #### N individuals
+* Natasha Murashev http://natashatherobot.com
 * Nelson Elhage https://blog.nelhage.com/
 * Nic Raboy https://blog.nraboy.com/
 * Nick Desaulniers https://nickdesaulniers.github.io/
