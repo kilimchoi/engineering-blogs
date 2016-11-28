@@ -577,6 +577,8 @@
 * Mykhailo Kozik http://mishadoff.com/
 
 #### N individuals
+* Natasha Murashev https://www.natashatherobot.com
+* Nate Berkopec http://www.nateberkopec.com/
 * Nelson Elhage https://blog.nelhage.com/
 * Nic Raboy https://blog.nraboy.com/
 * Nick Desaulniers https://nickdesaulniers.github.io/
@@ -585,7 +587,7 @@
 * Nikola Brežnjak http://www.nikola-breznjak.com/blog/
 * Nikolay Nemshilov http://nikolay.rocks/
 * NSHipster http://nshipster.com/
-* Nate Berkopec http://www.nateberkopec.com/
+
 
 #### O individuals
 * Ole Begemann http://oleb.net/blog/
