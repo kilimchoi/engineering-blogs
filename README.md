@@ -298,6 +298,7 @@
 * Segment https://segment.com/blog/categories/engineering/
 * Semantics3 https://engineering.semantics3.com
 * Semaphore CI Community https://semaphoreci.com/community
+* Semaphore CI Engineering http://semaphoreci.com/blog/tags/engineering.html
 * Sensible http://blog.sensible.io/
 * Shape Security http://engineering.shapesecurity.com/
 * Sharethis http://engineering.sharethis.com/
