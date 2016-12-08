@@ -213,6 +213,7 @@
       <outline type="rss" text="Quora" title="Quora" xmlUrl="https://engineering.quora.com/rss" htmlUrl="https://engineering.quora.com/"/>
       <outline type="rss" text="Raintank" title="Raintank" xmlUrl="https://blog.raintank.io/rss/" htmlUrl="https://blog.raintank.io/"/>
       <outline type="rss" text="Raizlabs" title="Raizlabs" xmlUrl="http://www.raizlabs.com/dev/feed/" htmlUrl="http://www.raizlabs.com/dev/"/>
+      <outline type="rss" text="RapidAPI" title="RapidAPI" xmlUrl="http://blog.rapidapi.com/feed/" htmlUrl="http://blog.rapidapi.com/"/>
       <outline type="rss" text="REA Group" title="REA Group" xmlUrl="http://rea.tech/feed/" htmlUrl="http://rea.tech/engineering/"/>
       <outline type="rss" text="Realm.io" title="Realm.io" xmlUrl="https://feeds.feedburner.com/realmio" htmlUrl="https://realm.io/news/"/>
       <outline type="rss" text="Redbubble" title="Redbubble" xmlUrl="http://artplustech.com/feed/" htmlUrl="http://artplustech.com/"/>
