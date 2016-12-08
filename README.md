@@ -481,6 +481,7 @@
 * Edgar Aroutiounian http://hyegar.com/archive/
 * Elegant Code http://elegantcode.com/
 * Eli Bendersky http://eli.thegreenplace.net/
+* Eric Elliot https://medium.com/javascript-scene/
 * Eric Lippert http://ericlippert.com/
 * Evan Dempsey http://www.smallsurething.com/
 * Evan Hahn http://evanhahn.com/
