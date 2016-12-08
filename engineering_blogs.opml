@@ -94,6 +94,7 @@
       <outline type="rss" text="Evil Martians" title="Evil Martians" xmlUrl="https://evilmartians.com/chronicles.atom" htmlUrl="https://evilmartians.com/chronicles/"/>
       <outline type="rss" text="Expedia" title="Expedia" xmlUrl="https://techblog.expedia.com/feed/" htmlUrl="https://techblog.expedia.com/"/>
       <outline type="rss" text="Facebook" title="Facebook" xmlUrl="https://code.facebook.com/posts/rss" htmlUrl="https://code.facebook.com/posts/"/>
+      <outline type="rss" text="Facebook AI Research" title="Facebook AI Research" xmlUrl="https://research.fb.com/feed/" htmlUrl="https://research.facebook.com/blog/ai/"/>
       <outline type="rss" text="Faraday" title="Faraday" xmlUrl="http://blog.faraday.io/rss/" htmlUrl="http://blog.faraday.io/"/>
       <outline type="rss" text="Fiftythree" title="Fiftythree" xmlUrl="http://making.fiftythree.com/feed.xml" htmlUrl="http://making.fiftythree.com/"/>
       <outline type="rss" text="Findmypast" title="Findmypast" xmlUrl="http://tech.findmypast.com/feed.xml" htmlUrl="http://tech.findmypast.com/"/>
@@ -399,6 +400,7 @@
       <outline type="rss" text="Ievgen Kuzminov" title="Ievgen Kuzminov" xmlUrl="http://stdout.in/en/cat/all.rss" htmlUrl="http://stdout.in/"/>
       <outline type="rss" text="Ilija Eftimov" title="Ilija Eftimov" xmlUrl="http://ieftimov.com/feed.xml" htmlUrl="http://eftimov.net/"/>
       <outline type="rss" text="Ilya Grigorik" title="Ilya Grigorik" xmlUrl="https://www.igvita.com/feed/" htmlUrl="https://www.igvita.com/"/>
+      <outline type="rss" text="Ivan Ursul" title="Ivan Ursul" xmlUrl="https://ivanursul.com/rss/" htmlUrl="https://ivanursul.com/"/>
       <outline type="rss" text="Jacopo Tarantino" title="Jacopo Tarantino" xmlUrl="https://jack.ofspades.com/rss/index.html" htmlUrl="https://jack.ofspades.com/"/>
       <outline type="rss" text="Jake Wharton" title="Jake Wharton" xmlUrl="http://jakewharton.com/feed.xml" htmlUrl="http://jakewharton.com/blog"/>
       <outline type="rss" text="Jake Yesbeck" title="Jake Yesbeck" xmlUrl="http://jakeyesbeck.com/atom.xml" htmlUrl="http://jakeyesbeck.com/"/>
@@ -454,7 +456,6 @@
       <outline type="rss" text="Monica Dinculescu" title="Monica Dinculescu" xmlUrl="http://meowni.ca/atom.xml" htmlUrl="http://meowni.ca/"/>
       <outline type="rss" text="Mykhailo Kozik" title="Mykhailo Kozik" xmlUrl="http://feeds.feedburner.com/mishadoff" htmlUrl="http://mishadoff.com/"/>
       <outline type="rss" text="Natasha Murashev" title="Natasha Murashev" xmlUrl="https://www.natashatherobot.com/rss" htmlUrl="https://www.natashatherobot.com"/>
-      <outline type="rss" text="Nate Berkopec" title="Nate Berkopec" xmlUrl="https://www.nateberkopec.com/feed.xml" htmlUrl="http://www.nateberkopec.com/"/>
       <outline type="rss" text="Nelson Elhage" title="Nelson Elhage" xmlUrl="https://blog.nelhage.com/atom.xml" htmlUrl="https://blog.nelhage.com/"/>
       <outline type="rss" text="Nic Raboy" title="Nic Raboy" xmlUrl="https://www.thepolyglotdeveloper.com/feed/" htmlUrl="https://blog.nraboy.com/"/>
       <outline type="rss" text="Nick Desaulniers" title="Nick Desaulniers" xmlUrl="https://nickdesaulniers.github.io/atom.xml" htmlUrl="https://nickdesaulniers.github.io/"/>
@@ -462,6 +463,7 @@
       <outline type="rss" text="Nikola Brežnjak" title="Nikola Brežnjak" xmlUrl="http://www.nikola-breznjak.com/blog/feed/atom/" htmlUrl="http://www.nikola-breznjak.com/blog/"/>
       <outline type="rss" text="Nikolay Nemshilov" title="Nikolay Nemshilov" xmlUrl="http://nikolay.rocks/atom.xml" htmlUrl="http://nikolay.rocks/"/>
       <outline type="rss" text="NSHipster" title="NSHipster" xmlUrl="http://nshipster.com/feed.xml" htmlUrl="http://nshipster.com/"/>
+      <outline type="rss" text="Nate Berkopec" title="Nate Berkopec" xmlUrl="https://www.nateberkopec.com/feed.xml" htmlUrl="http://www.nateberkopec.com/"/>
       <outline type="rss" text="Ole Begemann" title="Ole Begemann" xmlUrl="http://oleb.net/blog/atom.xml" htmlUrl="http://oleb.net/blog/"/>
       <outline type="rss" text="Oona Räisänen" title="Oona Räisänen" xmlUrl="http://www.windytan.com/feeds/posts/default" htmlUrl="http://www.windytan.com/"/>
       <outline type="rss" text="Pamela Fox" title="Pamela Fox" xmlUrl="http://blog.pamelafox.org/feeds/posts/default" htmlUrl="http://blog.pamelafox.org/"/>
