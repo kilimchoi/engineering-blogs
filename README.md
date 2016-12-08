@@ -299,6 +299,7 @@
 * Segment https://segment.com/blog/categories/engineering/
 * Semantics3 https://engineering.semantics3.com
 * Semaphore CI Community https://semaphoreci.com/community
+* Semaphore CI Engineering http://semaphoreci.com/blog/tags/engineering.html
 * Sensible http://blog.sensible.io/
 * Shape Security http://engineering.shapesecurity.com/
 * Sharethis http://engineering.sharethis.com/
@@ -481,6 +482,7 @@
 * Edgar Aroutiounian http://hyegar.com/archive/
 * Elegant Code http://elegantcode.com/
 * Eli Bendersky http://eli.thegreenplace.net/
+* Eric Elliot https://medium.com/javascript-scene/
 * Eric Lippert http://ericlippert.com/
 * Evan Dempsey http://www.smallsurething.com/
 * Evan Hahn http://evanhahn.com/
