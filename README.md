@@ -513,6 +513,7 @@
 * Ievgen Kuzminov http://stdout.in/
 * Ilija Eftimov http://eftimov.net/
 * Ilya Grigorik https://www.igvita.com/
+* Ivan Ursul https://ivanursul.com/
 
 #### J individuals
 * Jacopo Tarantino https://jack.ofspades.com/
