@@ -480,6 +480,7 @@
 #### E individuals
 * Edan Kwan http://blog.edankwan.com/
 * Edgar Aroutiounian http://hyegar.com/archive/
+* Eevee https://eev.ee/blog/
 * Elegant Code http://elegantcode.com/
 * Eli Bendersky http://eli.thegreenplace.net/
 * Eric Elliot https://medium.com/javascript-scene/
