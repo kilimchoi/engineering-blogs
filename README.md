@@ -642,6 +642,7 @@
 * Stefan Parker http://codebeforethehorse.tumblr.com/
 * Stephen Colebourne http://blog.joda.org/
 * Steve Yegge http://steve-yegge.blogspot.com/
+* Sudhagar http://sudhagar.com/
 * Swizec Teller http://swizec.com/blog/
 
 #### T individuals
