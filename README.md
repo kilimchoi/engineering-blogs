@@ -548,6 +548,7 @@
 
 #### K individuals
 * K. Harrison http://useyourloaf.com/
+* Ken Shirriff http://www.righto.com/
 * Kevin Burke https://kev.inburke.com/
 * Kyle Kingsbury https://aphyr.com/
 
