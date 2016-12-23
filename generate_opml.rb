@@ -20,7 +20,6 @@ temp_ignores = [
   'AdRoll',
   'Buzzfeed',
   'Opendoor',
-  'Segment',
   'SourceClear',
   'TaskRabbit',
   'theScore',
