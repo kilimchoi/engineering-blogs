@@ -19,7 +19,6 @@ unavailable = []
 temp_ignores = [
   'AdRoll',
   'Buzzfeed',
-  'Made Tech',
   'Opendoor',
   'Segment',
   'SourceClear',
