@@ -82,14 +82,14 @@
 * Chaps https://blog.chaps.io/
 * Chartbeat http://engineering.chartbeat.com/
 * Chef https://www.chef.io/blog/
-* Clever http://engineering.clever.com/
+* Clever https://engineering.clever.com/
 * CleverTap https://blog.clevertap.com/category/engineering/
 * Cloudera http://blog.cloudera.com/
 * Cloudflare https://blog.cloudflare.com/
 * ClusterHQ https://clusterhq.com/blog/
 * CockroachDB http://www.cockroachlabs.com/blog/
 * Code School https://www.codeschool.com/blog/categories/development/
-* Codelitt http://www.codelitt.com/blog/
+* Codelitt https://www.codelitt.com/blog/
 * Codemancers http://crypt.codemancers.com/
 * Codementor https://www.codementor.io/tutorial
 * CodeName One http://www.codenameone.com/blog.html
@@ -230,7 +230,7 @@
 * MoneyBird http://engineering.moneybird.com/
 * MongoDB https://engineering.mongodb.com/
 * Monsanto http://engineering.monsanto.com/
-* Moove-it http://blog.moove-it.com/
+* Moove-it https://blog.moove-it.com/
 * Mozilla Automation Team http://planet.mozilla.org/ateam/
 * Mozilla Hacks https://hacks.mozilla.org/
 * Mozilla Release Engineering http://planet.mozilla.org/releng/
@@ -263,7 +263,7 @@
 * Periscope Data https://www.periscopedata.com/blog
 * Pinterest https://engineering.pinterest.com/blog
 * Pivotal https://engineering.pivotal.io
-* Pluralsight http://tutorials.pluralsight.com
+* Pluralsight https://www.pluralsight.com/guides
 * Polyvore http://engblog.polyvore.com/
 * Postmark https://postmarkapp.com/blog
 * Postmates http://engineering.postmates.com/
@@ -394,7 +394,7 @@
 * ZeeMee https://zeemee.engineering/
 * Zendesk https://developer.zendesk.com/blog
 * Zenefits https://engineering.zenefits.com/posts/
-* Zillow https://engineering.zillow.com/
+* Zillow https://www.zillow.com/engineering/
 * Zomato https://engineering.zomato.com/
 * Zoosk https://about.zoosk.com/en/engineering-blog/
 * Zulily http://engineering.zulily.com/
@@ -405,7 +405,7 @@
 
 #### A individuals
 * Aaron Patterson http://tenderlovemaking.com/
-* Abhinaba Basu http://blogs.msdn.com/b/abhinaba/
+* Abhinaba Basu https://blogs.msdn.com/b/abhinaba/
 * Abu Ashraf Masnun http://masnun.com/
 * Adam Bard https://adambard.com/blog/
 * Adam Leventhal http://dtrace.org/blogs/ahl/
@@ -444,7 +444,7 @@
 * Bryan Cantrill http://dtrace.org/blogs/bmc/
 
 #### C individuals
-* Carlos Becker http://carlosbecker.com
+* Carlos Becker https://carlosbecker.com
 * Chen Hui Jing https://www.chenhuijing.com/blog/
 * Chien Tran http://thelazylog.com/
 * Chinmaya Kr. Patanaik http://chinmayapatanaik.com
@@ -454,7 +454,7 @@
 * Cocoa Is My Girlfriend http://www.cimgf.com/
 * Code Better http://codebetter.com/
 * Code with style! http://codewithstyle.info/
-* Codrops http://tympanus.net/codrops/
+* Codrops https://tympanus.net/codrops/
 
 #### D individuals
 * Daily JS http://dailyjs.com/
@@ -469,7 +469,7 @@
 * Dean Hume http://deanhume.com/
 * Deborah Digges http://deborah-digges.github.io/
 * Dennis Felsing https://hookrace.net/
-* Dennis Yurichev http://yurichev.com/blog/
+* Dennis Yurichev https://yurichev.com/blog/
 * Dereuromark http://www.dereuromark.de/
 * Discover Meteor https://www.discovermeteor.com/blog
 * Dmitri Pavlutin https://rainsoft.io
@@ -582,7 +582,7 @@
 * Mykhailo Kozik http://mishadoff.com/
 
 #### N individuals
-* Natasha Murashev http://natashatherobot.com
+* Natasha Murashev https://natashatherobot.com
 * Nelson Elhage https://blog.nelhage.com/
 * Nic Raboy https://blog.nraboy.com/
 * Nick Craver https://nickcraver.com/blog/
@@ -608,7 +608,7 @@
 * Peter Steinberger http://petersteinberger.com/
 * Peteris Krumins http://www.catonmat.net/blog/
 * Petr Mitrichev http://petr-mitrichev.blogspot.com/
-* Philip Walton http://philipwalton.com/
+* Philip Walton https://philipwalton.com/
 * Philipp Oppermann http://os.phil-opp.com/
 * Piotr Pasich http://piotrpasich.com/
 * Piotr Wittchen http://blog.wittchen.biz.pl/
@@ -619,7 +619,7 @@
 * Radek Pazdera http://radek.io
 * Radim Řehůřek http://radimrehurek.com/blog/
 * Ramon Fried https://nativeguru.wordpress.com/
-* Ray Wenderlich http://www.raywenderlich.com/
+* Ray Wenderlich https://www.raywenderlich.com/
 * Raymond Chen https://blogs.msdn.microsoft.com/oldnewthing/
 * Raymond Hettinger https://rhettinger.wordpress.com/
 * ReactJS News https://reactjsnews.com
@@ -663,7 +663,7 @@
 
 #### W individuals
 * Wilfred Hughes http://www.wilfred.me.uk/
-* William Kennedy http://www.goinggo.net/
+* William Kennedy https://www.goinggo.net/
 * Wojtek Gawroński http://www.afronski.pl/
 
 #### Y individuals
