@@ -362,6 +362,7 @@
 * Vine http://engineering.vine.co/
 * Vinted http://engineering.vinted.com/
 * VNGRS http://blog.vngrs.com/
+* VTS https://buildingvts.com/
 
 #### W companies
 * WalmartLabs https://medium.com/walmartlabs/
