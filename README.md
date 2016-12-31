@@ -258,7 +258,7 @@
 * Panorama Education http://engineering.panoramaed.com/
 * Paperless Post http://dev.paperlesspost.com/
 * Parse http://blog.parse.com/
-* Paypal https://devblog.paypal.com/category/engineering/
+* Paypal https://www.paypal-engineering.com/
 * Periscope https://www.periscopedata.com/blog/
 * Periscope Data https://www.periscopedata.com/blog
 * Pinterest https://engineering.pinterest.com/blog
