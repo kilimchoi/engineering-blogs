@@ -310,6 +310,7 @@
 * Slack https://slack.engineering/
 * SlideShare https://engineering.linkedin.com/blog/topic/slideshare
 * Small Improvements https://tech.small-improvements.com/
+* Snapdeal http://engineering.snapdeal.com/
 * Socialcast http://blog.socialcast.com/engineering/
 * Songkick http://devblog.songkick.com/
 * Soundcloud https://developers.soundcloud.com/blog/
