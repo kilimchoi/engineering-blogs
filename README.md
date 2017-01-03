@@ -109,6 +109,7 @@
 * DataRank http://engineering.datarank.com/
 * DeferPanic https://deferpanic.com/blog/
 * Deis https://deis.com/blog
+* Deliveroo http://deliveroo.engineering/
 * DigitalOcean https://www.digitalocean.com/community/tutorials
 * Docker https://blog.docker.com/category/engineering/
 * Dropbox https://blogs.dropbox.com/tech/
@@ -310,6 +311,7 @@
 * Slack https://slack.engineering/
 * SlideShare https://engineering.linkedin.com/blog/topic/slideshare
 * Small Improvements https://tech.small-improvements.com/
+* Snapdeal http://engineering.snapdeal.com/category/code/
 * Socialcast http://blog.socialcast.com/engineering/
 * Songkick http://devblog.songkick.com/
 * Soundcloud https://developers.soundcloud.com/blog/
