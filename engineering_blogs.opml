@@ -241,6 +241,7 @@
       <outline type="rss" text="Slack" title="Slack" xmlUrl="https://slack.engineering/feed" htmlUrl="https://slack.engineering/"/>
       <outline type="rss" text="SlideShare" title="SlideShare" xmlUrl="https://engineering.linkedin.com/blog.rss" htmlUrl="https://engineering.linkedin.com/blog/topic/slideshare"/>
       <outline type="rss" text="Small Improvements" title="Small Improvements" xmlUrl="https://tech.small-improvements.com/feed/" htmlUrl="https://tech.small-improvements.com/"/>
+      <outline type="rss" text="Snapdeal" title="Snapdeal" xmlUrl="https://engineering.snapdeal.com/feed/" htmlUrl="https://engineering.snapdeal.com/"/>
       <outline type="rss" text="Socialcast" title="Socialcast" xmlUrl="http://blog.socialcast.com/feed/" htmlUrl="http://blog.socialcast.com/engineering/"/>
       <outline type="rss" text="Songkick" title="Songkick" xmlUrl="http://devblog.songkick.com/feed/" htmlUrl="http://devblog.songkick.com/"/>
       <outline type="rss" text="Soundcloud" title="Soundcloud" xmlUrl="https://developers.soundcloud.com/blog.rss" htmlUrl="https://developers.soundcloud.com/blog/"/>
