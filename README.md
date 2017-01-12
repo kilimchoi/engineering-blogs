@@ -509,6 +509,7 @@
 * Guilherme Rodrigues http://firstdoit.com/
 
 #### H individuals
+* Hacker Noon http://hackernoon.com/
 * High Scalability http://highscalability.com/
 * Huon Wilson http://huonw.github.io/
 * Hypriot http://blog.hypriot.com/
