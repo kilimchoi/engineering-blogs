@@ -474,6 +474,7 @@
 * Dennis Felsing https://hookrace.net/
 * Dennis Yurichev https://yurichev.com/blog/
 * Dereuromark http://www.dereuromark.de/
+* Diego López https://frostqui.github.io/blog
 * Discover Meteor https://www.discovermeteor.com/blog
 * Dmitri Pavlutin https://rainsoft.io
 * Dot Dev (.dev) https://dotdev.co
