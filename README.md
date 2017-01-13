@@ -209,7 +209,7 @@
 * Linkedcare http://blog.linkedcare.com/
 * LinkedIn https://engineering.linkedin.com/blog
 * LiveChat https://developers.livechatinc.com/blog/
-* LiveRamp http://liveramp.com/engineering/
+* LiveRamp https://liveramp.com/engineering/
 * LivingSocial https://techblog.livingsocial.com/
 * Localytics http://eng.localytics.com/
 * Lookout http://hackers.lookout.com/

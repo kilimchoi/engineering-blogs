@@ -159,7 +159,7 @@
       <outline type="rss" text="Linkedcare" title="Linkedcare" xmlUrl="http://blog.linkedcare.com/rss" htmlUrl="http://blog.linkedcare.com/"/>
       <outline type="rss" text="LinkedIn" title="LinkedIn" xmlUrl="https://engineering.linkedin.com/blog.rss" htmlUrl="https://engineering.linkedin.com/blog"/>
       <outline type="rss" text="LiveChat" title="LiveChat" xmlUrl="https://developers.livechatinc.com/feed/rss/" htmlUrl="https://developers.livechatinc.com/blog/"/>
-      <outline type="rss" text="LiveRamp" title="LiveRamp" xmlUrl="https://liveramp.com/engineering/feed/" htmlUrl="http://liveramp.com/engineering/"/>
+      <outline type="rss" text="LiveRamp" title="LiveRamp" xmlUrl="https://liveramp.com/engineering/feed/" htmlUrl="https://liveramp.com/engineering/"/>
       <outline type="rss" text="LivingSocial" title="LivingSocial" xmlUrl="https://techblog.livingsocial.com/atom.xml" htmlUrl="https://techblog.livingsocial.com/"/>
       <outline type="rss" text="Localytics" title="Localytics" xmlUrl="http://eng.localytics.com/rss/" htmlUrl="http://eng.localytics.com/"/>
       <outline type="rss" text="Lookout" title="Lookout" xmlUrl="http://hackers.lookout.com/atom.xml" htmlUrl="http://hackers.lookout.com/"/>
