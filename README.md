@@ -150,7 +150,7 @@
 * GitHub Old https://github.com/blog/category/engineering
 * Gnip https://engineering.gnip.com/
 * GoCardless https://gocardless.com/blog/tagged/engineering/
-* Good Eggs http://bites.goodeggs.com/
+* Good Eggs https://bites.goodeggs.com/
 * Google Online Security https://security.googleblog.com/
 * Google Research https://research.googleblog.com/
 * GoSquared https://engineering.gosquared.com/
