@@ -200,7 +200,7 @@
 * Kickstarter https://www.kickstarter.com/backing-and-hacking
 * King https://techblog.king.com/
 * Kinvolk https://kinvolk.io/blog/
-* Kogan.com http://devblog.kogan.com/
+* Kogan.com https://devblog.kogan.com/
 
 #### L companies
 * Laterooms http://engineering.laterooms.com/
