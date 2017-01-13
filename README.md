@@ -183,7 +183,7 @@
 * Inaka http://inaka.net/blog/
 * Indeed http://engineering.indeedblog.com/blog/
 * Instacart https://tech.instacart.com/
-* Instagram http://engineering.instagram.com/
+* Instagram https://engineering.instagram.com/
 * Intel https://software.intel.com/en-us/blogs/
 * Intent HQ http://engineering.intenthq.com/
 * Intent Media http://intentmedia.com/blog/

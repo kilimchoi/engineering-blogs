@@ -140,7 +140,7 @@
       <outline type="rss" text="Inaka" title="Inaka" xmlUrl="http://inaka.net/feed.dev.xml" htmlUrl="http://inaka.net/blog/"/>
       <outline type="rss" text="Indeed" title="Indeed" xmlUrl="http://engineering.indeedblog.com/feed/" htmlUrl="http://engineering.indeedblog.com/blog/"/>
       <outline type="rss" text="Instacart" title="Instacart" xmlUrl="http://tech.instacart.com/feed/" htmlUrl="https://tech.instacart.com/"/>
-      <outline type="rss" text="Instagram" title="Instagram" xmlUrl="https://engineering.instagram.com/feed" htmlUrl="http://engineering.instagram.com/"/>
+      <outline type="rss" text="Instagram" title="Instagram" xmlUrl="https://engineering.instagram.com/feed" htmlUrl="https://engineering.instagram.com/"/>
       <outline type="rss" text="Intel" title="Intel" xmlUrl="https://software.intel.com/en-us/blogs/feed" htmlUrl="https://software.intel.com/en-us/blogs/"/>
       <outline type="rss" text="Intent HQ" title="Intent HQ" xmlUrl="http://engineering.intenthq.com/feed.xml" htmlUrl="http://engineering.intenthq.com/"/>
       <outline type="rss" text="Intent Media" title="Intent Media" xmlUrl="https://intentmedia.com/feed/" htmlUrl="http://intentmedia.com/blog/"/>
