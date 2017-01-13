@@ -178,7 +178,7 @@
 #### I companies
 * IFTTT http://engineering.ifttt.com/
 * IMVU https://engineering.imvu.com/
-* Imaginea http://blog.imaginea.com/
+* Imaginea https://blog.imaginea.com/
 * Imgur http://blog.imgur.com/category/eng/
 * Inaka http://inaka.net/blog/
 * Indeed http://engineering.indeedblog.com/blog/
