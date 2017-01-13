@@ -85,7 +85,7 @@
 * Cloudera http://blog.cloudera.com/
 * Cloudflare https://blog.cloudflare.com/
 * ClusterHQ https://clusterhq.com/blog/
-* CockroachDB http://www.cockroachlabs.com/blog/
+* CockroachDB https://www.cockroachlabs.com/blog/
 * Code School https://www.codeschool.com/blog/categories/development/
 * Codelitt https://www.codelitt.com/blog/
 * Codemancers http://crypt.codemancers.com/
