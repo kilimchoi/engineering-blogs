@@ -25,7 +25,7 @@
 
 #### \# companies
 * 500px https://developers.500px.com/
-* 8th Light https://blog.8thlight.com/
+* 8th Light https://8thlight.com/blog/
 * 99designs https://99designs.com/tech-blog/
 
 #### A companies
