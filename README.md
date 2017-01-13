@@ -91,7 +91,7 @@
 * Codemancers http://crypt.codemancers.com/
 * Codementor https://www.codementor.io/tutorial
 * CodeName One http://www.codenameone.com/blog.html
-* Codeship http://blog.codeship.com/
+* Codeship https://blog.codeship.com/
 * Collective Idea http://collectiveidea.com/blog/
 * Commercetools https://techblog.commercetools.com/
 * Condé Nast https://engineering.condenast.io/
