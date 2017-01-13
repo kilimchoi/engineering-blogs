@@ -75,7 +75,6 @@
 
 #### C companies
 * Canva https://engineering.canva.com
-* Carbon Five http://blog.carbonfive.com/
 * CenturyLink https://www.ctl.io/developers/blog
 * Cerner http://engineering.cerner.com/
 * Chaps https://blog.chaps.io/
