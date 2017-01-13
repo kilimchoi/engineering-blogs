@@ -95,7 +95,7 @@
 * Collective Idea http://collectiveidea.com/blog/
 * Commercetools https://techblog.commercetools.com/
 * Condé Nast https://engineering.condenast.io/
-* Confluent http://www.confluent.io/blog
+* Confluent https://www.confluent.io/blog
 * Coolblue http://devblog.coolblue.nl/
 * Criteo http://engineering.criteolabs.com/
 * Crowdfire https://crowdfire.engineering/
