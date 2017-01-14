@@ -82,7 +82,7 @@
 * Chef https://www.chef.io/blog/
 * Clever https://engineering.clever.com/
 * CleverTap https://blog.clevertap.com/category/engineering/
-* Cloudera http://blog.cloudera.com/
+* Cloudera https://blog.cloudera.com/
 * Cloudflare https://blog.cloudflare.com/
 * ClusterHQ https://clusterhq.com/blog/
 * CockroachDB https://www.cockroachlabs.com/blog/
@@ -256,7 +256,7 @@
 
 #### P companies
 * Panorama Education http://engineering.panoramaed.com/
-* Paperless Post https://dev.paperlesspost.com/
+* Paperless Post https://www.paperlesspost.com/blog/teams/tech/
 * Parse http://blog.parse.com/
 * Paypal https://www.paypal-engineering.com/
 * Periscope https://www.periscopedata.com/blog/
@@ -266,7 +266,7 @@
 * Pluralsight https://www.pluralsight.com/guides
 * Polyvore http://engblog.polyvore.com/
 * Postmark https://postmarkapp.com/blog
-* Postmates http://engineering.postmates.com/
+* Postmates https://blog.postmates.com/tagged/engineering
 * Prezi https://medium.com/prezi-engineering
 * Prolific Interactive http://blog.prolificinteractive.com/category/development/
 * PullReview http://blog.8thcolor.com/
@@ -460,7 +460,7 @@
 #### D individuals
 * Daily JS http://dailyjs.com/
 * Daily Tech Video http://dailytechvideo.com/
-* Dan Luu http://danluu.com/
+* Dan Luu https://danluu.com/
 * Daniel Doubrovkine (dB.) http://code.dblock.org/
 * DataRadar.io https://www.dataradar.io/
 * Dave Atchley http://www.datchley.name/
@@ -642,7 +642,7 @@
 * Stack Abuse http://www.stackabuse.com/
 * Stefan Parker http://codebeforethehorse.tumblr.com/
 * Stephen Colebourne http://blog.joda.org/
-* Steve Yegge http://steve-yegge.blogspot.com/
+* Steve Yegge https://steve-yegge.blogspot.com/
 * Sudhagar http://sudhagar.com/
 * Swizec Teller https://swizec.com/blog/
 
