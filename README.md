@@ -276,7 +276,7 @@
 
 #### R companies
 * Raintank https://blog.raintank.io/
-* Raizlabs http://www.raizlabs.com/dev/
+* Raizlabs https://www.raizlabs.com/dev/
 * RapidAPI http://blog.rapidapi.com/
 * REA Group http://rea.tech/engineering/
 * Realm.io https://realm.io/news/
