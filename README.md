@@ -239,7 +239,7 @@
 
 #### N companies
 * Netflix http://techblog.netflix.com/
-* New York Times http://open.blogs.nytimes.com
+* New York Times https://open.blogs.nytimes.com
 * Nextdoor https://engblog.nextdoor.com/
 * Nordic APIs http://nordicapis.com/blog/
 * NPR Apps http://blog.apps.npr.org/

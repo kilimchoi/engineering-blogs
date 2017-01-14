@@ -185,7 +185,7 @@
       <outline type="rss" text="Myntra" title="Myntra" xmlUrl="http://myntra.github.io/atom.xml" htmlUrl="http://myntra.github.io/"/>
       <outline type="rss" text="Myntra Data Science" title="Myntra Data Science" xmlUrl="http://sartorialscience.myntrablogs.com/feeds/posts/default" htmlUrl="http://sartorialscience.myntrablogs.com/"/>
       <outline type="rss" text="Netflix" title="Netflix" xmlUrl="http://techblog.netflix.com/feeds/posts/default" htmlUrl="http://techblog.netflix.com/"/>
-      <outline type="rss" text="New York Times" title="New York Times" xmlUrl="http://open.blogs.nytimes.com/feed/" htmlUrl="http://open.blogs.nytimes.com"/>
+      <outline type="rss" text="New York Times" title="New York Times" xmlUrl="https://open.blogs.nytimes.com/feed/" htmlUrl="https://open.blogs.nytimes.com"/>
       <outline type="rss" text="Nextdoor" title="Nextdoor" xmlUrl="https://engblog.nextdoor.com/feed" htmlUrl="https://engblog.nextdoor.com/"/>
       <outline type="rss" text="Nordic APIs" title="Nordic APIs" xmlUrl="http://nordicapis.com/feed/" htmlUrl="http://nordicapis.com/blog/"/>
       <outline type="rss" text="NPR Apps" title="NPR Apps" xmlUrl="http://blog.apps.npr.org/atom.xml" htmlUrl="http://blog.apps.npr.org/"/>
