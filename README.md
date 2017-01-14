@@ -579,7 +579,7 @@
 * Mike Fogus http://blog.fogus.me/
 * Milosz Galazka https://blog.sleeplessbeastie.eu/
 * Miro Cupak https://mirocupak.com/
-* Monica Dinculescu http://meowni.ca/
+* Monica Dinculescu https://meowni.ca/
 * Mykhailo Kozik http://mishadoff.com/
 
 #### N individuals
