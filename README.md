@@ -555,7 +555,7 @@
 
 #### L individuals
 * Lambda the Ultimate http://lambda-the-ultimate.org/
-* Larry Land http://lg.io/
+* Larry Land https://lg.io/
 * Lea Verou http://lea.verou.me/
 * Lerner Consulting Blog http://blog.lerner.co.il/
 * Life Plus Linux http://lifepluslinux.blogspot.in/
