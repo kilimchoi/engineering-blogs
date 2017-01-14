@@ -465,7 +465,7 @@
 * DataRadar.io https://www.dataradar.io/
 * Dave Atchley http://www.datchley.name/
 * Dave Beazley http://www.dabeaz.com/blog.html
-* Dave Cheney http://dave.cheney.net/
+* Dave Cheney https://dave.cheney.net/
 * David Walsh https://davidwalsh.name/
 * Dean Hume http://deanhume.com/
 * Deborah Digges http://deborah-digges.github.io/
