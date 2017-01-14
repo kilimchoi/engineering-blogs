@@ -596,7 +596,7 @@
 * Nate Berkopec http://www.nateberkopec.com/
 
 #### O individuals
-* Ole Begemann http://oleb.net/blog/
+* Ole Begemann https://oleb.net/blog/
 * Oona Räisänen http://www.windytan.com/
 
 #### P individuals
