@@ -388,7 +388,7 @@
 * Yahoo https://yahooeng.tumblr.com/
 * Yammer https://medium.com/yammer-engineering
 * Yelp https://engineeringblog.yelp.com/
-* YLD! http://blog.yld.io
+* YLD! https://blog.yld.io
 
 #### Z companies
 * Zalando https://tech.zalando.com/blog/
