@@ -613,7 +613,6 @@
 * Philipp Oppermann http://os.phil-opp.com/
 * Piotr Pasich http://piotrpasich.com/
 * Piotr Wittchen http://blog.wittchen.biz.pl/
-* Practicing Ruby https://practicingruby.com/
 
 #### R individuals
 * Rachel Kroll https://rachelbythebay.com/w/
