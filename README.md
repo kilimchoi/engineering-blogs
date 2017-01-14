@@ -655,7 +655,7 @@
 * T.J. Maher http://adventuresinautomation.blogspot.com/
 
 #### U individuals
-* Una Kravets http://una.im/
+* Una Kravets https://una.im/
 * Undocumented Matlab http://undocumentedmatlab.com/
 
 #### V individuals
