@@ -286,7 +286,7 @@
 * Remind http://engineering.remind.com/
 * RetailMeNot https://medium.com/retailmenot-engineering/
 * Rightscale http://eng.rightscale.com/
-* Riot Games http://engineering.riotgames.com/
+* Riot Games https://engineering.riotgames.com/
 * RisingStack https://blog.risingstack.com/
 * Robert Elder Software http://blog.robertelder.org/
 * RoseHosting https://www.rosehosting.com/blog/

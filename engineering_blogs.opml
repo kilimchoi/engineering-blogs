@@ -221,7 +221,7 @@
       <outline type="rss" text="Remind" title="Remind" xmlUrl="http://engineering.remind.com/feed.xml" htmlUrl="http://engineering.remind.com/"/>
       <outline type="rss" text="RetailMeNot" title="RetailMeNot" xmlUrl="https://medium.com/feed/retailmenot-engineering" htmlUrl="https://medium.com/retailmenot-engineering/"/>
       <outline type="rss" text="Rightscale" title="Rightscale" xmlUrl="http://eng.rightscale.com/feed.xml" htmlUrl="http://eng.rightscale.com/"/>
-      <outline type="rss" text="Riot Games" title="Riot Games" xmlUrl="https://engineering.riotgames.com/rss.xml" htmlUrl="http://engineering.riotgames.com/"/>
+      <outline type="rss" text="Riot Games" title="Riot Games" xmlUrl="https://engineering.riotgames.com/rss.xml" htmlUrl="https://engineering.riotgames.com/"/>
       <outline type="rss" text="RisingStack" title="RisingStack" xmlUrl="http://blog.risingstack.com/rss/" htmlUrl="https://blog.risingstack.com/"/>
       <outline type="rss" text="RoseHosting" title="RoseHosting" xmlUrl="https://www.rosehosting.com/blog/feed/" htmlUrl="https://www.rosehosting.com/blog/"/>
       <outline type="rss" text="Salesforce" title="Salesforce" xmlUrl="https://developer.salesforce.com/blogs/engineering/feed" htmlUrl="https://developer.salesforce.com/blogs/engineering/"/>
