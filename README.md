@@ -325,7 +325,7 @@
 * Strava http://labs.strava.com/blog/
 * Stride NYC http://blog.stridenyc.com/
 * Stripe https://stripe.com/blog
-* SurveyMonkey https://surveymonkeycodes.com
+* SurveyMonkey https://engineering.surveymonkey.com/
 
 #### T companies
 * Takipi http://blog.takipi.com/
@@ -546,7 +546,7 @@
 * Juan Treminio https://jtreminio.com
 * Julia Evans https://jvns.ca/
 * Justin Weiss http://www.justinweiss.com/blog/
-* Juri Strumpflohner https://juristr.com/blog
+* Juri Strumpflohner https://juristr.com/blog/
 
 #### K individuals
 * K. Harrison http://useyourloaf.com/
