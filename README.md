@@ -504,7 +504,7 @@
 * Graham King http://www.darkcoding.net/
 * Grzegorz Gajos http://ggajos.com/
 * Guido van Rossum http://neopythonic.blogspot.com/
-* Guilherme Rodrigues http://firstdoit.com/
+* Guilherme Rodrigues https://firstdoit.com/
 
 #### H individuals
 * High Scalability http://highscalability.com/
