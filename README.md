@@ -385,7 +385,7 @@
 * XING https://devblog.xing.com/
 
 #### Y companies
-* Yahoo http://yahooeng.tumblr.com/
+* Yahoo https://yahooeng.tumblr.com/
 * Yammer https://medium.com/yammer-engineering
 * Yelp http://engineeringblog.yelp.com/
 * YLD! http://blog.yld.io
