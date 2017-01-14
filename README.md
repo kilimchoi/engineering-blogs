@@ -516,7 +516,7 @@
 * Ian Sommerville http://iansommerville.com/systems-software-and-technology/
 * Idontgetoutmuch's Weblog https://idontgetoutmuch.wordpress.com/
 * Ievgen Kuzminov http://stdout.in/
-* Ilija Eftimov http://eftimov.net/
+* Ilija Eftimov https://eftimov.net/
 * Ilya Grigorik https://www.igvita.com/
 * Ivan Ursul https://ivanursul.com/
 
