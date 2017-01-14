@@ -346,7 +346,7 @@
 * TripAdvisor http://engineering.tripadvisor.com/
 * Trivago http://tech.trivago.com/
 * TrueCar https://www.drivenbycode.com/
-* Tumblr http://engineering.tumblr.com/
+* Tumblr https://engineering.tumblr.com/
 * Twilio https://www.twilio.com/engineering/
 * Twitter https://blog.twitter.com/engineering
 
