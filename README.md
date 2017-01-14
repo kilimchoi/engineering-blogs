@@ -337,7 +337,7 @@
 * Thoughtbot https://robots.thoughtbot.com/
 * ThoughtWorks https://www.thoughtworks.com/insights
 * Thumbtack https://www.thumbtack.com/engineering/
-* Ticketmaster http://tech.ticketmaster.com/
+* Ticketmaster https://tech.ticketmaster.com/
 * Tilt http://engineering.tilt.com/
 * Toptal https://www.toptal.com/blog/
 * TrackMaven http://engineroom.trackmaven.com/
