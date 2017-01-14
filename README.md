@@ -398,7 +398,7 @@
 * Zillow https://www.zillow.com/engineering/
 * Zomato https://engineering.zomato.com/
 * Zoosk https://about.zoosk.com/en/engineering-blog/
-* Zulily http://engineering.zulily.com/
+* Zulily https://engineering.zulily.com/
 * Zumba http://tech.zumba.com/
 * Zynga https://www.zynga.com/blogs/engineering
 
