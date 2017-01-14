@@ -526,7 +526,7 @@
       <outline type="rss" text="Yifan Lu" title="Yifan Lu" xmlUrl="http://yifan.lu/feed.xml" htmlUrl="http://yifan.lu/"/>
       <outline type="rss" text="Zach Holman" title="Zach Holman" xmlUrl="https://zachholman.com/atom.xml" htmlUrl="https://zachholman.com/"/>
       <outline type="rss" text="Zolmeister" title="Zolmeister" xmlUrl="https://zolmeister.com/feeds/posts/default" htmlUrl="https://zolmeister.com/"/>
-      <outline type="rss" text="Android" title="Android" xmlUrl="https://android-developers.googleblog.com/feeds/posts/default" htmlUrl="http://android-developers.blogspot.com/"/>
+      <outline type="rss" text="Android" title="Android" xmlUrl="https://android-developers.googleblog.com/feeds/posts/default" htmlUrl="https://android-developers.blogspot.com/"/>
       <outline type="rss" text="Atom.io" title="Atom.io" xmlUrl="http://blog.atom.io/feed.xml" htmlUrl="http://blog.atom.io/"/>
       <outline type="rss" text="Crystal" title="Crystal" xmlUrl="http://crystal-lang.org/feed.xml" htmlUrl="http://crystal-lang.org/"/>
       <outline type="rss" text="Go" title="Go" xmlUrl="https://blog.golang.org/feed.atom" htmlUrl="https://blog.golang.org/"/>
