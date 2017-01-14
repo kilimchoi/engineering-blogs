@@ -256,7 +256,7 @@
 
 #### P companies
 * Panorama Education http://engineering.panoramaed.com/
-* Paperless Post http://dev.paperlesspost.com/
+* Paperless Post https://dev.paperlesspost.com/
 * Parse http://blog.parse.com/
 * Paypal https://www.paypal-engineering.com/
 * Periscope https://www.periscopedata.com/blog/
