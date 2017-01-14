@@ -431,7 +431,7 @@
 
 #### B individuals
 * Bad Concurrency http://bad-concurrency.blogspot.com/
-* Barry Warsaw http://www.wefearchange.org/
+* Barry Warsaw https://www.wefearchange.org/
 * Bartlomiej Filipek http://www.bfilipek.com/
 * Ben McCormick http://benmccormick.org/
 * Bill the Lizard http://www.billthelizard.com/
