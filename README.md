@@ -562,7 +562,7 @@
 
 #### M individuals
 * Manu Sporny http://manu.sporny.org/
-* Marc Plano-Lesay http://enoent.fr
+* Marc Plano-Lesay https://enoent.fr
 * Marco Pivetta http://ocramius.github.io/
 * Marek Majkowski https://idea.popcount.org/
 * Martin Fowler http://martinfowler.com/
