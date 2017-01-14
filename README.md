@@ -494,7 +494,7 @@
 
 #### F individuals
 * Fabrizio Branca http://fbrnc.net/
-* Federico Cargnelutti http://blog.fedecarg.com/
+* Federico Cargnelutti https://blog.fedecarg.com/
 * Federico Tomassetti http://tomassetti.me/
 * Filippo Valsorda https://blog.filippo.io/
 * Freek Van der Herten https://murze.be/
