@@ -490,7 +490,7 @@
 * Evan Hahn http://evanhahn.com/
 * Evan Jones http://www.evanjones.ca/chronological.html
 * Evan Miller http://www.evanmiller.org/
-* Evan Tahler http://blog.evantahler.com/
+* Evan Tahler https://blog.evantahler.com/
 
 #### F individuals
 * Fabrizio Branca http://fbrnc.net/
