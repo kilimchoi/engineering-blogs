@@ -565,7 +565,7 @@
 * Marc Plano-Lesay https://enoent.fr
 * Marco Pivetta http://ocramius.github.io/
 * Marek Majkowski https://idea.popcount.org/
-* Martin Fowler http://martinfowler.com/
+* Martin Fowler https://martinfowler.com/
 * Mary Rose Cook https://maryrosecook.com/blog/
 * Matt Aimonetti https://matt.aimonetti.net/
 * Matt Cutts https://www.mattcutts.com/blog/
