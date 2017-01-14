@@ -644,7 +644,7 @@
 * Stephen Colebourne http://blog.joda.org/
 * Steve Yegge http://steve-yegge.blogspot.com/
 * Sudhagar http://sudhagar.com/
-* Swizec Teller http://swizec.com/blog/
+* Swizec Teller https://swizec.com/blog/
 
 #### T individuals
 * Tero Parviainen http://teropa.info/
