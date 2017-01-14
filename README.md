@@ -701,7 +701,7 @@
 #### R technologies
 * React https://facebook.github.io/react/blog/
 * RocksDB http://rocksdb.org/blog
-* Rust http://blog.rust-lang.org/
+* Rust https://blog.rust-lang.org/
 
 #### S technologies
 * Swift https://developer.apple.com/swift/blog/
