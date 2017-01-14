@@ -251,7 +251,7 @@
 * Opendoor https://labs.opendoor.com/
 * OpenTable http://tech.opentable.com/
 * OpenTable UK http://tech.opentable.co.uk/
-* Oursky http://code.oursky.com/
+* Oursky https://code.oursky.com/
 * Oyster http://tech.oyster.com/
 
 #### P companies
