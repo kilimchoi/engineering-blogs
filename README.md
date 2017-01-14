@@ -387,7 +387,7 @@
 #### Y companies
 * Yahoo https://yahooeng.tumblr.com/
 * Yammer https://medium.com/yammer-engineering
-* Yelp http://engineeringblog.yelp.com/
+* Yelp https://engineeringblog.yelp.com/
 * YLD! http://blog.yld.io
 
 #### Z companies
