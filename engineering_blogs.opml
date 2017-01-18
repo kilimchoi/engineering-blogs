@@ -500,6 +500,7 @@
       <outline type="rss" text="Ruslan Spivak" title="Ruslan Spivak" xmlUrl="https://ruslanspivak.com/feeds/all.atom.xml" htmlUrl="https://ruslanspivak.com/"/>
       <outline type="rss" text="Sam Saffron" title="Sam Saffron" xmlUrl="http://samsaffron.com/posts.rss" htmlUrl="https://samsaffron.com/"/>
       <outline type="rss" text="Scott Hanselman" title="Scott Hanselman" xmlUrl="http://feeds.hanselman.com/ScottHanselman" htmlUrl="http://www.hanselman.com/blog/"/>
+      <outline type="rss" text="Sebastian Barthel" title="Sebastian Barthel" xmlUrl="http://journerist.com/rss/" htmlUrl="http://journerist.com/"/>
       <outline type="rss" text="Simon Reimler" title="Simon Reimler" xmlUrl="https://devdactic.com/feed/" htmlUrl="https://devdactic.com/devblog/"/>
       <outline type="rss" text="Srinivas Tamada" title="Srinivas Tamada" xmlUrl="http://www.9lessons.info/feeds/posts/default" htmlUrl="http://www.9lessons.info/"/>
       <outline type="rss" text="Stack Abuse" title="Stack Abuse" xmlUrl="http://stackabuse.com/rss/" htmlUrl="http://www.stackabuse.com/"/>
