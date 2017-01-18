@@ -637,6 +637,7 @@
 #### S individuals
 * Sam Saffron https://samsaffron.com/
 * Scott Hanselman http://www.hanselman.com/blog/
+* Sebastian Barthel http://journerist.com/
 * Simon Reimler https://devdactic.com/devblog/
 * Srinivas Tamada http://www.9lessons.info/
 * Stack Abuse http://www.stackabuse.com/
