@@ -561,6 +561,7 @@
 * Life Plus Linux http://lifepluslinux.blogspot.in/
 
 #### M individuals
+* Mackenzie Child https://mackenziechild.me/
 * Manu Sporny http://manu.sporny.org/
 * Marc Plano-Lesay https://enoent.fr
 * Marco Pivetta http://ocramius.github.io/
