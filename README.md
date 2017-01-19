@@ -176,6 +176,7 @@
 * Huddle http://tldr.huddle.com/
 
 #### I companies
+* Idealista https://www.idealista.com/labs/blog/
 * IFTTT http://engineering.ifttt.com/
 * IMVU https://engineering.imvu.com/
 * Imaginea https://blog.imaginea.com/
