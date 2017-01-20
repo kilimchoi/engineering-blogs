@@ -687,6 +687,9 @@
 #### G technologies
 * Go https://blog.golang.org/
 
+#### I technologies
+* IPFS https://ipfs.io/blog/
+
 #### K technologies
 * Klipse http://blog.klipse.tech/
 
