@@ -645,6 +645,7 @@
 * Stephen Colebourne http://blog.joda.org/
 * Steve Yegge https://steve-yegge.blogspot.com/
 * Sudhagar http://sudhagar.com/
+* Sumit Khanna http://penguindreams.org/
 * Swizec Teller https://swizec.com/blog/
 
 #### T individuals
