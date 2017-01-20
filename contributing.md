@@ -3,7 +3,7 @@
 Please ensure your pull request adheres to the following guidelines:
 
 - One pull request per add.
-- The pull request and commit message should include what was added/removed.
+- The pull request and commit message should include what was added/removed. It should also include one sentence summary of why you think this blog deserves recognition. 
 - Please squash related commits for each pull request you submit.
 - Use the following format: `Name link` e.g. Airbnb http://nerds.airbnb.com/
 - For company blogs, make sure that 80% of content is technical (posts about interesting technical challenges, lessons they've learned, etc). No PR, self-promoting posts.
