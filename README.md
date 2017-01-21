@@ -308,6 +308,7 @@
 * Sift Science http://blog.siftscience.com/?category=Engineering
 * Simple https://www.simple.com/engineering
 * Sky Betting & Gaming http://engineering.skybettingandgaming.com/
+* Skyscanner http://codevoyagers.com/
 * Slack https://slack.engineering/
 * SlideShare https://engineering.linkedin.com/blog/topic/slideshare
 * Small Improvements https://tech.small-improvements.com/
