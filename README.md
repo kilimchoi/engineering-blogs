@@ -305,6 +305,7 @@
 * Shape Security http://engineering.shapesecurity.com/
 * Sharethis http://engineering.sharethis.com/
 * Shopify https://engineering.shopify.com
+* ShowMax https://tech.showmax.com
 * Sift Science http://blog.siftscience.com/?category=Engineering
 * Simple https://www.simple.com/engineering
 * Sky Betting & Gaming http://engineering.skybettingandgaming.com/
