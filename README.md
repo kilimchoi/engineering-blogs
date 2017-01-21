@@ -155,6 +155,7 @@
 * Google Research https://research.googleblog.com/
 * GoSquared https://engineering.gosquared.com/
 * Grammarly http://tech.grammarly.com/blog/index.html
+* Grofers https://lambda.grofers.com/
 * Grouper http://eng.joingrouper.com/
 * Groupon https://engineering.groupon.com/
 * Guardian https://www.theguardian.com/info/developer-blog
