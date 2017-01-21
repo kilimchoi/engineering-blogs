@@ -110,6 +110,7 @@
 * Deis https://deis.com/blog
 * Deliveroo http://deliveroo.engineering/
 * DigitalOcean https://www.digitalocean.com/community/tutorials
+* Discord https://blog.discordapp.com
 * Docker https://blog.docker.com/category/engineering/
 * Dropbox https://blogs.dropbox.com/tech/
 
