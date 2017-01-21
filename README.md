@@ -97,7 +97,7 @@
 * Condé Nast https://engineering.condenast.io/
 * Confluent https://www.confluent.io/blog
 * Coolblue http://devblog.coolblue.nl/
-* Criteo http://engineering.criteolabs.com/
+* Criteo http://labs.criteo.com/blog/
 * Crowdfire https://crowdfire.engineering/
 
 #### D companies
