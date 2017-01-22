@@ -126,6 +126,7 @@
       <outline type="rss" text="Guardian" title="Guardian" xmlUrl="https://www.theguardian.com/info/developer-blog/rss" htmlUrl="https://www.theguardian.com/info/developer-blog"/>
       <outline type="rss" text="Gusto" title="Gusto" xmlUrl="http://engineering.gusto.com/rss/" htmlUrl="http://engineering.gusto.com/"/>
       <outline type="rss" text="HackerEarth" title="HackerEarth" xmlUrl="http://engineering.hackerearth.com/rss" htmlUrl="http://engineering.hackerearth.com/"/>
+      <outline type="rss" text="Haptik" title="Haptik" xmlUrl="http://haptik.ai/tech/feed/" htmlUrl="http://haptik.ai/tech/"/>
       <outline type="rss" text="Harry's" title="Harry's" xmlUrl="http://engineering.harrys.com/feed.xml" htmlUrl="http://engineering.harrys.com/"/>
       <outline type="rss" text="Hashrocket" title="Hashrocket" xmlUrl="http://feeds.feedburner.com/hashrocket-blog" htmlUrl="https://hashrocket.com/blog"/>
       <outline type="rss" text="Haus" title="Haus" xmlUrl="https://engineering.haus.com/feed" htmlUrl="https://engineering.haus.com"/>
