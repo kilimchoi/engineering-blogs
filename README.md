@@ -247,6 +247,7 @@
 * NPR Apps http://blog.apps.npr.org/
 
 #### O companies
+* OCTO Technology http://blog.octo.com/en/
 * Okta http://developer.okta.com/blog/
 * OmniTI https://omniti.com/seeds/stop-collaborate-and-listen-notify
 * OpenDNS https://engineering.opendns.com/
