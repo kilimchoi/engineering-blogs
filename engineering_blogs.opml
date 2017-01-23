@@ -301,6 +301,7 @@
       <outline type="rss" text="Wingify" title="Wingify" xmlUrl="http://engineering.wingify.com/atom.xml" htmlUrl="http://engineering.wingify.com/"/>
       <outline type="rss" text="Wix" title="Wix" xmlUrl="http://blog.wix.engineering/feed/" htmlUrl="http://engineering.wix.com/"/>
       <outline type="rss" text="Wolox" title="Wolox" xmlUrl="https://medium.com/feed/@WoloxEngineering" htmlUrl="https://medium.com/@WoloxEngineering/"/>
+      <outline type="rss" text="Wombat Security Technologies" title="Wombat Security Technologies" xmlUrl="http://development.wombatsecurity.com/feed.xml" htmlUrl="http://development.wombatsecurity.com/"/>
       <outline type="rss" text="Wonga Technology" title="Wonga Technology" xmlUrl="http://wongatech.github.io/feed.xml" htmlUrl="http://tech.wonga.com/"/>
       <outline type="rss" text="WSO2" title="WSO2" xmlUrl="http://wso2.com/node/37573/atom/feed" htmlUrl="http://wso2.com/library/"/>
       <outline type="rss" text="XING" title="XING" xmlUrl="https://devblog.xing.com/feed/" htmlUrl="https://devblog.xing.com/"/>
