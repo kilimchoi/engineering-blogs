@@ -164,7 +164,6 @@
       <outline type="rss" text="LINE" title="LINE" xmlUrl="http://developers.linecorp.com/blog/?feed=rss2" htmlUrl="http://developers.linecorp.com/blog/"/>
       <outline type="rss" text="Linkedcare" title="Linkedcare" xmlUrl="http://blog.linkedcare.com/rss" htmlUrl="http://blog.linkedcare.com/"/>
       <outline type="rss" text="LinkedIn" title="LinkedIn" xmlUrl="https://engineering.linkedin.com/blog.rss" htmlUrl="https://engineering.linkedin.com/blog"/>
-      <outline type="rss" text="Linode" title="Linode" xmlUrl="https://engineering.linode.com/feed.xml" htmlUrl="https://engineering.linode.com"/>
       <outline type="rss" text="LiveChat" title="LiveChat" xmlUrl="https://developers.livechatinc.com/blog/rss" htmlUrl="https://developers.livechatinc.com/blog/"/>
       <outline type="rss" text="LiveRamp" title="LiveRamp" xmlUrl="https://liveramp.com/engineering/feed/" htmlUrl="https://liveramp.com/engineering/"/>
       <outline type="rss" text="LivingSocial" title="LivingSocial" xmlUrl="https://techblog.livingsocial.com/atom.xml" htmlUrl="https://techblog.livingsocial.com/"/>
@@ -195,6 +194,7 @@
       <outline type="rss" text="New York Times" title="New York Times" xmlUrl="https://open.blogs.nytimes.com/feed/" htmlUrl="https://open.blogs.nytimes.com"/>
       <outline type="rss" text="Nextdoor" title="Nextdoor" xmlUrl="https://engblog.nextdoor.com/feed" htmlUrl="https://engblog.nextdoor.com/"/>
       <outline type="rss" text="Nordic APIs" title="Nordic APIs" xmlUrl="http://nordicapis.com/feed/" htmlUrl="http://nordicapis.com/blog/"/>
+      <outline type="rss" text="Novoda" title="Novoda" xmlUrl="https://www.novoda.com/blog/rss/" htmlUrl="https://www.novoda.com/blog/"/>
       <outline type="rss" text="NPR Apps" title="NPR Apps" xmlUrl="http://blog.apps.npr.org/atom.xml" htmlUrl="http://blog.apps.npr.org/"/>
       <outline type="rss" text="OCTO Technology" title="OCTO Technology" xmlUrl="http://blog.octo.com/en/feed/" htmlUrl="http://blog.octo.com/en/"/>
       <outline type="rss" text="Okta" title="Okta" xmlUrl="http://developer.okta.com/feed.xml" htmlUrl="http://developer.okta.com/blog/"/>

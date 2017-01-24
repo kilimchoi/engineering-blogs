@@ -245,6 +245,7 @@
 * New York Times https://open.blogs.nytimes.com
 * Nextdoor https://engblog.nextdoor.com/
 * Nordic APIs http://nordicapis.com/blog/
+* Novoda https://www.novoda.com/blog/
 * NPR Apps http://blog.apps.npr.org/
 
 #### O companies
