@@ -256,6 +256,7 @@
       <outline type="rss" text="Soundcloud" title="Soundcloud" xmlUrl="https://developers.soundcloud.com/blog.rss" htmlUrl="https://developers.soundcloud.com/blog/"/>
       <outline type="rss" text="Speedledger" title="Speedledger" xmlUrl="http://engineering.speedledger.com/feed/" htmlUrl="http://engineering.speedledger.com/"/>
       <outline type="rss" text="Spotify" title="Spotify" xmlUrl="https://labs.spotify.com/feed/" htmlUrl="https://labs.spotify.com/"/>
+      <outline type="rss" text="Sqreen" title="Sqreen" xmlUrl="https://blog.sqreen.io/feed/" htmlUrl="https://blog.sqreen.io/feed/"/>
       <outline type="rss" text="Square" title="Square" xmlUrl="https://medium.com/feed/square-corner-blog" htmlUrl="https://corner.squareup.com/"/>
       <outline type="rss" text="Squarespace" title="Squarespace" xmlUrl="https://engineering.squarespace.com/blog?format=RSS" htmlUrl="https://engineering.squarespace.com/"/>
       <outline type="rss" text="Stack Overflow" title="Stack Overflow" xmlUrl="https://stackoverflow.blog/feed/" htmlUrl="https://stackoverflow.blog/engineering/"/>
@@ -430,7 +431,7 @@
       <outline type="rss" text="Jerry Gamblin" title="Jerry Gamblin" xmlUrl="http://jerrygamblin.com/feed/" htmlUrl="http://jerrygamblin.com/"/>
       <outline type="rss" text="Jessie Frazelle" title="Jessie Frazelle" xmlUrl="https://blog.jessfraz.com/index.xml" htmlUrl="https://blog.jessfraz.com/"/>
       <outline type="rss" text="Jesus Castello" title="Jesus Castello" xmlUrl="http://www.blackbytes.info/rss" htmlUrl="http://www.blackbytes.info/"/>
-	  <outline type="rss" text="Jet Technology" title="Jet Technology" xmlUrl="https://feeds.feedburner.com/jettech" htmlUrl="https://tech.jet.com/"/>	  
+	    <outline type="rss" text="Jet Technology" title="Jet Technology" xmlUrl="https://feeds.feedburner.com/jettech" htmlUrl="https://tech.jet.com/"/>
       <outline type="rss" text="Joe Armstrong" title="Joe Armstrong" xmlUrl="http://joearms.github.io/feed" htmlUrl="http://joearms.github.io/"/>
       <outline type="rss" text="Joel Spolsky" title="Joel Spolsky" xmlUrl="https://www.joelonsoftware.com/feed/" htmlUrl="https://www.joelonsoftware.com/"/>
       <outline type="rss" text="John Resig" title="John Resig" xmlUrl="http://feeds.feedburner.com/JohnResig" htmlUrl="http://ejohn.org/category/blog/"/>
