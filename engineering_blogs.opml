@@ -69,7 +69,7 @@
       <outline type="rss" text="Condé Nast" title="Condé Nast" xmlUrl="https://engineering.condenast.io/rss" htmlUrl="https://engineering.condenast.io/"/>
       <outline type="rss" text="Confluent" title="Confluent" xmlUrl="https://www.confluent.io/feed/" htmlUrl="https://www.confluent.io/blog"/>
       <outline type="rss" text="Coolblue" title="Coolblue" xmlUrl="http://devblog.coolblue.nl/feed/" htmlUrl="http://devblog.coolblue.nl/"/>
-      <outline type="rss" text="Criteo" title="Criteo" xmlUrl="http://labs.criteo.com/feed/" htmlUrl="http://labs.criteo.com/blog/"/>
+      <outline type="rss" text="Criteo" title="Criteo" xmlUrl="http://engineering.criteolabs.com/feeds/posts/default" htmlUrl="http://engineering.criteolabs.com/"/>
       <outline type="rss" text="Crowdfire" title="Crowdfire" xmlUrl="https://crowdfire.engineering/feed" htmlUrl="https://crowdfire.engineering/"/>
       <outline type="rss" text="Dailymotion" title="Dailymotion" xmlUrl="http://engineering.dailymotion.com/rss/" htmlUrl="http://engineering.dailymotion.com/"/>
       <outline type="rss" text="Data Artisans" title="Data Artisans" xmlUrl="http://data-artisans.com/feed/" htmlUrl="http://data-artisans.com/blog/"/>
@@ -127,6 +127,7 @@
       <outline type="rss" text="Haus" title="Haus" xmlUrl="https://engineering.haus.com/feed" htmlUrl="https://engineering.haus.com"/>
       <outline type="rss" text="Heroku" title="Heroku" xmlUrl="http://engineering.heroku.com/feed.xml" htmlUrl="https://engineering.heroku.com/"/>
       <outline type="rss" text="HireArt" title="HireArt" xmlUrl="http://code.hireart.com/feed.xml" htmlUrl="http://code.hireart.com/"/>
+      <outline type="rss" text="HomeAway" title="HomeAway" xmlUrl="https://tech.homeaway.com/feed.xml" htmlUrl="https://tech.homeaway.com/"/>
       <outline type="rss" text="Honeybadger" title="Honeybadger" xmlUrl="http://blog.honeybadger.io/feed.xml" htmlUrl="http://blog.honeybadger.io/"/>
       <outline type="rss" text="Hootsuite" title="Hootsuite" xmlUrl="http://code.hootsuite.com/rss" htmlUrl="http://code.hootsuite.com/"/>
       <outline type="rss" text="Hoteltonight" title="Hoteltonight" xmlUrl="http://engineering.hoteltonight.com/feed.xml" htmlUrl="http://engineering.hoteltonight.com/"/>
