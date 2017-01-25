@@ -195,6 +195,7 @@
       <outline type="rss" text="New York Times" title="New York Times" xmlUrl="https://open.blogs.nytimes.com/feed/" htmlUrl="https://open.blogs.nytimes.com"/>
       <outline type="rss" text="Nextdoor" title="Nextdoor" xmlUrl="https://engblog.nextdoor.com/feed" htmlUrl="https://engblog.nextdoor.com/"/>
       <outline type="rss" text="Nordic APIs" title="Nordic APIs" xmlUrl="http://nordicapis.com/feed/" htmlUrl="http://nordicapis.com/blog/"/>
+      <outline type="rss" text="Novoda" title="Novoda" xmlUrl="https://www.novoda.com/blog/rss/" htmlUrl="https://www.novoda.com/blog/"/>
       <outline type="rss" text="NPR Apps" title="NPR Apps" xmlUrl="http://blog.apps.npr.org/atom.xml" htmlUrl="http://blog.apps.npr.org/"/>
       <outline type="rss" text="OCTO Technology" title="OCTO Technology" xmlUrl="http://blog.octo.com/en/feed/" htmlUrl="http://blog.octo.com/en/"/>
       <outline type="rss" text="Okta" title="Okta" xmlUrl="http://developer.okta.com/feed.xml" htmlUrl="http://developer.okta.com/blog/"/>
@@ -306,6 +307,7 @@
       <outline type="rss" text="Wingify" title="Wingify" xmlUrl="http://engineering.wingify.com/atom.xml" htmlUrl="http://engineering.wingify.com/"/>
       <outline type="rss" text="Wix" title="Wix" xmlUrl="http://blog.wix.engineering/feed/" htmlUrl="http://engineering.wix.com/"/>
       <outline type="rss" text="Wolox" title="Wolox" xmlUrl="https://medium.com/feed/@WoloxEngineering" htmlUrl="https://medium.com/@WoloxEngineering/"/>
+      <outline type="rss" text="Wombat Security Technologies" title="Wombat Security Technologies" xmlUrl="http://development.wombatsecurity.com/feed.xml" htmlUrl="http://development.wombatsecurity.com/"/>
       <outline type="rss" text="Wonga Technology" title="Wonga Technology" xmlUrl="http://wongatech.github.io/feed.xml" htmlUrl="http://tech.wonga.com/"/>
       <outline type="rss" text="WSO2" title="WSO2" xmlUrl="http://wso2.com/node/37573/atom/feed" htmlUrl="http://wso2.com/library/"/>
       <outline type="rss" text="XING" title="XING" xmlUrl="https://devblog.xing.com/feed/" htmlUrl="https://devblog.xing.com/"/>
@@ -430,6 +432,7 @@
       <outline type="rss" text="Jerry Gamblin" title="Jerry Gamblin" xmlUrl="http://jerrygamblin.com/feed/" htmlUrl="http://jerrygamblin.com/"/>
       <outline type="rss" text="Jessie Frazelle" title="Jessie Frazelle" xmlUrl="https://blog.jessfraz.com/index.xml" htmlUrl="https://blog.jessfraz.com/"/>
       <outline type="rss" text="Jesus Castello" title="Jesus Castello" xmlUrl="http://www.blackbytes.info/rss" htmlUrl="http://www.blackbytes.info/"/>
+	  <outline type="rss" text="Jet Technology" title="Jet Technology" xmlUrl="https://feeds.feedburner.com/jettech" htmlUrl="https://tech.jet.com/"/>	  
       <outline type="rss" text="Joe Armstrong" title="Joe Armstrong" xmlUrl="http://joearms.github.io/feed" htmlUrl="http://joearms.github.io/"/>
       <outline type="rss" text="Joel Spolsky" title="Joel Spolsky" xmlUrl="https://www.joelonsoftware.com/feed/" htmlUrl="https://www.joelonsoftware.com/"/>
       <outline type="rss" text="John Resig" title="John Resig" xmlUrl="http://feeds.feedburner.com/JohnResig" htmlUrl="http://ejohn.org/category/blog/"/>

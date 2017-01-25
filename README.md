@@ -196,6 +196,7 @@
 * Jane Street https://blogs.janestreet.com/category/ocaml/
 * Jolly Good Code https://jollygoodcode.github.io/
 * Just Eat http://tech.just-eat.com/
+* Jet Technology https://tech.jet.com/
 
 #### K companies
 * Khan Academy http://engineering.khanacademy.org
@@ -245,6 +246,7 @@
 * New York Times https://open.blogs.nytimes.com
 * Nextdoor https://engblog.nextdoor.com/
 * Nordic APIs http://nordicapis.com/blog/
+* Novoda https://www.novoda.com/blog/
 * NPR Apps http://blog.apps.npr.org/
 
 #### O companies
@@ -384,6 +386,7 @@
 * Wingify http://engineering.wingify.com/
 * Wix http://engineering.wix.com/
 * Wolox https://medium.com/@WoloxEngineering/
+* Wombat Security Technologies http://development.wombatsecurity.com/
 * Wonga Technology http://tech.wonga.com/
 * WSO2 http://wso2.com/library/
 * WyeWorks https://wyeworks.com/blog/
