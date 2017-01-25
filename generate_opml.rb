@@ -20,6 +20,7 @@ temp_ignores = [
   'AdRoll',
   'Buzzfeed',
   'Opendoor',
+  'Snapdeal',
   'TaskRabbit',
   'theScore',
   'Trivago',
