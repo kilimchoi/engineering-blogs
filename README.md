@@ -568,6 +568,7 @@
 * Lea Verou http://lea.verou.me/
 * Lerner Consulting Blog http://blog.lerner.co.il/
 * Life Plus Linux http://lifepluslinux.blogspot.in/
+* Luciano Mammino http://loige.co/
 
 #### M individuals
 * Manu Sporny http://manu.sporny.org/
