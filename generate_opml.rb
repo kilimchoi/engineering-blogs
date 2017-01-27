@@ -23,6 +23,7 @@ temp_ignores = [
   'TaskRabbit',
   'theScore',
   'Trivago',
+  'Xmartlabs',
   'WyeWorks',
   'Zoosk'
 ]
