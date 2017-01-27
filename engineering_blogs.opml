@@ -138,6 +138,7 @@
       <outline type="rss" text="Housing.com" title="Housing.com" xmlUrl="https://medium.com/feed/engineering-housing" htmlUrl="https://medium.com/engineering-housing"/>
       <outline type="rss" text="HubSpot" title="HubSpot" xmlUrl="http://product.hubspot.com/blog/rss.xml" htmlUrl="http://product.hubspot.com/blog/topic/engineering"/>
       <outline type="rss" text="Huddle" title="Huddle" xmlUrl="http://tldr.huddle.com/atom.xml" htmlUrl="http://tldr.huddle.com/"/>
+      <outline type="rss" text="IBM developerWorks" title="IBM developerWorks" xmlUrl="https://developer.ibm.com/dwblog/feed/" htmlUrl="https://developer.ibm.com/dwblog/"/>
       <outline type="rss" text="IFTTT" title="IFTTT" xmlUrl="http://engineering.ifttt.com/feed.xml" htmlUrl="http://engineering.ifttt.com/"/>
       <outline type="rss" text="IMVU" title="IMVU" xmlUrl="https://engineering.imvu.com/feed/" htmlUrl="https://engineering.imvu.com/"/>
       <outline type="rss" text="Imaginea" title="Imaginea" xmlUrl="https://blog.imaginea.com/feed/" htmlUrl="https://blog.imaginea.com/"/>

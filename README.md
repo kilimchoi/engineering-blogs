@@ -178,6 +178,7 @@
 * Huddle http://tldr.huddle.com/
 
 #### I companies
+* IBM developerWorks https://developer.ibm.com/dwblog/
 * IFTTT http://engineering.ifttt.com/
 * IMVU https://engineering.imvu.com/
 * Imaginea https://blog.imaginea.com/
