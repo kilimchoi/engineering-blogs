@@ -47,6 +47,7 @@
 * Atomic Object https://spin.atomicobject.com/
 * Auth0 https://auth0.com/blog/
 * Autodesk http://cloudengineering.autodesk.com/blog/
+* Avenue Code http://blog.avenuecode.com/
 * AWS https://aws.amazon.com/blogs/aws/
 * Azavea https://www.azavea.com/blog/category/software-development/
 
