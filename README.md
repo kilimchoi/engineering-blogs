@@ -275,6 +275,7 @@
 * Postmates https://blog.postmates.com/tagged/engineering
 * Prezi https://medium.com/prezi-engineering
 * Prolific Interactive http://blog.prolificinteractive.com/category/development/
+* PubNub: https://www.pubnub.com/blog/
 * PullReview http://blog.8thcolor.com/
 
 #### Q companies
