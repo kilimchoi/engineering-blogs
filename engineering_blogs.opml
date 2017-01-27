@@ -132,6 +132,7 @@
       <outline type="rss" text="Heroku" title="Heroku" xmlUrl="http://engineering.heroku.com/feed.xml" htmlUrl="https://engineering.heroku.com/"/>
       <outline type="rss" text="HireArt" title="HireArt" xmlUrl="http://code.hireart.com/feed.xml" htmlUrl="http://code.hireart.com/"/>
       <outline type="rss" text="Holiday Extras" title="Holiday Extras" xmlUrl="http://navigationshilfe.t-online.de/dnserror?url=http://hungrygeek.holidayextras.co.uk.atom/" htmlUrl="http://hungrygeek.holidayextras.co.uk/"/>
+      <outline type="rss" text="HomeAway" title="HomeAway" xmlUrl="https://tech.homeaway.com/feed.xml" htmlUrl="https://tech.homeaway.com/"/>
       <outline type="rss" text="Honeybadger" title="Honeybadger" xmlUrl="http://blog.honeybadger.io/feed.xml" htmlUrl="http://blog.honeybadger.io/"/>
       <outline type="rss" text="Hootsuite" title="Hootsuite" xmlUrl="http://code.hootsuite.com/rss" htmlUrl="http://code.hootsuite.com/"/>
       <outline type="rss" text="Hoteltonight" title="Hoteltonight" xmlUrl="http://engineering.hoteltonight.com/feed.xml" htmlUrl="http://engineering.hoteltonight.com/"/>
