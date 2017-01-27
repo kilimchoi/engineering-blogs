@@ -398,6 +398,7 @@
 
 #### X companies
 * XING https://devblog.xing.com/
+* Xmartlabs https://blog.xmartlabs.com/
 
 #### Y companies
 * Yahoo https://yahooeng.tumblr.com/
