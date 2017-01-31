@@ -670,6 +670,7 @@
 
 #### V individuals
 * Vanilla Java http://vanillajava.blogspot.com/
+* Vlad Mihalcea https://vladmihalcea.com/
 
 #### W individuals
 * Wilfred Hughes http://www.wilfred.me.uk/
