@@ -547,6 +547,7 @@
 * James Hague http://prog21.dadgum.com/
 * James Long http://jlongster.com/archive
 * Jamis Buck http://weblog.jamisbuck.org/
+* Jan Lelis http://idiosyncratic-ruby.com/
 * Jay Fields http://blog.jayfields.com
 * Jeff Atwood https://blog.codinghorror.com/
 * Jeff Preshing http://preshing.com/
