@@ -317,6 +317,7 @@
 * Sharethis http://engineering.sharethis.com/
 * Shopify https://engineering.shopify.com
 * ShowMax https://tech.showmax.com
+* Shyp https://medium.com/shyp-engineering
 * Sift Science http://blog.siftscience.com/?category=Engineering
 * Simple https://www.simple.com/engineering
 * Sky Betting & Gaming http://engineering.skybettingandgaming.com/
