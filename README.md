@@ -176,6 +176,7 @@
 * HomeAway https://tech.homeaway.com/
 * Honeybadger http://blog.honeybadger.io/
 * Hootsuite http://code.hootsuite.com/
+* Hostinger https://www.hostinger.com/blog/engineering/
 * Hoteltonight http://engineering.hoteltonight.com/
 * Housing.com https://medium.com/engineering-housing
 * HubSpot http://product.hubspot.com/blog/topic/engineering
