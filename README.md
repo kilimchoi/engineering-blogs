@@ -60,6 +60,7 @@
 * Bazaarvoice https://blog.developer.bazaarvoice.com/
 * Benchling http://benchling.engineering/
 * BenefitFocus https://www.benefitfocus.com/blogs/design-engineering
+* Bigcommerce http://www.bigeng.io/
 * Binary Studio http://binary-studio.com/blog/
 * Bitly http://word.bitly.com/
 * BitTorrent http://engineering.bittorrent.com/
@@ -317,7 +318,6 @@
 * ShowMax https://tech.showmax.com
 * Sift Science http://blog.siftscience.com/?category=Engineering
 * Simple https://www.simple.com/engineering
-* Simply Measured http://simplymeasured.com/blog/
 * Sky Betting & Gaming http://engineering.skybettingandgaming.com/
 * Skyscanner http://codevoyagers.com/
 * Slack https://slack.engineering/
@@ -533,7 +533,7 @@
 * Ian Sommerville http://iansommerville.com/systems-software-and-technology/
 * Idontgetoutmuch's Weblog https://idontgetoutmuch.wordpress.com/
 * Ievgen Kuzminov http://stdout.in/
-* Ilija Eftimov https://ieftimov.net/
+* Ilija Eftimov http://ieftimov.com/
 * Ilya Grigorik https://www.igvita.com/
 * Ivan Ursul https://ivanursul.com/
 
