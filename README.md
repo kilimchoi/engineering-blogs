@@ -102,6 +102,7 @@
 * Coolblue http://devblog.coolblue.nl/
 * Criteo http://engineering.criteolabs.com/
 * Crowdfire https://crowdfire.engineering/
+* Curalate http://engineering.curalate.com/
 
 #### D companies
 * Dailymotion http://engineering.dailymotion.com/
