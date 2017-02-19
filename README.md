@@ -714,6 +714,9 @@
 #### I technologies
 * IPFS https://ipfs.io/blog/
 
+#### J technologies
+* jOOQ https://blog.jooq.org/
+
 #### K technologies
 * Klipse http://blog.klipse.tech/
 
