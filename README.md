@@ -474,6 +474,7 @@
 * Chris Wellons http://nullprogram.com/
 * Clay McLeod http://blog.claymcleod.io/
 * Cocoa Is My Girlfriend http://www.cimgf.com/
+* CodeFX http://codefx.org
 * Code Better http://codebetter.com/
 * Code with style! http://codewithstyle.info/
 * Codrops https://tympanus.net/codrops/
