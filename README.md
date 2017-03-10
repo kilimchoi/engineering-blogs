@@ -660,6 +660,7 @@
 * Ruslan Spivak https://ruslanspivak.com/
 
 #### S individuals
+* Sakib Sami https://www.sakib.ninja
 * Sam Saffron https://samsaffron.com/
 * Scott Hanselman http://www.hanselman.com/blog/
 * Sebastian Barthel http://journerist.com/
