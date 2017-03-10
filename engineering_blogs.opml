@@ -79,6 +79,7 @@
       <outline type="rss" text="Data Artisans" title="Data Artisans" xmlUrl="http://data-artisans.com/feed/" htmlUrl="http://data-artisans.com/blog/"/>
       <outline type="rss" text="Databricks" title="Databricks" xmlUrl="https://databricks.com/feed" htmlUrl="https://databricks.com/blog"/>
       <outline type="rss" text="DataFox" title="DataFox" xmlUrl="http://eng.datafox.co/feed.xml" htmlUrl="http://eng.datafox.co/"/>
+      <outline type="rss" text="Deezer" title="Deezer" xmlUrl="https://deezer.io/feed" htmlUrl="https://deezer.io/"/>
       <outline type="rss" text="DeferPanic" title="DeferPanic" xmlUrl="https://deferpanic.com/blog/index.xml/" htmlUrl="https://deferpanic.com/blog/"/>
       <outline type="rss" text="Deis" title="Deis" xmlUrl="https://deis.com/sitemap.xml" htmlUrl="https://deis.com/blog"/>
       <outline type="rss" text="Deliveroo" title="Deliveroo" xmlUrl="http://deliveroo.engineering/feed.xml" htmlUrl="http://deliveroo.engineering/"/>
