@@ -660,6 +660,7 @@
 
 #### S individuals
 * Sam Saffron https://samsaffron.com/
+* Sakib Sami https://www.sakib.ninja
 * Scott Hanselman http://www.hanselman.com/blog/
 * Sebastian Barthel http://journerist.com/
 * Simon Reimler https://devdactic.com/devblog/
