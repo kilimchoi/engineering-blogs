@@ -622,6 +622,7 @@
 * Nate Berkopec http://www.nateberkopec.com/
 
 #### O individuals
+* Ofer Zelig http://fullstack.info
 * Ole Begemann https://oleb.net/blog/
 * Oona Räisänen http://www.windytan.com/
 
