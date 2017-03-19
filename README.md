@@ -161,6 +161,7 @@
 * Google Online Security https://security.googleblog.com/
 * Google Research https://research.googleblog.com/
 * GoSquared https://engineering.gosquared.com/
+* Grab http://engineering.grab.com/
 * Grammarly http://tech.grammarly.com/blog/index.html
 * Grofers https://lambda.grofers.com/
 * Grouper http://blog.joingrouper.com/
