@@ -498,6 +498,7 @@
 * Dereuromark http://www.dereuromark.de/
 * Discover Meteor https://www.discovermeteor.com/blog
 * Dmitri Pavlutin https://rainsoft.io
+* Domenico Luciani https://domenicoluciani.com
 * Dot Dev (.dev) https://dotdev.co
 * Dragan Gaic http://www.gajotres.net/
 * Drew DeVault https://drewdevault.com/
