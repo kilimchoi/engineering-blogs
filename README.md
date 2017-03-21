@@ -246,7 +246,7 @@
 * Mozilla Automation Team https://planet.mozilla.org/ateam/
 * Mozilla Hacks https://hacks.mozilla.org/
 * Mozilla Release Engineering https://planet.mozilla.org/releng/
-* Myntra http://myntra.github.io/
+* Myntra https://medium.com/myntra-engineering
 * Myntra Data Science http://sartorialscience.myntrablogs.com/
 
 #### N companies
