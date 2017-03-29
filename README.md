@@ -276,6 +276,7 @@
 * Paypal https://www.paypal-engineering.com/
 * Periscope https://www.periscopedata.com/blog/
 * Periscope Data https://www.periscopedata.com/blog
+* PicCollage https://tech.pic-collage.com/
 * Pinterest https://engineering.pinterest.com/blog
 * Pivotal https://engineering.pivotal.io
 * Pluralsight https://www.pluralsight.com/guides
