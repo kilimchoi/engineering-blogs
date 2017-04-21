@@ -169,6 +169,7 @@
 
 #### H companies
 * HackerEarth http://engineering.hackerearth.com/
+* Haptik http://haptik.ai/tech/
 * Harry's http://engineering.harrys.com/
 * Hashrocket https://hashrocket.com/blog
 * Haus https://engineering.haus.com
