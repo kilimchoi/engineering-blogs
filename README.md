@@ -187,9 +187,9 @@
 #### I companies
 * IBM developerWorks https://developer.ibm.com/dwblog/
 * IFTTT http://engineering.ifttt.com/
-* IMVU https://engineering.imvu.com/
 * Imaginea https://blog.imaginea.com/
 * Imgur http://blog.imgur.com/category/eng/
+* IMVU https://engineering.imvu.com/
 * Inaka http://inaka.net/blog/
 * Indeed http://engineering.indeedblog.com/blog/
 * Instacart https://tech.instacart.com/
@@ -198,6 +198,7 @@
 * Intent HQ http://engineering.intenthq.com/
 * Intent Media http://intentmedia.com/blog/
 * Intercom https://engineering.intercom.io/
+* Intuit https://developer.intuit.com/hub
 * InVision http://engineering.invisionapp.com/
 
 #### J companies
