@@ -548,6 +548,7 @@
       <outline type="rss" text="Stephen Colebourne" title="Stephen Colebourne" xmlUrl="http://blog.joda.org/feeds/posts/default" htmlUrl="http://blog.joda.org/"/>
       <outline type="rss" text="Steve Yegge" title="Steve Yegge" xmlUrl="https://steve-yegge.blogspot.com/feeds/posts/default" htmlUrl="https://steve-yegge.blogspot.com/"/>
       <outline type="rss" text="Sudhagar" title="Sudhagar" xmlUrl="http://sudhagar.com/feed.xml" htmlUrl="http://sudhagar.com/"/>
+      <outline type="rss" text="Sumit Khanna" title="Sumit Khanna" xmlUrl="http://penguindreams.org/feed.xml" htmlUrl="http://penguindreams.org/"/>
       <outline type="rss" text="Swizec Teller" title="Swizec Teller" xmlUrl="https://swizec.com/blog/feed" htmlUrl="https://swizec.com/blog/"/>
       <outline type="rss" text="Tero Parviainen" title="Tero Parviainen" xmlUrl="http://teropa.info/blog/feed.xml" htmlUrl="http://teropa.info/"/>
       <outline type="rss" text="That Thing In Swift" title="That Thing In Swift" xmlUrl="https://thatthinginswift.com/index.xml" htmlUrl="https://thatthinginswift.com/"/>
