@@ -207,6 +207,7 @@
 * Jet Technology https://tech.jet.com/
 
 #### K companies
+* Key Location https://keylocation.sg/our-tech
 * Khan Academy http://engineering.khanacademy.org
 * Kickstarter https://www.kickstarter.com/backing-and-hacking
 * King https://techblog.king.com/
