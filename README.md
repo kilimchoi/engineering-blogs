@@ -375,6 +375,7 @@
 
 #### U companies
 * Uber http://eng.uber.com/
+* Udacity http://blog.udacity.com
 * Upday https://upday.github.io/
 
 #### V companies
