@@ -344,7 +344,7 @@
 * Stack Overflow https://stackoverflow.blog/engineering/
 * Stitch Fix http://multithreaded.stitchfix.com/blog/
 * Stormpath https://stormpath.com/blog/
-* Strava http://labs.strava.com/blog/
+* Strava https://medium.com/strava-engineering/
 * Stride NYC http://blog.stridenyc.com/
 * Stripe https://stripe.com/blog
 * SurveyMonkey https://engineering.surveymonkey.com/
