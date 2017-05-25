@@ -418,7 +418,8 @@
 #### Z companies
 * Zalando https://tech.zalando.com/blog/
 * ZeeMee https://zeemee.engineering/
-* Zendesk https://developer.zendesk.com/blog
+* Zendesk https://medium.com/zendesk-engineering
+* Zendesk(old) https://developer.zendesk.com/blog
 * Zenefits https://engineering.zenefits.com/posts/
 * Zillow https://www.zillow.com/engineering/
 * Zomato https://engineering.zomato.com/
