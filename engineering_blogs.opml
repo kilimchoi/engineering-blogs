@@ -160,6 +160,7 @@
       <outline type="rss" text="Intercom" title="Intercom" xmlUrl="https://engineering.intercom.io/feed.xml" htmlUrl="https://engineering.intercom.io/"/>
       <outline type="rss" text="InVision" title="InVision" xmlUrl="http://engineering.invisionapp.com/index.xml" htmlUrl="http://engineering.invisionapp.com/"/>
       <outline type="rss" text="Jane Street" title="Jane Street" xmlUrl="https://blogs.janestreet.com/category/ocaml/feed/" htmlUrl="https://blogs.janestreet.com/category/ocaml/"/>
+      <outline type="rss" text="JobTeaser" title="JobTeaser" xmlUrl="https://medium.com/feed/jobteaser-dev-team" htmlUrl="https://medium.com/jobteaser-dev-team/"/>
       <outline type="rss" text="Jolly Good Code" title="Jolly Good Code" xmlUrl="https://jollygoodcode.github.io/atom.xml" htmlUrl="https://jollygoodcode.github.io/"/>
       <outline type="rss" text="Just Eat" title="Just Eat" xmlUrl="http://navigationshilfe.t-online.de/dnserror?url=http://tech.just-eat.com.atom/" htmlUrl="http://tech.just-eat.com/"/>
       <outline type="rss" text="Jet Technology" title="Jet Technology" xmlUrl="https://feeds.feedburner.com/jettech" htmlUrl="https://tech.jet.com/"/>
