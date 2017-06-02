@@ -124,6 +124,7 @@
       <outline type="rss" text="Google Online Security" title="Google Online Security" xmlUrl="https://security.googleblog.com/feeds/posts/default" htmlUrl="https://security.googleblog.com/"/>
       <outline type="rss" text="Google Research" title="Google Research" xmlUrl="https://research.googleblog.com/feeds/posts/default" htmlUrl="https://research.googleblog.com/"/>
       <outline type="rss" text="GoSquared" title="GoSquared" xmlUrl="https://engineering.gosquared.com/feed" htmlUrl="https://engineering.gosquared.com/"/>
+      <outline type="rss" text="Grab" title="Grab" xmlUrl="http://engineering.grab.com/feed.xml" htmlUrl="http://engineering.grab.com/"/>
       <outline type="rss" text="Grammarly" title="Grammarly" xmlUrl="http://tech.grammarly.com/blog/rss.xml" htmlUrl="http://tech.grammarly.com/blog/index.html"/>
       <outline type="rss" text="Grofers" title="Grofers" xmlUrl="https://lambda.grofers.com/rss/" htmlUrl="https://lambda.grofers.com/"/>
       <outline type="rss" text="Grouper" title="Grouper" xmlUrl="http://blog.joingrouper.com/rss" htmlUrl="http://blog.joingrouper.com/"/>
