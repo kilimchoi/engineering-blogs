@@ -672,6 +672,7 @@
 * Scott Hanselman http://www.hanselman.com/blog/
 * Sebastian Barthel http://journerist.com/
 * Simon Reimler https://devdactic.com/devblog/
+* Slava Akhmechet http://www.defstartup.org/ http://www.defmacro.org/
 * Srinivas Tamada http://www.9lessons.info/
 * Stack Abuse http://www.stackabuse.com/
 * Stefan Parker http://codebeforethehorse.tumblr.com/
