@@ -479,7 +479,6 @@
 * Chris Wellons http://nullprogram.com/
 * Clay McLeod http://blog.claymcleod.io/
 * Cocoa Is My Girlfriend http://www.cimgf.com/
-* CodeFX http://codefx.org
 * Code Better http://codebetter.com/
 * Code with style! http://codewithstyle.info/
 * Codrops https://tympanus.net/codrops/
@@ -621,6 +620,7 @@
 * Nick Desaulniers https://nickdesaulniers.github.io/
 * Nick Galbreath http://www.client9.com/
 * Nicolas Liochon http://blog.thislongrun.com/
+* Nicolai Parlog (CodeFX) http://codefx.org
 * Nikola Brežnjak http://www.nikola-breznjak.com/blog/
 * Nikolay Nemshilov http://nikolay.rocks/
 * NSHipster http://nshipster.com/
