@@ -686,6 +686,7 @@
 #### T individuals
 * Tero Parviainen http://teropa.info/
 * That Thing In Swift https://thatthinginswift.com/
+* The Coded Self http://www.thecodedself.com
 * The Daily WTF http://thedailywtf.com/
 * Thomas Young http://upcoder.com
 * Tikhon Jelvis http://jelv.is/blog/
