@@ -276,7 +276,6 @@
 * Paperless Post https://www.paperlesspost.com/blog/teams/tech/
 * Parse http://blog.parse.com/
 * Paypal https://www.paypal-engineering.com/
-* Periscope https://www.periscopedata.com/blog/
 * Periscope Data https://www.periscopedata.com/blog
 * PicCollage https://tech.pic-collage.com/
 * Pinterest https://engineering.pinterest.com/blog
