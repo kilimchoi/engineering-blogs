@@ -161,6 +161,7 @@
 * Google Online Security https://security.googleblog.com/
 * Google Research https://research.googleblog.com/
 * GoSquared https://engineering.gosquared.com/
+* Grafana https://grafana.com/blog/
 * Grammarly http://tech.grammarly.com/blog/index.html
 * Grofers https://lambda.grofers.com/
 * Grouper http://blog.joingrouper.com/
@@ -293,7 +294,6 @@
 * Quora https://engineering.quora.com/
 
 #### R companies
-* Raintank https://blog.raintank.io/
 * Raizlabs https://www.raizlabs.com/dev/
 * RapidAPI http://blog.rapidapi.com/
 * REA Group http://rea.tech/engineering/
