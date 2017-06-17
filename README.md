@@ -175,6 +175,7 @@
 * Harry's http://engineering.harrys.com/
 * Hashrocket https://hashrocket.com/blog
 * Haus https://engineering.haus.com
+* Heap https://heap.engineering/
 * Heroku https://blog.heroku.com/engineering
 * HireArt http://code.hireart.com/
 * Holiday Extras http://hungrygeek.holidayextras.co.uk/
