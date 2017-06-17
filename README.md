@@ -162,6 +162,7 @@
 * Google Research https://research.googleblog.com/
 * GoSquared https://engineering.gosquared.com/
 * Grab http://engineering.grab.com/
+* Grafana https://grafana.com/blog/
 * Grammarly http://tech.grammarly.com/blog/index.html
 * Grofers https://lambda.grofers.com/
 * Grouper http://blog.joingrouper.com/
@@ -277,7 +278,6 @@
 * Paperless Post https://www.paperlesspost.com/blog/teams/tech/
 * Parse http://blog.parse.com/
 * Paypal https://www.paypal-engineering.com/
-* Periscope https://www.periscopedata.com/blog/
 * Periscope Data https://www.periscopedata.com/blog
 * PicCollage https://tech.pic-collage.com/
 * Pinterest https://engineering.pinterest.com/blog
@@ -295,7 +295,6 @@
 * Quora https://engineering.quora.com/
 
 #### R companies
-* Raintank https://blog.raintank.io/
 * Raizlabs https://www.raizlabs.com/dev/
 * RapidAPI http://blog.rapidapi.com/
 * REA Group http://rea.tech/engineering/
@@ -478,7 +477,6 @@
 * Carlos Becker https://carlosbecker.com
 * Chen Hui Jing https://www.chenhuijing.com/blog/
 * Chien Tran http://thelazylog.com/
-* Chinmaya Kr. Patanaik http://chinmayapatanaik.com
 * Chris Hager https://www.metachris.com/blog/
 * Chris Wellons http://nullprogram.com/
 * Clay McLeod http://blog.claymcleod.io/
