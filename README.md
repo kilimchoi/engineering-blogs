@@ -273,6 +273,7 @@
 * OpenTable UK http://tech.opentable.co.uk/
 * Oursky https://code.oursky.com/
 * Oyster http://tech.oyster.com/
+* Opensooq http://engineering.opensooq.com/
 
 #### P companies
 * Panorama Education http://engineering.panoramaed.com/
