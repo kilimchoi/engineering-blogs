@@ -336,6 +336,7 @@
 * Slack https://slack.engineering/
 * SlideShare https://engineering.linkedin.com/blog/topic/slideshare
 * Small Improvements https://tech.small-improvements.com/
+* SmartRecruiters https://up.smartrecruiters.com
 * Snapdeal http://engineering.snapdeal.com/category/code/
 * Socialcast http://blog.socialcast.com/engineering/
 * Songkick http://devblog.songkick.com/
