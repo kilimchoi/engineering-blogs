@@ -117,6 +117,7 @@
 * DigitalOcean https://www.digitalocean.com/community/tutorials
 * Discord https://blog.discordapp.com/
 * Docker https://blog.docker.com/category/engineering/
+* Drivy https://drivy.engineering/
 * Dropbox https://blogs.dropbox.com/tech/
 
 #### E companies
