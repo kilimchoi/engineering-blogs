@@ -430,6 +430,7 @@
       <outline type="rss" text="Ievgen Kuzminov" title="Ievgen Kuzminov" xmlUrl="http://stdout.in/en/cat/all.rss" htmlUrl="http://stdout.in/"/>
       <outline type="rss" text="Ilija Eftimov" title="Ilija Eftimov" xmlUrl="http://ieftimov.com/feed.xml" htmlUrl="http://ieftimov.com/"/>
       <outline type="rss" text="Ilya Grigorik" title="Ilya Grigorik" xmlUrl="https://www.igvita.com/feed/" htmlUrl="https://www.igvita.com/"/>
+      <outline type="rss" text="Ivan Ursul" title="Ivan Ursul" xmlUrl="https://ivanursul.com/feed.xml" htmlUrl="https://ivanursul.com/"/>
       <outline type="rss" text="Jacopo Tarantino" title="Jacopo Tarantino" xmlUrl="https://jack.ofspades.com/rss/index.html" htmlUrl="https://jack.ofspades.com/"/>
       <outline type="rss" text="Jake Wharton" title="Jake Wharton" xmlUrl="http://jakewharton.com/feed.xml" htmlUrl="http://jakewharton.com/blog"/>
       <outline type="rss" text="Jake Yesbeck" title="Jake Yesbeck" xmlUrl="http://jakeyesbeck.com/atom.xml" htmlUrl="http://jakeyesbeck.com/"/>
@@ -548,6 +549,7 @@
       <outline type="rss" text="The Daily WTF" title="The Daily WTF" xmlUrl="http://thedailywtf.com/rss" htmlUrl="http://thedailywtf.com/"/>
       <outline type="rss" text="Thomas Young" title="Thomas Young" xmlUrl="http://upcoder.com/feed" htmlUrl="http://upcoder.com"/>
       <outline type="rss" text="Tikhon Jelvis" title="Tikhon Jelvis" xmlUrl="http://jelv.is/blog/rss.xml" htmlUrl="http://jelv.is/blog/"/>
+      <outline type="rss" text="Todd Motto" title="Todd Motto" xmlUrl="https://toddmotto.com/feed.xml" htmlUrl="https://toddmotto.com/"/>
       <outline type="rss" text="T.J. Maher" title="T.J. Maher" xmlUrl="http://www.tjmaher.com/feeds/posts/default" htmlUrl="http://adventuresinautomation.blogspot.com/"/>
       <outline type="rss" text="Una Kravets" title="Una Kravets" xmlUrl="https://una.im/feed.xml" htmlUrl="https://una.im/"/>
       <outline type="rss" text="Undocumented Matlab" title="Undocumented Matlab" xmlUrl="http://undocumentedmatlab.com/feed" htmlUrl="http://undocumentedmatlab.com/"/>
