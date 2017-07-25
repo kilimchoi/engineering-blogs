@@ -562,7 +562,7 @@
 * James Long http://jlongster.com/archive
 * Jamis Buck http://weblog.jamisbuck.org/
 * Jan Lelis http://idiosyncratic-ruby.com/
-* Jason Gorman http://codemanship.co.uk/parlezuml/
+* c http://codemanship.co.uk/parlezuml/
 * Jay Fields http://blog.jayfields.com
 * Jeff Atwood https://blog.codinghorror.com/
 * Jeff Preshing http://preshing.com/
