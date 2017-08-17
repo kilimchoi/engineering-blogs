@@ -455,6 +455,7 @@
 * Anders Aarvik http://aarvik.dk/
 * Andrew Bancroft http://www.andrewcbancroft.com/
 * Andrew Brampton https://blog.bramp.net/
+* Andrew Lock https://andrewlock.net/
 * Andrew Ray http://blog.andrewray.me/
 * Andrey Akinshin http://aakinshin.net/en/blog/content/
 * Antirez http://antirez.com/latest/0
@@ -562,6 +563,7 @@
 * James Long http://jlongster.com/archive
 * Jamis Buck http://weblog.jamisbuck.org/
 * Jan Lelis http://idiosyncratic-ruby.com/
+* Jason Gorman http://codemanship.co.uk/parlezuml/
 * Jay Fields http://blog.jayfields.com
 * Jeff Atwood https://blog.codinghorror.com/
 * Jeff Preshing http://preshing.com/
@@ -601,6 +603,7 @@
 * Manu Sporny http://manu.sporny.org/
 * Marc Plano-Lesay https://enoent.fr
 * Marco Pivetta http://ocramius.github.io/
+* Mark Seemann http://blog.ploeh.dk/
 * Marek Majkowski https://idea.popcount.org/
 * Martin Fowler https://martinfowler.com/
 * Mary Rose Cook https://maryrosecook.com/blog/

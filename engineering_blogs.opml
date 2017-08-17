@@ -355,6 +355,7 @@
       <outline type="rss" text="Andrew Bancroft" title="Andrew Bancroft" xmlUrl="https://www.andrewcbancroft.com/feed/" htmlUrl="http://www.andrewcbancroft.com/"/>
       <outline type="rss" text="Andrew Brampton" title="Andrew Brampton" xmlUrl="https://blog.bramp.net/index.xml" htmlUrl="https://blog.bramp.net/"/>
       <outline type="rss" text="Andrew Ray" title="Andrew Ray" xmlUrl="http://blog.andrewray.me/rss/" htmlUrl="http://blog.andrewray.me/"/>
+      <outline type="rss" text="Andrew Lock" title="Andrew Lock" xmlUrl="https://andrewlock.net/rss/" htmlUrl="https://andrewlock.net/"/>
       <outline type="rss" text="Antirez" title="Antirez" xmlUrl="http://antirez.com/rss" htmlUrl="http://antirez.com/latest/0"/>
       <outline type="rss" text="Ariejan de Vroom" title="Ariejan de Vroom" xmlUrl="http://feeds.feedburner.com/ariejan" htmlUrl="https://ariejan.net/"/>
       <outline type="rss" text="Ariya Hidayat" title="Ariya Hidayat" xmlUrl="https://ariya.io/index.xml" htmlUrl="https://ariya.io/"/>
@@ -438,7 +439,8 @@
       <outline type="rss" text="James Long" title="James Long" xmlUrl="http://feedpress.me/jlongster" htmlUrl="http://jlongster.com/archive"/>
       <outline type="rss" text="Jamis Buck" title="Jamis Buck" xmlUrl="http://feeds.feedburner.com/buckblog" htmlUrl="http://weblog.jamisbuck.org/"/>
       <outline type="rss" text="Jan Lelis" title="Jan Lelis" xmlUrl="http://idiosyncratic-ruby.com/feed.xml" htmlUrl="http://idiosyncratic-ruby.com/"/>
-      <outline type="rss" text="Jay Fields" title="Jay Fields" xmlUrl="http://blog.jayfields.com/feeds/posts/default" htmlUrl="http://blog.jayfields.com"/>
+      <outline type="rss" text="Jason Gorman" title="Jason Gorman" xmlUrl="http://codemanship.co.uk/parlezuml/blog/" htmlUrl="http://codemanship.co.uk/parlezuml/"/>
+	  <outline type="rss" text="Jay Fields" title="Jay Fields" xmlUrl="http://blog.jayfields.com/feeds/posts/default" htmlUrl="http://blog.jayfields.com"/>
       <outline type="rss" text="Jeff Atwood" title="Jeff Atwood" xmlUrl="http://feeds.feedburner.com/codinghorror" htmlUrl="https://blog.codinghorror.com/"/>
       <outline type="rss" text="Jeff Preshing" title="Jeff Preshing" xmlUrl="http://preshing.com/feed" htmlUrl="http://preshing.com/"/>
       <outline type="rss" text="Jeremy Kun" title="Jeremy Kun" xmlUrl="https://jeremykun.com/feed/" htmlUrl="https://jeremykun.com/"/>
@@ -470,6 +472,7 @@
       <outline type="rss" text="Manu Sporny" title="Manu Sporny" xmlUrl="http://manu.sporny.org/feed/" htmlUrl="http://manu.sporny.org/"/>
       <outline type="rss" text="Marc Plano-Lesay" title="Marc Plano-Lesay" xmlUrl="https://enoent.fr/atom.xml" htmlUrl="https://enoent.fr"/>
       <outline type="rss" text="Marco Pivetta" title="Marco Pivetta" xmlUrl="https://ocramius.github.io/atom.xml" htmlUrl="http://ocramius.github.io/"/>
+      <outline type="rss" text="Mark Seemann" title="Mark Seemann" xmlUrl="http://blog.ploeh.dk/" htmlUrl="http://blog.ploeh.dk/"/>
       <outline type="rss" text="Marek Majkowski" title="Marek Majkowski" xmlUrl="https://idea.popcount.org/rss.xml" htmlUrl="https://idea.popcount.org/"/>
       <outline type="rss" text="Martin Fowler" title="Martin Fowler" xmlUrl="https://martinfowler.com/feed.atom" htmlUrl="https://martinfowler.com/"/>
       <outline type="rss" text="Mary Rose Cook" title="Mary Rose Cook" xmlUrl="https://maryrosecook.com/blog/feed.xml" htmlUrl="https://maryrosecook.com/blog/"/>
