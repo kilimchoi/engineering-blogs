@@ -110,6 +110,7 @@
 * Data Artisans http://data-artisans.com/blog/
 * Databricks https://databricks.com/blog
 * DataFox http://eng.datafox.co/
+* DeepstreamHub https://deepstream.io/blog/
 * Deezer https://deezer.io/
 * DeferPanic https://deferpanic.com/blog/
 * Deis https://deis.com/blog
@@ -198,6 +199,7 @@
 * Imgur http://blog.imgur.com/category/eng/
 * Inaka http://inaka.net/blog/
 * Indeed http://engineering.indeedblog.com/blog/
+* Inmobi http://technology.inmobi.com/blog/
 * Instacart https://tech.instacart.com/
 * Instagram https://engineering.instagram.com/
 * Intel https://software.intel.com/en-us/blogs/
@@ -259,6 +261,7 @@
 
 #### N companies
 * Netflix http://techblog.netflix.com/
+* New Relic https://blog.newrelic.com/
 * New York Times https://open.blogs.nytimes.com
 * Nextdoor https://engblog.nextdoor.com/
 * Nordic APIs http://nordicapis.com/blog/
@@ -282,6 +285,7 @@
 * Paperless Post https://www.paperlesspost.com/blog/teams/tech/
 * Parse http://blog.parse.com/
 * Paypal https://www.paypal-engineering.com/
+* Percona https://www.percona.com/blog/
 * Periscope Data https://www.periscopedata.com/blog
 * PicCollage https://tech.pic-collage.com/
 * Pinterest https://engineering.pinterest.com/blog
@@ -304,6 +308,7 @@
 * REA Group http://rea.tech/engineering/
 * Realm.io https://realm.io/news/
 * Redbubble http://artplustech.com/
+* Reddit https://redditblog.com/topic/technology/
 * Redino http://redino.net/blog/
 * Red Hat https://developerblog.redhat.com
 * Remind http://engineering.remind.com/
@@ -358,6 +363,7 @@
 * SurveyMonkey https://engineering.surveymonkey.com/
 
 #### T companies
+* Talkdesk https://engineering.talkdesk.com/
 * Takipi http://blog.takipi.com/
 * Target https://target.github.io/
 * TaskRabbit http://tech.taskrabbit.com/
@@ -453,6 +459,7 @@
 * Allan MacGregor http://coderoncode.com/
 * Allison Kaptur http://akaptur.com/
 * Anders Aarvik http://aarvik.dk/
+* Andrej Karpathy http://karpathy.github.io/
 * Andrew Bancroft http://www.andrewcbancroft.com/
 * Andrew Brampton https://blog.bramp.net/
 * Andrew Ray http://blog.andrewray.me/
@@ -473,6 +480,7 @@
 * Blake Erickson http://blakeerickson.com/
 * Blundell's Android Tutorials http://blog.blundellapps.co.uk
 * Brandon Rhodes http://rhodesmill.org/brandon/
+* Brave New Geek http://bravenewgeek.com/
 * Brendan Eich https://brendaneich.com/
 * Brendan Gregg http://www.brendangregg.com/blog/
 * Brujo Benavides https://medium.com/@elbrujohalcon
@@ -693,6 +701,7 @@
 * That Thing In Swift https://thatthinginswift.com/
 * The Coded Self http://www.thecodedself.com
 * The Daily WTF http://thedailywtf.com/
+* Thomas Hunter II https://thomashunter.name/
 * Thomas Young http://upcoder.com
 * Tikhon Jelvis http://jelv.is/blog/
 * Todd Motto https://toddmotto.com/
@@ -727,6 +736,9 @@
 
 #### C technologies
 * Crystal https://crystal-lang.org/
+
+#### E technologies
+* Ember JS https://www.emberjs.com/blog/
 
 #### G technologies
 * Go https://blog.golang.org/
