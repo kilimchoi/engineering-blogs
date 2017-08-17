@@ -676,6 +676,7 @@
 * Sakib Sami https://www.sakib.ninja
 * Sam Saffron https://samsaffron.com/
 * Scott Hanselman http://www.hanselman.com/blog/
+* Scott Johnson http://www.fuzzyblog.io/blog/
 * Sebastian Barthel http://journerist.com/
 * Simon Reimler https://devdactic.com/devblog/
 * Srinivas Tamada http://www.9lessons.info/
