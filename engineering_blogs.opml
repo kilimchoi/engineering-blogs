@@ -61,6 +61,7 @@
       <outline type="rss" text="Cloudflare" title="Cloudflare" xmlUrl="https://blog.cloudflare.com/rss/" htmlUrl="https://blog.cloudflare.com/"/>
       <outline type="rss" text="ClusterHQ" title="ClusterHQ" xmlUrl="https://clusterhq.com/feed.xml" htmlUrl="https://clusterhq.com/blog/"/>
       <outline type="rss" text="CockroachDB" title="CockroachDB" xmlUrl="https://www.cockroachlabs.com/blog/index.xml" htmlUrl="https://www.cockroachlabs.com/blog/"/>
+      <outline type="rss" text="Code Better" title="Code Better" xmlUrl="http://feeds.feedburner.com/CodeBetter" htmlUrl="http://codebetter.com/"/>
       <outline type="rss" text="Codelitt" title="Codelitt" xmlUrl="https://www.codelitt.com/blog/rss" htmlUrl="https://www.codelitt.com/blog/"/>
       <outline type="rss" text="Codemancers" title="Codemancers" xmlUrl="http://crypt.codemancers.com/feed.xml" htmlUrl="http://crypt.codemancers.com/"/>
       <outline type="rss" text="Codementor" title="Codementor" xmlUrl="https://www.codementor.io/tutorial/feed" htmlUrl="https://www.codementor.io/tutorial"/>
