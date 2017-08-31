@@ -82,6 +82,7 @@
 * Cerner http://engineering.cerner.com/
 * Chaps https://blog.chaps.io/
 * Chartbeat http://engineering.chartbeat.com/
+* Checkr https://engineering.checkr.com/
 * Chef https://blog.chef.io
 * Clever https://engineering.clever.com/
 * CleverTap https://blog.clevertap.com/category/engineering/
