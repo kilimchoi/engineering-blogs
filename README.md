@@ -668,6 +668,7 @@
 * Robin Ward https://eviltrout.com/
 * Robin Wilson http://blog.rtwilson.com/
 * Rudy Huyn http://www.rudyhuyn.com/blog/
+* Rudolf Olah https://neverfriday.com/
 * Ruslan Spivak https://ruslanspivak.com/
 
 #### S individuals
