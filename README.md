@@ -382,6 +382,7 @@
 
 #### U companies
 * Uber http://eng.uber.com/
+* Universe https://engineering.universe.com
 * Upday https://upday.github.io/
 
 #### V companies
