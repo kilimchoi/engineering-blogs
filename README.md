@@ -414,7 +414,7 @@
 * WyeWorks https://wyeworks.com/blog/
 
 #### X companies
-* XING https://devblog.xing.com/
+* XING https://tech.xing.com/
 * Xmartlabs https://blog.xmartlabs.com/
 
 #### Y companies
