@@ -28,6 +28,7 @@
       <outline type="rss" text="Avenue Code" title="Avenue Code" xmlUrl="http://blog.avenuecode.com/rss.xml" htmlUrl="http://blog.avenuecode.com/"/>
       <outline type="rss" text="AWS" title="AWS" xmlUrl="https://aws.amazon.com/blogs/aws/feed/" htmlUrl="https://aws.amazon.com/blogs/aws/"/>
       <outline type="rss" text="Azavea" title="Azavea" xmlUrl="https://www.azavea.com/feed/" htmlUrl="https://www.azavea.com/blog/category/software-development/"/>
+      <outline type="rss" text="Babbel" title="Babbel" xmlUrl="https://blog.babbel.com/en/feed/" htmlUrl="https://bytes.babbel.com/en/"/>
       <outline type="rss" text="Backtrace" title="Backtrace" xmlUrl="https://backtrace.io/feed/" htmlUrl="https://backtrace.io/blog/"/>
       <outline type="rss" text="Badoo" title="Badoo" xmlUrl="https://techblog.badoo.com/feed.xml" htmlUrl="https://techblog.badoo.com/"/>
       <outline type="rss" text="Baidu Research" title="Baidu Research" xmlUrl="http://research.baidu.com/feed/" htmlUrl="http://research.baidu.com/category/baidutechblog/baidu-research-technology/"/>
