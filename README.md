@@ -150,6 +150,7 @@
 * Foursquare https://engineering.foursquare.com/
 * Funding Circle https://engineering.fundingcircle.com/
 * Future Processing https://www.future-processing.pl/technical-blog/
+* Fynd http://gofynd.io/blog
 
 #### G companies
 * Galois https://galois.com/blog/
