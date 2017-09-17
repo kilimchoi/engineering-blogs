@@ -27,6 +27,10 @@ temp_ignores = [
   'Rudolf Olah'
 ]
 
+xml = File.open OUTPUT_FILENAME do |f|
+  Nokogiri::XML(f)
+end if File.exist? OUTPUT_FILENAME
+
 Struct.new('Blog', :name, :web_url, :rss_url)
 blogs = []
 
@@ -42,13 +46,10 @@ matches.each_with_index do |match, index|
 
   # if rss_url already in existing opml file, use that; otherwise, do a lookup
   rss_url = nil
-  if File.exist?(OUTPUT_FILENAME)
-    xml = Nokogiri::XML(File.open(OUTPUT_FILENAME))
-    existing_blog = xml.xpath("//outline[@htmlUrl='#{web_url}']").first
-    if existing_blog
-      rss_url = existing_blog.attr('xmlUrl')
-      puts "#{name}: ALREADY HAVE"
-    end
+  existing_blog = xml.xpath("//outline[@htmlUrl='#{web_url}']").first if xml
+  if existing_blog
+    rss_url = existing_blog.attr('xmlUrl')
+    puts "#{name}: ALREADY HAVE"
   end
 
   puts "#{name}: GETTING" if rss_url.nil?
