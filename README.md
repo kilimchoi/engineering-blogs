@@ -342,6 +342,7 @@
 * Small Improvements https://tech.small-improvements.com/
 * SmartRecruiters https://up.smartrecruiters.com
 * Snapdeal http://engineering.snapdeal.com/category/code/
+* Snyk https://snyk.io/blog
 * Socialcast http://blog.socialcast.com/engineering/
 * Songkick https://devblog.songkick.com/
 * Soundcloud https://developers.soundcloud.com/blog/
