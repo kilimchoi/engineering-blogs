@@ -211,6 +211,7 @@
 
 #### J companies
 * Jane Street https://blogs.janestreet.com/category/ocaml/
+* Jobandtalent https://jobandtalent.engineering/
 * JobTeaser https://medium.com/jobteaser-dev-team/
 * Jolly Good Code https://jollygoodcode.github.io/
 * Just Eat https://tech.just-eat.com/
