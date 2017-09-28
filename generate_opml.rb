@@ -16,7 +16,6 @@ unavailable = []
 temp_ignores = [
   'AdRoll',
   'Buzzfeed',
-  'Opendoor',
   'SourceClear',
   'TaskRabbit',
   'theScore',

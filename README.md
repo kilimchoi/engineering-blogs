@@ -233,7 +233,6 @@
 * Linode https://engineering.linode.com/
 * LiveChat https://developers.livechatinc.com/blog/
 * LiveRamp https://liveramp.com/engineering/
-* LivingSocial https://techblog.livingsocial.com/
 * Localytics http://eng.localytics.com/
 * Lookout http://hackers.lookout.com/
 * Lyft https://eng.lyft.com/
@@ -273,7 +272,6 @@
 * Okta https://developer.okta.com/blog/
 * OmniTI https://omniti.com/seeds/stop-collaborate-and-listen-notify
 * OpenDNS https://engineering.opendns.com/
-* Opendoor https://labs.opendoor.com/
 * OpenTable http://tech.opentable.com/
 * OpenTable UK http://tech.opentable.co.uk/
 * Oursky https://code.oursky.com/
