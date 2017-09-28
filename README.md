@@ -38,7 +38,6 @@
 * Airtame https://airtame.engineering
 * Algolia https://blog.algolia.com/
 * Allegro.tech http://allegro.tech
-* AlphaSights http://engineering-blog.alphasights.com/
 * Appnexus https://techblog.appnexus.com/
 * Arkency http://blog.arkency.com/
 * Artsy http://artsy.github.io/
@@ -146,7 +145,6 @@
 * Firmafon https://dev.firmafon.dk/blog/
 * Flickr http://code.flickr.net/
 * Flipboard http://engineering.flipboard.com/
-* Flipkart http://tech-blog.flipkart.net/
 * Foursquare https://engineering.foursquare.com/
 * Funding Circle https://engineering.fundingcircle.com/
 * Future Processing https://www.future-processing.pl/technical-blog/
