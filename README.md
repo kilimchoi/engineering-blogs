@@ -37,7 +37,7 @@
 * Airbnb https://medium.com/airbnb-engineering
 * Airtame https://airtame.engineering
 * Algolia https://blog.algolia.com/
-* Allegro.tech http://allegro.tech
+* Allegro.tech https://allegro.tech
 * Appnexus https://techblog.appnexus.com/
 * Arkency http://blog.arkency.com/
 * Artsy http://artsy.github.io/
@@ -59,7 +59,7 @@
 * Bandcamp https://bandcamptech.wordpress.com/
 * Base Lab https://lab.getbase.com/category/engineering/
 * Bazaarvoice https://blog.developer.bazaarvoice.com/
-* Benchling http://benchling.engineering/
+* Benchling https://benchling.engineering/
 * BenefitFocus https://www.benefitfocus.com/blogs/design-engineering
 * Bigcommerce http://www.bigeng.io/
 * Binary Studio https://binary-studio.com/blog/
@@ -92,7 +92,7 @@
 * Code Better http://codebetter.com/
 * Code School https://www.codeschool.com/blog/categories/development/
 * Codelitt https://www.codelitt.com/blog/
-* Codemancers http://crypt.codemancers.com/
+* Codemancers https://crypt.codemancers.com/
 * Codementor https://www.codementor.io/tutorial
 * CodeName One http://www.codenameone.com/blog.html
 * Codeship https://blog.codeship.com/
@@ -174,7 +174,7 @@
 
 #### H companies
 * HackerEarth http://engineering.hackerearth.com/
-* Haptik http://haptik.ai/tech/
+* Haptik https://haptik.ai/tech/
 * Harry's http://engineering.harrys.com/
 * Hashrocket https://hashrocket.com/blog
 * Haus https://engineering.haus.com
@@ -196,7 +196,7 @@
 * IFTTT http://engineering.ifttt.com/
 * IMVU https://engineering.imvu.com/
 * Imaginea https://blog.imaginea.com/
-* Imgur http://blog.imgur.com/category/eng/
+* Imgur https://blog.imgur.com/category/eng/
 * Inaka http://inaka.net/blog/
 * Indeed http://engineering.indeedblog.com/blog/
 * Instacart https://tech.instacart.com/
@@ -260,7 +260,7 @@
 * Netflix https://medium.com/netflix-techblog
 * New York Times https://open.blogs.nytimes.com
 * Nextdoor https://engblog.nextdoor.com/
-* Nordic APIs http://nordicapis.com/blog/
+* Nordic APIs https://nordicapis.com/blog/
 * Novoda https://www.novoda.com/blog/
 * NPR Apps http://blog.apps.npr.org/
 
@@ -455,7 +455,7 @@
 * Anders Aarvik http://aarvik.dk/
 * Andrew Bancroft http://www.andrewcbancroft.com/
 * Andrew Brampton https://blog.bramp.net/
-* Andrew Ray http://blog.andrewray.me/
+* Andrew Ray https://blog.andrewray.me/
 * Andrey Akinshin http://aakinshin.net/en/blog/content/
 * Antirez http://antirez.com/latest/0
 * Ariejan de Vroom https://ariejan.net/
@@ -567,7 +567,7 @@
 * Jerry Gamblin https://jerrygamblin.com/
 * Jessie Frazelle https://blog.jessfraz.com/
 * Jesus Castello http://www.blackbytes.info/
-* Joe Armstrong http://joearms.github.io/
+* Joe Armstrong https://joearms.github.io/
 * Joel Spolsky https://www.joelonsoftware.com/
 * John Resig https://johnresig.com/category/blog/
 * John Wittenauer http://www.johnwittenauer.net/
@@ -606,7 +606,7 @@
 * Matt Cutts https://www.mattcutts.com/blog/
 * Matt Might http://matt.might.net/articles/
 * Matt Warren http://mattwarren.org/
-* Michael Crump http://michaelcrump.net/
+* Michael Crump https://michaelcrump.net/
 * Michaël Gallego http://www.michaelgallego.fr/articles/
 * Michael Herman http://mherman.org/
 * Miguel Quinones https://www.miqu.me/
@@ -632,7 +632,7 @@
 * Nate Berkopec http://www.nateberkopec.com/
 
 #### O individuals
-* Ofer Zelig http://fullstack.info
+* Ofer Zelig https://fullstack.info
 * Ole Begemann https://oleb.net/blog/
 * Oona Räisänen http://www.windytan.com/
 
@@ -654,7 +654,7 @@
 #### R individuals
 * Rachel Kroll https://rachelbythebay.com/w/
 * Radek Pazdera http://radek.io
-* Radim Řehůřek http://radimrehurek.com/blog/
+* Radim Řehůřek https://radimrehurek.com/blog/
 * Ramon Fried https://nativeguru.wordpress.com/
 * Ray Wenderlich https://www.raywenderlich.com/
 * Raymond Chen https://blogs.msdn.microsoft.com/oldnewthing/
@@ -678,7 +678,7 @@
 * Scott Hanselman http://www.hanselman.com/blog/
 * Scott Johnson http://www.fuzzyblog.io/blog/
 * Simon Reimler https://devdactic.com/devblog/
-* Srinivas Tamada http://www.9lessons.info/
+* Srinivas Tamada https://www.9lessons.info/
 * Stack Abuse http://www.stackabuse.com/
 * Stefan Parker http://codebeforethehorse.tumblr.com/
 * Stephen Colebourne http://blog.joda.org/
@@ -771,4 +771,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 # License
 
-Licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+Licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
