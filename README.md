@@ -67,6 +67,7 @@
 * BitTorrent http://engineering.bittorrent.com/
 * BlaBlaCar http://blablatech.com/blog/
 * BlackRock http://rockthecode.io/
+* Blendle https://blendle.engineering/
 * Blogfoster http://engineering.blogfoster.com/
 * BloomReach http://engineering.bloomreach.com/
 * Booking.com https://blog.booking.com/
