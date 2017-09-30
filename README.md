@@ -226,7 +226,6 @@
 * Laterooms http://engineering.laterooms.com/
 * LendingHome https://tech.lendinghome.com/
 * LINE https://engineering.linecorp.com/en/blog
-* Linkedcare http://blog.linkedcare.com/
 * LinkedIn https://engineering.linkedin.com/blog
 * Linode https://engineering.linode.com/
 * LiveChat https://developers.livechatinc.com/blog/
