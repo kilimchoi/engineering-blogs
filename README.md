@@ -316,6 +316,7 @@
 #### S companies
 * Salesforce https://developer.salesforce.com/blogs/engineering/
 * Schibsted Tech Polska http://www.schibsted.pl/blog/
+* Scrapinghub https://blog.scrapinghub.com/
 * Scrunch https://tech.scrunch.com/blog/
 * Secret Escapes http://tech.secretescapes.com/
 * Segment https://segment.com/blog/categories/engineering/
