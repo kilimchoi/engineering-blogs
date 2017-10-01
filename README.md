@@ -508,6 +508,7 @@
 * Dmitri Pavlutin https://rainsoft.io
 * Domenico Luciani https://domenicoluciani.com
 * Dot Dev (.dev) https://dotdev.co
+* Dragan Djuric http://dragan.rocks
 * Dragan Gaic http://www.gajotres.net/
 * Drew DeVault https://drewdevault.com/
 * Ducode.org https://ducode.org/tag/tutorial
