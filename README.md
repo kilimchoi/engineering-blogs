@@ -556,6 +556,7 @@
 
 #### J individuals
 * Jacopo Tarantino https://jack.ofspades.com/
+* Jake Trent https://jaketrent.com
 * Jake Wharton http://jakewharton.com/blog
 * Jake Yesbeck http://jakeyesbeck.com/
 * James Hague http://prog21.dadgum.com/
