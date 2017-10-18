@@ -385,6 +385,7 @@
 * Uber http://eng.uber.com/
 * Universe https://engineering.universe.com
 * Upday https://upday.github.io/
+* UpGrad https://engineering.upgrad.com
 
 #### V companies
 * Vena Solutions https://engineering.vena.io/
