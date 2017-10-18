@@ -295,6 +295,7 @@
 
 #### U companies
 * Uber http://eng.uber.com/
+* UpGrad http://engineering.upgrad.com/
 
 #### V companies
 * Venmo http://blog.venmo.com/?category=Engineering

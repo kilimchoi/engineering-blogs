@@ -230,6 +230,7 @@
       <outline type="rss" text="Twilio" title="Twilio" xmlUrl="https://www.twilio.com/engineering/feed/" htmlUrl="https://www.twilio.com/engineering/"/>
       <outline type="rss" text="Twitter" title="Twitter" xmlUrl="https://blog.twitter.com/api/blog.rss?name=engineering" htmlUrl="https://blog.twitter.com/engineering"/>
       <outline type="rss" text="Uber" title="Uber" xmlUrl="https://eng.uber.com/feed/" htmlUrl="http://eng.uber.com/"/>
+      <outline type="rss" text="Uber" title="UpGrad" xmlUrl="https://engineering.upgrad.com/" htmlUrl="https://engineering.upgrad.com/"/>
       <outline type="rss" text="Venmo" title="Venmo" xmlUrl="http://blog.venmo.com/hf2t3h4x98p5e13z82pl8j66ngcmry?format=RSS" htmlUrl="http://blog.venmo.com/?category=Engineering"/>
       <outline type="rss" text="VersionEye" title="VersionEye" xmlUrl="http://blog.versioneye.com/feed/" htmlUrl="http://blog.versioneye.com/"/>
       <outline type="rss" text="Viget" title="Viget" xmlUrl="http://feeds.feedburner.com/Viget" htmlUrl="https://www.viget.com/articles/category/code#articles"/>
