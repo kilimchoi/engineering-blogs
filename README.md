@@ -383,8 +383,12 @@
 
 #### U companies
 * Uber http://eng.uber.com/
+<<<<<<< HEAD
+* UpGrad http://engineering.upgrad.com/
+=======
 * Universe https://engineering.universe.com
 * Upday https://upday.github.io/
+>>>>>>> upstream/master
 
 #### V companies
 * Vena Solutions https://engineering.vena.io/
