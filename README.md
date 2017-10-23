@@ -453,6 +453,7 @@
 * Alex Russell https://infrequently.org/
 * Allan MacGregor http://coderoncode.com/
 * Allison Kaptur http://akaptur.com/
+* Amit Merchant https://www.amitmerchant.com/
 * Anders Aarvik http://aarvik.dk/
 * Andrew Bancroft http://www.andrewcbancroft.com/
 * Andrew Brampton https://blog.bramp.net/
