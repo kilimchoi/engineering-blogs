@@ -426,6 +426,7 @@
 
 #### Z companies
 * Zalando https://tech.zalando.com/blog/
+* Zapier https://zapier.com/engineering/
 * ZeeMee https://zeemee.engineering/
 * Zendesk https://medium.com/zendesk-engineering
 * Zendesk(old) https://developer.zendesk.com/blog
