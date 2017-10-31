@@ -133,6 +133,7 @@
       <outline type="rss" text="Groupon" title="Groupon" xmlUrl="https://engineering.groupon.com/feed/" htmlUrl="https://engineering.groupon.com/"/>
       <outline type="rss" text="Guardian" title="Guardian" xmlUrl="https://www.theguardian.com/info/developer-blog/rss" htmlUrl="https://www.theguardian.com/info/developer-blog"/>
       <outline type="rss" text="Gusto" title="Gusto" xmlUrl="http://engineering.gusto.com/rss/" htmlUrl="http://engineering.gusto.com/"/>
+      <outline type="rss" text="Gizmodo" title="Gizmodo" xmlUrl="http://gizmodo.uol.com.br/rss" htmlUrl="http://gizmodo.uol.com.br/"/>
       <outline type="rss" text="HackerEarth" title="HackerEarth" xmlUrl="http://engineering.hackerearth.com/rss" htmlUrl="http://engineering.hackerearth.com/"/>
       <outline type="rss" text="Haptik" title="Haptik" xmlUrl="https://haptik.ai/tech/feed/" htmlUrl="https://haptik.ai/tech/"/>
       <outline type="rss" text="Harry's" title="Harry's" xmlUrl="http://engineering.harrys.com/feed.xml" htmlUrl="http://engineering.harrys.com/"/>

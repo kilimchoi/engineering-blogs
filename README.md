@@ -171,6 +171,7 @@
 * Groupon https://engineering.groupon.com/
 * Guardian https://www.theguardian.com/info/developer-blog
 * Gusto http://engineering.gusto.com/
+* Gizmodo http://gizmodo.uol.com.br/
 
 #### H companies
 * HackerEarth http://engineering.hackerearth.com/
