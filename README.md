@@ -205,6 +205,7 @@
 * Intent HQ http://engineering.intenthq.com/
 * Intent Media http://intentmedia.com/blog/
 * Intercom https://engineering.intercom.io/
+* Intuit https://medium.com/quickbooks-small-business-and-self-employed
 * InVision http://engineering.invisionapp.com/
 
 #### J companies
