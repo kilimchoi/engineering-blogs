@@ -314,6 +314,7 @@
 * RisingStack https://blog.risingstack.com/
 * Robert Elder Software http://blog.robertelder.org/
 * RoseHosting https://www.rosehosting.com/blog/
+* Runtastic https://www.runtastic.com/blog/en/category/tech/
 
 #### S companies
 * Salesforce https://developer.salesforce.com/blogs/engineering/
