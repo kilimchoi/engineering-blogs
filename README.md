@@ -644,6 +644,7 @@
 * Paul Graham http://www.paulgraham.com/articles.html
 * Paul Irish https://www.paulirish.com/
 * Paul Lewis https://aerotwist.com/blog/
+* Paweł Chudzik https://blog.pchudzik.com/
 * Peter Norvig http://norvig.com/
 * Peter Steinberger http://petersteinberger.com/
 * Peteris Krumins http://www.catonmat.net/blog/
