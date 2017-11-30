@@ -67,6 +67,7 @@
 * BitTorrent http://engineering.bittorrent.com/
 * BlaBlaCar http://blablatech.com/blog/
 * BlackRock http://rockthecode.io/
+* Blender https://code.blender.org/
 * Blogfoster http://engineering.blogfoster.com/
 * BloomReach http://engineering.bloomreach.com/
 * Booking.com https://blog.booking.com/
@@ -460,7 +461,7 @@
 * Andrew Bancroft http://www.andrewcbancroft.com/
 * Andrew Brampton https://blog.bramp.net/
 * Andrew Ray https://blog.andrewray.me/
-* Andrey Akinshin http://aakinshin.net/en/blog/content/
+* Andrey Akinshin http://aakinshin.net/blog/
 * Antirez http://antirez.com/latest/0
 * Ariejan de Vroom https://ariejan.net/
 * Ariya Hidayat https://ariya.io/

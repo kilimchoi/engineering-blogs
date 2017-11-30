@@ -42,6 +42,7 @@
       <outline type="rss" text="BitTorrent" title="BitTorrent" xmlUrl="http://engineering.bittorrent.com/feed/" htmlUrl="http://engineering.bittorrent.com/"/>
       <outline type="rss" text="BlaBlaCar" title="BlaBlaCar" xmlUrl="http://blablatech.com/atom.xml" htmlUrl="http://blablatech.com/blog/"/>
       <outline type="rss" text="BlackRock" title="BlackRock" xmlUrl="http://rockthecode.io/feed/" htmlUrl="http://rockthecode.io/"/>
+      <outline type="rss" text="Blender" title="Blender" xmlUrl="https://code.blender.org/rss" htmlUrl="https://code.blender.org/"/>
       <outline type="rss" text="Blogfoster" title="Blogfoster" xmlUrl="http://engineering.blogfoster.com/rss/" htmlUrl="http://engineering.blogfoster.com/"/>
       <outline type="rss" text="BloomReach" title="BloomReach" xmlUrl="http://engineering.bloomreach.com/feed/" htmlUrl="http://engineering.bloomreach.com/"/>
       <outline type="rss" text="Booking.com" title="Booking.com" xmlUrl="https://blog.booking.com/atom.xml" htmlUrl="https://blog.booking.com/"/>
@@ -359,6 +360,7 @@
       <outline type="rss" text="Andrew Bancroft" title="Andrew Bancroft" xmlUrl="https://www.andrewcbancroft.com/feed/" htmlUrl="http://www.andrewcbancroft.com/"/>
       <outline type="rss" text="Andrew Brampton" title="Andrew Brampton" xmlUrl="https://blog.bramp.net/index.xml" htmlUrl="https://blog.bramp.net/"/>
       <outline type="rss" text="Andrew Ray" title="Andrew Ray" xmlUrl="https://blog.andrewray.me/rss/" htmlUrl="https://blog.andrewray.me/"/>
+      <outline type="rss" text="Andrey Akinshin" title="Andrey Akinshin" xmlUrl="http://aakinshin.net/en/rss.xml" htmlUrl="http://aakinshin.net/blog/"/>
       <outline type="rss" text="Antirez" title="Antirez" xmlUrl="http://antirez.com/rss" htmlUrl="http://antirez.com/latest/0"/>
       <outline type="rss" text="Ariejan de Vroom" title="Ariejan de Vroom" xmlUrl="http://feeds.feedburner.com/ariejan" htmlUrl="https://ariejan.net/"/>
       <outline type="rss" text="Ariya Hidayat" title="Ariya Hidayat" xmlUrl="https://ariya.io/index.xml" htmlUrl="https://ariya.io/"/>
