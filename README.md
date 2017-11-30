@@ -516,7 +516,6 @@
 * Dragan Djuric http://dragan.rocks
 * Dragan Gaic http://www.gajotres.net/
 * Drew DeVault https://drewdevault.com/
-* Ducode.org https://ducode.org/tag/tutorial
 
 #### E individuals
 * Edan Kwan http://blog.edankwan.com/
