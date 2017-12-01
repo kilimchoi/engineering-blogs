@@ -149,7 +149,7 @@
 * Flickr http://code.flickr.net/
 * Flipboard http://engineering.flipboard.com/
 * Foursquare https://engineering.foursquare.com/
-* Freeletics https://freeletics.engineering/ 
+* Freeletics https://freeletics.engineering/
 * Funding Circle https://engineering.fundingcircle.com/
 * Future Processing https://www.future-processing.pl/technical-blog/
 * Fynd http://gofynd.io/blog
@@ -268,6 +268,7 @@
 * Nordic APIs https://nordicapis.com/blog/
 * Novoda https://www.novoda.com/blog/
 * NPR Apps http://blog.apps.npr.org/
+* Nvidia https://blogs.nvidia.com/
 
 #### O companies
 * OCTO Technology https://blog.octo.com/en/
