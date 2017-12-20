@@ -751,6 +751,7 @@
 
 #### K technologies
 * Klipse http://blog.klipse.tech/
+* Kotlin https://blog.jetbrains.com/kotlin/
 
 #### L technologies
 * Laravel https://laravel-news.com/blog/
