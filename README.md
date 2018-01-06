@@ -171,6 +171,7 @@
 * Grab http://engineering.grab.com/
 * Grafana https://grafana.com/blog/
 * Grammarly https://tech.grammarly.com/blog/index.html
+* Graphcool https://blog.graph.cool/
 * Grofers https://lambda.grofers.com/
 * Grouper http://blog.joingrouper.com/
 * Groupon https://engineering.groupon.com/
