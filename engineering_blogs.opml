@@ -586,6 +586,7 @@
       <outline type="rss" text="IPFS" title="IPFS" xmlUrl="https://ipfs.io/blog/index.xml" htmlUrl="https://ipfs.io/blog/"/>
       <outline type="rss" text="jOOQ" title="jOOQ" xmlUrl="https://blog.jooq.org/feed/" htmlUrl="https://blog.jooq.org/"/>
       <outline type="rss" text="Klipse" title="Klipse" xmlUrl="http://blog.klipse.tech//feed.xml" htmlUrl="http://blog.klipse.tech/"/>
+      <outline type="rss" text="Kotlin" title="Kotlin" xmlUrl="http://feeds.feedburner.com/kotlin" htmlUrl="https://blog.jetbrains.com/kotlin/"/>
       <outline type="rss" text="Laravel" title="Laravel" xmlUrl="https://feed.laravel-news.com/" htmlUrl="https://laravel-news.com/blog/"/>
       <outline type="rss" text="Microsoft Edge" title="Microsoft Edge" xmlUrl="https://blogs.windows.com/msedgedev/rss" htmlUrl="https://blogs.windows.com/msedgedev/"/>
       <outline type="rss" text=".NET" title=".NET" xmlUrl="https://blogs.msdn.microsoft.com/dotnet/feed/" htmlUrl="https://blogs.msdn.microsoft.com/dotnet/"/>
