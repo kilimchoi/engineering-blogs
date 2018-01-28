@@ -176,6 +176,7 @@
 * Groupon https://engineering.groupon.com/
 * Guardian https://www.theguardian.com/info/developer-blog
 * Gusto http://engineering.gusto.com/
+* Gizmodo http://gizmodo.uol.com.br/
 
 #### H companies
 * HackerEarth http://engineering.hackerearth.com/
@@ -421,6 +422,7 @@
 * Wonga Technology http://tech.wonga.com/
 * WSO2 http://wso2.com/library/
 * WyeWorks https://wyeworks.com/blog/
+* Wired Science https://www.wired.com/category/science/
 
 #### X companies
 * XING https://tech.xing.com/
