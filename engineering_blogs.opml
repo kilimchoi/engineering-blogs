@@ -167,6 +167,7 @@
       <outline type="rss" text="Intent HQ" title="Intent HQ" xmlUrl="http://engineering.intenthq.com/feed.xml" htmlUrl="http://engineering.intenthq.com/"/>
       <outline type="rss" text="Intent Media" title="Intent Media" xmlUrl="http://intentmedia.com/feed/" htmlUrl="http://intentmedia.com/blog/"/>
       <outline type="rss" text="Intercom" title="Intercom" xmlUrl="https://engineering.intercom.io/feed.xml" htmlUrl="https://engineering.intercom.io/"/>
+      <outline type="rss" text="Intuit" title="Intuit" xmlUrl="https://medium.com/feed/quickbooks-small-business-and-self-employed" htmlUrl="https://quickbooks-engineering.intuit.com/"/>
       <outline type="rss" text="InVision" title="InVision" xmlUrl="http://engineering.invisionapp.com/index.xml" htmlUrl="http://engineering.invisionapp.com/"/>
       <outline type="rss" text="Jane Street" title="Jane Street" xmlUrl="https://blogs.janestreet.com/feed.xml" htmlUrl="https://blogs.janestreet.com/category/ocaml/"/>
       <outline type="rss" text="Jobandtalent" title="Jobandtalent" xmlUrl="https://jobandtalent.engineering/feed" htmlUrl="https://jobandtalent.engineering/"/>
