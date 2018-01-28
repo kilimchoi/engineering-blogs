@@ -727,6 +727,9 @@
 * Android https://android-developers.blogspot.com/
 * Atom.io http://blog.atom.io/
 
+#### B technologies
+* Bootstrap.com https://blog.getbootstrap.com/
+
 #### C technologies
 * Crystal https://crystal-lang.org/
 
