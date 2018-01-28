@@ -121,6 +121,7 @@
       <outline type="rss" text="GameChanger" title="GameChanger" xmlUrl="http://tech.gc.com/atom.xml" htmlUrl="http://tech.gc.com/"/>
       <outline type="rss" text="Geoblink" title="Geoblink" xmlUrl="https://tech.geoblink.com/feed/" htmlUrl="https://tech.geoblink.com"/>
       <outline type="rss" text="Gilt" title="Gilt" xmlUrl="http://tech.gilt.com/atom.xml" htmlUrl="http://tech.gilt.com"/>
+      <outline type="rss" text="GIPHY" title="GIPHY" xmlUrl="https://engineering.giphy.com/rss" htmlUrl="https://engineering.giphy.com/"/>
       <outline type="rss" text="GitHub" title="GitHub" xmlUrl="https://githubengineering.com/atom.xml" htmlUrl="https://githubengineering.com/"/>
       <outline type="rss" text="GitHub Old" title="GitHub Old" xmlUrl="https://github.com/blog.atom" htmlUrl="https://github.com/blog/category/engineering"/>
       <outline type="rss" text="Gnip" title="Gnip" xmlUrl="https://engineering.gnip.com/feed/" htmlUrl="https://engineering.gnip.com/"/>

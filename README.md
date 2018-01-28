@@ -158,6 +158,7 @@
 * GameChanger http://tech.gc.com/
 * Geoblink https://tech.geoblink.com
 * Gilt http://tech.gilt.com
+* GIPHY https://engineering.giphy.com/
 * GitHub https://githubengineering.com/
 * GitHub Old https://github.com/blog/category/engineering
 * Gnip https://engineering.gnip.com/
