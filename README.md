@@ -333,7 +333,6 @@
 * Sift Science https://blog.siftscience.com/?category=Engineering
 * Simple https://www.simple.com/engineering
 * SitePoint https://sitepoint.com
-* Sketchapp https://blog.sketchapp.com/
 * Sky Betting & Gaming http://engineering.skybettingandgaming.com/
 * Skyscanner http://codevoyagers.com/
 * Slack https://slack.engineering/
@@ -761,6 +760,7 @@
 
 #### S technologies
 * Swift https://developer.apple.com/swift/blog/
+* Sketch https://blog.sketchapp.com/
 
 #### V technologies
 * Vertabelo http://www.vertabelo.com/blog
