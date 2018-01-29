@@ -759,8 +759,8 @@
 * Rust https://blog.rust-lang.org/
 
 #### S technologies
-* Swift https://developer.apple.com/swift/blog/
 * Sketch https://blog.sketchapp.com/
+* Swift https://developer.apple.com/swift/blog/
 
 #### V technologies
 * Vertabelo http://www.vertabelo.com/blog
