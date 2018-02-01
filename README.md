@@ -762,6 +762,10 @@
 * Swift https://developer.apple.com/swift/blog/
 * Sketch https://blog.sketchapp.com/
 
+#### T technologies
+* Toggl https://blog.toggl.com/
+
+
 #### V technologies
 * Vertabelo http://www.vertabelo.com/blog
 
