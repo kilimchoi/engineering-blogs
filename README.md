@@ -665,6 +665,7 @@
 * Petr Mitrichev http://petr-mitrichev.blogspot.com/
 * Philip Walton https://philipwalton.com/
 * Philipp Oppermann https://os.phil-opp.com/
+* Pony Foo https://ponyfoo.com/
 * Piotr Pasich http://piotrpasich.com/
 * Piotr Wittchen http://blog.wittchen.biz.pl/
 
