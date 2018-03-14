@@ -99,6 +99,7 @@
 * Codementor https://www.codementor.io/tutorial
 * CodeName One http://www.codenameone.com/blog.html
 * Codeship https://blog.codeship.com/
+* Coinbase https://engineering.coinbase.com/
 * Collective Idea https://collectiveidea.com/blog
 * Commercetools https://techblog.commercetools.com/
 * Condé Nast https://engineering.condenast.io/
