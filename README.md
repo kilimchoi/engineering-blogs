@@ -304,6 +304,7 @@
 
 #### Q companies
 * Quora https://engineering.quora.com/
+* Quantcast https://www.quantcast.com/blog/
 
 #### R companies
 * Raizlabs https://www.raizlabs.com/dev/
