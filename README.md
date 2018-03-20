@@ -553,6 +553,7 @@
 * Guilherme Rodrigues https://firstdoit.com/
 
 #### H individuals
+* Henrik Warne https://henrikwarne.com/
 * High Scalability http://highscalability.com/
 * Huon Wilson http://huonw.github.io/
 * Hypriot http://blog.hypriot.com/

@@ -15,6 +15,3 @@ DEPENDENCIES
   builder
   feedbag
   nokogiri
-
-BUNDLED WITH
-   1.15.4
