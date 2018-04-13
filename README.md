@@ -129,6 +129,7 @@
 * eFounders https://medium.com/unexpected-token
 * Eharmony http://www.eharmony.com/engineering/
 * Elastic https://www.elastic.co/blog/category/engineering
+* Eleven Labs https://blog.eleven-labs.com/
 * Engine Yard https://blog.engineyard.com/
 * Envato https://webuild.envato.com/
 * Erlang Solutions https://www.erlang-solutions.com/blog.html
