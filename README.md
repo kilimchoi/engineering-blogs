@@ -71,6 +71,7 @@
 * BlackRock http://rockthecode.io/
 * Blender https://code.blender.org/
 * Blogfoster http://engineering.blogfoster.com/
+* Bloomberg Open Source https://www.techatbloomberg.com/post-topic/open-source/
 * BloomReach http://engineering.bloomreach.com/
 * Booking.com https://blog.booking.com/
 * Box https://www.box.com/blog/engineering/
