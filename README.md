@@ -168,6 +168,7 @@
 * Good Eggs https://team.goodeggs.com
 * Google Online Security https://security.googleblog.com/
 * Google Research https://research.googleblog.com/
+* Google Testing https://testing.googleblog.com/
 * GoSquared https://engineering.gosquared.com/
 * Grab http://engineering.grab.com/
 * Grafana https://grafana.com/blog/
