@@ -164,6 +164,7 @@
 * Gnip https://engineering.gnip.com/
 * Go Programming Language https://blog.golang.org/
 * GoCardless https://gocardless.com/blog/tagged/engineering/
+* GOJEK Tech https://blog.gojekengineering.com/
 * Good Eggs https://team.goodeggs.com
 * Google Online Security https://security.googleblog.com/
 * Google Research https://research.googleblog.com/
