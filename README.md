@@ -166,6 +166,7 @@
 * Go Programming Language https://blog.golang.org/
 * GoCardless https://gocardless.com/blog/tagged/engineering/
 * Good Eggs https://team.goodeggs.com
+* Google in Asia https://www.blog.google/topics/google-asia/
 * Google Online Security https://security.googleblog.com/
 * Google Research https://research.googleblog.com/
 * Google Testing https://testing.googleblog.com/
