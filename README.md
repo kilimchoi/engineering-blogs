@@ -71,6 +71,7 @@
 * BlackRock http://rockthecode.io/
 * Blender https://code.blender.org/
 * Blogfoster http://engineering.blogfoster.com/
+* Bloomberg Open Source https://www.techatbloomberg.com/post-topic/open-source/
 * BloomReach http://engineering.bloomreach.com/
 * Booking.com https://blog.booking.com/
 * Box https://www.box.com/blog/engineering/
@@ -165,8 +166,10 @@
 * Go Programming Language https://blog.golang.org/
 * GoCardless https://gocardless.com/blog/tagged/engineering/
 * Good Eggs https://team.goodeggs.com
+* Google in Asia https://www.blog.google/topics/google-asia/
 * Google Online Security https://security.googleblog.com/
 * Google Research https://research.googleblog.com/
+* Google Testing https://testing.googleblog.com/
 * GoSquared https://engineering.gosquared.com/
 * Grab http://engineering.grab.com/
 * Grafana https://grafana.com/blog/
@@ -582,7 +585,6 @@
 * Jerry Gamblin https://jerrygamblin.com/
 * Jessie Frazelle https://blog.jessfraz.com/
 * Jesus Castello http://www.blackbytes.info/
-* Joe Armstrong https://joearms.github.io/
 * Joel Spolsky https://www.joelonsoftware.com/
 * John Resig https://johnresig.com/category/blog/
 * John Wittenauer http://www.johnwittenauer.net/
