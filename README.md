@@ -585,7 +585,6 @@
 * Jerry Gamblin https://jerrygamblin.com/
 * Jessie Frazelle https://blog.jessfraz.com/
 * Jesus Castello http://www.blackbytes.info/
-* Joe Armstrong https://joearms.github.io/
 * Joel Spolsky https://www.joelonsoftware.com/
 * John Resig https://johnresig.com/category/blog/
 * John Wittenauer http://www.johnwittenauer.net/
