@@ -787,7 +787,9 @@
 
 # RSS feeds
 
-You can find an opml file to import rss feeds here: [engineering_blogs.opml](./engineering_blogs.opml)
+You can find an opml file to import RSS feeds here: [engineering_blogs.opml](./engineering_blogs.opml)
+
+You can also follow an RSS feed for [_this_ project](https://github.com/kilimchoi/engineering-blogs/commits.atom) or just the [README](https://github.com/kilimchoi/engineering-blogs/commits/master/README.md.atom).
 
 # Contributing
 
