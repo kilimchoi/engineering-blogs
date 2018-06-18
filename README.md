@@ -277,6 +277,7 @@
 #### O companies
 * OCTO Technology https://blog.octo.com/en/
 * Okta https://developer.okta.com/blog/
+* OLX https://tech.olx.com/
 * OmniTI https://omniti.com/seeds/stop-collaborate-and-listen-notify
 * OpenDNS https://engineering.opendns.com/
 * OpenTable http://tech.opentable.com/
