@@ -600,6 +600,7 @@
 
 #### K individuals
 * K. Harrison https://useyourloaf.com/
+* Kartik Agaram http://akkartik.name/
 * Kevin Burke https://kev.inburke.com/
 * Kirill Shevchenko https://medium.com/@kirill_shevch
 * Kyle Kingsbury https://aphyr.com/
