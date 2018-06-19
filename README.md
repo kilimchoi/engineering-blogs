@@ -148,7 +148,6 @@
 * Firmafon https://dev.firmafon.dk/blog/
 * Flickr http://code.flickr.net/
 * Flipboard http://engineering.flipboard.com/
-* Flipkart https://tech.flipkart.com/
 * Foursquare https://engineering.foursquare.com/
 * Funding Circle https://engineering.fundingcircle.com/
 * Future Processing https://www.future-processing.pl/technical-blog/
