@@ -149,6 +149,7 @@
 * Flickr http://code.flickr.net/
 * Flipboard http://engineering.flipboard.com/
 * Foursquare https://engineering.foursquare.com/
+* Freeletics https://freeletics.engineering/
 * Funding Circle https://engineering.fundingcircle.com/
 * Future Processing https://www.future-processing.pl/technical-blog/
 * Fynd http://gofynd.io/blog
@@ -187,7 +188,6 @@
 * Heap https://heap.engineering/
 * Heroku https://blog.heroku.com/engineering
 * HireArt http://code.hireart.com/
-* Holiday Extras http://hungrygeek.holidayextras.co.uk/
 * HomeAway https://tech.homeaway.com/
 * Honeybadger http://blog.honeybadger.io/
 * Hootsuite http://code.hootsuite.com/
@@ -195,7 +195,6 @@
 * Hoteltonight http://engineering.hoteltonight.com/
 * Housing.com https://medium.com/engineering-housing
 * HubSpot http://product.hubspot.com/blog/topic/engineering
-* Huddle http://tldr.huddle.com/
 
 #### I companies
 * IBM developerWorks https://developer.ibm.com/dwblog/
@@ -415,6 +414,7 @@
 * Wealthfront http://eng.wealthfront.com/
 * We Are Wizards https://blog.wearewizards.io/
 * WebEngage http://engineering.webengage.com/
+* Wemake.services https://medium.com/wemake-services
 * WePay https://wecode.wepay.com/
 * Wimdu http://tech.wimdu.com/
 * Wingify http://engineering.wingify.com/
@@ -422,7 +422,6 @@
 * Wolox https://medium.com/@WoloxEngineering/
 * Wombat Security Technologies http://development.wombatsecurity.com/
 * Wonga Technology http://tech.wonga.com/
-* WSO2 http://wso2.com/library/
 * WyeWorks https://wyeworks.com/blog/
 
 #### X companies
@@ -504,7 +503,7 @@
 * Codrops https://tympanus.net/codrops/
 
 #### D individuals
-* Daily JS http://dailyjs.com/
+* Daily JS https://medium.com/dailyjs
 * Daily Tech Video http://dailytechvideo.com/
 * Dan Luu https://danluu.com/
 * Daniel Doubrovkine (dB.) http://code.dblock.org/
