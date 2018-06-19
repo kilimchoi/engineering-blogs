@@ -331,6 +331,7 @@
       <outline type="rss" text="Wealthfront" title="Wealthfront" xmlUrl="http://eng.wealthfront.com/feed/" htmlUrl="http://eng.wealthfront.com/"/>
       <outline type="rss" text="We Are Wizards" title="We Are Wizards" xmlUrl="https://blog.wearewizards.io/all.atom.xml" htmlUrl="https://blog.wearewizards.io/"/>
       <outline type="rss" text="WebEngage" title="WebEngage" xmlUrl="https://engineering.webengage.com/feed/" htmlUrl="http://engineering.webengage.com/"/>
+      <outline type="rss" text="Wemake.Services" title="Wemake.Services" xmlUrl="https://medium.com/feed/wemake-services" htmlUrl="https://medium.com/wemake-services"/>
       <outline type="rss" text="WePay" title="WePay" xmlUrl="https://wecode.wepay.com/feed.xml" htmlUrl="https://wecode.wepay.com/"/>
       <outline type="rss" text="Wimdu" title="Wimdu" xmlUrl="http://tech.wimdu.com/rss" htmlUrl="http://tech.wimdu.com/"/>
       <outline type="rss" text="Wingify" title="Wingify" xmlUrl="http://engineering.wingify.com/atom.xml" htmlUrl="http://engineering.wingify.com/"/>
