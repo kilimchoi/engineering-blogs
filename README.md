@@ -367,6 +367,7 @@
 * Strava https://medium.com/strava-engineering/
 * Stride https://blog.stridenyc.com/
 * Stripe https://stripe.com/blog
+* Stuart https://medium.com/stuart-engineering
 * SurveyMonkey https://engineering.surveymonkey.com/
 
 #### T companies
