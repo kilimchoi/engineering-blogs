@@ -506,7 +506,7 @@
 * Codrops https://tympanus.net/codrops/
 
 #### D individuals
-* Daily JS http://dailyjs.com/
+* Daily JS https://medium.com/dailyjs
 * Daily Tech Video http://dailytechvideo.com/
 * Dan Luu https://danluu.com/
 * Daniel Doubrovkine (dB.) http://code.dblock.org/
