@@ -422,7 +422,6 @@
 * Wolox https://medium.com/@WoloxEngineering/
 * Wombat Security Technologies http://development.wombatsecurity.com/
 * Wonga Technology http://tech.wonga.com/
-* WSO2 http://wso2.com/library/
 * WyeWorks https://wyeworks.com/blog/
 
 #### X companies
