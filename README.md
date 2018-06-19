@@ -188,7 +188,6 @@
 * Heap https://heap.engineering/
 * Heroku https://blog.heroku.com/engineering
 * HireArt http://code.hireart.com/
-* Holiday Extras http://hungrygeek.holidayextras.co.uk/
 * HomeAway https://tech.homeaway.com/
 * Honeybadger http://blog.honeybadger.io/
 * Hootsuite http://code.hootsuite.com/
