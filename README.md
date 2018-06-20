@@ -225,7 +225,6 @@
 * Kickstarter https://www.kickstarter.com/backing-and-hacking
 * King https://techblog.king.com/
 * Kinvolk https://kinvolk.io/blog/
-* Klokan Technologies https://blog.klokantech.com/
 * Kogan.com https://devblog.kogan.com/
 
 #### L companies
@@ -246,6 +245,7 @@
 * Mallow Tech http://blog.mallow-tech.com/
 * MailChimp https://devs.mailchimp.com/blog/
 * Mandrill http://blog.mandrill.com/
+* MapTiler https://www.maptiler.com/blog/
 * Medallia http://engineering.medallia.com/blog/
 * Medium https://medium.com/medium-eng
 * MemSQL http://blog.memsql.com/content/engineering/
