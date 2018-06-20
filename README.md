@@ -388,7 +388,7 @@
 * Trivago http://tech.trivago.com/
 * TrueCar https://www.drivenbycode.com/
 * Tumblr https://engineering.tumblr.com/
-* Twilio https://www.twilio.com/engineering/
+* Twilio https://www.twilio.com/blog/
 * Twitter https://blog.twitter.com/engineering
 * Twitch https://blog.twitch.tv/tagged/engineering
 
