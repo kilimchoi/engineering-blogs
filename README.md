@@ -102,7 +102,7 @@
 * Coinbase https://engineering.coinbase.com/
 * Collective Idea https://collectiveidea.com/blog
 * Commercetools https://techblog.commercetools.com/
-* Condé Nast https://engineering.condenast.io/
+* Condé Nast https://technology.condenast.com/
 * Confluent https://www.confluent.io/blog
 * Convox https://convox.com/blog
 * Coolblue http://devblog.coolblue.nl/
@@ -338,6 +338,7 @@
 * Settled https://engineroom.settled.co.uk/
 * Shape Security http://engineering.shapesecurity.com/
 * Sharethis https://www.sharethis.com/category/engineering/
+* Shazam https://blog.shazam.com/
 * Shopify https://engineering.shopify.com
 * ShowMax https://tech.showmax.com
 * Shyp https://medium.com/shyp-engineering
@@ -700,6 +701,7 @@
 #### S individuals
 * Sakib Sami https://www.sakib.ninja
 * Sam Saffron https://samsaffron.com/
+* Sergey Zhuk http://sergeyzhuk.me/
 * Scott Hanselman http://www.hanselman.com/blog/
 * Scott Johnson http://www.fuzzyblog.io/blog/
 * Simon Reimler https://devdactic.com/devblog/
