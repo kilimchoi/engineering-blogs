@@ -171,7 +171,7 @@
 * Google Online Security https://security.googleblog.com/
 * Google Research https://research.googleblog.com/
 * GoSquared https://engineering.gosquared.com/
-* Go-Jek https://blog.gojekengineering.com/
+* GO-JEK https://blog.gojekengineering.com/
 * Grab http://engineering.grab.com/
 * Grafana https://grafana.com/blog/
 * Grammarly https://tech.grammarly.com/blog/index.html
