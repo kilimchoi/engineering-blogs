@@ -593,6 +593,7 @@
 * Joel Spolsky https://www.joelonsoftware.com/
 * John Resig https://johnresig.com/category/blog/
 * John Wittenauer http://www.johnwittenauer.net/
+* Jon Kensy http://www.jonkensy.com/
 * Jon Skeet https://codeblog.jonskeet.uk/
 * Jonathan Dekhtiar http://www.born2data.com/
 * Jonathan Snook https://snook.ca/
