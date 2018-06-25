@@ -13,18 +13,33 @@ contents = File.read INPUT_FILENAME
 matches = contents.scan(/\* (.*) (http.*)/)
 # All blogs that do not respond
 unavailable = []
-temp_ignores = [
+skips = [
   'AdRoll',
   'Buzzfeed',
   'Code School',
+  'Fynd',
+  'Just Eat',
+  'Lookout',
+  'OmniTI',
+  'Paperless Post',
   'Pluralsight',
+  'Prolific Interactive',
+  'Quora',
+  'Robert Elder Software',
+  'Simple',
   'SourceClear',
   'TaskRabbit',
   'theScore',
   'Trivago',
   'Xmartlabs',
   'WyeWorks',
+  'Zapier',
   'Zoosk',
+  'Zynga',
+  'Dave Beazley',
+  'Edan Kwan',
+  'Kai Hendry',
+  'LiveOverflow',
   'Rudolf Olah'
 ]
 
@@ -40,8 +55,9 @@ matches.each do |match|
   name = match[0]
   web_url = match[1]
 
-  if temp_ignores.include?(name)
-    puts "#{name}: IGNORE [TEMPORARILY]"
+  if skips.include?(name)
+    puts "#{name}: SKIP"
+    unavailable.push(Struct::Blog.new(name, web_url, nil))
     next
   end
 
