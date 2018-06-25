@@ -429,6 +429,7 @@
       <outline type="rss" text="Eli Bendersky" title="Eli Bendersky" xmlUrl="http://eli.thegreenplace.net/feeds/all.atom.xml" htmlUrl="http://eli.thegreenplace.net/"/>
       <outline type="rss" text="Eric Elliot" title="Eric Elliot" xmlUrl="https://medium.com/feed/javascript-scene" htmlUrl="https://medium.com/javascript-scene/"/>
       <outline type="rss" text="Eric Lippert" title="Eric Lippert" xmlUrl="https://ericlippert.com/feed/" htmlUrl="https://ericlippert.com/"/>
+      <outline type="rss" text="Erik Runyon" title="Erik Runyon" xmlUrl="https://erikrunyon.com/feed.xml" htmlUrl="https://erikrunyon.com/"/>
       <outline type="rss" text="Evan Dempsey" title="Evan Dempsey" xmlUrl="https://www.smallsurething.com/feed/" htmlUrl="https://www.smallsurething.com/"/>
       <outline type="rss" text="Evan Hahn" title="Evan Hahn" xmlUrl="https://evanhahn.com/feed.xml" htmlUrl="http://evanhahn.com/"/>
       <outline type="rss" text="Evan Jones" title="Evan Jones" xmlUrl="http://www.evanjones.ca/index.rss" htmlUrl="http://www.evanjones.ca/chronological.html"/>
