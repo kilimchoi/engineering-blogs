@@ -230,6 +230,7 @@
 * King https://techblog.king.com/
 * Kinvolk https://kinvolk.io/blog/
 * Kogan.com https://devblog.kogan.com/
+* Kolosek https://kolosek.com/blog/
 
 #### L companies
 * Laterooms http://engineering.laterooms.com/
