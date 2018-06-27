@@ -184,6 +184,7 @@
       <outline type="rss" text="King" title="King" xmlUrl="https://techblog.king.com/feed/" htmlUrl="https://techblog.king.com/"/>
       <outline type="rss" text="Kinvolk" title="Kinvolk" xmlUrl="https://kinvolk.io/blog/index.xml" htmlUrl="https://kinvolk.io/blog/"/>
       <outline type="rss" text="Kogan.com" title="Kogan.com" xmlUrl="https://devblog.kogan.com/blog?format=RSS" htmlUrl="https://devblog.kogan.com/"/>
+      <outline type="rss" text="Kolosek" title="Kolosek" xmlUrl="https://kolosek.com/rss/" htmlUrl="https://kolosek.com/blog/"/>
       <outline type="rss" text="Laterooms" title="Laterooms" xmlUrl="http://engineering.laterooms.com/rss/" htmlUrl="http://engineering.laterooms.com/"/>
       <outline type="rss" text="LendingHome" title="LendingHome" xmlUrl="https://tech.lendinghome.com/feed" htmlUrl="https://tech.lendinghome.com/"/>
       <outline type="rss" text="LINE" title="LINE" xmlUrl="https://engineering.linecorp.com/en/blog/rss2" htmlUrl="https://engineering.linecorp.com/en/blog"/>
@@ -198,6 +199,7 @@
       <outline type="rss" text="Mallow Tech" title="Mallow Tech" xmlUrl="http://blog.mallow-tech.com/feed/" htmlUrl="http://blog.mallow-tech.com/"/>
       <outline type="rss" text="MailChimp" title="MailChimp" xmlUrl="https://devs.mailchimp.com/blog/feed/" htmlUrl="https://devs.mailchimp.com/blog/"/>
       <outline type="rss" text="Mandrill" title="Mandrill" xmlUrl="http://blog.mandrill.com/feeds/all.atom.xml" htmlUrl="http://blog.mandrill.com/"/>
+      <outline type="rss" text="MapTiler" title="MapTiler" xmlUrl="https://www.maptiler.com/blog/feed/posts.xml" htmlUrl="https://www.maptiler.com/blog/"/>
       <outline type="rss" text="Medallia" title="Medallia" xmlUrl="http://engineering.medallia.com/blog/feed/" htmlUrl="http://engineering.medallia.com/blog/"/>
       <outline type="rss" text="Medium" title="Medium" xmlUrl="https://medium.engineering/feed" htmlUrl="https://medium.com/medium-eng"/>
       <outline type="rss" text="MemSQL" title="MemSQL" xmlUrl="http://blog.memsql.com/feed/" htmlUrl="http://blog.memsql.com/content/engineering/"/>
@@ -374,6 +376,7 @@
       <outline type="rss" text="Allison Kaptur" title="Allison Kaptur" xmlUrl="http://akaptur.com/atom.xml" htmlUrl="http://akaptur.com/"/>
       <outline type="rss" text="Amit Merchant" title="Amit Merchant" xmlUrl="https://www.amitmerchant.com/feed.xml" htmlUrl="https://www.amitmerchant.com/"/>
       <outline type="rss" text="Anders Aarvik" title="Anders Aarvik" xmlUrl="http://aarvik.dk/rss/" htmlUrl="http://aarvik.dk/"/>
+      <outline type="rss" text="Andreas Schuster" title="Andreas Schuster" xmlUrl="https://computer.forensikblog.de/en/atom.xml" htmlUrl="https://computer.forensikblog.de/en/"/>
       <outline type="rss" text="Andrew Bancroft" title="Andrew Bancroft" xmlUrl="https://www.andrewcbancroft.com/feed/" htmlUrl="http://www.andrewcbancroft.com/"/>
       <outline type="rss" text="Andrew Brampton" title="Andrew Brampton" xmlUrl="https://blog.bramp.net/index.xml" htmlUrl="https://blog.bramp.net/"/>
       <outline type="rss" text="Andrew Ray" title="Andrew Ray" xmlUrl="https://blog.andrewray.me/rss/" htmlUrl="https://blog.andrewray.me/"/>
@@ -445,6 +448,7 @@
       <outline type="rss" text="Grzegorz Gajos" title="Grzegorz Gajos" xmlUrl="http://ggajos.com/rss.xml" htmlUrl="http://ggajos.com/"/>
       <outline type="rss" text="Guido van Rossum" title="Guido van Rossum" xmlUrl="http://neopythonic.blogspot.com/feeds/posts/default" htmlUrl="http://neopythonic.blogspot.com/"/>
       <outline type="rss" text="Guilherme Rodrigues" title="Guilherme Rodrigues" xmlUrl="https://firstdoit.com/feed" htmlUrl="https://firstdoit.com/"/>
+      <outline type="rss" text="Hayden James" title="Hayden James" xmlUrl="https://haydenjames.io/rss" htmlUrl="https://haydenjames.io/"/>
       <outline type="rss" text="Henrik Warne" title="Henrik Warne" xmlUrl="https://henrikwarne.com/feed/" htmlUrl="https://henrikwarne.com/"/>
       <outline type="rss" text="High Scalability" title="High Scalability" xmlUrl="http://feeds.feedburner.com/HighScalability" htmlUrl="http://highscalability.com/"/>
       <outline type="rss" text="Huon Wilson" title="Huon Wilson" xmlUrl="http://huonw.github.io/blog/atom.xml" htmlUrl="http://huonw.github.io/"/>
@@ -474,10 +478,12 @@
       <outline type="rss" text="Joe Armstrong" title="Joe Armstrong" xmlUrl="https://joearms.github.io/feed" htmlUrl="https://joearms.github.io/"/>
       <outline type="rss" text="Joe Nelson" title="Joe Nelson" xmlUrl="https://begriffs.com/atom.xml" htmlUrl="https://begriffs.com/"/>
       <outline type="rss" text="Joel Spolsky" title="Joel Spolsky" xmlUrl="https://www.joelonsoftware.com/feed/" htmlUrl="https://www.joelonsoftware.com/"/>
+      <outline type="rss" text="Johannes Brodwall" title="Johannes Brodwall" xmlUrl="http://johannesbrodwall.com/feed/" htmlUrl="http://johannesbrodwall.com/"/>
       <outline type="rss" text="John Resig" title="John Resig" xmlUrl="https://feeds.feedburner.com/JohnResig" htmlUrl="https://johnresig.com/category/blog/"/>
       <outline type="rss" text="John Wittenauer" title="John Wittenauer" xmlUrl="http://www.johnwittenauer.net/rss/" htmlUrl="http://www.johnwittenauer.net/"/>
       <outline type="rss" text="Jon Kensy" title="Jon Kensy" xmlUrl="http://www.jonkensy.com/feed/" htmlUrl="http://www.jonkensy.com/"/>
       <outline type="rss" text="Jon Skeet" title="Jon Skeet" xmlUrl="https://codeblog.jonskeet.uk/feed/" htmlUrl="https://codeblog.jonskeet.uk/"/>
+      <outline type="rss" text="Jonas Plum" title="Jonas Plum" xmlUrl="https://blog.cugu.eu/index.xml" htmlUrl="https://blog.cugu.eu/"/>
       <outline type="rss" text="Jonathan Dekhtiar" title="Jonathan Dekhtiar" xmlUrl="http://www.born2data.com/feed_atom.xml" htmlUrl="http://www.born2data.com/"/>
       <outline type="rss" text="Jonathan Snook" title="Jonathan Snook" xmlUrl="https://snook.ca/jonathan/index.rdf" htmlUrl="https://snook.ca/"/>
       <outline type="rss" text="Josh Haberman" title="Josh Haberman" xmlUrl="http://blog.reverberate.org/feed.xml" htmlUrl="http://blog.reverberate.org/"/>
