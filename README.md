@@ -133,6 +133,7 @@
 * Engine Yard https://blog.engineyard.com/
 * Entelo https://sourcecode.entelo.com/
 * Envato https://webuild.envato.com/
+* Envoy https://envoy.engineering/
 * Erlang Solutions https://www.erlang-solutions.com/blog.html
 * Etsy https://codeascraft.com/
 * Eventbrite https://www.eventbrite.com/engineering/
