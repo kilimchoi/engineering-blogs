@@ -560,6 +560,7 @@
 * Guilherme Rodrigues https://firstdoit.com/
 
 #### H individuals
+* Hayden James https://haydenjames.io/
 * Henrik Warne https://henrikwarne.com/
 * High Scalability http://highscalability.com/
 * Huon Wilson http://huonw.github.io/
