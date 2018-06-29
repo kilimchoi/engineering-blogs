@@ -165,7 +165,6 @@
 * GitHub https://githubengineering.com/
 * GitHub Old https://github.com/blog/category/engineering
 * Gnip https://engineering.gnip.com/
-* Go Programming Language https://blog.golang.org/
 * GoCardless https://gocardless.com/blog/tagged/engineering/
 * Good Eggs https://team.goodeggs.com
 * Google Online Security https://security.googleblog.com/
