@@ -96,7 +96,6 @@ matches.each do |match|
     if existing_blog
       rss_url = existing_blog.attr('xmlUrl')
       puts "#{name}: ALREADY HAVE"
-      next
     end
   end
 
