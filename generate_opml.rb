@@ -2,6 +2,7 @@
 
 require 'builder'
 require 'feedbag'
+require 'json'
 require 'nokogiri'
 
 OUTPUT_FILENAME = 'engineering_blogs.opml'
@@ -43,10 +44,6 @@ skips = [
   'Rudolf Olah'
 ]
 
-xml = File.open OUTPUT_FILENAME do |f|
-  Nokogiri::XML(f)
-end if File.exist? OUTPUT_FILENAME
-
 Struct.new('Blog', :name, :web_url, :rss_url)
 blogs = []
 
@@ -63,19 +60,33 @@ matches.each do |match|
 
   # if rss_url already in existing opml file, use that; otherwise, do a lookup
   rss_url = nil
-  existing_blog = xml.xpath("//outline[@htmlUrl='#{web_url}']").first if xml
-  if existing_blog
-    rss_url = existing_blog.attr('xmlUrl')
-    puts "#{name}: ALREADY HAVE"
+  if File.exist?(OUTPUT_FILENAME)
+    xml = Nokogiri::XML(File.open(OUTPUT_FILENAME))
+    existing_blog = xml.xpath("//outline[@htmlUrl='#{web_url}']").first
+    if existing_blog
+      rss_url = existing_blog.attr('xmlUrl')
+      puts "#{name}: ALREADY HAVE"
+      next
+    end
   end
 
-  puts "#{name}: GETTING" if rss_url.nil?
-  rss_url = Feedbag.find(web_url).first if rss_url.nil?
   if rss_url.nil?
-    suggested_paths = ['/rss', '/feed', '/feeds', '/atom.xml', '/feed.xml', '/rss.xml', '.atom']
-    suggested_paths.each do |suggested_path|
-      rss_url = Feedbag.find("#{web_url.chomp('/')}#{suggested_path}").first
-      break if rss_url
+    puts "#{name}: GETTING"
+    rss_check_url = "http://ajax.googleapis.com/ajax/services/feed/lookup?v=1.0&q=#{web_url}"
+    uri = URI.parse(rss_check_url)
+    response = JSON.parse(Net::HTTP.get(uri))
+    rss_url = response['responseData']['url'] if response['responseData'] && response['responseData'].has_key?('url')
+
+    # use Feedbag as a backup to Google Feeds Api
+    if rss_url.nil?
+      rss_url = Feedbag.find(web_url).first
+      if rss_url.nil?
+        suggested_paths = ['/rss', '/feed', '/feeds', '/atom.xml', '/feed.xml', '/rss.xml', '.atom']
+        suggested_paths.each do |suggested_path|
+          rss_url = Feedbag.find("#{web_url.chomp('/')}#{suggested_path}").first
+          break if rss_url
+        end
+      end
     end
   end
 
@@ -89,7 +100,7 @@ end
 blogs.sort_by { |b| b.name.capitalize }
 unavailable.sort_by { |b| b.name.capitalize }
 
-# write opml
+# create and write to opml file
 xml = Builder::XmlMarkup.new(indent: 2)
 xml.instruct! :xml, version: '1.0', encoding: 'UTF-8'
 xml.tag!('opml', version: '1.0') do
