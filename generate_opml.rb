@@ -4,12 +4,12 @@ require 'builder'
 require 'feedbag'
 require 'nokogiri'
 
-INPUT_FILENAME = 'README.md'.freeze
-OUTPUT_FILENAME = 'engineering_blogs.opml'.freeze
-TITLE = 'Engineering Blogs'.freeze
+OUTPUT_FILENAME = 'engineering_blogs.opml'
+TITLE = 'Engineering Blogs'
 
 # grab name/url pairings from README.md
-contents = File.read INPUT_FILENAME
+readme = File.open('README.md', 'r')
+contents = readme.read
 matches = contents.scan(/\* (.*) (http.*)/)
 # All blogs that do not respond
 unavailable = []
@@ -51,7 +51,7 @@ Struct.new('Blog', :name, :web_url, :rss_url)
 blogs = []
 
 # for each blog URL, check if rss URL exists
-matches.each do |match|
+matches.each_with_index do |match, index|
   name = match[0]
   web_url = match[1]
 
@@ -72,16 +72,19 @@ matches.each do |match|
   puts "#{name}: GETTING" if rss_url.nil?
   rss_url = Feedbag.find(web_url).first if rss_url.nil?
   if rss_url.nil?
-    suggested_paths = ['/rss', '/feed', '/feeds', '/atom.xml',
-                       '/feed.xml', '/rss.xml', '.atom']
+    suggested_paths = ['/rss', '/feed', '/feeds', '/atom.xml', '/feed.xml', '/rss.xml', '.atom']
     suggested_paths.each do |suggested_path|
       rss_url = Feedbag.find("#{web_url.chomp('/')}#{suggested_path}").first
       break if rss_url
     end
   end
 
-  list = rss_url && !rss_url.empty? ? blogs : unavailable
-  list.push(Struct::Blog.new(name, web_url, rss_url))
+  if rss_url && rss_url.length > 0
+    blogs.push(Struct::Blog.new(name, web_url, rss_url))
+  else
+    unavailable.push(Struct::Blog.new(name, web_url, rss_url))
+  end
+
 end
 
 blogs.sort_by { |b| b.name.capitalize }
@@ -101,7 +104,7 @@ xml.tag!('opml', version: '1.0') do
     xml.tag!('outline', text: TITLE, title: TITLE) do
       blogs.each do |blog|
         xml.tag!('outline', type: 'rss', text: blog.name, title: blog.name,
-                            xmlUrl: blog.rss_url, htmlUrl: blog.web_url)
+          xmlUrl: blog.rss_url, htmlUrl: blog.web_url)
       end
     end
   end
@@ -114,8 +117,8 @@ output.close
 puts "DONE: #{blogs.count} written to #{OUTPUT_FILENAME}"
 
 puts "\nUnable to find an RSS feed for the following blogs:"
-puts '==================================================='
+puts "==================================================="
 unavailable.each do |b|
   puts "#{b.name} | #{b.web_url}"
 end
-puts '==================================================='
+puts "==================================================="
