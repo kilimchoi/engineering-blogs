@@ -53,7 +53,7 @@ matches.each do |match|
   web_url = match[1]
 
   if temp_ignores.include?(name)
-    puts "#{name}: SKIP"
+    puts "#{name}: TEMP IGNORE"
     unavailable.push(Struct::Blog.new(name, web_url, nil))
     next
   end
