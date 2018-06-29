@@ -458,6 +458,9 @@
 
 ### Individuals/Group Contributors
 
+#### \# individuals
+* 0xADADA https://0xadada.pub/
+
 #### A individuals
 * Aaron Patterson http://tenderlovemaking.com/
 * Abhinaba Basu https://blogs.msdn.com/b/abhinaba/
