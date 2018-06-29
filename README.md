@@ -54,7 +54,7 @@
 * Babbel https://bytes.babbel.com/en/
 * Backtrace https://backtrace.io/blog/
 * Badoo https://techblog.badoo.com/
-* Baidu Research http://research.baidu.com/category/baidutechblog/baidu-research-technology/
+* Baidu Research http://research.baidu.com/Blog
 * Bandcamp https://bandcamptech.wordpress.com/
 * Base Lab https://lab.getbase.com/category/engineering/
 * Bazaarvoice https://blog.developer.bazaarvoice.com/
