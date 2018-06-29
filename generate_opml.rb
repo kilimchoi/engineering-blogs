@@ -14,7 +14,7 @@ contents = readme.read
 matches = contents.scan(/\* (.*) (http.*)/)
 # All blogs that do not respond
 unavailable = []
-skips = [
+temp_ignores = [
   'AdRoll',
   'Buzzfeed',
   'Code School',
@@ -52,7 +52,7 @@ matches.each do |match|
   name = match[0]
   web_url = match[1]
 
-  if skips.include?(name)
+  if temp_ignores.include?(name)
     puts "#{name}: SKIP"
     unavailable.push(Struct::Blog.new(name, web_url, nil))
     next
