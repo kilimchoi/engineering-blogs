@@ -205,7 +205,6 @@
 * IMVU https://engineering.imvu.com/
 * Imaginea https://blog.imaginea.com/
 * Imgur https://blog.imgur.com/category/eng/
-* Inaka http://inaka.net/blog/
 * Indeed http://engineering.indeedblog.com/blog/
 * Instacart https://tech.instacart.com/
 * Instagram https://engineering.instagram.com/
