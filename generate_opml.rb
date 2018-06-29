@@ -84,7 +84,6 @@ matches.each do |match|
   else
     unavailable.push(Struct::Blog.new(name, web_url, rss_url))
   end
-
 end
 
 blogs.sort_by { |b| b.name.capitalize }
