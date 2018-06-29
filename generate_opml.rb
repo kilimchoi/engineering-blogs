@@ -51,7 +51,7 @@ Struct.new('Blog', :name, :web_url, :rss_url)
 blogs = []
 
 # for each blog URL, check if rss URL exists
-matches.each_with_index do |match, index|
+matches.each do |match|
   name = match[0]
   web_url = match[1]
 
