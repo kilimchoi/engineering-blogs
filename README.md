@@ -493,6 +493,7 @@
 * Bjørn Johansen https://bjornjohansen.no/
 * Blake Erickson https://blog.blakeerickson.com/
 * Blundell's Android Tutorials http://blog.blundellapps.co.uk
+* Bohops https://bohops.com/
 * Brandon Rhodes http://rhodesmill.org/brandon/
 * Brendan Eich https://brendaneich.com/
 * Brendan Gregg http://www.brendangregg.com/blog/
