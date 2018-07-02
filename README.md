@@ -182,6 +182,7 @@
 * HackerEarth http://engineering.hackerearth.com/
 * Haptik https://haptik.ai/tech/
 * Harry's http://engineering.harrys.com/
+* Hashnode https://hashnode.com/blogs
 * Hashrocket https://hashrocket.com/blog
 * Haus https://engineering.haus.com
 * Heap https://heap.engineering/
