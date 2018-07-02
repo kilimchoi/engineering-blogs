@@ -12,35 +12,49 @@ TITLE = 'Engineering Blogs'
 readme = File.open('README.md', 'r')
 contents = readme.read
 matches = contents.scan(/\* (.*) (http.*)/)
-# All blogs that do not respond
+# all blogs that do not respond
 unavailable = []
 temp_ignores = [
   'AdRoll',
+  'Baidu Research',
+  'Booking.com',
   'Buzzfeed',
   'Code School',
+  'Convox',
   'Fynd',
+  'Graphcool',
   'Just Eat',
-  'Lookout',
+  'LinkedIn',
+  'Medallia',
   'OmniTI',
   'Paperless Post',
   'Pluralsight',
   'Prolific Interactive',
   'Quora',
+  'Red Hat',
   'Robert Elder Software',
   'Simple',
+  'SlideShare',
   'SourceClear',
   'TaskRabbit',
   'theScore',
   'Trivago',
-  'Xmartlabs',
+  'Viget',
   'WyeWorks',
+  'Xmartlabs',
+  'Yelp',
+  'Zalando',
   'Zapier',
   'Zoosk',
   'Zynga',
   'Dave Beazley',
+  'Dmitri Pavlutin',
   'Edan Kwan',
+  'Grzegorz Gajos',
+  'Joe Armstrong',
   'Kai Hendry',
   'LiveOverflow',
+  'Paul Graham',
   'Rudolf Olah'
 ]
 
@@ -66,7 +80,6 @@ matches.each do |match|
     if existing_blog
       rss_url = existing_blog.attr('xmlUrl')
       puts "#{name}: ALREADY HAVE"
-      next
     end
   end
 
