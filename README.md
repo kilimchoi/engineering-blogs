@@ -133,7 +133,7 @@
 * Erlang Solutions https://www.erlang-solutions.com/blog.html
 * Etsy https://codeascraft.com/
 * Eventbrite https://www.eventbrite.com/engineering/
-* Evernote https://blog.evernote.com/tech/
+* Evernote https://evernote.com/blog/
 * Evil Martians https://evilmartians.com/chronicles/
 * Expedia https://techblog.expedia.com/
 
