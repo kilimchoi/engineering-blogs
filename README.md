@@ -227,6 +227,7 @@
 * Kolosek https://kolosek.com/blog/
 
 #### L companies
+* Latacora https://latacora.singles/
 * Laterooms http://engineering.laterooms.com/
 * LendingHome https://tech.lendinghome.com/
 * LINE https://engineering.linecorp.com/en/blog
