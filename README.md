@@ -85,7 +85,7 @@
 * Chartbeat http://engineering.chartbeat.com/
 * Chef https://blog.chef.io
 * Clever https://engineering.clever.com/
-* CleverTap https://clevertap.com/blog/category/engineering/
+* CleverTap https://clevertap.com/blog/tag/engineering/
 * Cloudera https://blog.cloudera.com/
 * Cloudflare https://blog.cloudflare.com/
 * CockroachDB https://www.cockroachlabs.com/blog/
