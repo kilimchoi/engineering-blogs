@@ -12,18 +12,15 @@ TITLE = 'Engineering Blogs'
 readme = File.open('README.md', 'r')
 contents = readme.read
 matches = contents.scan(/\* (.*) (http.*)/)
-# all blogs that do not respond
+
+# skip over blogs that aren't found
 unavailable = []
-temp_ignores = [
-  'AdRoll',
+fast_forwards = [
   'Baidu Research',
   'Booking.com',
-  'Buzzfeed',
-  'Code School',
-  'Convox',
   'Fynd',
   'Graphcool',
-  'Just Eat',
+  'Hashnode',
   'LinkedIn',
   'Medallia',
   'OmniTI',
@@ -31,31 +28,20 @@ temp_ignores = [
   'Pluralsight',
   'Prolific Interactive',
   'Quora',
-  'Red Hat',
   'Robert Elder Software',
   'Simple',
   'SlideShare',
   'SourceClear',
-  'TaskRabbit',
-  'theScore',
-  'Trivago',
   'Viget',
-  'WyeWorks',
-  'Xmartlabs',
-  'Yelp',
   'Zalando',
   'Zapier',
-  'Zoosk',
   'Zynga',
   'Dave Beazley',
-  'Dmitri Pavlutin',
   'Edan Kwan',
   'Grzegorz Gajos',
   'Joe Armstrong',
   'Kai Hendry',
-  'LiveOverflow',
-  'Paul Graham',
-  'Rudolf Olah'
+  'LiveOverflow'
 ]
 
 Struct.new('Blog', :name, :web_url, :rss_url)
@@ -66,7 +52,7 @@ matches.each do |match|
   name = match[0]
   web_url = match[1]
 
-  if temp_ignores.include?(name)
+  if fast_forwards.include?(name)
     puts "#{name}: TEMP IGNORE"
     unavailable.push(Struct::Blog.new(name, web_url, nil))
     next

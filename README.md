@@ -90,7 +90,6 @@
 * Cloudflare https://blog.cloudflare.com/
 * CockroachDB https://www.cockroachlabs.com/blog/
 * Code Better http://codebetter.com/
-* Code School https://www.codeschool.com/blog/categories/development/
 * Codelitt https://www.codelitt.com/blog/
 * Codemancers https://crypt.codemancers.com/
 * Codementor https://www.codementor.io/tutorial
@@ -515,7 +514,6 @@
 * Dennis Yurichev https://yurichev.com/blog/
 * Dereuromark http://www.dereuromark.de/
 * Discover Meteor https://www.discovermeteor.com/blog
-* Dmitri Pavlutin https://rainsoft.io
 * Domenico Luciani https://domenicoluciani.com
 * Dot Dev (.dev) https://dotdev.co
 * Dragan Djuric http://dragan.rocks
