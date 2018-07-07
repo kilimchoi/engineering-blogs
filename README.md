@@ -459,7 +459,6 @@
 * Alan Storm http://alanstorm.com/
 * Alex Rogozhnikov https://arogozhnikov.github.io/
 * Alex Russell https://infrequently.org/
-* Allan MacGregor http://coderoncode.com/
 * Allison Kaptur http://akaptur.com/
 * Amit Merchant https://www.amitmerchant.com/
 * Anders Aarvik http://aarvik.dk/
