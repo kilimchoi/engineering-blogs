@@ -186,6 +186,7 @@
 * Hashrocket https://hashrocket.com/blog
 * Haus https://engineering.haus.com
 * Heap https://heap.engineering/
+* HERE https://developer.here.com/blog
 * Heroku https://blog.heroku.com/engineering
 * HireArt http://code.hireart.com/
 * HomeAway https://tech.homeaway.com/
