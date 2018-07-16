@@ -20,7 +20,6 @@ fast_forwards = [
   'Booking.com',
   'Fynd',
   'Graphcool',
-  'Hashnode',
   'LinkedIn',
   'Medallia',
   'OmniTI',
