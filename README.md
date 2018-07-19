@@ -621,6 +621,7 @@
 #### M individuals
 * Manu Sporny http://manu.sporny.org/
 * Marc Plano-Lesay https://enoent.fr
+* Marcelo Rinesi https://blog.rinesi.com/
 * Marco Pivetta http://ocramius.github.io/
 * Marek Majkowski https://idea.popcount.org/
 * Mark Seaborn http://lackingrhoticity.blogspot.de/
