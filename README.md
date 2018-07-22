@@ -710,6 +710,7 @@
 * Stack Abuse http://www.stackabuse.com/
 * Stefan Parker http://codebeforethehorse.tumblr.com/
 * Stephen Colebourne http://blog.joda.org/
+* Steve Bellovin https://www.cs.columbia.edu/~smb/blog/control/
 * Steve Yegge https://steve-yegge.blogspot.com/
 * Sudhagar http://sudhagar.com/
 * Swizec Teller https://swizec.com/blog/
