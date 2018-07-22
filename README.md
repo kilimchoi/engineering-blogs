@@ -641,6 +641,7 @@
 * Milosz Galazka https://blog.sleeplessbeastie.eu/
 * Miro Cupak https://mirocupak.com/
 * Monica Dinculescu https://meowni.ca/
+* Monstermuffin https://blog.monstermuffin.org/
 * Mykhailo Kozik http://mishadoff.com/
 
 #### N individuals
