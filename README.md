@@ -527,6 +527,7 @@
 * Edan Kwan http://blog.edankwan.com/
 * Eddie Smith http://www.practicallyefficient.com/
 * Edgar Aroutiounian https://hyegar.com/
+* Edward Faulkner https://eaf4.com/
 * Elegant Code http://elegantcode.com/
 * Eli Bendersky http://eli.thegreenplace.net/
 * Eric Elliot https://medium.com/javascript-scene/
