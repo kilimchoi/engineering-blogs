@@ -405,6 +405,7 @@
       <outline type="rss" text="Daily Tech Video" title="Daily Tech Video" xmlUrl="http://dailytechvideo.com/feed/" htmlUrl="http://dailytechvideo.com/"/>
       <outline type="rss" text="Dan Luu" title="Dan Luu" xmlUrl="https://danluu.com/atom.xml" htmlUrl="https://danluu.com/"/>
       <outline type="rss" text="Daniel Doubrovkine (dB.)" title="Daniel Doubrovkine (dB.)" xmlUrl="https://code.dblock.org/feed.xml" htmlUrl="http://code.dblock.org/"/>
+      <outline type="rss" text="Daniel Schmidt" title="Daniel Schmidt" xmlUrl="https://medium.com/feed/@dschmidt1992" htmlUrl="https://medium.com/@dschmidt1992"/>
       <outline type="rss" text="Dave Atchley" title="Dave Atchley" xmlUrl="https://www.datchley.name/rss/" htmlUrl="http://www.datchley.name/"/>
       <outline type="rss" text="Dave Cheney" title="Dave Cheney" xmlUrl="https://dave.cheney.net/feed" htmlUrl="https://dave.cheney.net/"/>
       <outline type="rss" text="David Walsh" title="David Walsh" xmlUrl="https://davidwalsh.name/feed/atom" htmlUrl="https://davidwalsh.name/"/>

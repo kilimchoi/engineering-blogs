@@ -508,6 +508,7 @@
 * Daily Tech Video http://dailytechvideo.com/
 * Dan Luu https://danluu.com/
 * Daniel Doubrovkine (dB.) http://code.dblock.org/
+* Daniel Schmidt https://medium.com/@dschmidt1992
 * Dave Atchley http://www.datchley.name/
 * Dave Beazley http://www.dabeaz.com/blog.html
 * Dave Cheney https://dave.cheney.net/
