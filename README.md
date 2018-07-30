@@ -348,6 +348,7 @@
 * SmartRecruiters https://up.smartrecruiters.com
 * Snyk https://snyk.io/blog
 * Songkick https://devblog.songkick.com/
+* Soshace https://blog.soshace.com/en/
 * Soundcloud https://developers.soundcloud.com/blog/
 * SourceClear https://blog.sourceclear.com/
 * Speedledger http://engineering.speedledger.com/
