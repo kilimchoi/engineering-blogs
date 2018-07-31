@@ -375,6 +375,7 @@
 * ThoughtWorks https://www.thoughtworks.com/insights
 * Thumbtack https://www.thumbtack.com/engineering/
 * Ticketmaster https://tech.ticketmaster.com/
+* Timescale https://blog.timescale.com/
 * Tinder https://tech.gotinder.com/
 * Toptal https://www.toptal.com/blog/
 * TrackMaven http://engineroom.trackmaven.com/
