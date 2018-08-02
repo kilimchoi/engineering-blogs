@@ -142,6 +142,7 @@
 * Facebook https://code.facebook.com/posts/
 * Facebook AI Research https://research.facebook.com/blog/ai/
 * Faraday http://blog.faraday.io/
+* Feedzai https://medium.com/feedzaitech
 * Fiftythree http://making.fiftythree.com/
 * Findmypast http://tech.findmypast.com/
 * Finn.no http://tech.finn.no/
