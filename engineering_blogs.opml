@@ -263,6 +263,7 @@
       <outline type="rss" text="Semaphore CI Community" title="Semaphore CI Community" xmlUrl="https://semaphoreci.com/community/tutorials.atom" htmlUrl="https://semaphoreci.com/community"/>
       <outline type="rss" text="Semaphore CI Engineering" title="Semaphore CI Engineering" xmlUrl="http://semaphoreci.com/blog/engineering.xml" htmlUrl="http://semaphoreci.com/blog/tags/engineering.html"/>
       <outline type="rss" text="Sensible" title="Sensible" xmlUrl="http://blog.sensible.io/rss" htmlUrl="http://blog.sensible.io/"/>
+      <outline type="rss" text="Serverless" title="Serverless" xmlUrl="https://serverless.com/blog/feed.xml" htmlUrl="https://serverless.com/blog/"/>
       <outline type="rss" text="Settled" title="Settled" xmlUrl="https://engineroom.settled.co.uk/feed" htmlUrl="https://engineroom.settled.co.uk/"/>
       <outline type="rss" text="Shape Security" title="Shape Security" xmlUrl="http://engineering.shapesecurity.com/rss" htmlUrl="http://engineering.shapesecurity.com/"/>
       <outline type="rss" text="Sharethis" title="Sharethis" xmlUrl="https://www.sharethis.com/feed/" htmlUrl="https://www.sharethis.com/category/engineering/"/>
