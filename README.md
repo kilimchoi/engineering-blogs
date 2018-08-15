@@ -629,6 +629,7 @@
 
 #### M individuals
 * Manu Sporny http://manu.sporny.org/
+* Marco Arment https://marco.org/
 * Marc Plano-Lesay https://enoent.fr
 * Marcelo Rinesi https://blog.rinesi.com/
 * Marco Pivetta http://ocramius.github.io/
