@@ -147,6 +147,7 @@
       <outline type="rss" text="Harry's" title="Harry's" xmlUrl="http://engineering.harrys.com/feed.xml" htmlUrl="http://engineering.harrys.com/"/>
       <outline type="rss" text="Hashnode" title="Hashnode" xmlUrl="https://hashnode.blog/feed" htmlUrl="https://hashnode.blog/"/>
       <outline type="rss" text="Hashrocket" title="Hashrocket" xmlUrl="https://hashrocket.com/blog.rss" htmlUrl="https://hashrocket.com/blog"/>
+      <outline type="rss" text="Hasura" title="Hasura" xmlUrl="https://blog.hasura.io/feed" htmlUrl="https://blog.hasura.io/"/>
       <outline type="rss" text="Haus" title="Haus" xmlUrl="https://engineering.haus.com/feed" htmlUrl="https://engineering.haus.com"/>
       <outline type="rss" text="Heap" title="Heap" xmlUrl="https://heapanalytics.com/blog/category/engineering/feed" htmlUrl="https://heap.engineering/"/>
       <outline type="rss" text="HERE" title="HERE" xmlUrl="https://developer.here.com/blog/feed" htmlUrl="https://developer.here.com/blog"/>

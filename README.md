@@ -186,6 +186,7 @@
 * Harry's http://engineering.harrys.com/
 * Hashnode https://hashnode.blog/
 * Hashrocket https://hashrocket.com/blog
+* Hasura https://blog.hasura.io/
 * Haus https://engineering.haus.com
 * Heap https://heap.engineering/
 * HERE https://developer.here.com/blog
