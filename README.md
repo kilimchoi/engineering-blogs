@@ -555,6 +555,7 @@
 #### G individuals
 * Gleb Bahmutov https://glebbahmutov.com/blog/
 * Graham King https://www.darkcoding.net/
+* Greg Kroah-Hartman http://kroah.com/log/
 * Grzegorz Gajos http://ggajos.com/
 * Guido van Rossum http://neopythonic.blogspot.com/
 * Guilherme Rodrigues https://firstdoit.com/
