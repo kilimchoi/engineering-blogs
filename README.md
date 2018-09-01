@@ -590,6 +590,7 @@
 * Jeff Preshing http://preshing.com/
 * Jeremy Kun https://jeremykun.com/
 * Jerry Gamblin https://jerrygamblin.com/
+* Jesal Gadhia https://jes.al/
 * Jessie Frazelle https://blog.jessfraz.com/
 * Jesus Castello http://www.blackbytes.info/
 * Joe Armstrong https://joearms.github.io/
