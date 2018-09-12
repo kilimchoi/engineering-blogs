@@ -25,6 +25,7 @@
       <outline type="rss" text="Atlassian" title="Atlassian" xmlUrl="https://developer.atlassian.com/blog/feed.xml" htmlUrl="https://developer.atlassian.com/blog/"/>
       <outline type="rss" text="Atomic Object" title="Atomic Object" xmlUrl="https://spin.atomicobject.com/feed/" htmlUrl="https://spin.atomicobject.com/"/>
       <outline type="rss" text="Auth0" title="Auth0" xmlUrl="https://auth0.com/blog/rss.xml" htmlUrl="https://auth0.com/blog/"/>
+      <outline type="rss" text="Auto Trader" title="Auto Trader" xmlUrl="https://engineering.autotrader.co.uk/feed.xml" htmlUrl="https://engineering.autotrader.co.uk/"/>
       <outline type="rss" text="Avenue Code" title="Avenue Code" xmlUrl="http://blog.avenuecode.com/rss.xml" htmlUrl="http://blog.avenuecode.com/"/>
       <outline type="rss" text="AWS" title="AWS" xmlUrl="https://aws.amazon.com/blogs/aws/feed/" htmlUrl="https://aws.amazon.com/blogs/aws/"/>
       <outline type="rss" text="Azavea" title="Azavea" xmlUrl="https://www.azavea.com/blog/category/software-development/rss" htmlUrl="https://www.azavea.com/blog/category/software-development/"/>

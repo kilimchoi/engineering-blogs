@@ -46,6 +46,7 @@
 * Atlassian https://developer.atlassian.com/blog/
 * Atomic Object https://spin.atomicobject.com/
 * Auth0 https://auth0.com/blog/
+* Auto Trader https://engineering.autotrader.co.uk/
 * Avenue Code http://blog.avenuecode.com/
 * AWS https://aws.amazon.com/blogs/aws/
 * Azavea https://www.azavea.com/blog/category/software-development/
