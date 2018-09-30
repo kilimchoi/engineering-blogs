@@ -187,6 +187,7 @@
       <outline type="rss" text="Latacora" title="Latacora" xmlUrl="https://latacora.micro.blog/feed.xml" htmlUrl="https://latacora.singles/"/>
       <outline type="rss" text="Laterooms" title="Laterooms" xmlUrl="http://engineering.laterooms.com/rss/" htmlUrl="http://engineering.laterooms.com/"/>
       <outline type="rss" text="LendingHome" title="LendingHome" xmlUrl="https://tech.lendinghome.com/feed" htmlUrl="https://tech.lendinghome.com/"/>
+      <outline type="rss" text="Life360" title="Life360" xmlUrl="https://medium.com/feed/life360-engineering/" htmlUrl="https://medium.com/life360-engineering/"/>
       <outline type="rss" text="LINE" title="LINE" xmlUrl="https://engineering.linecorp.com/en/blog/rss2" htmlUrl="https://engineering.linecorp.com/en/blog"/>
       <outline type="rss" text="LiveChat" title="LiveChat" xmlUrl="https://developers.livechatinc.com/blog/rss" htmlUrl="https://developers.livechatinc.com/blog/"/>
       <outline type="rss" text="LiveRamp" title="LiveRamp" xmlUrl="https://liveramp.com/engineering/feed/" htmlUrl="https://liveramp.com/engineering/"/>
