@@ -137,7 +137,7 @@
 * Eventbrite https://www.eventbrite.com/engineering/
 * Evernote https://evernote.com/blog/
 * Evil Martians https://evilmartians.com/chronicles/
-* Expedia https://techblog.expedia.com/
+* Expedia https://medium.com/expedia-engineering
 
 #### F companies
 * Facebook https://code.facebook.com/posts/
