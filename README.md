@@ -205,6 +205,8 @@
 * Imaginea https://blog.imaginea.com/
 * Imgur https://blog.imgur.com/category/eng/
 * Indeed http://engineering.indeedblog.com/blog/
+* Infocepts https://www.infocepts.com/blog/
+* Infosys http://www.infosysblogs.com/
 * Instacart https://tech.instacart.com/
 * Instagram https://engineering.instagram.com/
 * Intel https://software.intel.com/en-us/blogs/
@@ -289,6 +291,7 @@
 * Paperless Post https://www.paperlesspost.com/blog/teams/tech/
 * Paypal https://www.paypal-engineering.com/
 * Periscope Data https://www.periscopedata.com/blog
+* Persistent https://blog.persistent.com/
 * PicCollage https://tech.pic-collage.com/
 * Pinterest https://medium.com/@Pinterest_Engineering
 * Pivotal https://engineering.pivotal.io
@@ -371,6 +374,7 @@
 * Takipi http://blog.takipi.com/
 * Target https://target.github.io/
 * TaskRabbit http://tech.taskrabbit.com/
+* Tata Consultancy Services https://www.tcs.com/blogs
 * Teamwork https://engineroom.teamwork.com/
 * Teespring http://teespring.engineering/
 * theScore http://techblog.thescore.com/
