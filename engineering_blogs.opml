@@ -18,6 +18,7 @@
       <outline type="rss" text="Airtame" title="Airtame" xmlUrl="https://airtame.engineering/feed" htmlUrl="https://airtame.engineering"/>
       <outline type="rss" text="Algolia" title="Algolia" xmlUrl="https://blog.algolia.com/feed/" htmlUrl="https://blog.algolia.com/"/>
       <outline type="rss" text="Allegro.tech" title="Allegro.tech" xmlUrl="https://allegro.tech/feed.xml" htmlUrl="https://allegro.tech"/>
+      <outline type="rss" text="American Express" title="American Express" xmlUrl="https://americanexpress.io/feed.xml" htmlUrl="https://americanexpress.io/"/>
       <outline type="rss" text="Appnexus" title="Appnexus" xmlUrl="https://techblog.appnexus.com/feed" htmlUrl="https://techblog.appnexus.com/"/>
       <outline type="rss" text="Arkency" title="Arkency" xmlUrl="http://blog.arkency.com/atom.xml" htmlUrl="http://blog.arkency.com/"/>
       <outline type="rss" text="Artsy" title="Artsy" xmlUrl="http://artsy.github.io/feed" htmlUrl="http://artsy.github.io/"/>
