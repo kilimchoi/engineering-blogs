@@ -76,6 +76,7 @@
       <outline type="rss" text="Confluent" title="Confluent" xmlUrl="https://www.confluent.io/feed/" htmlUrl="https://www.confluent.io/blog"/>
       <outline type="rss" text="Convox" title="Convox" xmlUrl="https://convox.com/blog/rss.xml" htmlUrl="https://convox.com/blog"/>
       <outline type="rss" text="Coolblue" title="Coolblue" xmlUrl="https://devblog.coolblue.nl/feed/" htmlUrl="http://devblog.coolblue.nl/"/>
+      <outline type="rss" text="Corgibytes" title="Corgibytes" xmlUrl="https://corgibytes.com/feed.xml" htmlUrl="https://corgibytes.com/blog/"/>
       <outline type="rss" text="Criteo" title="Criteo" xmlUrl="http://engineering.criteolabs.com/feeds/posts/default" htmlUrl="http://engineering.criteolabs.com/"/>
       <outline type="rss" text="Crowdfire" title="Crowdfire" xmlUrl="https://crowdfire.engineering/feed" htmlUrl="https://crowdfire.engineering/"/>
       <outline type="rss" text="Curalate" title="Curalate" xmlUrl="http://engineering.curalate.com/feed.xml" htmlUrl="http://engineering.curalate.com/"/>
