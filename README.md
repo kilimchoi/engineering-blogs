@@ -433,6 +433,7 @@
 #### Y companies
 * Yahoo https://yahooeng.tumblr.com/
 * Yammer https://medium.com/yammer-engineering
+* Y Combinator (Hacker News) https://news.ycombinator.com/
 * Yelp https://engineeringblog.yelp.com/
 * YLD! https://blog.yld.io
 
