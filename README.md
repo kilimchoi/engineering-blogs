@@ -93,7 +93,7 @@
 * Code Better http://codebetter.com/
 * Codelitt https://www.codelitt.com/blog/
 * Codemancers https://crypt.codemancers.com/
-* Codementor https://www.codementor.io/tutorial
+* Codementor https://www.codementor.io/blog/technical
 * CodeName One http://www.codenameone.com/blog.html
 * Codeship https://blog.codeship.com/
 * Coinbase https://engineering.coinbase.com/
