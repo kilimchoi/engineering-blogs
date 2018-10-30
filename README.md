@@ -418,6 +418,7 @@
 * WebEngage http://engineering.webengage.com/
 * Wemake.services https://medium.com/wemake-services
 * WePay https://wecode.wepay.com/
+* WhatsApp https://blog.whatsapp.com/
 * Wimdu http://tech.wimdu.com/
 * Wingify http://engineering.wingify.com/
 * Wix https://www.wix.engineering/blog
