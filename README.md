@@ -306,6 +306,7 @@
 
 #### R companies
 * Raizlabs https://www.raizlabs.com/dev/
+* Rakuten https://techblog.rakuten.co.jp/
 * RapidAPI http://blog.rapidapi.com/
 * REA Group http://rea.tech/engineering/
 * Realm.io https://realm.io/news/
