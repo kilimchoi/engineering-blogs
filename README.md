@@ -247,6 +247,7 @@
 * MailChimp https://devs.mailchimp.com/blog/
 * Mandrill http://blog.mandrill.com/
 * MapTiler https://www.maptiler.com/blog/
+* Mastercard https://developer.mastercard.com/blog/
 * Medallia http://engineering.medallia.com/blog/
 * Medium https://medium.com/medium-eng
 * MemSQL http://blog.memsql.com/content/engineering/
