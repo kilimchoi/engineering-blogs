@@ -626,6 +626,7 @@
 * Life Plus Linux http://lifepluslinux.blogspot.in/
 * LiveOverflow https://liveoverflow.com/blog/index.html
 * Luciano Mammino https://loige.co/
+* Learn Steps https://www.learnsteps.com/
 
 #### M individuals
 * Manu Sporny http://manu.sporny.org/
