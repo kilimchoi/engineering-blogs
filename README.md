@@ -215,6 +215,7 @@
 * InVision http://engineering.invisionapp.com/
 
 #### J companies
+* Jampp https://geeks.jampp.com/
 * Jane Street https://blogs.janestreet.com/category/ocaml/
 * Jet Technology https://tech.jet.com/
 * Jobandtalent https://jobandtalent.engineering/

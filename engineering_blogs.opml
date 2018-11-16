@@ -172,6 +172,7 @@
       <outline type="rss" text="Intercom" title="Intercom" xmlUrl="https://engineering.intercom.io/feed.xml" htmlUrl="https://engineering.intercom.io/"/>
       <outline type="rss" text="Intuit" title="Intuit" xmlUrl="https://quickbooks-engineering.intuit.com/feed" htmlUrl="https://quickbooks-engineering.intuit.com/"/>
       <outline type="rss" text="InVision" title="InVision" xmlUrl="http://engineering.invisionapp.com/index.xml" htmlUrl="http://engineering.invisionapp.com/"/>
+      <outline type="rss" text="Jampp" title="Jampp" xmlUrl="https://geeks.jampp.com/feed.xml" htmlUrl="https://geeks.jampp.com/"/>
       <outline type="rss" text="Jane Street" title="Jane Street" xmlUrl="https://blogs.janestreet.com/feed.xml" htmlUrl="https://blogs.janestreet.com/category/ocaml/"/>
       <outline type="rss" text="Jet Technology" title="Jet Technology" xmlUrl="https://medium.com/feed/jettech" htmlUrl="https://tech.jet.com/"/>
       <outline type="rss" text="Jobandtalent" title="Jobandtalent" xmlUrl="https://jobandtalent.engineering/feed" htmlUrl="https://jobandtalent.engineering/"/>
