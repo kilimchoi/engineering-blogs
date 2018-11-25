@@ -350,6 +350,7 @@
 * Small Improvements https://tech.small-improvements.com/
 * SmartRecruiters https://up.smartrecruiters.com
 * Snyk https://snyk.io/blog
+* Soluto https://blog.solutotlv.com/
 * Songkick https://devblog.songkick.com/
 * Soshace https://blog.soshace.com/en/
 * Soundcloud https://developers.soundcloud.com/blog/
