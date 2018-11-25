@@ -734,6 +734,7 @@
 * Tikhon Jelvis http://jelv.is/blog/
 * Todd Motto https://toddmotto.com/
 * T.J. Maher http://adventuresinautomation.blogspot.com/
+* Troy Hunt https://www.troyhunt.com/
 
 #### U individuals
 * Una Kravets https://una.im/
