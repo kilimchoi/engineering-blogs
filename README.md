@@ -641,6 +641,7 @@
 * Matt Might http://matt.might.net/articles/
 * Matt Warren http://mattwarren.org/
 * Matthew Green https://blog.cryptographyengineering.com/
+* Michael Chladek https://mchladek.me/post/
 * Michael Crump https://michaelcrump.net/
 * Michaël Gallego http://www.michaelgallego.fr/articles/
 * Michael Herman http://mherman.org/
