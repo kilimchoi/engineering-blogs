@@ -188,6 +188,7 @@
 * Hashrocket https://hashrocket.com/blog
 * Haus https://engineering.haus.com
 * Heap https://heap.engineering/
+* Hepsiburada https://medium.com/hepsiburadatech
 * HERE https://developer.here.com/blog
 * Heroku https://blog.heroku.com/engineering
 * HireArt http://code.hireart.com/
