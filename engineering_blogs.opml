@@ -149,6 +149,7 @@
       <outline type="rss" text="Hashrocket" title="Hashrocket" xmlUrl="https://hashrocket.com/blog.rss" htmlUrl="https://hashrocket.com/blog"/>
       <outline type="rss" text="Haus" title="Haus" xmlUrl="https://engineering.haus.com/feed" htmlUrl="https://engineering.haus.com"/>
       <outline type="rss" text="Heap" title="Heap" xmlUrl="https://heapanalytics.com/blog/category/engineering/feed" htmlUrl="https://heap.engineering/"/>
+      <outline type="rss" text="Hepsiburada" title="Hepsiburada" xmlUrl="https://medium.com/feed/hepsiburadatech" htmlUrl="https://medium.com/hepsiburadatech"/>
       <outline type="rss" text="HERE" title="HERE" xmlUrl="https://developer.here.com/blog/feed" htmlUrl="https://developer.here.com/blog"/>
       <outline type="rss" text="Heroku" title="Heroku" xmlUrl="https://blog.heroku.com/engineering" htmlUrl="https://blog.heroku.com/engineering"/>
       <outline type="rss" text="HireArt" title="HireArt" xmlUrl="http://code.hireart.com/feed.xml" htmlUrl="http://code.hireart.com/"/>
