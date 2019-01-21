@@ -360,6 +360,7 @@
 * Square https://corner.squareup.com/
 * Squarespace https://engineering.squarespace.com/
 * Stack Overflow https://stackoverflow.blog/engineering/
+* Stackshare https://stackshare.io/feed
 * Stitch Fix http://multithreaded.stitchfix.com/blog/
 * Stormpath https://stormpath.com/blog/
 * Strava https://medium.com/strava-engineering/
