@@ -287,6 +287,7 @@
       <outline type="rss" text="Square" title="Square" xmlUrl="https://medium.com/feed/square-corner-blog" htmlUrl="https://corner.squareup.com/"/>
       <outline type="rss" text="Squarespace" title="Squarespace" xmlUrl="https://engineering.squarespace.com/blog?format=RSS" htmlUrl="https://engineering.squarespace.com/"/>
       <outline type="rss" text="Stack Overflow" title="Stack Overflow" xmlUrl="https://stackoverflow.blog/engineering/feed/" htmlUrl="https://stackoverflow.blog/engineering/"/>
+      <outline type="rss" text="Stackshare" title="Stackshare" xmlUrl="https://stackshare.io/featured-posts.atom" htmlUrl="https://stackshare.io/feed"/>
       <outline type="rss" text="Stitch Fix" title="Stitch Fix" xmlUrl="https://multithreaded.stitchfix.com/feed.xml" htmlUrl="http://multithreaded.stitchfix.com/blog/"/>
       <outline type="rss" text="Stormpath" title="Stormpath" xmlUrl="https://stormpath.com/feed" htmlUrl="https://stormpath.com/blog/"/>
       <outline type="rss" text="Strava" title="Strava" xmlUrl="https://medium.com/feed/strava-engineering" htmlUrl="https://medium.com/strava-engineering/"/>
