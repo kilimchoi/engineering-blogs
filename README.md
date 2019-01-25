@@ -112,7 +112,6 @@
 * DataFox http://eng.datafox.co/
 * Deezer https://deezer.io/
 * DeferPanic https://deferpanic.com/blog/
-* Deis https://deis.com/blog
 * Deliveroo https://deliveroo.engineering/
 * DigitalOcean https://www.digitalocean.com/community/tutorials
 * Discord https://blog.discordapp.com/
