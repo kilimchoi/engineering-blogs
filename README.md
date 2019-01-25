@@ -607,6 +607,7 @@
 * Josh Sherman https://joshtronic.com/
 * Juan Treminio https://jtreminio.com
 * Julia Evans https://jvns.ca/
+* Junior Grossi https://blog.jgrossi.com/
 * Justin Weiss https://www.justinweiss.com/articles/archives/
 * Juri Strumpflohner https://juristr.com/blog/
 
