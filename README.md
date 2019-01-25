@@ -107,7 +107,6 @@
 * Curalate http://engineering.curalate.com/
 
 #### D companies
-* Dailymotion http://engineering.dailymotion.com/
 * Data Artisans https://data-artisans.com/blog/
 * Databricks https://databricks.com/blog
 * DataFox http://eng.datafox.co/
