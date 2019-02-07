@@ -102,7 +102,7 @@
 * Confluent https://www.confluent.io/blog
 * Convox https://convox.com/blog
 * Coolblue http://devblog.coolblue.nl/
-* Criteo http://engineering.criteolabs.com/
+* Criteo https://medium.com/criteo-labs
 * Crowdfire https://crowdfire.engineering/
 * Curalate http://engineering.curalate.com/
 
