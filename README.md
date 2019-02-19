@@ -312,6 +312,7 @@
 * Red Hat https://developers.redhat.com/blog/
 * Remind http://engineering.remind.com/
 * RetailMeNot https://medium.com/retailmenot-engineering/
+* Revolut https://blog.revolut.com/tag/engineering/
 * Rightscale http://eng.rightscale.com/
 * Riot Games https://engineering.riotgames.com/
 * RisingStack https://blog.risingstack.com/
