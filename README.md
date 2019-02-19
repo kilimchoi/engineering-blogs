@@ -45,6 +45,7 @@
 * Asana https://blog.asana.com/category/eng/
 * Atlassian https://developer.atlassian.com/blog/
 * Atomic Object https://spin.atomicobject.com/
+* AUTO1 Group https://auto1.tech/
 * Auth0 https://auth0.com/blog/
 * Avenue Code http://blog.avenuecode.com/
 * AWS https://aws.amazon.com/blogs/aws/
