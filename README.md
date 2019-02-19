@@ -667,6 +667,7 @@
 * Nikolay Nemshilov http://nikolay.rocks/
 * NSHipster http://nshipster.com/
 * Nate Berkopec http://www.nateberkopec.com/
+* Nikita Sobolev https://sobolevn.me/
 
 #### O individuals
 * Ofer Zelig https://fullstack.info
