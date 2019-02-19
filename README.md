@@ -263,6 +263,7 @@
 * Myntra Data Science http://sartorialscience.myntrablogs.com/
 
 #### N companies
+* N26 https://medium.com/insiden26/tagged/technology
 * Netflix https://medium.com/netflix-techblog
 * New York Times https://open.blogs.nytimes.com
 * Nextdoor https://engblog.nextdoor.com/
