@@ -743,6 +743,7 @@
 #### V individuals
 * Vanilla Java http://vanillajava.blogspot.com/
 * Vlad Mihalcea https://vladmihalcea.com/
+* Vladimir Jovanović https://vladimirj.dev/blog/
 
 #### W individuals
 * Wilfred Hughes http://www.wilfred.me.uk/
