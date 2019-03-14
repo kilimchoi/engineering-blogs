@@ -672,6 +672,7 @@
 * Ofer Zelig https://fullstack.info
 * Ole Begemann https://oleb.net/blog/
 * Oona Räisänen http://www.windytan.com/
+* Oleg Kobchenko http://olegykj.sourceforge.net/
 
 #### P individuals
 * Pamela Fox http://blog.pamelafox.org/
