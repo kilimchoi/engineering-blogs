@@ -552,6 +552,7 @@
 * Freek Van der Herten https://murze.be/
 
 #### G individuals
+* Gideon Pyzer https://gideonpyzer.dev/blog/
 * Gleb Bahmutov https://glebbahmutov.com/blog/
 * Graham King https://www.darkcoding.net/
 * Grzegorz Gajos http://ggajos.com/
