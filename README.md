@@ -472,6 +472,7 @@
 * Andreas Schuster https://computer.forensikblog.de/en/
 * Andrew Bancroft http://www.andrewcbancroft.com/
 * Andrew Brampton https://blog.bramp.net/
+* Andrew Healey https://healeycodes.github.io/
 * Andrew Ray https://blog.andrewray.me/
 * Andrey Akinshin http://aakinshin.net/blog/
 * Antirez http://antirez.com/latest/0
