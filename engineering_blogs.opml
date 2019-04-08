@@ -466,6 +466,7 @@
       <outline type="rss" text="James Long" title="James Long" xmlUrl="http://feedpress.me/jlongster" htmlUrl="http://jlongster.com/archive"/>
       <outline type="rss" text="Jamis Buck" title="Jamis Buck" xmlUrl="http://feeds.feedburner.com/buckblog" htmlUrl="http://weblog.jamisbuck.org/"/>
       <outline type="rss" text="Jan Lelis" title="Jan Lelis" xmlUrl="https://idiosyncratic-ruby.com/feed.xml" htmlUrl="https://idiosyncratic-ruby.com/"/>
+      <outline type="rss" text="Jason McCreary" title="Jason McCreary" xmlUrl="https://jasonmccreary.me/feed.atom" htmlUrl="https://jasonmccreary.me/"/>
       <outline type="rss" text="Jay Fields" title="Jay Fields" xmlUrl="http://blog.jayfields.com/feeds/posts/default" htmlUrl="http://blog.jayfields.com"/>
       <outline type="rss" text="Jeff Atwood" title="Jeff Atwood" xmlUrl="http://feeds.feedburner.com/codinghorror" htmlUrl="https://blog.codinghorror.com/"/>
       <outline type="rss" text="Jeff Preshing" title="Jeff Preshing" xmlUrl="http://preshing.com/feed" htmlUrl="http://preshing.com/"/>

@@ -584,6 +584,7 @@
 * James Long http://jlongster.com/archive
 * Jamis Buck http://weblog.jamisbuck.org/
 * Jan Lelis https://idiosyncratic-ruby.com/
+* Jason McCreary https://jasonmccreary.me/
 * Jay Fields http://blog.jayfields.com
 * Jeff Atwood https://blog.codinghorror.com/
 * Jeff Preshing http://preshing.com/
