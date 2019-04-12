@@ -363,7 +363,7 @@
 * Stormpath https://stormpath.com/blog/
 * Strava https://medium.com/strava-engineering/
 * Stride https://blog.stridenyc.com/
-* Stripe https://stripe.com/blog
+* Stripe https://stripe.com/blog/engineering
 * SurveyMonkey https://engineering.surveymonkey.com/
 
 #### T companies
