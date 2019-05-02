@@ -733,6 +733,7 @@
 * The Daily WTF http://thedailywtf.com/
 * Thomas Young http://upcoder.com
 * Tikhon Jelvis http://jelv.is/blog/
+* Tit Petric https://scene-si.org/
 * Todd Motto https://toddmotto.com/
 * T.J. Maher http://adventuresinautomation.blogspot.com/
 
