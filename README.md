@@ -119,6 +119,7 @@
 * DoorDash https://blog.doordash.com/tagged/engineering
 * Drivy https://drivy.engineering/
 * Dropbox https://blogs.dropbox.com/tech/
+* Druva https://www.druva.com/tech-engineering/
 
 #### E companies
 * Ebay https://www.ebayinc.com/stories/blogs/tech/
