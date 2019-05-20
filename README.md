@@ -195,6 +195,7 @@
 * Hostinger https://www.hostinger.com/blog/engineering/
 * Housing.com https://medium.com/engineering-housing
 * HubSpot http://product.hubspot.com/blog/topic/engineering
+* Hudl https://www.hudl.com/bits
 
 #### I companies
 * IBM developerWorks https://developer.ibm.com/dwblog/
