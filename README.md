@@ -308,6 +308,7 @@
 * REA Group http://rea.tech/engineering/
 * Realm.io https://realm.io/news/
 * Redbubble http://artplustech.com/
+* Redgate https://medium.com/ingeniouslysimple/
 * Redino http://redino.net/blog/
 * Red Hat https://developers.redhat.com/blog/
 * Remind http://engineering.remind.com/
