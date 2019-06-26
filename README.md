@@ -181,7 +181,7 @@
 * HackerEarth http://engineering.hackerearth.com/
 * Haptik https://haptik.ai/tech/
 * Harry's http://engineering.harrys.com/
-* Hashnode https://hashnode.blog/
+* Hashnode https://engineering.hashnode.com/
 * Hashrocket https://hashrocket.com/blog
 * Hasura https://blog.hasura.io/
 * Haus https://engineering.haus.com
