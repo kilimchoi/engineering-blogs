@@ -134,7 +134,7 @@
 * Eventbrite https://www.eventbrite.com/engineering/
 * Evernote https://evernote.com/blog/
 * Evil Martians https://evilmartians.com/chronicles/
-* Expedia https://techblog.expedia.com/
+* Expedia Group https://medium.com/expedia-group-tech
 
 #### F companies
 * Facebook https://code.facebook.com/posts/
@@ -189,7 +189,6 @@
 * HERE https://developer.here.com/blog
 * Heroku https://blog.heroku.com/engineering
 * HireArt http://code.hireart.com/
-* HomeAway https://tech.homeaway.com/
 * Honeybadger http://blog.honeybadger.io/
 * Hootsuite http://code.hootsuite.com/
 * Hostinger https://www.hostinger.com/blog/engineering/
