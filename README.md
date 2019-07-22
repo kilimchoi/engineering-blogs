@@ -105,6 +105,7 @@
 * Criteo http://engineering.criteolabs.com/
 * Crowdfire https://crowdfire.engineering/
 * Curalate http://engineering.curalate.com/
+* Codurence https://codurance.com/blog/page3/
 
 #### D companies
 * Data Artisans https://data-artisans.com/blog/
