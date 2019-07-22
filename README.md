@@ -347,6 +347,7 @@
 * SlideShare https://engineering.linkedin.com/blog/topic/slideshare
 * Small Improvements https://tech.small-improvements.com/
 * SmartRecruiters https://up.smartrecruiters.com
+* SmartyStreets https://smartystreets.com/blog
 * Snyk https://snyk.io/blog
 * Songkick https://devblog.songkick.com/
 * Soshace https://blog.soshace.com/en/
