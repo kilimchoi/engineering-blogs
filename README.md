@@ -95,6 +95,7 @@
 * Codementor https://www.codementor.io/tutorial
 * CodeName One http://www.codenameone.com/blog.html
 * Codeship https://blog.codeship.com/
+* Codurence https://codurance.com/blog/page3/
 * Coinbase https://engineering.coinbase.com/
 * Collective Idea https://collectiveidea.com/blog
 * Commercetools https://techblog.commercetools.com/
@@ -105,7 +106,6 @@
 * Criteo http://engineering.criteolabs.com/
 * Crowdfire https://crowdfire.engineering/
 * Curalate http://engineering.curalate.com/
-* Codurence https://codurance.com/blog/page3/
 
 #### D companies
 * Data Artisans https://data-artisans.com/blog/
