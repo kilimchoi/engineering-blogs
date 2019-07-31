@@ -231,6 +231,7 @@
 #### L companies
 * Latacora https://latacora.singles/
 * Laterooms http://engineering.laterooms.com/
+* Leapfrog https://lftechnology.com/blog
 * LendingHome https://tech.lendinghome.com/
 * LINE https://engineering.linecorp.com/en/blog
 * LinkedIn https://engineering.linkedin.com/blog
