@@ -195,6 +195,7 @@
 * Hostinger https://www.hostinger.com/blog/engineering/
 * Housing.com https://medium.com/engineering-housing
 * HubSpot http://product.hubspot.com/blog/topic/engineering
+* Hudson's Bay Company https://tech.hbc.com/
 
 #### I companies
 * IBM developerWorks https://developer.ibm.com/dwblog/
