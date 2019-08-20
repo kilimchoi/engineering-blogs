@@ -117,6 +117,7 @@
 * Discord https://blog.discordapp.com/
 * Docker https://blog.docker.com/category/engineering/
 * DoorDash https://blog.doordash.com/tagged/engineering
+* Doximity https://engineering.doximity.com
 * Drivy https://drivy.engineering/
 * Dropbox https://blogs.dropbox.com/tech/
 
