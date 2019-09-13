@@ -292,6 +292,7 @@
 * Pinterest https://medium.com/@Pinterest_Engineering
 * Pivotal https://engineering.pivotal.io
 * Pluralsight https://www.pluralsight.com/guides
+* Postman https://medium.com/better-practices
 * Postmark https://postmarkapp.com/blog
 * Postmates https://blog.postmates.com/tagged/engineering
 * Prezi https://medium.com/prezi-engineering
