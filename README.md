@@ -71,7 +71,6 @@
 * Blogfoster http://engineering.blogfoster.com/
 * BloomReach http://engineering.bloomreach.com/
 * Booking.com https://blog.booking.com/
-* Box https://www.box.com/blog/engineering/
 * Boxever http://www.boxever.com/blog/
 * Brandwatch http://engineering.brandwatch.com/
 * Buzzfeed https://www.buzzfeed.com/techblog
@@ -108,23 +107,23 @@
 * Curalate http://engineering.curalate.com/
 
 #### D companies
-* Dailymotion http://engineering.dailymotion.com/
 * Data Artisans https://data-artisans.com/blog/
 * Databricks https://databricks.com/blog
 * DataFox http://eng.datafox.co/
 * Deezer https://deezer.io/
 * DeferPanic https://deferpanic.com/blog/
-* Deis https://deis.com/blog
 * Deliveroo https://deliveroo.engineering/
 * DigitalOcean https://www.digitalocean.com/community/tutorials
 * Discord https://blog.discordapp.com/
-* Docker https://blog.docker.com/category/engineering/
+* Docker https://blog.docker.com/
+* Docker Engineering https://engineering.docker.com/
 * DoorDash https://blog.doordash.com/tagged/engineering
+* Doximity https://engineering.doximity.com
 * Drivy https://drivy.engineering/
 * Dropbox https://blogs.dropbox.com/tech/
 
 #### E companies
-* Ebay http://www.ebaytechblog.com/
+* Ebay https://www.ebayinc.com/stories/blogs/tech/
 * eFounders https://medium.com/unexpected-token
 * Eharmony http://www.eharmony.com/engineering/
 * Elastic https://www.elastic.co/blog/category/engineering
@@ -186,6 +185,7 @@
 * Harry's http://engineering.harrys.com/
 * Hashnode https://hashnode.blog/
 * Hashrocket https://hashrocket.com/blog
+* Hasura https://blog.hasura.io/
 * Haus https://engineering.haus.com
 * Heap https://heap.engineering/
 * HERE https://developer.here.com/blog
@@ -293,6 +293,7 @@
 * Pinterest https://medium.com/@Pinterest_Engineering
 * Pivotal https://engineering.pivotal.io
 * Pluralsight https://www.pluralsight.com/guides
+* Postman https://medium.com/better-practices
 * Postmark https://postmarkapp.com/blog
 * Postmates https://blog.postmates.com/tagged/engineering
 * Prezi https://medium.com/prezi-engineering
@@ -360,6 +361,7 @@
 * Square https://corner.squareup.com/
 * Squarespace https://engineering.squarespace.com/
 * Stack Overflow https://stackoverflow.blog/engineering/
+* Stackshare https://stackshare.io/feed
 * Stitch Fix http://multithreaded.stitchfix.com/blog/
 * Stormpath https://stormpath.com/blog/
 * Strava https://medium.com/strava-engineering/
@@ -590,6 +592,7 @@
 * Jeff Preshing http://preshing.com/
 * Jeremy Kun https://jeremykun.com/
 * Jerry Gamblin https://jerrygamblin.com/
+* Jesal Gadhia https://jes.al/
 * Jessie Frazelle https://blog.jessfraz.com/
 * Jesus Castello http://www.blackbytes.info/
 * Joe Armstrong https://joearms.github.io/
@@ -607,6 +610,7 @@
 * Josh Sherman https://joshtronic.com/
 * Juan Treminio https://jtreminio.com
 * Julia Evans https://jvns.ca/
+* Junior Grossi https://blog.jgrossi.com/
 * Justin Weiss https://www.justinweiss.com/articles/archives/
 * Juri Strumpflohner https://juristr.com/blog/
 
