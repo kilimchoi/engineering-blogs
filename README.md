@@ -728,6 +728,7 @@
 * Steve Yegge https://steve-yegge.blogspot.com/
 * Sudhagar http://sudhagar.com/
 * Swizec Teller https://swizec.com/blog/
+* Swadesh Behera https://www.angularcode.com/
 
 #### T individuals
 * Tero Parviainen http://teropa.info/
