@@ -23,6 +23,9 @@
 
 ### Companies
 
+#### Aggregations
+* FullJoin.io https://fulljoin.io
+
 #### \# companies
 * 500px https://developers.500px.com/
 * 8th Light https://8thlight.com/blog/
