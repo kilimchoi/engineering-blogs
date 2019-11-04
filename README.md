@@ -368,6 +368,7 @@
 * Stride https://blog.stridenyc.com/
 * Stripe https://stripe.com/blog
 * SurveyMonkey https://engineering.surveymonkey.com/
+* Swiggy https://bytes.swiggy.com/
 
 #### T companies
 * Takipi http://blog.takipi.com/
