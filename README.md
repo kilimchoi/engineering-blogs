@@ -506,6 +506,7 @@
 * Bjørn Johansen https://bjornjohansen.no/
 * Blake Erickson https://blog.blakeerickson.com/
 * Blundell's Android Tutorials http://blog.blundellapps.co.uk
+* Bogdan Covrig https://bogdan.covrig.me/categories/blog/
 * Bohops https://bohops.com/
 * Brandon Rhodes http://rhodesmill.org/brandon/
 * Brendan Eich https://brendaneich.com/
