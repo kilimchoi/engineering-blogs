@@ -347,6 +347,7 @@
 * Semaphore CI Community https://semaphoreci.com/community
 * Semaphore CI Engineering http://semaphoreci.com/blog/tags/engineering.html
 * Sensible http://blog.sensible.io/
+* SEP https://sep.com/sep-blog/
 * Serverless https://serverless.com/blog/
 * Settled https://engineroom.settled.co.uk/
 * Shape Security http://engineering.shapesecurity.com/
