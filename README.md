@@ -266,7 +266,7 @@
 * MemSQL http://blog.memsql.com/content/engineering/
 * Mesosphere https://mesosphere.com/blog/
 * Microsoft Python Engineering https://blogs.msdn.microsoft.com/pythonengineering/
-* Mixmax https://mixmax.com/blog/tag/engineering
+* Mixmax https://engineering.mixmax.com/
 * Mixpanel https://code.mixpanel.com/
 * MongoDB https://engineering.mongodb.com/
 * Monsanto http://engineering.monsanto.com/
