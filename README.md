@@ -631,6 +631,7 @@
 #### K individuals
 * K. Harrison https://useyourloaf.com/
 * Kai Hendry https://hendry.iki.fi/
+* Kevin Avignon https://kevinavignon.com
 * Kevin Burke https://kev.inburke.com/
 * Kirill Shevchenko https://medium.com/@kirill_shevch
 * Kyle Kingsbury https://aphyr.com/
