@@ -1,9 +1,9 @@
 # Software Engineering Blogs [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 <div align="center">
-  <h1>
-	  Subscribe to <a href="https://tinyletter.com/kichoi">dev weekly</a> to get the best 3-5 blog posts every week!
-  </h1>
+  <h2>
+	  Subscribe to <a href="https://tinyletter.com/kichoi">dev weekly</a> to get the best curated blog posts every week!
+  </h2>
 </div>  
 
 ### [Companies](#companies-1)
