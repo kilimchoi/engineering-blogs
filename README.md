@@ -798,7 +798,7 @@
 * .NET https://blogs.msdn.microsoft.com/dotnet/
 
 #### R technologies
-* React https://facebook.github.io/react/blog/
+* React https://reactjs.org/blog/
 * React Native http://facebook.github.io/react-native/blog/
 * Red http://www.red-lang.org
 * RocksDB http://rocksdb.org/blog
