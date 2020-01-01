@@ -75,7 +75,6 @@
 * BlackRock http://rockthecode.io/
 * Blender https://code.blender.org/
 * Blogfoster http://engineering.blogfoster.com/
-* BloomReach http://engineering.bloomreach.com/
 * Booking.com https://blog.booking.com/
 * Boxever http://www.boxever.com/blog/
 * Brandwatch http://engineering.brandwatch.com/
