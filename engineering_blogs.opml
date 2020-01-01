@@ -620,7 +620,7 @@
       <outline type="rss" text="Laravel" title="Laravel" xmlUrl="https://feed.laravel-news.com/" htmlUrl="https://laravel-news.com/blog/"/>
       <outline type="rss" text="Microsoft Edge" title="Microsoft Edge" xmlUrl="https://blogs.windows.com/msedgedev/rss" htmlUrl="https://blogs.windows.com/msedgedev/"/>
       <outline type="rss" text=".NET" title=".NET" xmlUrl="https://blogs.msdn.microsoft.com/dotnet/feed/" htmlUrl="https://blogs.msdn.microsoft.com/dotnet/"/>
-      <outline type="rss" text="React" title="React" xmlUrl="https://facebook.github.io/feed.xml" htmlUrl="https://facebook.github.io/react/blog/"/>
+      <outline type="rss" text="React" title="React" xmlUrl="https://reactjs.org/feed.xml" htmlUrl="https://reactjs.org/blog/"/>
       <outline type="rss" text="React Native" title="React Native" xmlUrl="https://facebook.github.io/react-native/blog/atom.xml" htmlUrl="http://facebook.github.io/react-native/blog/"/>
       <outline type="rss" text="Red" title="Red" xmlUrl="https://www.red-lang.org/feeds/posts/default" htmlUrl="http://www.red-lang.org"/>
       <outline type="rss" text="RocksDB" title="RocksDB" xmlUrl="http://rocksdb.org/feed.xml" htmlUrl="http://rocksdb.org/blog"/>
