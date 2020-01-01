@@ -104,7 +104,7 @@
       <outline type="rss" text="Eventbrite" title="Eventbrite" xmlUrl="https://www.eventbrite.com/engineering/feed/" htmlUrl="https://www.eventbrite.com/engineering/"/>
       <outline type="rss" text="Evernote" title="Evernote" xmlUrl="https://evernote.com/blog/feed/" htmlUrl="https://evernote.com/blog/"/>
       <outline type="rss" text="Evil Martians" title="Evil Martians" xmlUrl="https://evilmartians.com/chronicles.atom" htmlUrl="https://evilmartians.com/chronicles/"/>
-      <outline type="rss" text="Expedia" title="Expedia" xmlUrl="https://techblog.expedia.com/feed/" htmlUrl="https://techblog.expedia.com/"/>
+      <outline type="rss" text="Expedia" title="Expedia" xmlUrl="https://medium.com/feed/expedia-group-tech" htmlUrl="https://medium.com/expedia-group-tech"/>
       <outline type="rss" text="Facebook" title="Facebook" xmlUrl="https://code.fb.com/feed/" htmlUrl="https://code.facebook.com/posts/"/>
       <outline type="rss" text="Facebook AI Research" title="Facebook AI Research" xmlUrl="https://research.fb.com/feed/" htmlUrl="https://research.facebook.com/blog/ai/"/>
       <outline type="rss" text="Faraday" title="Faraday" xmlUrl="https://blog.faraday.io/rss/" htmlUrl="http://blog.faraday.io/"/>

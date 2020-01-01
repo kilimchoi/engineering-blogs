@@ -4,7 +4,7 @@
   <h2>
 	  Subscribe to <a href="https://tinyletter.com/kichoi">dev weekly</a> to get the best curated blog posts every week!
   </h2>
-</div>  
+</div>
 
 ### [Companies](#companies-1)
 |     |     |     |     |     |     |     |     |     |
@@ -141,7 +141,7 @@
 * Eventbrite https://www.eventbrite.com/engineering/
 * Evernote https://evernote.com/blog/
 * Evil Martians https://evilmartians.com/chronicles/
-* Expedia https://techblog.expedia.com/
+* Expedia https://medium.com/expedia-group-tech
 
 #### F companies
 * Facebook https://code.facebook.com/posts/
@@ -426,7 +426,6 @@
 * WePay https://wecode.wepay.com/
 * Wimdu http://tech.wimdu.com/
 * Wingify http://engineering.wingify.com/
-* Wix https://www.wix.engineering/blog
 * Wolox https://medium.com/@WoloxEngineering/
 * Wombat Security Technologies http://development.wombatsecurity.com/
 * Wonga Technology http://tech.wonga.com/
