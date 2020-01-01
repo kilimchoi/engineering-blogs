@@ -90,7 +90,7 @@
 * Chef https://blog.chef.io
 * Clever https://engineering.clever.com/
 * CleverTap https://clevertap.com/blog/tag/engineering/
-* CloudBees https://www.cloudbees.com/blog
+* CloudBees https://www.previous.cloudbees.com/blog
 * Cloudera https://blog.cloudera.com/
 * Cloudflare https://blog.cloudflare.com/
 * CockroachDB https://www.cockroachlabs.com/blog/

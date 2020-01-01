@@ -57,7 +57,7 @@
       <outline type="rss" text="Chef" title="Chef" xmlUrl="https://blog.chef.io/rss" htmlUrl="https://blog.chef.io"/>
       <outline type="rss" text="Clever" title="Clever" xmlUrl="https://engineering.clever.com/rss" htmlUrl="https://engineering.clever.com/"/>
       <outline type="rss" text="CleverTap" title="CleverTap" xmlUrl="https://clevertap.com/blog/tag/engineering/feed/" htmlUrl="https://clevertap.com/blog/tag/engineering/"/>
-      <outline type="rss" text="CloudBees" title="CloudBees" xmlUrl="https://www.cloudbees.com/blog.xml" htmlUrl="https://www.cloudbees.com/blog"/>
+      <outline type="rss" text="CloudBees" title="CloudBees" xmlUrl="https://www.previous.cloudbees.com/blog.xml" htmlUrl="https://www.previous.cloudbees.com/blog"/>
       <outline type="rss" text="Cloudera" title="Cloudera" xmlUrl="https://blog.cloudera.com/feed/" htmlUrl="https://blog.cloudera.com/"/>
       <outline type="rss" text="Cloudflare" title="Cloudflare" xmlUrl="https://blog.cloudflare.com/rss/" htmlUrl="https://blog.cloudflare.com/"/>
       <outline type="rss" text="CockroachDB" title="CockroachDB" xmlUrl="https://www.cockroachlabs.com/blog/index.xml" htmlUrl="https://www.cockroachlabs.com/blog/"/>
