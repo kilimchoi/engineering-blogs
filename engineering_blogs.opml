@@ -208,7 +208,7 @@
       <outline type="rss" text="Mozilla Hacks" title="Mozilla Hacks" xmlUrl="https://hacks.mozilla.org/feed/" htmlUrl="https://hacks.mozilla.org/"/>
       <outline type="rss" text="Mozilla Release Engineering" title="Mozilla Release Engineering" xmlUrl="http://planet.mozilla.org/releng/atom.xml" htmlUrl="https://planet.mozilla.org/releng/"/>
       <outline type="rss" text="Myntra" title="Myntra" xmlUrl="https://medium.com/feed/myntra-engineering" htmlUrl="https://medium.com/myntra-engineering"/>
-      <outline type="rss" text="Myntra Data Science" title="Myntra Data Science" xmlUrl="http://sartorialscience.myntrablogs.com/atom.xml" htmlUrl="http://sartorialscience.myntrablogs.com/"/>
+      <outline type="rss" text="Myntra Data Science" title="Myntra Data Science" xmlUrl="https://medium.com/feed/myntra-engineering/tagged/data-science" htmlUrl="https://medium.com/myntra-engineering/tagged/data-science"/>
       <outline type="rss" text="Netflix" title="Netflix" xmlUrl="https://medium.com/feed/netflix-techblog" htmlUrl="https://medium.com/netflix-techblog"/>
       <outline type="rss" text="New York Times" title="New York Times" xmlUrl="https://open.nytimes.com/feed" htmlUrl="https://open.blogs.nytimes.com"/>
       <outline type="rss" text="Nextdoor" title="Nextdoor" xmlUrl="https://engblog.nextdoor.com/feed" htmlUrl="https://engblog.nextdoor.com/"/>

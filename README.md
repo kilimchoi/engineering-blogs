@@ -265,7 +265,7 @@
 * Mozilla Hacks https://hacks.mozilla.org/
 * Mozilla Release Engineering https://planet.mozilla.org/releng/
 * Myntra https://medium.com/myntra-engineering
-* Myntra Data Science http://sartorialscience.myntrablogs.com/
+* Myntra Data Science https://medium.com/myntra-engineering/tagged/data-science
 
 #### N companies
 * Netflix https://medium.com/netflix-techblog
