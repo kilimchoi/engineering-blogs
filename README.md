@@ -663,7 +663,7 @@
 #### N individuals
 * Natasha Murashev https://natashatherobot.com
 * Nelson Elhage https://blog.nelhage.com/
-* Nic Raboy https://blog.nraboy.com/
+* Nic Raboy https://www.thepolyglotdeveloper.com/blog/
 * Nick Craver https://nickcraver.com/blog/
 * Nick Desaulniers https://nickdesaulniers.github.io/
 * Nick Galbreath http://www.client9.com/
