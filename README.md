@@ -2,7 +2,7 @@
 
 <div align="center">
   <h2>
-	  Subscribe to <a href="https://tinyletter.com/kichoi">dev weekly</a> to get the best curated blog posts every week!
+	  Subscribe to <a href="https://devweekly.substack.com/p/coming-soon?r=6a2p&utm_campaign=post&utm_medium=web&utm_source=copy">dev weekly</a> to get the best curated blog posts every week!
   </h2>
 </div>
 
