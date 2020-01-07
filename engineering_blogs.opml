@@ -240,7 +240,7 @@
       <outline type="rss" text="Pusher" title="Pusher" xmlUrl="https://making.pusher.com/feed.xml" htmlUrl="https://making.pusher.com/"/>
       <outline type="rss" text="Raizlabs" title="Raizlabs" xmlUrl="https://www.raizlabs.com/dev/feed/" htmlUrl="https://www.raizlabs.com/dev/"/>
       <outline type="rss" text="RapidAPI" title="RapidAPI" xmlUrl="https://blog.rapidapi.com/feed/" htmlUrl="http://blog.rapidapi.com/"/>
-      <outline type="rss" text="REA Group" title="REA Group" xmlUrl="http://rea.tech/feed/" htmlUrl="http://rea.tech/engineering/"/>
+      <outline type="rss" text="REA Group" title="REA Group" xmlUrl="https://www.rea-group.com/category/tech/feed/" htmlUrl="https://www.rea-group.com/category/tech/"/>
       <outline type="rss" text="Realm.io" title="Realm.io" xmlUrl="https://realm.io/feed.xml" htmlUrl="https://realm.io/news/"/>
       <outline type="rss" text="Redbubble" title="Redbubble" xmlUrl="http://artplustech.com/feed/" htmlUrl="http://artplustech.com/"/>
       <outline type="rss" text="Redino" title="Redino" xmlUrl="http://redino.net/blog/feed/" htmlUrl="http://redino.net/blog/"/>
