@@ -300,6 +300,7 @@
 * Postman https://medium.com/better-practices
 * Postmark https://postmarkapp.com/blog
 * Postmates https://blog.postmates.com/tagged/engineering
+* Preply https://medium.com/preply-engineering
 * Prezi https://medium.com/prezi-engineering
 * Prolific Interactive http://blog.prolificinteractive.com/category/development/
 * PubNub: https://www.pubnub.com/blog/
@@ -474,6 +475,7 @@
 * Alex Russell https://infrequently.org/
 * Allison Kaptur http://akaptur.com/
 * Amit Merchant https://www.amitmerchant.com/
+* Amet Umerov https://medium.com/@Amet13
 * Anders Aarvik http://aarvik.dk/
 * Andreas Schuster https://computer.forensikblog.de/en/
 * Andrew Bancroft http://www.andrewcbancroft.com/
