@@ -312,7 +312,7 @@
 #### R companies
 * Raizlabs https://www.raizlabs.com/dev/
 * RapidAPI http://blog.rapidapi.com/
-* REA Group http://rea.tech/engineering/
+* REA Group https://www.rea-group.com/category/tech/
 * Realm.io https://realm.io/news/
 * Redbubble http://artplustech.com/
 * Redino http://redino.net/blog/
