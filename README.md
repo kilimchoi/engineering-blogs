@@ -122,6 +122,7 @@
 * Discord https://blog.discordapp.com/
 * Docker https://blog.docker.com/
 * Docker Engineering https://engineering.docker.com/
+* Doctolib https://medium.com/doctolib/tech-and-product/
 * DoorDash https://blog.doordash.com/tagged/engineering
 * Doximity https://engineering.doximity.com
 * Drivy https://drivy.engineering/
