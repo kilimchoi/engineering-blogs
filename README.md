@@ -560,6 +560,7 @@
 
 #### G individuals
 * Gleb Bahmutov https://glebbahmutov.com/blog/
+* Glenn Engstrand http://glennengstrand.info
 * Graham King https://www.darkcoding.net/
 * Grzegorz Gajos http://ggajos.com/
 * Guido van Rossum http://neopythonic.blogspot.com/
