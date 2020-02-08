@@ -726,6 +726,7 @@
 * Simon Reimler https://devdactic.com/devblog/
 * Srinivas Tamada https://www.9lessons.info/
 * Stack Abuse http://www.stackabuse.com/
+* Stanko Tadić https://muffinman.io
 * Stefan Parker http://codebeforethehorse.tumblr.com/
 * Stephen Colebourne http://blog.joda.org/
 * Steve Bellovin https://www.cs.columbia.edu/~smb/blog/control/
