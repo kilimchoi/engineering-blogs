@@ -722,6 +722,7 @@
 * Sakib Sami https://www.sakib.ninja
 * Sam Saffron https://samsaffron.com/
 * Sergey Zhuk http://sergeyzhuk.me/
+* Schakko https://schakko.de
 * Scott Hanselman http://www.hanselman.com/blog/
 * Scott Johnson http://www.fuzzyblog.io/blog/
 * Simon Reimler https://devdactic.com/devblog/
