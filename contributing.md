@@ -14,9 +14,10 @@ Please ensure your pull request adheres to the following guidelines:
 If you do not have Ruby readily available the following steps can be used to run the OPML generation script with Docker:
 
 ```
-docker run -it -e LANG=C.UTF-8 --name=blogs ruby:2.2 /bin/bash
+docker run -it -e LANG=C.UTF-8 --name=blogs ruby:2.5 /bin/bash
 git clone https://github.com/<username>/engineering-blogs.git
 cd engineering-blogs
+gem install bundler
 bundle install
 ruby generate_opml.rb
 docker cp blogs:/engineering-blogs/engineering_blogs.opml .

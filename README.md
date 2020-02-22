@@ -109,6 +109,7 @@
 * Coolblue http://devblog.coolblue.nl/
 * Criteo https://medium.com/criteo-labs
 * Crowdfire https://crowdfire.engineering/
+* CSC - IT Center For Science - Cloud Team https://cloud.blog.csc.fi/
 * Curalate http://engineering.curalate.com/
 
 #### D companies
