@@ -582,6 +582,7 @@
 * Ievgen Kuzminov http://stdout.in/
 * Ilija Eftimov http://ieftimov.com/
 * Ilya Grigorik https://www.igvita.com/
+* Itamar Turner-Trauring https://codewithoutrules.com
 * Ivan Ursul https://ivanursul.com/
 
 #### J individuals
