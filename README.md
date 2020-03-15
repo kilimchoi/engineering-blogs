@@ -195,6 +195,7 @@
 * Hasura https://blog.hasura.io/
 * Haus https://engineering.haus.com
 * Heap https://heap.engineering/
+* Helpshift https://medium.com/helpshift-engineering/
 * HERE https://developer.here.com/blog
 * Heroku https://blog.heroku.com/engineering
 * HireArt http://code.hireart.com/
