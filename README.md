@@ -738,6 +738,7 @@
 * Swizec Teller https://swizec.com/blog/
 
 #### T individuals
+* Tania Rascia https://tania.dev/
 * Tero Parviainen http://teropa.info/
 * That Thing In Swift https://thatthinginswift.com/
 * The Coded Self http://www.thecodedself.com
