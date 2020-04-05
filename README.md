@@ -146,7 +146,7 @@
 
 #### F companies
 * Facebook https://code.facebook.com/posts/
-* Facebook AI Research https://research.facebook.com/blog/ai/
+* Facebook AI Research https://engineering.fb.com/category/ai-research/
 * Faraday http://blog.faraday.io/
 * Feedzai https://medium.com/feedzaitech
 * Fiftythree http://making.fiftythree.com/
