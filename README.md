@@ -122,7 +122,6 @@
 * DigitalOcean https://blog.digitalocean.com/tag/engineering/
 * Discord https://blog.discordapp.com/
 * Docker https://blog.docker.com/
-* Docker Engineering https://engineering.docker.com/
 * DoorDash https://blog.doordash.com/tagged/engineering
 * Doximity https://engineering.doximity.com
 * Drivy https://drivy.engineering/
