@@ -78,6 +78,7 @@
 * Booking.com https://blog.booking.com/
 * Boxever http://www.boxever.com/blog/
 * Brandwatch http://engineering.brandwatch.com/
+* BuildPan https://blogs.buildpan.com/
 * Buzzfeed https://www.buzzfeed.com/techblog
 
 #### C companies
