@@ -44,6 +44,7 @@
 * Airbnb https://medium.com/airbnb-engineering
 * Airtame https://airtame.engineering
 * Algolia https://blog.algolia.com/
+* Algorithmia https://algorithmia.com/blog
 * Allegro.tech https://allegro.tech
 * Appnexus https://techblog.appnexus.com/
 * Arkency http://blog.arkency.com/
@@ -78,6 +79,7 @@
 * Booking.com https://blog.booking.com/
 * Boxever http://www.boxever.com/blog/
 * Brandwatch http://engineering.brandwatch.com/
+* BuildPan https://blogs.buildpan.com/
 * Buzzfeed https://www.buzzfeed.com/techblog
 
 #### C companies
@@ -103,6 +105,7 @@
 * Coinbase https://engineering.coinbase.com/
 * Collective Idea https://collectiveidea.com/blog
 * Commercetools https://techblog.commercetools.com/
+* complyadvantage https://complyadvantage.com/blog/
 * Condé Nast https://technology.condenast.com/
 * Confluent https://www.confluent.io/blog
 * Convox https://convox.com/blog
@@ -270,6 +273,7 @@
 * Myntra Data Science https://medium.com/myntra-engineering/tagged/data-science
 
 #### N companies
+* NanoNets https://nanonets.com/blog/
 * Netflix https://medium.com/netflix-techblog
 * New York Times https://open.blogs.nytimes.com
 * Nextdoor https://engblog.nextdoor.com/
@@ -583,6 +587,7 @@
 * Ievgen Kuzminov http://stdout.in/
 * Ilija Eftimov http://ieftimov.com/
 * Ilya Grigorik https://www.igvita.com/
+* Invenia https://invenia.github.io/blog/
 * Itamar Turner-Trauring https://codewithoutrules.com
 * Ivan Ursul https://ivanursul.com/
 
