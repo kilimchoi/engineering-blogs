@@ -271,6 +271,7 @@
 * Myntra Data Science https://medium.com/myntra-engineering/tagged/data-science
 
 #### N companies
+* NanoNets https://nanonets.com/blog/
 * Netflix https://medium.com/netflix-techblog
 * New York Times https://open.blogs.nytimes.com
 * Nextdoor https://engblog.nextdoor.com/
