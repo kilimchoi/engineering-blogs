@@ -104,6 +104,7 @@
 * Coinbase https://engineering.coinbase.com/
 * Collective Idea https://collectiveidea.com/blog
 * Commercetools https://techblog.commercetools.com/
+* complyadvantage https://complyadvantage.com/blog/
 * Condé Nast https://technology.condenast.com/
 * Confluent https://www.confluent.io/blog
 * Convox https://convox.com/blog
