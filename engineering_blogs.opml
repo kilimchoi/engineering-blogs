@@ -17,6 +17,7 @@
       <outline type="rss" text="Airbnb" title="Airbnb" xmlUrl="https://medium.com/feed/airbnb-engineering" htmlUrl="https://medium.com/airbnb-engineering"/>
       <outline type="rss" text="Airtame" title="Airtame" xmlUrl="https://airtame.engineering/feed" htmlUrl="https://airtame.engineering"/>
       <outline type="rss" text="Algolia" title="Algolia" xmlUrl="https://blog.algolia.com/feed/" htmlUrl="https://blog.algolia.com/"/>
+      <outline type="rss" text="Algorithmia" title="Algorithmia" xmlUrl="https://algorithmia.com/blog/feed" htmlUrl="https://algorithmia.com/blog"/>
       <outline type="rss" text="Allegro.tech" title="Allegro.tech" xmlUrl="https://allegro.tech/feed.xml" htmlUrl="https://allegro.tech"/>
       <outline type="rss" text="Appnexus" title="Appnexus" xmlUrl="https://techblog.appnexus.com/feed" htmlUrl="https://techblog.appnexus.com/"/>
       <outline type="rss" text="Arkency" title="Arkency" xmlUrl="http://blog.arkency.com/atom.xml" htmlUrl="http://blog.arkency.com/"/>
