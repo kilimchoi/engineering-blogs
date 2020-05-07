@@ -44,6 +44,7 @@
 * Airbnb https://medium.com/airbnb-engineering
 * Airtame https://airtame.engineering
 * Algolia https://blog.algolia.com/
+* Algorithmia https://algorithmia.com/blog
 * Allegro.tech https://allegro.tech
 * Appnexus https://techblog.appnexus.com/
 * Arkency http://blog.arkency.com/
