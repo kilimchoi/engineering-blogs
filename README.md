@@ -653,6 +653,7 @@
 * Matt Might http://matt.might.net/articles/
 * Matt Warren http://mattwarren.org/
 * Matthew Green https://blog.cryptographyengineering.com/
+* Maxim Zhukov http://fsou1.github.io/
 * Michael Crump https://michaelcrump.net/
 * Michaël Gallego http://www.michaelgallego.fr/articles/
 * Michael Herman http://mherman.org/
