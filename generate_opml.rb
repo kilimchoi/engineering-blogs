@@ -72,8 +72,12 @@ matches.each do |match|
     puts "#{name}: GETTING"
     rss_check_url = "http://ajax.googleapis.com/ajax/services/feed/lookup?v=1.0&q=#{web_url}"
     uri = URI.parse(rss_check_url)
-    response = JSON.parse(Net::HTTP.get(uri))
-    rss_url = response['responseData']['url'] if response['responseData'] && response['responseData'].has_key?('url')
+    begin
+        response = JSON.parse(Net::HTTP.get(uri))
+        rss_url = response['responseData']['url'] if response['responseData'] && response['responseData'].has_key?('url')
+    rescue Exception => e
+        puts "#{name}: RSS feed not found from Google Feeds Api. Using Feedbag instead"
+    end
 
     # use Feedbag as a backup to Google Feeds Api
     if rss_url.nil?
