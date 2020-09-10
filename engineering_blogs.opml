@@ -192,6 +192,7 @@
       <outline type="rss" text="LiveChat" title="LiveChat" xmlUrl="https://developers.livechatinc.com/blog/rss" htmlUrl="https://developers.livechatinc.com/blog/"/>
       <outline type="rss" text="LiveRamp" title="LiveRamp" xmlUrl="https://liveramp.com/engineering/feed/" htmlUrl="https://liveramp.com/engineering/"/>
       <outline type="rss" text="Localytics" title="Localytics" xmlUrl="https://eng.localytics.com/rss/" htmlUrl="http://eng.localytics.com/"/>
+      <outline type="rss" text="LoginRadius" title="LoginRadius" xmlUrl="https://www.loginradius.com/engineering/rss.xml" htmlUrl="https://www.loginradius.com/engineering/"/>
       <outline type="rss" text="Lyft" title="Lyft" xmlUrl="https://eng.lyft.com/feed" htmlUrl="https://eng.lyft.com/"/>
       <outline type="rss" text="Made Tech" title="Made Tech" xmlUrl="http://www.madetech.com/feed" htmlUrl="https://www.madetech.com/blog"/>
       <outline type="rss" text="Mallow Tech" title="Mallow Tech" xmlUrl="http://blog.mallow-tech.com/feed/" htmlUrl="http://blog.mallow-tech.com/"/>
