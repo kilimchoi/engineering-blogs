@@ -250,6 +250,7 @@
 
 #### M companies
 * Made Tech https://www.madetech.com/blog
+* Madanswer https://www.madanswer.com/
 * Mallow Tech http://blog.mallow-tech.com/
 * Mandrill http://blog.mandrill.com/
 * MapTiler https://www.maptiler.com/blog/
