@@ -386,6 +386,7 @@
 * Thoughtbot https://robots.thoughtbot.com/
 * ThoughtWorks https://www.thoughtworks.com/insights
 * Thumbtack https://www.thumbtack.com/engineering/
+* Thundra https://blog.thundra.io/
 * Ticketmaster https://tech.ticketmaster.com/
 * Timescale https://blog.timescale.com/
 * Tinder https://tech.gotinder.com/
