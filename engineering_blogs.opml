@@ -42,7 +42,7 @@
       <outline type="rss" text="Bitly" title="Bitly" xmlUrl="https://word.bitly.com/rss" htmlUrl="http://word.bitly.com/"/>
       <outline type="rss" text="BitTorrent" title="BitTorrent" xmlUrl="https://engineering.bittorrent.com/feed/" htmlUrl="http://engineering.bittorrent.com/"/>
       <outline type="rss" text="BlaBlaCar" title="BlaBlaCar" xmlUrl="https://medium.com/feed/blablacar-tech" htmlUrl="http://blablatech.com/blog/"/>
-      <outline type="rss" text="BlackRock" title="BlackRock" xmlUrl="http://rockthecode.io/feed/" htmlUrl="http://rockthecode.io/"/>
+      <outline type="rss" text="BlackRock" title="BlackRock" xmlUrl="https://medium.com/feed/blackrock-engineering" htmlUrl="https://medium.com/blackrock-engineering"/>
       <outline type="rss" text="Blender" title="Blender" xmlUrl="https://code.blender.org/rss" htmlUrl="https://code.blender.org/"/>
       <outline type="rss" text="Blogfoster" title="Blogfoster" xmlUrl="http://engineering.blogfoster.com/rss/" htmlUrl="http://engineering.blogfoster.com/"/>
       <outline type="rss" text="Boxever" title="Boxever" xmlUrl="https://www.boxever.com/feed/" htmlUrl="http://www.boxever.com/blog/"/>
