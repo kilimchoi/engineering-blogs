@@ -168,6 +168,7 @@
 * GIPHY https://engineering.giphy.com/
 * GitHub https://githubengineering.com/
 * GitHub Old https://github.com/blog/category/engineering
+* Glossier https://medium.com/glossier
 * GoCardless https://gocardless.com/blog/tagged/engineering/
 * Good Eggs https://team.goodeggs.com
 * Google Online Security https://security.googleblog.com/
