@@ -35,13 +35,13 @@
 * 99designs https://99designs.com/tech-blog/
 
 #### A companies
-* AdRoll http://tech.adroll.com/blog/
-* Addepar https://medium.com/build-addepar
+* AdRoll http://tech.adroll.com/blog/ • [@NextRollDev](https://twitter.com/NextRollDev)
+* Addepar https://medium.com/build-addepar • [@AddeparBuild](https://twitter.com/AddeparBuild)
 * Affinity https://build.affinity.co/
 * Airbrake https://airbrake.io/blog/
 * AirPair https://www.airpair.com/software-experts
 * Advanced Web Machinery https://advancedweb.hu/
-* Airbnb https://medium.com/airbnb-engineering
+* Airbnb https://medium.com/airbnb-engineering • [@AirbnbEng](https://twitter.com/AirbnbEng)
 * Airtame https://airtame.engineering
 * Algolia https://blog.algolia.com/
 * Allegro.tech https://allegro.tech
@@ -49,7 +49,7 @@
 * Arkency http://blog.arkency.com/
 * Artsy http://artsy.github.io/
 * Asana https://blog.asana.com/category/eng/
-* Atlassian https://developer.atlassian.com/blog/
+* Atlassian https://developer.atlassian.com/blog/ • [@atlassiandev](https://twitter.com/atlassiandev)
 * Atomic Object https://spin.atomicobject.com/
 * Auth0 https://auth0.com/blog/
 * Avenue Code http://blog.avenuecode.com/
@@ -59,7 +59,7 @@
 #### B companies
 * Babbel https://bytes.babbel.com/en/
 * Backtrace https://backtrace.io/blog/
-* Badoo https://techblog.badoo.com/
+* Badoo https://techblog.badoo.com/ • [@BumbleEng](https://twitter.com/BumbleEng)
 * Baidu Research http://research.baidu.com/Blog
 * Bandcamp https://bandcamptech.wordpress.com/
 * Base Lab https://lab.getbase.com/category/engineering/
@@ -118,7 +118,7 @@
 * DataFox http://eng.datafox.co/
 * Deezer https://deezer.io/
 * DeferPanic https://deferpanic.com/blog/
-* Deliveroo https://deliveroo.engineering/
+* Deliveroo https://deliveroo.engineering/ • [@DeliverooEng](https://twitter.com/DeliverooEng)
 * DigitalOcean https://blog.digitalocean.com/tag/engineering/
 * Discord https://blog.discordapp.com/
 * Docker https://blog.docker.com/
@@ -166,7 +166,7 @@
 * Geoblink https://tech.geoblink.com
 * Gilt http://tech.gilt.com
 * GIPHY https://engineering.giphy.com/
-* GitHub https://githubengineering.com/
+* GitHub https://githubengineering.com/ • [@GitHubEng](https://twitter.com/GitHubEng)
 * GitHub Old https://github.com/blog/category/engineering
 * GoCardless https://gocardless.com/blog/tagged/engineering/
 * Good Eggs https://team.goodeggs.com
@@ -213,7 +213,7 @@
 * Imgur https://blog.imgur.com/category/eng/
 * Indeed http://engineering.indeedblog.com/blog/
 * Instacart https://tech.instacart.com/
-* Instagram https://engineering.instagram.com/
+* Instagram https://engineering.instagram.com/ • [@instagrameng](https://twitter.com/instagrameng)
 * Intel https://software.intel.com/en-us/blogs/
 * Intent HQ http://engineering.intenthq.com/
 * Intent Media http://intentmedia.com/blog/
@@ -242,11 +242,11 @@
 * Laterooms http://engineering.laterooms.com/
 * LendingHome https://tech.lendinghome.com/
 * LINE https://engineering.linecorp.com/en/blog
-* LinkedIn https://engineering.linkedin.com/blog
+* LinkedIn https://engineering.linkedin.com/blog • [@LinkedInEng](https://twitter.com/LinkedInEng)
 * LiveChat https://developers.livechatinc.com/blog/
 * LiveRamp https://liveramp.com/engineering/
 * Localytics http://eng.localytics.com/
-* Lyft https://eng.lyft.com/
+* Lyft https://eng.lyft.com/ • [@lyfteng](https://twitter.com/lyfteng)
 
 #### M companies
 * Made Tech https://www.madetech.com/blog
@@ -254,13 +254,13 @@
 * Mandrill http://blog.mandrill.com/
 * MapTiler https://www.maptiler.com/blog/
 * Medallia http://engineering.medallia.com/blog/
-* Medium https://medium.com/medium-eng
+* Medium https://medium.com/medium-eng • [@MediumEng](https://twitter.com/mediumeng)
 * MemSQL http://blog.memsql.com/content/engineering/
 * Mesosphere https://mesosphere.com/blog/
 * Microsoft Python Engineering https://blogs.msdn.microsoft.com/pythonengineering/
 * Mixmax https://engineering.mixmax.com/
 * Mixpanel https://code.mixpanel.com/
-* MongoDB https://engineering.mongodb.com/
+* MongoDB https://engineering.mongodb.com/ • [@MongoDBEng](https://twitter.com/mongodbeng)
 * Monsanto http://engineering.monsanto.com/
 * Moove-it https://blog.moove-it.com/
 * Mozilla Automation Team https://planet.mozilla.org/ateam/
@@ -293,10 +293,10 @@
 #### P companies
 * Panorama Education http://engineering.panoramaed.com/
 * Paperless Post https://www.paperlesspost.com/blog/teams/tech/
-* Paypal https://www.paypal-engineering.com/
+* Paypal https://www.paypal-engineering.com/ • [@PayPalEng](https://twitter.com/PayPalEng)
 * Periscope Data https://www.periscopedata.com/blog
 * PicCollage https://tech.pic-collage.com/
-* Pinterest https://medium.com/@Pinterest_Engineering
+* Pinterest https://medium.com/@Pinterest_Engineering • [@PinterestEng](https://twitter.com/PinterestEng)
 * Pivotal https://engineering.pivotal.io
 * Pluralsight https://www.pluralsight.com/guides
 * Postman https://medium.com/better-practices
@@ -362,15 +362,15 @@
 * Soundcloud https://developers.soundcloud.com/blog/
 * SourceClear https://blog.sourceclear.com/
 * Speedledger http://engineering.speedledger.com/
-* Spotify https://labs.spotify.com/
+* Spotify https://labs.spotify.com/ • [@SpotifyEng](https://twitter.com/spotifyeng)
 * Sqreen https://blog.sqreen.io/
-* Square https://corner.squareup.com/
+* Square https://corner.squareup.com/ • [@squareeng](https://twitter.com/squareeng)
 * Squarespace https://engineering.squarespace.com/
 * Stack Overflow https://stackoverflow.blog/engineering/
 * Stackshare https://stackshare.io/feed
 * Stitch Fix http://multithreaded.stitchfix.com/blog/
 * Stormpath https://stormpath.com/blog/
-* Strava https://medium.com/strava-engineering/
+* Strava https://medium.com/strava-engineering/ • [@StravaEng](https://twitter.com/stravaeng)
 * Stride https://blog.stridenyc.com/
 * Stripe https://stripe.com/blog
 * SurveyMonkey https://engineering.surveymonkey.com/
@@ -398,11 +398,11 @@
 * TrueCar https://www.drivenbycode.com/
 * Tumblr https://engineering.tumblr.com/
 * Twilio https://www.twilio.com/blog/
-* Twitter https://blog.twitter.com/engineering
+* Twitter https://blog.twitter.com/engineering • [@TwitterEng](https://twitter.com/TwitterEng)
 * Twitch https://blog.twitch.tv/tagged/engineering
 
 #### U companies
-* Uber http://eng.uber.com/
+* Uber http://eng.uber.com/ • [@UberEng](https://twitter.com/UberEng)
 * Universe https://engineering.universe.com
 * Upday https://upday.github.io/
 * UpGrad https://engineering.upgrad.com
