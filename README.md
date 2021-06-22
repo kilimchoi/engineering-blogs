@@ -1,9 +1,22 @@
 # Software Engineering Blogs [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
 <div align="center">
-  <h2>
-	  Subscribe to <a href="https://devweekly.substack.com/p/coming-soon?r=6a2p&utm_campaign=post&utm_medium=web&utm_source=copy">dev weekly</a> to get the best curated blog posts every week!
-  </h2>
+	<br>
+	<br>
+	<hr>
+	<p>
+		<sup>Special thanks to:</sup>
+		<a href="https://doppler.com/?utm_campaign=github_repo&utm_medium=referral&utm_content=engblogs&utm_source=github">
+			<div>
+				<img src="https://dashboard.doppler.com/imgs/logo-long.svg" width="230" alt="Doppler">
+			</div>
+			<b>All your environment variables, in one place</b>
+			<div>
+				<sub>Stop struggling with scattered API keys, hacking together home-brewed tools,</sub>
+				<br>
+				<sup>and avoiding access controls. Keep your team and servers in sync with Doppler.</sup>
+			</div>
+		</a>
+	</p>
 </div>
 
 ### [Companies](#companies-1)
