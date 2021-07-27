@@ -670,6 +670,7 @@
 * Michael Crump https://michaelcrump.net/
 * Michaël Gallego http://www.michaelgallego.fr/articles/
 * Michael Herman http://mherman.org/
+* Michael Hoffmann https://mokkapps.de/blog/
 * Miguel Quinones https://www.miqu.me/
 * Mike Ash https://www.mikeash.com/pyblog/
 * Mike Fogus http://blog.fogus.me/
