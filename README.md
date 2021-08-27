@@ -168,6 +168,7 @@
 * Firmafon https://dev.firmafon.dk/blog/
 * Flickr http://code.flickr.net/
 * Flipboard http://engineering.flipboard.com/
+* Flipkart http://tech.flipkart.com/
 * Foursquare https://engineering.foursquare.com/
 * Freeletics https://freeletics.engineering/
 * Funding Circle https://engineering.fundingcircle.com/
