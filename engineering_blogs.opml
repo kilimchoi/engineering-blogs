@@ -204,6 +204,7 @@
       <outline type="rss" text="Microsoft Python Engineering" title="Microsoft Python Engineering" xmlUrl="http://blogs.msdn.microsoft.com/pythonengineering/feed/" htmlUrl="https://blogs.msdn.microsoft.com/pythonengineering/"/>
       <outline type="rss" text="Mixmax" title="Mixmax" xmlUrl="https://engineering.mixmax.com/rss/" htmlUrl="https://engineering.mixmax.com/"/>
       <outline type="rss" text="Mixpanel" title="Mixpanel" xmlUrl="https://engineering.mixpanel.com/feed/" htmlUrl="https://code.mixpanel.com/"/>
+      <outline type="rss" text="Mobimeo" title="Mobimeo" xmlUrl="https://medium.com/feed/mobimeo-technology" htmlUrl="https://medium.com/mobimeo-technology"/>
       <outline type="rss" text="MongoDB" title="MongoDB" xmlUrl="https://engineering.mongodb.com/post?format=RSS" htmlUrl="https://engineering.mongodb.com/"/>
       <outline type="rss" text="Monsanto" title="Monsanto" xmlUrl="http://engineering.monsanto.com/feed.xml" htmlUrl="http://engineering.monsanto.com/"/>
       <outline type="rss" text="Moove-it" title="Moove-it" xmlUrl="https://blog.moove-it.com/rss" htmlUrl="https://blog.moove-it.com/"/>
