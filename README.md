@@ -497,6 +497,7 @@
 * Andrew Brampton https://blog.bramp.net/
 * Andrew Ray https://blog.andrewray.me/
 * Andrey Akinshin http://aakinshin.net/blog/
+* Anish Kumar https://stackfull.dev
 * Antirez http://antirez.com/latest/0
 * Ariejan de Vroom https://ariejan.net/
 * Ariya Hidayat https://ariya.io/
