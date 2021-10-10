@@ -578,6 +578,7 @@
 * Gleb Bahmutov https://glebbahmutov.com/blog/
 * Glenn Engstrand http://glennengstrand.info
 * Graham King https://www.darkcoding.net/
+- Greg Kroah-Hartman http://kroah.com/log/
 * Grzegorz Gajos http://ggajos.com/
 * Guido van Rossum http://neopythonic.blogspot.com/
 * Guilherme Rodrigues https://firstdoit.com/
