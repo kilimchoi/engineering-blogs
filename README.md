@@ -183,7 +183,7 @@
 * GitHub https://githubengineering.com/
 * GitHub Old https://github.com/blog/category/engineering
 * GoCardless https://gocardless.com/blog/tagged/engineering/
-* GoDaddy https://www.godaddy.com/engineering/
+* GoDaddy https://godaddy.github.io/engineering/
 * Good Eggs https://team.goodeggs.com
 * Google Online Security https://security.googleblog.com/
 * Google Research https://research.googleblog.com/

@@ -128,6 +128,7 @@
       <outline type="rss" text="GitHub" title="GitHub" xmlUrl="https://githubengineering.com/atom.xml" htmlUrl="https://githubengineering.com/"/>
       <outline type="rss" text="GitHub Old" title="GitHub Old" xmlUrl="https://blog.github.com/feed.xml" htmlUrl="https://github.com/blog/category/engineering"/>
       <outline type="rss" text="GoCardless" title="GoCardless" xmlUrl="https://gocardless.com/blog/atom.xml" htmlUrl="https://gocardless.com/blog/tagged/engineering/"/>
+      <outline type="rss" text="GoDaddy" title="GoDaddy" xmlUrl="https://godaddy.github.io/engineering/feed.xml" htmlUrl="https://godaddy.github.io/engineering/"/>
       <outline type="rss" text="Good Eggs" title="Good Eggs" xmlUrl="https://team.goodeggs.com/feed" htmlUrl="https://team.goodeggs.com"/>
       <outline type="rss" text="Google Online Security" title="Google Online Security" xmlUrl="https://security.googleblog.com/feeds/posts/default" htmlUrl="https://security.googleblog.com/"/>
       <outline type="rss" text="Google Research" title="Google Research" xmlUrl="http://ai.googleblog.com/feeds/posts/default" htmlUrl="https://research.googleblog.com/"/>
