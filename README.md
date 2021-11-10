@@ -465,6 +465,7 @@
 
 #### A individuals
 * Aaron Patterson http://tenderlovemaking.com/
+* Aaron Suggs https://ktheory.com/
 * Abhinaba Basu https://blogs.msdn.com/b/abhinaba/
 * Abu Ashraf Masnun http://masnun.com/
 * Adam Bard https://adambard.com/blog/
