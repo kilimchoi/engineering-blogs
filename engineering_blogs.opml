@@ -100,6 +100,7 @@
       <outline type="rss" text="Entelo" title="Entelo" xmlUrl="https://sourcecode.entelo.com/feed.xml" htmlUrl="https://sourcecode.entelo.com/"/>
       <outline type="rss" text="Envato" title="Envato" xmlUrl="https://webuild.envato.com/atom.xml" htmlUrl="https://webuild.envato.com/"/>
       <outline type="rss" text="Envoy" title="Envoy" xmlUrl="https://envoy.engineering/feed" htmlUrl="https://envoy.engineering/"/>
+      <outline type="rss" text="EQ Works" title="EQ Works" xmlUrl="https://blog.eqworks.io/feed" htmlUrl="https://blog.eqworks.io/"/>
       <outline type="rss" text="Erlang Solutions" title="Erlang Solutions" xmlUrl="https://www.erlang-solutions.com/news.rss" htmlUrl="https://www.erlang-solutions.com/blog.html"/>
       <outline type="rss" text="Etsy" title="Etsy" xmlUrl="https://codeascraft.com/feed/" htmlUrl="https://codeascraft.com/"/>
       <outline type="rss" text="Eventbrite" title="Eventbrite" xmlUrl="https://www.eventbrite.com/engineering/feed/" htmlUrl="https://www.eventbrite.com/engineering/"/>
