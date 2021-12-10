@@ -90,6 +90,7 @@
 * Blogfoster http://engineering.blogfoster.com/
 * Booking.com https://blog.booking.com/
 * Boxever http://www.boxever.com/blog/
+* Brainboard https://blog.brainboard.co/
 * Brandwatch http://engineering.brandwatch.com/
 * Buzzfeed https://www.buzzfeed.com/techblog
 
