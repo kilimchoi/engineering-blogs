@@ -270,7 +270,7 @@
       <outline type="rss" text="Shape Security" title="Shape Security" xmlUrl="http://engineering.shapesecurity.com/rss" htmlUrl="http://engineering.shapesecurity.com/"/>
       <outline type="rss" text="Sharethis" title="Sharethis" xmlUrl="https://www.sharethis.com/feed/" htmlUrl="https://www.sharethis.com/category/engineering/"/>
       <outline type="rss" text="Shazam" title="Shazam" xmlUrl="https://blog.shazam.com/feed" htmlUrl="https://blog.shazam.com/"/>
-      <outline type="rss" text="Shopify" title="Shopify" xmlUrl="http://engineering.shopify.com/blogs/engineering.atom" htmlUrl="https://engineering.shopify.com"/>
+      <outline type="rss" text="Shopify" title="Shopify" xmlUrl="https://shopify.engineering/blog.atom" htmlUrl="https://shopify.engineering/"/>
       <outline type="rss" text="ShowMax" title="ShowMax" xmlUrl="https://tech.showmax.com/feed.xml" htmlUrl="https://tech.showmax.com"/>
       <outline type="rss" text="Shyp" title="Shyp" xmlUrl="https://medium.com/feed/shyp-engineering" htmlUrl="https://medium.com/shyp-engineering"/>
       <outline type="rss" text="Sift Science" title="Sift Science" xmlUrl="https://blog.siftscience.com/feed/" htmlUrl="https://blog.siftscience.com/?category=Engineering"/>
