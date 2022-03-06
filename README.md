@@ -771,6 +771,7 @@
 #### V individuals
 * Vanilla Java http://vanillajava.blogspot.com/
 * Vlad Mihalcea https://vladmihalcea.com/
+* Vedant Athavale - The Brown Fella https://www.thebrownfella.com/
 
 #### W individuals
 * Wilfred Hughes http://www.wilfred.me.uk/
