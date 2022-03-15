@@ -228,6 +228,7 @@
 * Indeed http://engineering.indeedblog.com/blog/
 * Instacart https://tech.instacart.com/
 * Instagram https://engineering.instagram.com/
+* Instawork https://engineering.instawork.com/
 * Intel https://software.intel.com/en-us/blogs/
 * Intent HQ http://engineering.intenthq.com/
 * Intent Media http://intentmedia.com/blog/
