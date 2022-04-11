@@ -4,9 +4,11 @@ GEM
     builder (3.2.2)
     feedbag (0.9.5)
       nokogiri (~> 1.0)
-    mini_portile2 (2.4.0)
-    nokogiri (1.10.8)
-      mini_portile2 (~> 2.4.0)
+    mini_portile2 (2.8.0)
+    nokogiri (1.13.4)
+      mini_portile2 (~> 2.8.0)
+      racc (~> 1.4)
+    racc (1.6.0)
 
 PLATFORMS
   ruby
