@@ -719,6 +719,7 @@
 * Rachel Kroll https://rachelbythebay.com/w/
 * Radek Pazdera http://radek.io
 * Radim Řehůřek https://radimrehurek.com/blog/
+* Rafed Muhammad Yasir https://rafed.github.io/devra/
 * Ramon Fried https://nativeguru.wordpress.com/
 * Ray Wenderlich https://www.raywenderlich.com/
 * Raymond Chen https://blogs.msdn.microsoft.com/oldnewthing/
