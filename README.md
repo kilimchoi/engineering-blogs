@@ -309,6 +309,7 @@
 * Paperless Post https://www.paperlesspost.com/blog/teams/tech/
 * Paypal https://www.paypal-engineering.com/
 * Periscope Data https://www.periscopedata.com/blog
+* Photomath Engineering https://medium.com/photomath-engineering
 * PicCollage https://tech.pic-collage.com/
 * Pinterest https://medium.com/@Pinterest_Engineering
 * Pivotal https://engineering.pivotal.io
