@@ -1,12 +1,16 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    builder (3.2.2)
-    feedbag (0.9.5)
-      nokogiri (~> 1.0)
-    mini_portile2 (2.4.0)
-    nokogiri (1.10.8)
-      mini_portile2 (~> 2.4.0)
+    builder (3.2.4)
+    feedbag (0.10.1)
+      nokogiri (~> 1.8, >= 1.8.2)
+      open_uri_redirections (~> 0.2)
+    mini_portile2 (2.8.0)
+    nokogiri (1.13.8)
+      mini_portile2 (~> 2.8.0)
+      racc (~> 1.4)
+    open_uri_redirections (0.2.1)
+    racc (1.6.0)
 
 PLATFORMS
   ruby
