@@ -232,6 +232,7 @@
 * Intent HQ http://engineering.intenthq.com/
 * Intent Media http://intentmedia.com/blog/
 * Intercom https://engineering.intercom.io/
+* Itsmycode https://itsmycode.com/
 * Intuit https://quickbooks-engineering.intuit.com/
 * InVision http://engineering.invisionapp.com/
 
