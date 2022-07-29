@@ -22,10 +22,6 @@ jobs:
         run: |
           bundle install --jobs 4
 
-      - name: Generate opml file using ruby
-        run: |
-          ruby generate_opml.rb
-
       - name: Auto-Commit engineering_blogs file if updated
         uses: stefanzweifel/git-auto-commit-action@v4.1.5
         with:
