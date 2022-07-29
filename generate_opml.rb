@@ -70,7 +70,8 @@ matches.each do |match|
 
   if rss_url.nil?
     puts "#{name}: GETTING"
-    rss_check_url = "http://ajax.googleapis.com/ajax/services/feed/lookup?v=1.0&q=#{web_url}"
+    rss_check_url = "https://cloud.feedly.com/v3/search/feeds/?query=#{web_url}"
+    next if !rss_check_url
     uri = URI.parse(rss_check_url)
     response = JSON.parse(Net::HTTP.get(uri))
     rss_url = response['responseData']['url'] if response['responseData'] && response['responseData'].has_key?('url')
@@ -79,7 +80,7 @@ matches.each do |match|
     if rss_url.nil?
       rss_url = Feedbag.find(web_url).first
       if rss_url.nil?
-        suggested_paths = ['/rss', '/feed', '/feeds', '/atom.xml', '/feed.xml', '/rss.xml', '.atom']
+        suggested_paths = ['/rss', '/feed', '/feeds', '/atom.xml', '/feed.xml', '/rss.xml', '.atom', '.rss']
         suggested_paths.each do |suggested_path|
           rss_url = Feedbag.find("#{web_url.chomp('/')}#{suggested_path}").first
           break if rss_url

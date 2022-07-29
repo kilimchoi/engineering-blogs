@@ -305,6 +305,7 @@
 * Realm.io https://realm.io/news/
 * Redbubble http://artplustech.com/
 * Redino http://redino.net/blog/
+* Reddit https://www.reddit.com/r/RedditEng/
 * Red Hat https://developers.redhat.com/blog/
 * Remind http://engineering.remind.com/
 * RetailMeNot https://medium.com/retailmenot-engineering/

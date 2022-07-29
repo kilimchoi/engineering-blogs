@@ -220,6 +220,7 @@
       <outline type="rss" text="Realm.io" title="Realm.io" xmlUrl="https://realm.io/feed.xml" htmlUrl="https://realm.io/news/"/>
       <outline type="rss" text="Redbubble" title="Redbubble" xmlUrl="http://artplustech.com/feed/" htmlUrl="http://artplustech.com/"/>
       <outline type="rss" text="Redino" title="Redino" xmlUrl="http://redino.net/blog/feed/" htmlUrl="http://redino.net/blog/"/>
+      <outline type="rss" text="Reddit" title="Reddit" xmlUrl="https://www.reddit.com/login/?dest=https%3A%2F%2Fwww.reddit.com%2Fr%2FRedditEng.atom" htmlUrl="https://www.reddit.com/r/RedditEng/"/>
       <outline type="rss" text="Red Hat" title="Red Hat" xmlUrl="https://developers.redhat.com/blog/feed/atom/" htmlUrl="https://developers.redhat.com/blog/"/>
       <outline type="rss" text="Remind" title="Remind" xmlUrl="http://engineering.remind.com/feed.xml" htmlUrl="http://engineering.remind.com/"/>
       <outline type="rss" text="RetailMeNot" title="RetailMeNot" xmlUrl="https://medium.com/feed/retailmenot-engineering" htmlUrl="https://medium.com/retailmenot-engineering/"/>
