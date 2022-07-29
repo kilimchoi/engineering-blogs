@@ -331,7 +331,7 @@
 * Settled https://engineroom.settled.co.uk/
 * Sharethis https://www.sharethis.com/category/engineering/
 * Shazam https://blog.shazam.com/
-* Shopify https://engineering.shopify.com
+* Shopify https://shopify.engineering/
 * ShowMax https://tech.showmax.com
 * Shyp https://medium.com/shyp-engineering
 * Sift Science https://blog.siftscience.com/?category=Engineering
