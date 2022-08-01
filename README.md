@@ -204,6 +204,7 @@
 * Hostinger https://www.hostinger.com/blog/engineering/
 * Housing.com https://medium.com/engineering-housing
 * HubSpot http://product.hubspot.com/blog/topic/engineering
+* Hevo Data https://hevodata.com/learn/
 
 #### I companies
 * IBM developerWorks https://developer.ibm.com/dwblog/
