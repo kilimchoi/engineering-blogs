@@ -541,6 +541,7 @@
 * Guilherme Rodrigues https://firstdoit.com/
 
 #### H individuals
+* Hanami Mastery https://hanamimastery.com
 * Hayden James https://haydenjames.io/
 * Henrik Lau Eriksson https://conductofcode.io/
 * Henrik Warne https://henrikwarne.com/
