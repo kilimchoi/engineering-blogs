@@ -202,6 +202,7 @@
 * Honeybadger http://blog.honeybadger.io/
 * Hootsuite http://code.hootsuite.com/
 * Hostinger https://www.hostinger.com/blog/engineering/
+* Hoststar https://blog.hotstar.com/
 * Housing.com https://medium.com/engineering-housing
 * HubSpot http://product.hubspot.com/blog/topic/engineering
 
