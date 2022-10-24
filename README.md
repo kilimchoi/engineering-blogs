@@ -76,6 +76,7 @@
 * BenefitFocus https://www.benefitfocus.com/blogs/design-engineering
 * Bigcommerce http://www.bigeng.io/
 * Binary Studio https://binary-studio.com/blog/
+* bitExpert https://blog.bitexpert.de/
 * BitTorrent http://engineering.bittorrent.com/
 * BlaBlaCar http://blablatech.com/blog/
 * BlackRock http://rockthecode.io/
