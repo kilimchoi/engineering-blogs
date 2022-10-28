@@ -3,20 +3,6 @@
 	<br>
 	<br>
 	<hr>
-	<p>
-		<sup>Special thanks to:</sup>
-		<a href="https://doppler.com/?utm_campaign=github_repo&utm_medium=referral&utm_content=engblogs&utm_source=github">
-			<div>
-				<img src="https://dashboard.doppler.com/imgs/logo-long.svg" width="230" alt="Doppler">
-			</div>
-			<b>All your environment variables, in one place</b>
-			<div>
-				<sub>Stop struggling with scattered API keys, hacking together home-brewed tools,</sub>
-				<br>
-				<sup>and avoiding access controls. Keep your team and servers in sync with Doppler.</sup>
-			</div>
-		</a>
-	</p>
 </div>
 
 ### [Companies](#companies-1)
