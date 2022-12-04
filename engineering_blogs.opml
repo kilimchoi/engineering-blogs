@@ -310,6 +310,7 @@
       <outline type="rss" text="WebEngage" title="WebEngage" xmlUrl="https://engineering.webengage.com/feed/" htmlUrl="http://engineering.webengage.com/"/>
       <outline type="rss" text="Wemake.services" title="Wemake.services" xmlUrl="https://medium.com/feed/wemake-services" htmlUrl="https://medium.com/wemake-services"/>
       <outline type="rss" text="WePay" title="WePay" xmlUrl="https://wecode.wepay.com/feed.xml" htmlUrl="https://wecode.wepay.com/"/>
+      <outline type="rss" text="Whatnot" title="Whatnot" xmlUrl="https://medium.com/feed/whatnot-engineering" htmlUrl="https://medium.com/whatnot-engineering"/>
       <outline type="rss" text="Wimdu" title="Wimdu" xmlUrl="http://tech.wimdu.com/rss" htmlUrl="http://tech.wimdu.com/"/>
       <outline type="rss" text="Wingify" title="Wingify" xmlUrl="http://engineering.wingify.com/atom.xml" htmlUrl="http://engineering.wingify.com/"/>
       <outline type="rss" text="Wombat Security Technologies" title="Wombat Security Technologies" xmlUrl="http://development.wombatsecurity.com/feed.xml" htmlUrl="http://development.wombatsecurity.com/"/>
