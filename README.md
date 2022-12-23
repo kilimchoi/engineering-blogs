@@ -345,6 +345,7 @@
 #### T companies
 * Takipi http://blog.takipi.com/
 * Target https://target.github.io/
+* Taro https://www.jointaro.com/blog/
 * TaskRabbit http://tech.taskrabbit.com/
 * Teamwork https://engineroom.teamwork.com/
 * Teespring http://teespring.engineering/

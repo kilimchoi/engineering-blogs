@@ -271,6 +271,7 @@
       <outline type="rss" text="Swiggy" title="Swiggy" xmlUrl="https://bytes.swiggy.com/feed" htmlUrl="https://bytes.swiggy.com/"/>
       <outline type="rss" text="Takipi" title="Takipi" xmlUrl="https://blog.takipi.com/feed/" htmlUrl="http://blog.takipi.com/"/>
       <outline type="rss" text="Target" title="Target" xmlUrl="https://target.github.io/feed.xml" htmlUrl="https://target.github.io/"/>
+      <outline type="rss" text="Taro" title="Taro" xmlUrl="https://www.jointaro.com/blog/rss/" htmlUrl="https://www.jointaro.com/blog/"/>
       <outline type="rss" text="TaskRabbit" title="TaskRabbit" xmlUrl="http://tech.taskrabbit.com/feed.xml" htmlUrl="http://tech.taskrabbit.com/"/>
       <outline type="rss" text="Teamwork" title="Teamwork" xmlUrl="https://engineroom.teamwork.com/feed" htmlUrl="https://engineroom.teamwork.com/"/>
       <outline type="rss" text="Teespring" title="Teespring" xmlUrl="http://teespring.engineering/index.xml" htmlUrl="http://teespring.engineering/"/>
