@@ -111,7 +111,7 @@
 * Dropbox https://blogs.dropbox.com/tech/
 
 #### E companies
-* Ebay https://www.ebayinc.com/stories/blogs/tech/
+* Ebay https://tech.ebayinc.com/rss
 * eFounders https://medium.com/unexpected-token
 * Eharmony http://www.eharmony.com/engineering/
 * Elastic https://www.elastic.co/blog/category/engineering
