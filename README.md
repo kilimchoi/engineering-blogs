@@ -681,6 +681,7 @@
 * Schakko https://schakko.de
 * Scott Hanselman http://www.hanselman.com/blog/
 * Scott Johnson http://www.fuzzyblog.io/blog/
+* Silvestar Bistrović https://www.silvestar.codes/
 * Simon Reimler https://devdactic.com/devblog/
 * Srinivas Tamada https://www.9lessons.info/
 * Stack Abuse http://www.stackabuse.com/
