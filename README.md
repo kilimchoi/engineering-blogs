@@ -147,8 +147,8 @@
 * Geoblink https://tech.geoblink.com
 * Gilt http://tech.gilt.com
 * GIPHY https://engineering.giphy.com/
-* GitHub https://githubengineering.com/
-* GitHub Old https://github.com/blog/category/engineering
+* GitHub https://github.com/blog/category/engineering
+* GitHub Old https://githubengineering.com/
 * GoCardless https://gocardless.com/blog/tagged/engineering/
 * GoDaddy https://godaddy.github.io/engineering/
 * Google Online Security https://security.googleblog.com/
