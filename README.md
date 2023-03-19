@@ -526,6 +526,7 @@
 * Henrik Lau Eriksson https://conductofcode.io/
 * Henrik Warne https://henrikwarne.com/
 * High Scalability http://highscalability.com/
+* Hristo Iliev https://thatonegamedev.com/
 * Huon Wilson http://huonw.github.io/
 * Hypriot http://blog.hypriot.com/
 
