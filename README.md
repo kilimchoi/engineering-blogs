@@ -735,6 +735,9 @@
 #### C technologies
 * Crystal https://crystal-lang.org/
 
+#### D technologies
+* Ditty https://ditty.ir/posts
+
 #### G technologies
 * Go https://blog.golang.org/
 
