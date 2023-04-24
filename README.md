@@ -65,6 +65,7 @@
 * Booking.com https://blog.booking.com/
 * Boxever http://www.boxever.com/blog/
 * Brandwatch http://engineering.brandwatch.com/
+* BaladMap https://virgool.io/BaladMaps/
 
 #### C companies
 * Canva https://engineering.canva.com
@@ -109,6 +110,8 @@
 * Doximity https://engineering.doximity.com
 * Drivy https://drivy.engineering/
 * Dropbox https://blogs.dropbox.com/tech/
+* Digikala https://tech.digikala.com/blog/engineering/
+* Divar https://virgool.io/divarposts/
 
 #### E companies
 * Ebay https://www.ebayinc.com/stories/blogs/tech/
@@ -242,7 +245,6 @@
 * Mozilla Automation Team https://planet.mozilla.org/ateam/
 * Mozilla Hacks https://hacks.mozilla.org/
 * Mozilla Release Engineering https://planet.mozilla.org/releng/
-* Neshan https://neshan.blog/
 
 #### N companies
 * Netflix https://medium.com/netflix-techblog
@@ -252,6 +254,7 @@
 * Novoda https://www.novoda.com/blog/
 * NPR Apps http://blog.apps.npr.org/
 * Nvidia https://blogs.nvidia.com/
+* NeshanMap https://neshan.blog/
 
 #### O companies
 * OCTO Technology https://blog.octo.com/en/
@@ -342,6 +345,7 @@
 * Stripe https://stripe.com/blog
 * SurveyMonkey https://engineering.surveymonkey.com/
 * Swiggy https://bytes.swiggy.com/
+* Snap https://engineering.snapp.ir/
 
 #### T companies
 * Takipi http://blog.takipi.com/
@@ -732,7 +736,6 @@
 
 #### B technologies
 * Bootstrap.com https://blog.getbootstrap.com/
-* BaladMap https://virgool.io/BaladMaps/
 
 #### C technologies
 * Crystal https://crystal-lang.org/
@@ -740,8 +743,6 @@
 
 #### D technologies
 * Ditty https://ditty.ir/posts
-* Digikala https://tech.digikala.com/blog/engineering/
-* Divar https://virgool.io/divarposts/
 
 #### G technologies
 * Go https://blog.golang.org/
@@ -775,7 +776,6 @@
 #### S technologies
 * Sketch https://blog.sketchapp.com/
 * Swift https://developer.apple.com/swift/blog/
-* Snap https://engineering.snapp.ir/
 * Sahab https://tech.sahab.ir/
 
 #### V technologies
