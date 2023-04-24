@@ -424,6 +424,7 @@
 * Zulily https://engineering.zulily.com/
 * Zumba http://tech.zumba.com/
 * Zynga https://www.zynga.com/blogs/engineering
+* Zoomit https://www.zoomit.ir/internet-network/
 
 ### Individuals/Group Contributors
 
