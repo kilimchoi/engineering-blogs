@@ -242,6 +242,7 @@
 * Mozilla Automation Team https://planet.mozilla.org/ateam/
 * Mozilla Hacks https://hacks.mozilla.org/
 * Mozilla Release Engineering https://planet.mozilla.org/releng/
+* Neshan https://neshan.blog/
 
 #### N companies
 * Netflix https://medium.com/netflix-techblog
@@ -731,12 +732,16 @@
 
 #### B technologies
 * Bootstrap.com https://blog.getbootstrap.com/
+* BaladMap https://virgool.io/BaladMaps/
 
 #### C technologies
 * Crystal https://crystal-lang.org/
+* CofeBazar https://virgool.io/cafebazaar/
 
 #### D technologies
 * Ditty https://ditty.ir/posts
+* Digikala https://tech.digikala.com/blog/engineering/
+* Divar https://virgool.io/divarposts/
 
 #### G technologies
 * Go https://blog.golang.org/
@@ -770,6 +775,8 @@
 #### S technologies
 * Sketch https://blog.sketchapp.com/
 * Swift https://developer.apple.com/swift/blog/
+* Snap https://engineering.snapp.ir/
+* Sahab https://tech.sahab.ir/
 
 #### V technologies
 * Vertabelo http://www.vertabelo.com/blog
