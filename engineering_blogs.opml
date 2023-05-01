@@ -280,6 +280,7 @@
       <outline type="rss" text="Thumbtack" title="Thumbtack" xmlUrl="https://www.thumbtack.com/engineering/feed/" htmlUrl="https://www.thumbtack.com/engineering/"/>
       <outline type="rss" text="Timescale" title="Timescale" xmlUrl="https://blog.timescale.com/feed" htmlUrl="https://blog.timescale.com/"/>
       <outline type="rss" text="Tinder" title="Tinder" xmlUrl="https://tech.gotinder.com/rss/" htmlUrl="https://tech.gotinder.com/"/>
+      <outline type="rss" text="TOPdesk" title="TOPdesk" xmlUrl="https://techblog.topdesk.com/feed/" htmlUrl="https://techblog.topdesk.com/"/>
       <outline type="rss" text="Toptal" title="Toptal" xmlUrl="https://www.toptal.com/blog.rss" htmlUrl="https://www.toptal.com/blog/"/>
       <outline type="rss" text="TrackMaven" title="TrackMaven" xmlUrl="http://engineroom.trackmaven.com/feeds/rss.xml" htmlUrl="http://engineroom.trackmaven.com/"/>
       <outline type="rss" text="Transferwise" title="Transferwise" xmlUrl="https://tech.transferwise.com/rss/" htmlUrl="http://tech.transferwise.com/"/>
