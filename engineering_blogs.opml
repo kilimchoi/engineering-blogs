@@ -167,6 +167,7 @@
       <outline type="rss" text="Kickstarter" title="Kickstarter" xmlUrl="https://kickstarter.engineering/feed" htmlUrl="https://www.kickstarter.com/backing-and-hacking"/>
       <outline type="rss" text="King" title="King" xmlUrl="https://techblog.king.com/feed/" htmlUrl="https://techblog.king.com/"/>
       <outline type="rss" text="Kinvolk" title="Kinvolk" xmlUrl="https://kinvolk.io/blog/index.xml" htmlUrl="https://kinvolk.io/blog/"/>
+      <outline type="rss" text="Klaviyo" title="Klaviyo" xmlUrl="https://klaviyo.tech/feed" htmlUrl="https://klaviyo.tech/"/>
       <outline type="rss" text="Kogan.com" title="Kogan.com" xmlUrl="https://devblog.kogan.com/blog?format=RSS" htmlUrl="https://devblog.kogan.com/"/>
       <outline type="rss" text="Kolosek" title="Kolosek" xmlUrl="https://kolosek.com/rss/" htmlUrl="https://kolosek.com/blog/"/>
       <outline type="rss" text="Latacora" title="Latacora" xmlUrl="https://latacora.micro.blog/feed.xml" htmlUrl="https://latacora.singles/"/>
