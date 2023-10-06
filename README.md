@@ -28,8 +28,10 @@
 * 99designs https://99designs.com/tech-blog/
 
 #### A companies
+* Adobe https://blog.developer.adobe.com/
 * AdRoll http://tech.adroll.com/blog/
 * Advanced Web Machinery https://advancedweb.hu/
+* Agoda https://medium.com/@agoda.eng
 * Airbnb https://medium.com/airbnb-engineering
 * Algolia https://blog.algolia.com/
 * Allegro.tech https://allegro.tech
@@ -55,12 +57,15 @@
 * BBC https://medium.com/bbc-design-engineering/
 * Benchling https://benchling.engineering/
 * BenefitFocus https://www.benefitfocus.com/blogs/design-engineering
+* Bharatpe https://labs.bharatpe.com/series/tech
 * Bigcommerce http://www.bigeng.io/
 * Binary Studio https://binary-studio.com/blog/
+* Bing https://blogs.bing.com/Engineering-Blog
 * BitTorrent http://engineering.bittorrent.com/
 * BlaBlaCar http://blablatech.com/blog/
 * BlackRock http://rockthecode.io/
 * Blender https://code.blender.org/
+* Blinkit https://lambda.blinkit.com/
 * Blogfoster http://engineering.blogfoster.com/
 * Booking.com https://blog.booking.com/
 * Boxever http://www.boxever.com/blog/
@@ -90,6 +95,7 @@
 * Confluent https://www.confluent.io/blog
 * Convox https://convox.com/blog
 * Coolblue http://devblog.coolblue.nl/
+* Cred https://engineering.cred.club/
 * Credit Karma https://engineering.creditkarma.com/
 * Criteo https://medium.com/criteo-labs
 * Crowdfire https://crowdfire.engineering/
@@ -109,6 +115,7 @@
 * Doximity https://engineering.doximity.com
 * Drivy https://drivy.engineering/
 * Dropbox https://blogs.dropbox.com/tech/
+* Dunzo https://blog.dunzo.com/
 
 #### E companies
 * Ebay https://www.ebayinc.com/stories/blogs/tech/
@@ -136,6 +143,7 @@
 * Finn.no http://tech.finn.no/
 * Firmafon https://dev.firmafon.dk/blog/
 * Flickr http://code.flickr.net/
+* Flipkart https://blog.flipkart.tech/
 * Foursquare https://engineering.foursquare.com/
 * Freeletics https://freeletics.engineering/
 * Future Processing https://www.future-processing.pl/technical-blog/
@@ -183,6 +191,7 @@
 * Honeybadger http://blog.honeybadger.io/
 * Hootsuite http://code.hootsuite.com/
 * Hostinger https://www.hostinger.com/blog/engineering/
+* Hotstar https://blog.hotstar.com/
 * Housing.com https://medium.com/engineering-housing
 * HubSpot http://product.hubspot.com/blog/topic/engineering
 
@@ -193,6 +202,7 @@
 * Imaginea https://blog.imaginea.com/
 * Imgur https://blog.imgur.com/category/eng/
 * Indeed http://engineering.indeedblog.com/blog/
+* Infosys https://blogs.infosys.com/
 * Instacart https://tech.instacart.com/
 * Instagram https://engineering.instagram.com/
 * Intel https://software.intel.com/en-us/blogs/
@@ -202,6 +212,7 @@
 #### J companies
 * Jane Street https://blogs.janestreet.com/category/ocaml/
 * Jet Technology https://tech.jet.com/
+* Jio https://medium.com/engineering-jio-com
 * Jobandtalent https://jobandtalent.engineering/
 * JobTeaser https://medium.com/jobteaser-dev-team/
 * Jolly Good Code https://jollygoodcode.github.io/
@@ -247,7 +258,10 @@
 * Netflix https://medium.com/netflix-techblog
 * New York Times https://open.blogs.nytimes.com
 * Nextdoor https://engblog.nextdoor.com/
+* Nike https://medium.com/nikeengineering
+* Nobroker https://medium.com/nobroker-engineering
 * Nordic APIs https://nordicapis.com/blog/
+* Notion https://www.notion.so/blog/topic/tech
 * Novoda https://www.novoda.com/blog/
 * NPR Apps http://blog.apps.npr.org/
 * Nvidia https://blogs.nvidia.com/
@@ -258,6 +272,7 @@
 * OLX https://tech.olx.com/
 * OmniTI https://omniti.com/seeds/stop-collaborate-and-listen-notify
 * OpenDNS https://engineering.opendns.com/
+* OpenAI https://openai.com/blog
 * Oursky https://code.oursky.com/
 * Opensooq http://engineering.opensooq.com/
 
@@ -265,6 +280,8 @@
 * Panorama Education http://engineering.panoramaed.com/
 * Paperless Post https://www.paperlesspost.com/blog/teams/tech/
 * Paypal https://www.paypal-engineering.com/
+* Paytm https://paytm.com/blog/engineering/
+* Phonepe https://tech.phonepe.com/
 * PicCollage https://tech.pic-collage.com/
 * Pinterest https://medium.com/@Pinterest_Engineering
 * Pivotal https://engineering.pivotal.io
@@ -278,6 +295,7 @@
 * PullReview http://blog.8thcolor.com/
 
 #### Q companies
+* Qualcomm https://developer.qualcomm.com/blogs
 * Quora https://engineering.quora.com/
 
 #### R companies
@@ -393,6 +411,7 @@
 * WePay https://wecode.wepay.com/
 * Wimdu http://tech.wimdu.com/
 * Wingify http://engineering.wingify.com/
+* Wipro https://www.wipro.com/blogs/
 * Wombat Security Technologies http://development.wombatsecurity.com/
 * Wonga Technology http://tech.wonga.com/
 * WyeWorks https://wyeworks.com/blog/
@@ -427,6 +446,7 @@
 
 #### A individuals
 * Aaron Patterson http://tenderlovemaking.com/
+* Ajit Fawade https://blog.ajitfawade.com/
 * Abu Ashraf Masnun http://masnun.com/
 * Addy Osmani https://addyosmani.com/blog/
 * Alan Storm http://alanstorm.com/
