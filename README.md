@@ -327,6 +327,7 @@
 * Snyk https://snyk.io/blog
 * Soshace https://blog.soshace.com/en/
 * Soundcloud https://developers.soundcloud.com/blog/
+* Spacelift https://spacelift.io/blog
 * SourceClear https://blog.sourceclear.com/
 * Speedledger http://engineering.speedledger.com/
 * Spotify https://labs.spotify.com/
