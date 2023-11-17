@@ -9,6 +9,7 @@
       <outline type="rss" text="99designs" title="99designs" xmlUrl="https://99designs.com/tech-blog/feed.xml" htmlUrl="https://99designs.com/tech-blog/"/>
       <outline type="rss" text="AdRoll" title="AdRoll" xmlUrl="http://tech.adroll.com/feed.xml" htmlUrl="http://tech.adroll.com/blog/"/>
       <outline type="rss" text="Advanced Web Machinery" title="Advanced Web Machinery" xmlUrl="https://advancedweb.hu/atom.xml" htmlUrl="https://advancedweb.hu/"/>
+      <outline type="rss" text="Agoda" title="Agoda" xmlUrl="https://medium.com/feed/agoda-engineering" htmlUrl="https://medium.com/agoda-engineering"/>
       <outline type="rss" text="Airbnb" title="Airbnb" xmlUrl="https://medium.com/feed/airbnb-engineering" htmlUrl="https://medium.com/airbnb-engineering"/>
       <outline type="rss" text="Algolia" title="Algolia" xmlUrl="https://blog.algolia.com/feed/" htmlUrl="https://blog.algolia.com/"/>
       <outline type="rss" text="Allegro.tech" title="Allegro.tech" xmlUrl="https://allegro.tech/feed.xml" htmlUrl="https://allegro.tech"/>

@@ -30,6 +30,7 @@
 #### A companies
 * AdRoll http://tech.adroll.com/blog/
 * Advanced Web Machinery https://advancedweb.hu/
+* Agoda https://medium.com/agoda-engineering
 * Airbnb https://medium.com/airbnb-engineering
 * Algolia https://blog.algolia.com/
 * Allegro.tech https://allegro.tech
