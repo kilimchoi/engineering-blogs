@@ -224,6 +224,7 @@
       <outline type="rss" text="Reddit" title="Reddit" xmlUrl="https://www.reddit.com/login/?dest=https%3A%2F%2Fwww.reddit.com%2Fr%2FRedditEng.atom" htmlUrl="https://www.reddit.com/r/RedditEng/"/>
       <outline type="rss" text="Red Hat" title="Red Hat" xmlUrl="https://developers.redhat.com/blog/feed/atom/" htmlUrl="https://developers.redhat.com/blog/"/>
       <outline type="rss" text="Remind" title="Remind" xmlUrl="http://engineering.remind.com/feed.xml" htmlUrl="http://engineering.remind.com/"/>
+      <outline type="rss" text="Remedy Entertainment" title="Remedy Entertainment" xmlUrl="https://www.remedygames.com/northlight" htmlUrl="https://www.remedygames.com/northlight"/>
       <outline type="rss" text="RetailMeNot" title="RetailMeNot" xmlUrl="https://medium.com/feed/retailmenot-engineering" htmlUrl="https://medium.com/retailmenot-engineering/"/>
       <outline type="rss" text="Rightscale" title="Rightscale" xmlUrl="http://eng.rightscale.com/feed.xml" htmlUrl="http://eng.rightscale.com/"/>
       <outline type="rss" text="Riot Games" title="Riot Games" xmlUrl="https://engineering.riotgames.com/rss.xml" htmlUrl="https://engineering.riotgames.com/"/>
