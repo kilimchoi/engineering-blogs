@@ -354,6 +354,7 @@
 * Thumbtack https://www.thumbtack.com/engineering/
 * Timescale https://blog.timescale.com/
 * Tinder https://tech.gotinder.com/
+* TomTom https://engineering.tomtom.com/
 * Toptal https://www.toptal.com/blog/
 * TrackMaven http://engineroom.trackmaven.com/
 * Transferwise http://tech.transferwise.com/
