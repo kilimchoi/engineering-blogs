@@ -184,6 +184,7 @@
       <outline type="rss" text="Medium" title="Medium" xmlUrl="https://medium.engineering/feed" htmlUrl="https://medium.com/medium-eng"/>
       <outline type="rss" text="MemSQL" title="MemSQL" xmlUrl="http://blog.memsql.com/feed/" htmlUrl="http://blog.memsql.com/content/engineering/"/>
       <outline type="rss" text="Mesosphere" title="Mesosphere" xmlUrl="https://mesosphere.com/feed/" htmlUrl="https://mesosphere.com/blog/"/>
+      <outline type="rss" text="MeteorOps" title="MeteorOps" xmlUrl="https://meteorops.com/blog/rss.xml" htmlUrl="https://meteorops.com/blog/"/>
       <outline type="rss" text="Microsoft Python Engineering" title="Microsoft Python Engineering" xmlUrl="http://blogs.msdn.microsoft.com/pythonengineering/feed/" htmlUrl="https://blogs.msdn.microsoft.com/pythonengineering/"/>
       <outline type="rss" text="Mixmax" title="Mixmax" xmlUrl="https://engineering.mixmax.com/rss/" htmlUrl="https://engineering.mixmax.com/"/>
       <outline type="rss" text="Mixpanel" title="Mixpanel" xmlUrl="https://engineering.mixpanel.com/feed/" htmlUrl="https://code.mixpanel.com/"/>

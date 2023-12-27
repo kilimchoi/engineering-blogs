@@ -235,6 +235,7 @@
 * Medium https://medium.com/medium-eng
 * MemSQL http://blog.memsql.com/content/engineering/
 * Mesosphere https://mesosphere.com/blog/
+* MeteorOps https://meteorops.com/blog/
 * Microsoft Python Engineering https://blogs.msdn.microsoft.com/pythonengineering/
 * Mixmax https://engineering.mixmax.com/
 * Mixpanel https://code.mixpanel.com/
