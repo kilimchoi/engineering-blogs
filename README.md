@@ -567,6 +567,7 @@
 * Jonas Plum https://blog.cugu.eu/
 * Jonathan Dekhtiar http://www.born2data.com/
 * Jonathan Snook https://snook.ca/
+* Jordan Cutler (High Growth Engineer) https://careercutler.substack.com/
 * Josh Haberman http://blog.reverberate.org/
 * Josh Sherman https://joshtronic.com/
 * Juan Treminio https://jtreminio.com
