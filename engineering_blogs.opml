@@ -204,7 +204,7 @@
       <outline type="rss" text="OpenDNS" title="OpenDNS" xmlUrl="https://umbrella.cisco.com/blog/feed/" htmlUrl="https://engineering.opendns.com/"/>
       <outline type="rss" text="Oursky" title="Oursky" xmlUrl="https://code.oursky.com/feed/" htmlUrl="https://code.oursky.com/"/>
       <outline type="rss" text="Opensooq" title="Opensooq" xmlUrl="http://engineering.opensooq.com/feed/" htmlUrl="http://engineering.opensooq.com/"/>
-      <outline type="rss" text="Palantir" title="Palantir" xmlUrl="https://blog.palantir.com/feed" htmlUrl="https://blog.palantir.com/"/>      
+      <outline type="rss" text="Palantir" title="Palantir" xmlUrl="https://blog.palantir.com/feed/" htmlUrl="https://blog.palantir.com/"/>      
       <outline type="rss" text="Panorama Education" title="Panorama Education" xmlUrl="https://engineering.panoramaed.com/feed/" htmlUrl="http://engineering.panoramaed.com/"/>
       <outline type="rss" text="Paypal" title="Paypal" xmlUrl="https://www.paypal-engineering.com/feed/" htmlUrl="https://www.paypal-engineering.com/"/>
       <outline type="rss" text="PicCollage" title="PicCollage" xmlUrl="https://tech.pic-collage.com/feed" htmlUrl="https://tech.pic-collage.com/"/>
