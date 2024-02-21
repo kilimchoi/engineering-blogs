@@ -621,6 +621,7 @@
 
 #### N individuals
 * Natasha Murashev https://natashatherobot.com
+* Nayuki https://www.nayuki.io/
 * Nelson Elhage https://blog.nelhage.com/
 * Nic Raboy https://www.thepolyglotdeveloper.com/blog/
 * Nick Craver https://nickcraver.com/blog/
