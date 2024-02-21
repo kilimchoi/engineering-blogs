@@ -58,6 +58,7 @@
 * Bigcommerce http://www.bigeng.io/
 * Binary Studio https://binary-studio.com/blog/
 * BitTorrent http://engineering.bittorrent.com/
+* Buddy https://buddy.works/blog
 * BlaBlaCar http://blablatech.com/blog/
 * BlackRock http://rockthecode.io/
 * Blender https://code.blender.org/
