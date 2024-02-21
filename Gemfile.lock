@@ -9,11 +9,14 @@ GEM
     nokogiri (1.13.8)
       mini_portile2 (~> 2.8.0)
       racc (~> 1.4)
+    nokogiri (1.13.8-x64-mingw32)
+      racc (~> 1.4)
     open_uri_redirections (0.2.1)
     racc (1.6.0)
 
 PLATFORMS
   ruby
+  x64-mingw32
 
 DEPENDENCIES
   builder
