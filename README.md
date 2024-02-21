@@ -157,7 +157,7 @@
 * GO-JEK https://blog.gojekengineering.com/
 * Grab http://engineering.grab.com/
 * Grafana https://grafana.com/blog/
-* Grammarly https://tech.grammarly.com/blog/index.html
+* Grammarly https://www.grammarly.com/blog/engineering/
 * Graphcool https://blog.graph.cool/
 * Grofers https://lambda.grofers.com/
 * Grouper http://blog.joingrouper.com/
