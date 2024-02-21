@@ -533,6 +533,7 @@
       <outline type="rss" text="Real Python" title="Real Python" xmlUrl="https://realpython.com/atom.xml" htmlUrl="https://realpython.com/blog/"/>
       <outline type="rss" text="Reginald Braithwaite" title="Reginald Braithwaite" xmlUrl="http://raganwald.com/atom.xml" htmlUrl="http://raganwald.com/#essays"/>
       <outline type="rss" text="Regular Geek" title="Regular Geek" xmlUrl="http://feeds.regulargeek.com/RegularGeek" htmlUrl="http://regulargeek.com/"/>
+      <outline type="rss" text="Replit" title="Replit" xmlUrl="https://blog.replit.com/feed.xml" htmlUrl="https://blog.replit.com/"/>
       <outline type="rss" text="Rob Allen" title="Rob Allen" xmlUrl="https://akrabat.com/feed/" htmlUrl="https://akrabat.com/"/>
       <outline type="rss" text="Robert C. Martin" title="Robert C. Martin" xmlUrl="http://blog.cleancoder.com/atom.xml" htmlUrl="http://blog.cleancoder.com/"/>
       <outline type="rss" text="Robin Ward" title="Robin Ward" xmlUrl="https://eviltrout.com/feed.xml" htmlUrl="https://eviltrout.com/"/>
