@@ -290,6 +290,7 @@
 * Redino http://redino.net/blog/
 * Reddit https://www.reddit.com/r/RedditEng/
 * Red Hat https://developers.redhat.com/blog/
+* Remedy Entertainment https://www.remedygames.com/northlight
 * Remind http://engineering.remind.com/
 * RetailMeNot https://medium.com/retailmenot-engineering/
 * Rightscale http://eng.rightscale.com/
