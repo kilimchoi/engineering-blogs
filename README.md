@@ -392,6 +392,7 @@
 * WebEngage http://engineering.webengage.com/
 * Wemake.services https://medium.com/wemake-services
 * WePay https://wecode.wepay.com/
+* Whatnot https://medium.com/whatnot-engineering
 * Wimdu http://tech.wimdu.com/
 * Wingify http://engineering.wingify.com/
 * Wombat Security Technologies http://development.wombatsecurity.com/
