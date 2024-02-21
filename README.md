@@ -262,6 +262,7 @@
 * Opensooq http://engineering.opensooq.com/
 
 #### P companies
+* Palantir https://blog.palantir.com/
 * Panorama Education http://engineering.panoramaed.com/
 * Paperless Post https://www.paperlesspost.com/blog/teams/tech/
 * Paypal https://www.paypal-engineering.com/
