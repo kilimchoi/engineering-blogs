@@ -63,7 +63,6 @@
 * Blender https://code.blender.org/
 * Blogfoster http://engineering.blogfoster.com/
 * Booking.com https://blog.booking.com/
-* Boxever http://www.boxever.com/blog/
 * Brandwatch http://engineering.brandwatch.com/
 
 #### C companies
