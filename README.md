@@ -42,7 +42,7 @@
 * Auth0 https://auth0.com/blog/
 * Avenue Code http://blog.avenuecode.com/
 * AWS https://aws.amazon.com/blogs/aws/
-* Azavea https://www.azavea.com/blog/category/software-development/
+* Azavea https://www.azavea.com/blog/category/software-engineering/
 
 #### B companies
 * Babbel https://bytes.babbel.com/en/
