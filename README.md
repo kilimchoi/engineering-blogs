@@ -396,6 +396,7 @@
 * Wingify http://engineering.wingify.com/
 * Wombat Security Technologies http://development.wombatsecurity.com/
 * Wonga Technology http://tech.wonga.com/
+* Wonolo https://engineeringblog.wonolo.com/
 * WyeWorks https://wyeworks.com/blog/
 
 #### X companies
