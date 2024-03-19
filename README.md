@@ -298,6 +298,7 @@
 * Robert Elder Software http://blog.robertelder.org/
 * RoseHosting https://www.rosehosting.com/blog/
 * Runtastic https://www.runtastic.com/blog/en/category/tech/
+* Razorpay https://engineering.razorpay.com/
 
 #### S companies
 * Salesforce https://developer.salesforce.com/blogs/engineering/
@@ -371,6 +372,7 @@
 * Universe https://engineering.universe.com
 * Upday https://upday.github.io/
 * UpGrad https://engineering.upgrad.com
+* Unacademy https://tech.unacademy.com
 
 #### V companies
 * Vena Solutions https://engineering.vena.io/
