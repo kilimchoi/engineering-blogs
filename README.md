@@ -99,6 +99,7 @@
 #### D companies
 * Data Artisans https://data-artisans.com/blog/
 * Databricks https://databricks.com/blog
+* Datadog https://www.datadoghq.com/blog/engineering/
 * DataFox http://eng.datafox.co/
 * Deezer https://deezer.io/
 * Deliveroo https://deliveroo.engineering/
