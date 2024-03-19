@@ -54,7 +54,7 @@
 * Bazaarvoice https://blog.developer.bazaarvoice.com/
 * BBC https://medium.com/bbc-design-engineering/
 * Benchling https://benchling.engineering/
-* BenefitFocus https://www.benefitfocus.com/blogs/design-engineering
+* BenefitFocus https://resources.benefitfocus.com/blog
 * Bigcommerce http://www.bigeng.io/
 * Binary Studio https://binary-studio.com/blog/
 * BitTorrent http://engineering.bittorrent.com/
@@ -113,8 +113,7 @@
 #### E companies
 * Ebay https://www.ebayinc.com/stories/blogs/tech/
 * eFounders https://medium.com/unexpected-token
-* Eharmony http://www.eharmony.com/engineering/
-* Elastic https://www.elastic.co/blog/category/engineering
+* Elastic https://www.elastic.co/blog/
 * Engine Yard https://blog.engineyard.com/
 * Entelo https://sourcecode.entelo.com/
 * Envato https://webuild.envato.com/
@@ -188,7 +187,7 @@
 
 #### I companies
 * IBM developerWorks https://developer.ibm.com/dwblog/
-* IFTTT http://engineering.ifttt.com/
+* IFTTT https://ifttt.com/blog
 * IMVU https://engineering.imvu.com/
 * Imaginea https://blog.imaginea.com/
 * Imgur https://blog.imgur.com/category/eng/
@@ -224,6 +223,7 @@
 * LiveChat https://developers.livechatinc.com/blog/
 * LiveRamp https://liveramp.com/engineering/
 * Localytics http://eng.localytics.com/
+* Logit.io https://logit.io/blog
 * Lyft https://eng.lyft.com/
 
 #### M companies
@@ -304,7 +304,6 @@
 * Schibsted Tech Polska http://www.schibsted.pl/blog/
 * Scrapinghub https://blog.scrapinghub.com/
 * Scrunch https://tech.scrunch.com/blog/
-* Secret Escapes http://tech.secretescapes.com/
 * Segment https://segment.com/blog/categories/engineering/
 * Semantics3 https://engineering.semantics3.com
 * Semaphore CI Community https://semaphoreci.com/community
@@ -384,15 +383,12 @@
 * VTS https://buildingvts.com/
 
 #### W companies
-* WalmartLabs https://medium.com/walmartlabs/
 * Wattpad http://engineering.wattpad.com/
-* Wayfair http://engineering.wayfair.com/
 * Wealthfront http://eng.wealthfront.com/
 * We Are Wizards https://blog.wearewizards.io/
 * WebEngage http://engineering.webengage.com/
 * Wemake.services https://medium.com/wemake-services
 * WePay https://wecode.wepay.com/
-* Wimdu http://tech.wimdu.com/
 * Wingify http://engineering.wingify.com/
 * Wombat Security Technologies http://development.wombatsecurity.com/
 * Wonga Technology http://tech.wonga.com/
@@ -464,7 +460,6 @@
 * Carlos Becker https://carlosbecker.com
 * Chen Hui Jing https://www.chenhuijing.com/blog/
 * Chien Tran http://thelazylog.com/
-* Chris Hager https://www.metachris.com/blog/
 * Chris Wellons http://nullprogram.com/
 * Clay McLeod http://blog.claymcleod.io/
 * Code with style! https://codewithstyle.info/
@@ -580,7 +575,6 @@
 * K. Harrison https://useyourloaf.com/
 * Kai Hendry https://hendry.iki.fi/
 * Kevin Burke https://kev.inburke.com/
-* Kirill Shevchenko https://medium.com/@kirill_shevch
 * Kyle Kingsbury https://aphyr.com/
 
 #### L individuals
@@ -690,7 +684,6 @@
 * Stephen Colebourne http://blog.joda.org/
 * Steve Bellovin https://www.cs.columbia.edu/~smb/blog/control/
 * Steve Yegge https://steve-yegge.blogspot.com/
-* Sudhagar http://sudhagar.com/
 * Swizec Teller https://swizec.com/blog/
 
 #### T individuals
