@@ -59,7 +59,7 @@
 * Binary Studio https://binary-studio.com/blog/
 * BitTorrent http://engineering.bittorrent.com/
 * BlaBlaCar http://blablatech.com/blog/
-* BlackRock http://rockthecode.io/
+* BlackRock https://medium.com/blackrock-engineering
 * Blender https://code.blender.org/
 * Blogfoster http://engineering.blogfoster.com/
 * Booking.com https://blog.booking.com/
