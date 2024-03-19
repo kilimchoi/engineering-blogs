@@ -74,6 +74,7 @@
 * Chaps https://blog.chaps.io/
 * Chartbeat http://engineering.chartbeat.com/
 * Chef https://blog.chef.io
+* Cisco https://techblog.cisco.com
 * Clever https://engineering.clever.com/
 * CloudBees https://www.previous.cloudbees.com/blog
 * Cloudera https://blog.cloudera.com/
