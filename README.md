@@ -442,6 +442,7 @@
 * Ariejan de Vroom https://ariejan.net/
 * Ariya Hidayat https://ariya.io/
 * Armin Ronacher http://lucumr.pocoo.org/
+* Avi Parshan https://cs.aviparshan.com/blog.html
 * Axel Rauschmayer http://www.2ality.com/
 
 #### B individuals
