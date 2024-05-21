@@ -71,7 +71,6 @@
 * Capgemini https://capgemini.github.io/
 * CenturyLink https://www.ctl.io/developers/blog
 * Cerner http://engineering.cerner.com/
-* Chaps https://blog.chaps.io/
 * Chartbeat http://engineering.chartbeat.com/
 * Chef https://blog.chef.io
 * Clever https://engineering.clever.com/
