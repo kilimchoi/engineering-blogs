@@ -208,6 +208,7 @@
 * Just Eat https://tech.just-eat.com/
 
 #### K companies
+* Keploy https://keploy.io/blog/technology
 * Khan Academy http://engineering.khanacademy.org
 * Kickstarter https://www.kickstarter.com/backing-and-hacking
 * King https://techblog.king.com/
