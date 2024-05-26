@@ -432,6 +432,7 @@
 * Addy Osmani https://addyosmani.com/blog/
 * Alan Storm http://alanstorm.com/
 * Alex Russell https://infrequently.org/
+* Ali Tavallaie https://blog.techbend.io/
 * Amit Merchant https://www.amitmerchant.com/
 * Anders Aarvik http://aarvik.dk/
 * Andreas Schuster https://computer.forensikblog.de/en/
