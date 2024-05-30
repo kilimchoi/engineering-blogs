@@ -414,6 +414,7 @@
 * Zendesk https://medium.com/zendesk-engineering
 * Zendesk(old) https://developer.zendesk.com/blog
 * Zenefits https://engineering.zenefits.com/posts/
+* Zerodha https://zerodha.tech/
 * Zillow https://www.zillow.com/engineering/
 * Zomato https://engineering.zomato.com/
 * Zoosk https://about.zoosk.com/en/engineering-blog/
