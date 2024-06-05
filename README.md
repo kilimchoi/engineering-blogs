@@ -598,6 +598,7 @@
 * React Native http://facebook.github.io/react-native/blog/
 * Red http://www.red-lang.org
 * RocksDB http://rocksdb.org/blog
+* Roda https://roda.jeremyevans.net/
 * Rust https://blog.rust-lang.org/
 
 #### S technologies
