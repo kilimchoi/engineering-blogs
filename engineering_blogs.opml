@@ -136,6 +136,7 @@
       <outline type="rss" text="Panorama Education" title="Panorama Education" xmlUrl="https://medium.com/feed/building-panorama-education" htmlUrl="http://engineering.panoramaed.com/"/>
       <outline type="rss" text="Paypal" title="Paypal" xmlUrl="https://medium.com/feed/paypal-tech" htmlUrl="https://www.paypal-engineering.com/"/>
       <outline type="rss" text="PicCollage" title="PicCollage" xmlUrl="https://tech.pic-collage.com/feed" htmlUrl="https://tech.pic-collage.com/"/>
+      <outline type="rss" text="Picnic Technologies" title="Picnic Technologies" xmlUrl="https://blog.picnic.nl/feed" htmlUrl="https://blog.picnic.nl/"/>
       <outline type="rss" text="Pinterest" title="Pinterest" xmlUrl="https://medium.com/feed/@Pinterest_Engineering" htmlUrl="https://medium.com/@Pinterest_Engineering"/>
       <outline type="rss" text="Postman" title="Postman" xmlUrl="https://medium.com/feed/better-practices" htmlUrl="https://medium.com/better-practices"/>
       <outline type="rss" text="Postmark" title="Postmark" xmlUrl="https://postmarkapp.com/blog/feed.atom" htmlUrl="https://postmarkapp.com/blog"/>
