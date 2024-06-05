@@ -569,6 +569,7 @@
 
 #### B technologies
 * Bootstrap.com https://blog.getbootstrap.com/
+* Bridgetown https://www.bridgetownrb.com/
 
 #### C technologies
 * Crystal https://crystal-lang.org/
