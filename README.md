@@ -134,6 +134,7 @@
 * Hostinger https://www.hostinger.com/blog/engineering/
 * Housing.com https://medium.com/engineering-housing
 * HubSpot http://product.hubspot.com/blog/topic/engineering
+* Hyperswitch https://hyperswitch.io/blog
 
 #### I companies
 * IBM developerWorks https://developer.ibm.com/dwblog/
