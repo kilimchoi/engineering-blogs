@@ -160,6 +160,7 @@
 * LinkedIn https://engineering.linkedin.com/blog
 * LiveRamp https://liveramp.com/engineering/
 * Localytics http://eng.localytics.com/
+* LogRocket https://blog.logrocket.com/
 * Lyft https://eng.lyft.com/
 
 #### M companies
