@@ -32,6 +32,7 @@
 * Airbnb https://medium.com/airbnb-engineering
 * Algolia https://blog.algolia.com/
 * Appnexus https://techblog.appnexus.com/
+* Argonaut https://www.argonaut.dev/blog
 * Arkency http://blog.arkency.com/
 * Artsy http://artsy.github.io/
 * Asana https://blog.asana.com/category/eng/
