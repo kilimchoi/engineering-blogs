@@ -110,6 +110,7 @@
       <outline type="rss" text="LINE" title="LINE" xmlUrl="https://engineering.linecorp.com/en/blog" htmlUrl="https://engineering.linecorp.com/en/blog"/>
       <outline type="rss" text="LiveRamp" title="LiveRamp" xmlUrl="https://liveramp.com/wp-json/wp/v2/pages/1041448" htmlUrl="https://liveramp.com/engineering/"/>
       <outline type="rss" text="Localytics" title="Localytics" xmlUrl="https://eng.localytics.com/rss/" htmlUrl="http://eng.localytics.com/"/>
+      <outline type="rss" text="LoginRadius" title="LoginRadius" xmlUrl="https://www.loginradius.com/engineering/rss.xml" htmlUrl="https://www.loginradius.com/engineering/"/>
       <outline type="rss" text="Lyft" title="Lyft" xmlUrl="https://eng.lyft.com/feed" htmlUrl="https://eng.lyft.com/"/>
       <outline type="rss" text="Made Tech" title="Made Tech" xmlUrl="https://www.madetech.com/feed/podcast/" htmlUrl="https://www.madetech.com/blog"/>
       <outline type="rss" text="MapTiler" title="MapTiler" xmlUrl="https://www.maptiler.com/news/feed/posts.xml" htmlUrl="https://www.maptiler.com/blog/"/>
