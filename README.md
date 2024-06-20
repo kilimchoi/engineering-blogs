@@ -445,6 +445,7 @@
 * Lerner Consulting Blog http://blog.lerner.co.il/
 * Life Plus Linux http://lifepluslinux.blogspot.in/
 * LiveOverflow https://liveoverflow.com/blog/index.html
+* Luca Guidi https://lucaguidi.com/
 * Luciano Mammino https://loige.co/
 
 #### M individuals
