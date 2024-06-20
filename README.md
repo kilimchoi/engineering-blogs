@@ -354,6 +354,7 @@
 * Dragan Djuric http://dragan.rocks
 * Dragan Gaic http://www.gajotres.net/
 * Drew DeVault https://drewdevault.com/
+* Deya Elkhawaldeh https://swiftbydeya.com/
 
 #### E individuals
 * Edan Kwan http://blog.edankwan.com/
