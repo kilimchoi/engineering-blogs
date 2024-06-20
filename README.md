@@ -93,6 +93,7 @@
 * Eventbrite https://www.eventbrite.com/engineering/
 * Evil Martians https://evilmartians.com/chronicles/
 * Expedia https://medium.com/expedia-group-tech
+* Exponent https://blog.tryexponent.com
 
 #### F companies
 * Facebook https://code.facebook.com/posts/
