@@ -178,6 +178,7 @@
 * Netflix https://medium.com/netflix-techblog
 * New York Times https://open.blogs.nytimes.com
 * Nextdoor https://engblog.nextdoor.com/
+* Notion https://www.notion.so/blog/topic/tech
 * Nordic APIs https://nordicapis.com/blog/
 * Novoda https://www.novoda.com/blog/
 * NPR Apps http://blog.apps.npr.org/
