@@ -83,7 +83,7 @@
 * Dropbox https://blogs.dropbox.com/tech/
 
 #### E companies
-* Ebay https://www.ebayinc.com/stories/blogs/tech/
+* Ebay https://tech.ebayinc.com/rss
 * eFounders https://medium.com/unexpected-token
 * Engine Yard https://blog.engineyard.com/
 * Entelo https://sourcecode.entelo.com/
