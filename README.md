@@ -587,6 +587,7 @@
 
 #### L technologies
 * Laravel https://laravel-news.com/blog/
+* Loggly https://www.loggly.com/blog/
 
 #### M technologies
 * Microsoft Edge https://blogs.windows.com/msedgedev/
