@@ -462,6 +462,7 @@
 * Matthew Green https://blog.cryptographyengineering.com/
 * Michael Crump https://michaelcrump.net/
 * Michael Herman http://mherman.org/
+* Michael Hoffmann https://mokkapps.de/blog/
 * Miguel Quinones https://www.miqu.me/
 * Mike Ash https://www.mikeash.com/pyblog/
 * Mike Fogus http://blog.fogus.me/
