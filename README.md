@@ -236,7 +236,7 @@
 * Soundcloud https://developers.soundcloud.com/blog/
 * SourceClear https://blog.sourceclear.com/
 * Speedledger http://engineering.speedledger.com/
-* Spotify https://labs.spotify.com/
+* Spotify https://engineering.atspotify.com
 * Sqreen https://blog.sqreen.io/
 * Square https://corner.squareup.com/
 * Squarespace https://engineering.squarespace.com/
