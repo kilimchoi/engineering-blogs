@@ -73,8 +73,12 @@ matches.each do |match|
     rss_check_url = "https://cloud.feedly.com/v3/search/feeds/?query=#{web_url}"
     next if !rss_check_url
     uri = URI.parse(rss_check_url)
-    response = JSON.parse(Net::HTTP.get(uri))
-    rss_url = response['responseData']['url'] if response['responseData'] && response['responseData'].has_key?('url')
+    begin
+        response = JSON.parse(Net::HTTP.get(uri))
+        rss_url = response['responseData']['url'] if response['responseData'] && response['responseData'].has_key?('url')
+    rescue Exception => e
+        puts "#{name}: RSS feed not found from Google Feeds Api. Using Feedbag instead"
+    end
 
     # use Feedbag as a backup to Feedly Api
     if rss_url.nil?
