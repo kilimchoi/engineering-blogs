@@ -460,6 +460,7 @@
 * Matt Might http://matt.might.net/articles/
 * Matt Warren http://mattwarren.org/
 * Matthew Green https://blog.cryptographyengineering.com/
+* Maxim Zhukov http://fsou1.github.io/
 * Michael Crump https://michaelcrump.net/
 * Michael Herman http://mherman.org/
 * Miguel Quinones https://www.miqu.me/
