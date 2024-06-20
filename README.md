@@ -242,6 +242,7 @@
 * Squarespace https://engineering.squarespace.com/
 * Stack Overflow https://stackoverflow.blog/engineering/
 * Stackshare https://stackshare.io/feed
+* StarRocks https://medium.com/@starrocks
 * Stitch Fix http://multithreaded.stitchfix.com/blog/
 * Strava https://medium.com/strava-engineering/
 * Stripe https://stripe.com/blog
