@@ -69,6 +69,7 @@
 * Credit Karma https://engineering.creditkarma.com/
 * Criteo https://medium.com/criteo-labs
 * Crowdfire https://crowdfire.engineering/
+* Crypto.com https://blog.crypto.com/
 * CSC - IT Center For Science - Cloud Team https://cloud.blog.csc.fi/
 * Curalate http://engineering.curalate.com/
 
