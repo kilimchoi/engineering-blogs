@@ -232,6 +232,7 @@
 * Slack https://slack.engineering/
 * SlideShare https://engineering.linkedin.com/blog/topic/slideshare
 * Small Improvements https://tech.small-improvements.com/
+* Snapchat https://eng.snap.com/blog
 * Soshace https://blog.soshace.com/en/
 * Soundcloud https://developers.soundcloud.com/blog/
 * SourceClear https://blog.sourceclear.com/
