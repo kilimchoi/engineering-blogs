@@ -423,6 +423,7 @@
       <outline type="rss" text=".NET" title=".NET" xmlUrl="https://devblogs.microsoft.com/dotnet/feed/" htmlUrl="https://blogs.msdn.microsoft.com/dotnet/"/>
       <outline type="rss" text="React Native" title="React Native" xmlUrl="http://facebook.github.io/blog/rss.xml" htmlUrl="http://facebook.github.io/react-native/blog/"/>
       <outline type="rss" text="Red" title="Red" xmlUrl="https://www.red-lang.org/feeds/posts/default" htmlUrl="http://www.red-lang.org"/>
+      <outline type="rss" text="Redis" title="Redis" xmlUrl="https://redis.io/blog/rss" htmlUrl="https://redis.io/blog/"/>
       <outline type="rss" text="RocksDB" title="RocksDB" xmlUrl="http://rocksdb.org/feed.xml" htmlUrl="http://rocksdb.org/blog"/>
       <outline type="rss" text="Rust" title="Rust" xmlUrl="https://blog.rust-lang.org/feed.xml" htmlUrl="https://blog.rust-lang.org/"/>
       <outline type="rss" text="Sketch" title="Sketch" xmlUrl="https://blog.sketchapp.com/blog/feed.xml" htmlUrl="https://blog.sketchapp.com/"/>

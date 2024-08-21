@@ -597,6 +597,7 @@
 #### R technologies
 * React Native http://facebook.github.io/react-native/blog/
 * Red http://www.red-lang.org
+* Redis https://redis.io/blog/
 * RocksDB http://rocksdb.org/blog
 * Rust https://blog.rust-lang.org/
 
