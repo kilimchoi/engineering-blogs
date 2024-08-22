@@ -370,6 +370,7 @@
 * Evan Miller http://www.evanmiller.org/
 
 #### F individuals
+* Fabri Di Napoli https://fabridinapoli.com/
 * Federico Cargnelutti https://blog.fedecarg.com/
 * Federico Tomassetti https://tomassetti.me/
 * Filippo Valsorda https://blog.filippo.io/
