@@ -55,7 +55,7 @@
 * Brandwatch http://engineering.brandwatch.com/
 
 #### C companies
-* Canva https://engineering.canva.com
+* Canva https://canva.dev/blog/engineering/
 * Capgemini https://capgemini.github.io/
 * Cerner http://engineering.cerner.com/
 * Clever https://engineering.clever.com/
