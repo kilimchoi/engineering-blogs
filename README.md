@@ -536,6 +536,7 @@
 #### T individuals
 * Tania Rascia https://tania.dev/
 * The Coded Self http://www.thecodedself.com
+* The Coder Cafe https://thecoder.cafe
 * The Daily WTF http://thedailywtf.com/
 * Thomas Young http://upcoder.com
 * Tikhon Jelvis http://jelv.is/blog/
