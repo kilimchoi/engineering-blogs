@@ -108,7 +108,7 @@
 * Galois https://galois.com/blog/
 * GameChanger http://tech.gc.com/
 * GIPHY https://engineering.giphy.com/
-* GitHub https://githubengineering.com/
+* GitHub https://github.blog/engineering/
 * GitHub Old https://github.com/blog/category/engineering
 * GoCardless https://gocardless.com/blog/tagged/engineering/
 * GoDaddy https://godaddy.github.io/engineering/
