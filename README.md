@@ -161,6 +161,7 @@
 * LiveRamp https://liveramp.com/engineering/
 * Localytics http://eng.localytics.com/
 * Lyft https://eng.lyft.com/
+* LaunchFast https://www.launchfa.st/blog
 
 #### M companies
 * Made Tech https://www.madetech.com/blog
