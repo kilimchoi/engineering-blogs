@@ -270,6 +270,7 @@
 
 #### V companies
 * Vena Solutions https://engineering.vena.io/
+* Vercel https://vercel.com/blog/category/engineering
 * VersionEye https://blog.versioneye.com/
 * Viget https://www.viget.com/articles/category/code#articles
 * Vinted http://engineering.vinted.com/
