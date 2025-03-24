@@ -2,7 +2,7 @@ import csv
 
 markdown = "# Engineering Blogs\n\n"
 
-with open("src/blog_info_tmp.csv", "r") as infile:
+with open("blog_info.csv", "r") as infile:
     csv_reader = csv.reader(infile)
     i = 0
     for row in csv_reader:
@@ -16,6 +16,6 @@ with open("src/blog_info_tmp.csv", "r") as infile:
         markdown += f"{markdown_table}\n"
         i += 1
 
-with open("src/test.md", "w") as outfile:
+with open("README.md", "w") as outfile:
     outfile.write(markdown)
         
