@@ -1,25 +1,29 @@
 # WorkFlow Name
 name: Query blog info and get new markdown
 
-# Events upon which Github WorkFlow gets triggered
-on: [push, pull_request]
+on: 
+  pull_request:
+    branches: [main]  # Runs on pull requests to the main branch
+  schedule:
+    - cron: '0 5 * * 0' #every Sunday at 5 am
 
 # Create jobs
 jobs:
   query:
-    name: Generate engineering_blogs.opml
+    name: Query blog info 
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v2
 
-      - name: Python Setup
-        uses: ruby/setup-ruby@v1
+      - name: setup python
+        uses: actions/setup-python@v4
         with:
-          ruby-version: '2.7'
-
-      - name: Install python package
+          python-version: '3.11'
+          
+      - name: install python packages
         run: |
+          python -m pip install --upgrade pip
           pip install -r requirements.txt
 
       - name: Run blog info querying script
@@ -28,5 +32,23 @@ jobs:
       
   generate:
     needs: query
+    name: Generate updated markdown 
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v2
 
+      - name: setup python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+          
+      - name: install python packages
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run blog info querying script
+        run: |
+          python to_markdown.py
 
