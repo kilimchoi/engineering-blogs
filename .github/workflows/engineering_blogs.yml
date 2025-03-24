@@ -1,33 +1,32 @@
 # WorkFlow Name
-name: Generate engineering_blogs.opml file
+name: Query blog info and get new markdown
 
 # Events upon which Github WorkFlow gets triggered
 on: [push, pull_request]
 
 # Create jobs
 jobs:
-  generate:
+  query:
     name: Generate engineering_blogs.opml
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v2
 
-      - name: Ruby Setup
+      - name: Python Setup
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '2.7'
 
-      - name: Install pkgs
+      - name: Install python package
         run: |
-          bundle install --jobs 4
+          pip install -r requirements.txt
 
-      - name: Generate opml file using ruby
+      - name: Run blog info querying script
         run: |
-          ruby generate_opml.rb
+          python blog_info.py
+      
+  generate:
+    needs: query
 
-      - name: Auto-Commit engineering_blogs file if updated
-        uses: stefanzweifel/git-auto-commit-action@v4.1.5
-        with:
-          commit_message: Commit by Github WorkFlow
-          file_pattern: engineering_blogs.opml
+

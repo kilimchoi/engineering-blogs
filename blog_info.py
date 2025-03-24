@@ -22,6 +22,7 @@ with open("blog_info.csv", "r", newline = "", encoding = "utf-8") as infile, \
                     new_row = row + [rss_feed[0], ":x:"]
             else:
                 new_row = row + [":grey_question:", ":grey_question:"]
+            print(new_row)
             csv_writer.writerow(new_row)
         else:
             i += 1
