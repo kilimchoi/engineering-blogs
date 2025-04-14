@@ -291,7 +291,7 @@
 * Yammer https://medium.com/yammer-engineering
 
 #### Z companies
-* Zalando https://tech.zalando.com/blog/
+* Zalando https://jobs.zalando.com/en/blog
 * Zapier https://zapier.com/engineering/
 * Zendesk https://medium.com/zendesk-engineering
 * Zendesk(old) https://developer.zendesk.com/blog
