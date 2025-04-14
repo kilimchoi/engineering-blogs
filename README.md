@@ -59,6 +59,7 @@
 * Capgemini https://capgemini.github.io/
 * Cerner http://engineering.cerner.com/
 * Clever https://engineering.clever.com/
+* Clever cloud https://www.clever-cloud.com/blog/
 * Cloudera https://blog.cloudera.com/
 * Cloudflare https://blog.cloudflare.com/
 * Codelitt https://www.codelitt.com/blog/
@@ -156,6 +157,7 @@
 * Kolosek https://kolosek.com/blog/
 
 #### L companies
+* Le bon coin https://medium.com/leboncoin-tech-blog
 * LINE https://engineering.linecorp.com/en/blog
 * LinkedIn https://engineering.linkedin.com/blog
 * LiveRamp https://liveramp.com/engineering/
