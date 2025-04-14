@@ -156,6 +156,7 @@
 * Kolosek https://kolosek.com/blog/
 
 #### L companies
+* Le bon coin https://medium.com/leboncoin-tech-blog
 * LINE https://engineering.linecorp.com/en/blog
 * LinkedIn https://engineering.linkedin.com/blog
 * LiveRamp https://liveramp.com/engineering/
