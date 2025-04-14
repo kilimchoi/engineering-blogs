@@ -190,6 +190,7 @@
 * OmniTI https://omniti.com/seeds/stop-collaborate-and-listen-notify
 * OpenDNS https://engineering.opendns.com/
 * Oursky https://code.oursky.com/
+* OVH https://blog.ovhcloud.com/
 
 #### P companies
 * Palantir https://blog.palantir.com/
