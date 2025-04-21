@@ -281,6 +281,7 @@
 * Wealthfront http://eng.wealthfront.com/
 * Wemake.services https://medium.com/wemake-services
 * Wingify http://engineering.wingify.com/
+* Workday https://medium.com/workday-engineering
 * WyeWorks https://wyeworks.com/blog/
 
 #### X companies
