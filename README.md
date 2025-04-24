@@ -205,6 +205,7 @@
 * Prolific Interactive http://blog.prolificinteractive.com/category/development/
 * PubNub: https://www.pubnub.com/blog/
 * PullReview http://blog.8thcolor.com/
+* Pulumi https://www.pulumi.com/blog/
 
 #### Q companies
 * Quora https://engineering.quora.com/
