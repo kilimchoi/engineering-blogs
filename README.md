@@ -468,6 +468,7 @@
 * Miro Cupak https://mirocupak.com/
 * Monica Dinculescu https://meowni.ca/
 * Monstermuffin https://blog.monstermuffin.org/
+* Muhtasim Tanmoy https://github.com/MuhtasimTanmoy/notebook
 * Mykhailo Kozik http://mishadoff.com/
 
 #### N individuals
