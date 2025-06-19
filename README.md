@@ -333,6 +333,7 @@
 * Carlos Becker https://carlosbecker.com
 * Chen Hui Jing https://www.chenhuijing.com/blog/
 * Chien Tran http://thelazylog.com/
+* Chip Huyen https://huyenchip.com/blog/
 * Chris Wellons http://nullprogram.com/
 * Code with style! https://codewithstyle.info/
 * Codrops https://tympanus.net/codrops/
