@@ -140,6 +140,7 @@
 * IMVU https://engineering.imvu.com/
 * Imgur https://blog.imgur.com/category/eng/
 * Indeed http://engineering.indeedblog.com/blog/
+* Intuit https://medium.com/intuit-engineering/
 * Instacart https://tech.instacart.com/
 * Instagram https://engineering.instagram.com/
 
