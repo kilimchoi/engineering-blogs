@@ -538,6 +538,7 @@
 * The Coded Self http://www.thecodedself.com
 * The Daily WTF http://thedailywtf.com/
 * Thomas Young http://upcoder.com
+* Tian Pan on Startup Engineering https://tianpan.co/
 * Tikhon Jelvis http://jelv.is/blog/
 * T.J. Maher http://adventuresinautomation.blogspot.com/
 
