@@ -102,6 +102,7 @@
 * Finn.no http://tech.finn.no/
 * Flickr http://code.flickr.net/
 * Freeletics https://freeletics.engineering/
+* Freshworks https://medium.com/freshworks-engineering-blog
 * Fynd http://gofynd.io/blog
 
 #### G companies
