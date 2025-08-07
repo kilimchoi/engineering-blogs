@@ -156,6 +156,7 @@
 * Kolosek https://kolosek.com/blog/
 
 #### L companies
+* LabEx https://labexio.medium.com/
 * LINE https://engineering.linecorp.com/en/blog
 * LinkedIn https://engineering.linkedin.com/blog
 * LiveRamp https://liveramp.com/engineering/
