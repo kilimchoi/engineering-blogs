@@ -615,8 +615,9 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 # Subscriptions
 
-Feel free to subscribe to the feeds with https://onesearch.blog (work in progress to add all the feeds).
+Subscribe to these feeds via [OneSearch](https://onesearch.blog). (The index is being expanded to include all feeds.)
+Feel free to contribute the public repo for this project - https://github.com/rabbit0021/onesearch.git
 
 # License
 
-Licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+Licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
