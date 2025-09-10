@@ -453,6 +453,7 @@
 * Marco Pivetta http://ocramius.github.io/
 * Marek Majkowski https://idea.popcount.org/
 * Mark Seaborn http://lackingrhoticity.blogspot.de/
+* Marko Denic http://markodenic.com/blog/
 * Martin Fowler https://martinfowler.com/
 * Mary Rose Cook https://maryrosecook.com/blog/
 * Matt Aimonetti https://matt.aimonetti.net/
