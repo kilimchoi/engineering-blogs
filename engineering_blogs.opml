@@ -32,6 +32,7 @@
       <outline type="rss" text="Capgemini" title="Capgemini" xmlUrl="https://capgemini.github.io/feed.xml" htmlUrl="https://capgemini.github.io/"/>
       <outline type="rss" text="Cerner" title="Cerner" xmlUrl="https://engineering.cerner.com/index.xml" htmlUrl="http://engineering.cerner.com/"/>
       <outline type="rss" text="Clever" title="Clever" xmlUrl="https://engineering.clever.com/rss" htmlUrl="https://engineering.clever.com/"/>
+      <outline type="rss" text="ClickHouse" title="ClickHouse" xmlUrl="https://clickhouse.com/rss.xml" htmlUrl="https://clickhouse.com/blog?category=engineering"/>
       <outline type="rss" text="Cloudera" title="Cloudera" xmlUrl="https://blog.cloudera.com/feed/" htmlUrl="https://blog.cloudera.com/"/>
       <outline type="rss" text="Cloudflare" title="Cloudflare" xmlUrl="https://blog.cloudflare.com/rss" htmlUrl="https://blog.cloudflare.com/"/>
       <outline type="rss" text="Codelitt" title="Codelitt" xmlUrl="https://blog.codelitt.com/rss/" htmlUrl="https://www.codelitt.com/blog/"/>
