@@ -112,6 +112,7 @@
 * GitHub Old https://github.com/blog/category/engineering
 * GoCardless https://gocardless.com/blog/tagged/engineering/
 * GoDaddy https://godaddy.github.io/engineering/
+* GoogleCloud https://cloud.google.com/blog
 * GoSquared https://engineering.gosquared.com/
 * Grab http://engineering.grab.com/
 * Graphcool https://blog.graph.cool/
@@ -168,6 +169,7 @@
 * Medallia http://engineering.medallia.com/blog/
 * Medium https://medium.com/medium-eng
 * Mesosphere https://mesosphere.com/blog/
+* Meta https://engineering.fb.com/
 * Microsoft Python Engineering https://blogs.msdn.microsoft.com/pythonengineering/
 * Moove-it https://blog.moove-it.com/
 * Mozilla Automation Team https://planet.mozilla.org/ateam/
@@ -265,6 +267,7 @@
 * Twilio https://www.twilio.com/blog/
 
 #### U companies
+* Uber https://www.uber.com/en-IN/blog/engineering/
 * Universe https://engineering.universe.com
 * UpGrad https://engineering.upgrad.com
 
