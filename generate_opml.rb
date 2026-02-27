@@ -38,6 +38,7 @@ fast_forwards = [
   'Dave Beazley',
   'Edan Kwan',
   'Grzegorz Gajos',
+  'Eduards Sizovs',
   'Joe Armstrong',
   'Kai Hendry',
   'LiveOverflow'
