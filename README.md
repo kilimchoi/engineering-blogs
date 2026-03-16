@@ -581,6 +581,7 @@
 
 #### J technologies
 * jOOQ https://blog.jooq.org/
+* JVM Weekly https://www.jvm-weekly.com/
 
 #### K technologies
 * Kotlin https://blog.jetbrains.com/kotlin/

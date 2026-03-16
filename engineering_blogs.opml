@@ -417,6 +417,7 @@
       <outline type="rss" text="Go" title="Go" xmlUrl="https://blog.golang.org/blog/feed.atom" htmlUrl="https://blog.golang.org/"/>
       <outline type="rss" text="IPFS" title="IPFS" xmlUrl="https://blog.ipfs.tech/index.xml" htmlUrl="https://ipfs.io/blog/"/>
       <outline type="rss" text="jOOQ" title="jOOQ" xmlUrl="https://blog.jooq.org/feed/" htmlUrl="https://blog.jooq.org/"/>
+      <outline type="rss" text="JVM Weekly" title="JVM Weekly" xmlUrl="https://jvm-weekly.substack.com/feed" htmlUrl="https://www.jvm-weekly.com/"/>
       <outline type="rss" text="Kotlin" title="Kotlin" xmlUrl="https://blog.jetbrains.com/kotlin/feed/" htmlUrl="https://blog.jetbrains.com/kotlin/"/>
       <outline type="rss" text="Laravel" title="Laravel" xmlUrl="https://feed.laravel-news.com/" htmlUrl="https://laravel-news.com/blog/"/>
       <outline type="rss" text="Microsoft Edge" title="Microsoft Edge" xmlUrl="https://blogs.windows.com/msedgedev/wp-json/wp/v2/pages/24431" htmlUrl="https://blogs.windows.com/msedgedev/"/>
