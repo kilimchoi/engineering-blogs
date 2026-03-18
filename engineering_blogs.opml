@@ -411,6 +411,7 @@
       <outline type="rss" text="Yifan Lu" title="Yifan Lu" xmlUrl="http://yifan.lu/feed.xml" htmlUrl="http://yifan.lu/"/>
       <outline type="rss" text="Zach Holman" title="Zach Holman" xmlUrl="https://zachholman.com/atom.xml" htmlUrl="https://zachholman.com/"/>
       <outline type="rss" text="Zolmeister" title="Zolmeister" xmlUrl="https://zolmeister.com/feeds/posts/default" htmlUrl="https://zolmeister.com/"/>
+      <outline type="rss" text="Zomato" title="Zomato" xmlUrl="https://blog.zomato.com/feed" htmlUrl="https://blog.zomato.com/"/>
       <outline type="rss" text="Android" title="Android" xmlUrl="https://android-developers.googleblog.com/feeds/posts/default" htmlUrl="https://android-developers.blogspot.com/"/>
       <outline type="rss" text="Bootstrap.com" title="Bootstrap.com" xmlUrl="https://blog.getbootstrap.com/feed.xml" htmlUrl="https://blog.getbootstrap.com/"/>
       <outline type="rss" text="Crystal" title="Crystal" xmlUrl="https://crystal-lang.org/feed.xml" htmlUrl="https://crystal-lang.org/"/>

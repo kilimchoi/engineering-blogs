@@ -295,6 +295,7 @@
 * Zapier https://zapier.com/engineering/
 * Zendesk https://medium.com/zendesk-engineering
 * Zendesk(old) https://developer.zendesk.com/blog
+* Zomato https://blog.zomato.com/
 
 ### Individuals/Group Contributors
 
