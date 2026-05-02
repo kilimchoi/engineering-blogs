@@ -524,6 +524,7 @@
 * Schakko https://schakko.de
 * Scott Hanselman http://www.hanselman.com/blog/
 * Scott Johnson http://www.fuzzyblog.io/blog/
+* Silvester Vossen https://up.nl.eu.org/
 * Srinivas Tamada https://www.9lessons.info/
 * Stack Abuse http://www.stackabuse.com/
 * Stanko Tadić https://muffinman.io
