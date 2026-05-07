@@ -198,6 +198,7 @@
 * Paypal https://www.paypal-engineering.com/
 * PicCollage https://tech.pic-collage.com/
 * Pinterest https://medium.com/@Pinterest_Engineering
+* Platform Engineering https://platformengineering.org/blog
 * Pluralsight https://www.pluralsight.com/guides
 * Postman https://medium.com/better-practices
 * Postmark https://postmarkapp.com/blog
@@ -279,6 +280,7 @@
 #### W companies
 * Wayfair http://engineering.wayfair.com/
 * Wealthfront http://eng.wealthfront.com/
+* Weave Intelligence https://weaveintelligence.io/blog
 * Wemake.services https://medium.com/wemake-services
 * Wingify http://engineering.wingify.com/
 * WyeWorks https://wyeworks.com/blog/
