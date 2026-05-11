@@ -303,6 +303,7 @@
 
 #### A individuals
 * Aaron Patterson http://tenderlovemaking.com/
+* Abhishek Gupta https://acethecloud.com
 * Abu Ashraf Masnun http://masnun.com/
 * Addy Osmani https://addyosmani.com/blog/
 * Alan Storm http://alanstorm.com/
