@@ -168,6 +168,7 @@
 * Medallia http://engineering.medallia.com/blog/
 * Medium https://medium.com/medium-eng
 * Mesosphere https://mesosphere.com/blog/
+* Meta Engineering https://engineering.fb.com
 * Microsoft Python Engineering https://blogs.msdn.microsoft.com/pythonengineering/
 * Moove-it https://blog.moove-it.com/
 * Mozilla Automation Team https://planet.mozilla.org/ateam/
@@ -188,6 +189,7 @@
 * Okta https://developer.okta.com/blog/
 * OLX https://tech.olx.com/
 * OmniTI https://omniti.com/seeds/stop-collaborate-and-listen-notify
+* OpenAI https://openai.com/blog/
 * OpenDNS https://engineering.opendns.com/
 * Oursky https://code.oursky.com/
 
