@@ -249,7 +249,6 @@
 * Swiggy https://bytes.swiggy.com/
 
 #### T companies
-* Takipi http://blog.takipi.com/
 * Target https://target.github.io/
 * Teamwork https://engineroom.teamwork.com/
 * theScore http://techblog.thescore.com/
