@@ -81,6 +81,7 @@
 * DoorDash https://doordash.engineering/blog/
 * Drivy https://drivy.engineering/
 * Dropbox https://blogs.dropbox.com/tech/
+* Dialnexa https://dialnexa.com/blogs/
 
 #### E companies
 * Ebay https://www.ebayinc.com/stories/blogs/tech/
