@@ -540,6 +540,7 @@
 * Thomas Young http://upcoder.com
 * Tikhon Jelvis http://jelv.is/blog/
 * T.J. Maher http://adventuresinautomation.blogspot.com/
+* Timoshinoleg's Dev Blog http://timoshinoleg-eng.github.io/blog/feed.xml
 
 #### U individuals
 * Una Kravets https://una.im/
