@@ -456,6 +456,7 @@
 * Martin Fowler https://martinfowler.com/
 * Mary Rose Cook https://maryrosecook.com/blog/
 * Matt Aimonetti https://matt.aimonetti.net/
+* Matt Coles https://coles.codes/
 * Matt Cutts https://www.mattcutts.com/blog/
 * Matt Might http://matt.might.net/articles/
 * Matt Warren http://mattwarren.org/
