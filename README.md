@@ -62,7 +62,7 @@
 * Cloudera https://blog.cloudera.com/
 * Cloudflare https://blog.cloudflare.com/
 * Codelitt https://www.codelitt.com/blog/
-* CodeName One http://www.codenameone.com/blog.html
+* Codename One https://www.codenameone.com/blog/
 * Codeship https://blog.codeship.com/
 * Commercetools https://techblog.commercetools.com/
 * Confluent https://www.confluent.io/blog
