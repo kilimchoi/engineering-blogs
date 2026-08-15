@@ -35,7 +35,7 @@
       <outline type="rss" text="Cloudera" title="Cloudera" xmlUrl="https://blog.cloudera.com/feed/" htmlUrl="https://blog.cloudera.com/"/>
       <outline type="rss" text="Cloudflare" title="Cloudflare" xmlUrl="https://blog.cloudflare.com/rss" htmlUrl="https://blog.cloudflare.com/"/>
       <outline type="rss" text="Codelitt" title="Codelitt" xmlUrl="https://blog.codelitt.com/rss/" htmlUrl="https://www.codelitt.com/blog/"/>
-      <outline type="rss" text="CodeName One" title="CodeName One" xmlUrl="https://www.codenameone.com/feed" htmlUrl="http://www.codenameone.com/blog.html"/>
+      <outline type="rss" text="Codename One" title="Codename One" xmlUrl="https://www.codenameone.com/feed" htmlUrl="https://www.codenameone.com/blog/"/>
       <outline type="rss" text="Codeship" title="Codeship" xmlUrl="https://blog.codeship.com/blog/feed/" htmlUrl="https://blog.codeship.com/"/>
       <outline type="rss" text="Commercetools" title="Commercetools" xmlUrl="https://techblog.commercetools.com/feed" htmlUrl="https://techblog.commercetools.com/"/>
       <outline type="rss" text="Confluent" title="Confluent" xmlUrl="https://www.confluent.io/rss.xml" htmlUrl="https://www.confluent.io/blog"/>
