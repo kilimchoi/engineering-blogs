@@ -339,6 +339,7 @@
 
 #### D individuals
 * Daily JS https://medium.com/dailyjs
+* DevOps Daily https://devops-daily.com/posts
 * Daily Tech Video http://dailytechvideo.com/
 * Dan Luu https://danluu.com/
 * Daniel Doubrovkine (dB.) http://code.dblock.org/
