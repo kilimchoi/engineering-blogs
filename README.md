@@ -339,7 +339,6 @@
 
 #### D individuals
 * Daily JS https://medium.com/dailyjs
-* DevOps Daily https://devops-daily.com/posts
 * Daily Tech Video http://dailytechvideo.com/
 * Dan Luu https://danluu.com/
 * Daniel Doubrovkine (dB.) http://code.dblock.org/
@@ -350,6 +349,7 @@
 * Dean Hume http://deanhume.com/
 * Dennis Felsing https://hookrace.net/
 * Dereuromark http://www.dereuromark.de/
+* DevOps Daily https://devops-daily.com/posts
 * Domenico Luciani https://domenicoluciani.com
 * Dot Dev (.dev) https://dotdev.co
 * Dragan Djuric http://dragan.rocks
