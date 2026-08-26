@@ -349,6 +349,7 @@
 * Dean Hume http://deanhume.com/
 * Dennis Felsing https://hookrace.net/
 * Dereuromark http://www.dereuromark.de/
+* DevOps Daily https://devops-daily.com/posts
 * Domenico Luciani https://domenicoluciani.com
 * Dot Dev (.dev) https://dotdev.co
 * Dragan Djuric http://dragan.rocks
