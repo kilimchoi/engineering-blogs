@@ -78,6 +78,7 @@
 * Deliveroo https://deliveroo.engineering/
 * Discord https://blog.discordapp.com/
 * Docker https://blog.docker.com/
+* Docusign https://www.docusign.com/blog/topics/engineering
 * DoorDash https://doordash.engineering/blog/
 * Drivy https://drivy.engineering/
 * Dropbox https://blogs.dropbox.com/tech/
