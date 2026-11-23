@@ -522,6 +522,7 @@
 #### S individuals
 * Sam Saffron https://samsaffron.com/
 * Schakko https://schakko.de
+* Soursen https://soursen.org/
 * Scott Hanselman http://www.hanselman.com/blog/
 * Scott Johnson http://www.fuzzyblog.io/blog/
 * Srinivas Tamada https://www.9lessons.info/
