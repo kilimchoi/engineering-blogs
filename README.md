@@ -395,6 +395,7 @@
 * Idontgetoutmuch's Weblog https://idontgetoutmuch.wordpress.com/
 * Ievgen Kuzminov http://stdout.in/
 * Ilija Eftimov http://ieftimov.com/
+* Ilja Nevolin https://nevolin.be/blog
 * Ilya Grigorik https://www.igvita.com/
 * Itamar Turner-Trauring https://codewithoutrules.com
 
